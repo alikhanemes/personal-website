@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen">
+
+    <!-- Nav Bar -->
+    <nav class="p-6">
+        <div class="flex gap-6 text-sm font-bold uppercase tracking-widest">
+            <a href="/" class="text-green-500">About</a>
+            <a href="/music" class="text-zinc-500 hover:text-zinc-100 transition">Music</a>
+        </div>
+    </nav>
+
+    <!-- Main Container -->
+    <main class="flex flex-col gap-16 w-full max-w-7xl px-6 py-12">
+    
+        <!-- ==========================
+             ROW 1: Header + Picture 1 
+             ========================== -->
+        <div class="flex flex-col md:flex-row items-start gap-12">
+            
+            <!-- Left: Header -->
+            <div class="w-full md:w-3/5">
+                <header class="max-w-2xl">
+                    <h2 class="text-5xl font-extrabold tracking-tighter mb-4">Hey, I'm</h2>
+                    <h1 class="text-6xl font-extrabold tracking-tighter mb-4 bg-gradient-to-r from-green-400 to-emerald-500 bg-clip-text text-transparent">
+                        Alikhan Zarubay
+                    </h1>
+                    <p class="text-zinc-400 text-xl leading-relaxed">
+                        I am a freshman at Nazarbayev University studying NOT CS but Political Science. Obsessed with a startup world, geography, history, and manga.
+                    </p>    
+                </header>
+            </div>
+
+            <!-- Right: Picture 1 -->
+            <div class="w-full md:w-2/5">
+                <img src="/static/images/picture1.jpg" alt="Pic 1" class="w-full rounded-2xl shadow-2xl border border-zinc-800">
+            </div>
+        </div>
+
+        <!-- ==========================
+             ROW 2: Bio Text + Picture 2
+             ========================== -->
+        <div class="flex flex-col md:flex-row items-start gap-12">
+            
+            <!-- Left: Text Block 1 -->
+            <div class="w-full md:w-3/5">
+                <section class="space-y-6 text-zinc-400 max-w-2xl">
+                    <p>
+                        <span class="text-3xl font-extrabold tracking-tighter mb-4">I am a person who likes to challenge himself</span>
+                        <br>
+                        <br>The reason I even created this website was to prove myself that I can vibecode and deploy an actual website.
+                        <br>
+                        <br> Couple fun things I have tried in the past: Calisthenics (handstand for 10 sec was kinda my peak), learning Japanese (JLPT N5 certified), Chess (1100 elo on a good day), and much more. Well-rounded final boss lmao.
+                        <br>
+                        <br> Couple fun things I am currently trying: Running (quarter marathon every week so far), Geoguessr (I lowkey regret not trying it sooner), Mongol Empire history, and learning how to draw manga (that's for our startup though)
+                    </p>    
+                </section>
+            </div>
+
+            <!-- Right: Picture 2 -->
+            <div class="w-full md:w-2/5">
+                <img src="/static/images/picture2.jpg" alt="Pic 2" class="w-full rounded-2xl shadow-2xl border border-zinc-800">
+            </div>
+        </div>
+
+        <!-- ==========================
+             ROW 3: YC Text + Picture 3
+             ========================== -->
+        <div class="flex flex-col md:flex-row items-start gap-12">
+            
+            <!-- Left: Text Block 2 (YC) -->
+            <div class="w-full md:w-3/5">
+                <section class="space-y-6 text-zinc-400 max-w-2xl">
+                    <p>
+                        <span class="text-3xl font-extrabold tracking-tighter mb-4">YC Startup School heavily influenced my startup mindset.</span>
+                        <br>
+                        <br> Basically I learnt all the basics thanks to them.
+                        <br> Especially grateful for <a href="https://www.youtube.com/@ycrootaccess" class="text-green-400 hover:underline">YC Root Access</a>.
+                        <br> It is my sole destiny now to build something users want, <br>though just looking for PMF idea so far with <a href="https://pososi.xyz/" class="text-green-400 hover:underline">Ramazan Sadir</a>.
+                    </p>
+                </section>
+            </div>
+
+            <!-- Right: Picture 3 -->
+            <div class="w-full md:w-2/5">
+                <img src="/static/images/picture3.png" alt="Pic 3" class="w-full rounded-2xl shadow-2xl border border-zinc-800">
+            </div>
+        </div>
+
+        <div class="pt-6">
+                        <h2 class="text-white font-bold mb-4 uppercase text-xs tracking-widest">Connect With Me</h2>
+                        <div class="flex gap-4">
+                            <a href="https://github.com/alikhanemes" class="text-zinc-100 hover:text-green-400 underline underline-offset-4 decoration-zinc-700">GitHub</a>
+                            <a href="https://x.com/zarubayalikhan" class="text-zinc-100 hover:text-green-400 underline underline-offset-4 decoration-zinc-700">Twitter</a>                            
+                            <a href="https://www.instagram.com/zarubayalikhan/" class="text-zinc-100 hover:text-green-400 underline underline-offset-4 decoration-zinc-700">Instagram</a>
+                            <a href="https://www.linkedin.com/in/alikhan-zarubay-b3a466338/" class="text-zinc-100 hover:text-green-400 underline underline-offset-4 decoration-zinc-700 font-bold">LinkedIn</a>
+                        </div>
+        </div>
+    </main>
+
+</body>
+</html>
