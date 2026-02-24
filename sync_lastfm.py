@@ -3,6 +3,7 @@ import json
 import requests
 import time
 import re
+from urllib.parse import quote
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -27,20 +28,38 @@ def get_spotify_token():
         return None
 
 def clean_name(text):
+    """Removes common suffixes that break Spotify search queries."""
+    # Remove text in brackets/parentheses: (Remastered), [Deluxe Edition], etc.
     text = re.sub(r'\s*[\(\[].*?[\)\]]', '', text)
-    return text.split(' - ')[0].strip()
+    # Remove common tags after a dash
+    text = re.split(r' - | – ', text)[0]
+    # Specific common terms
+    text = re.sub(r'(?i)\b(remastered|remaster|deluxe|version|edit|radio edit|live)\b', '', text)
+    return text.strip()
 
 def get_spotify_data(artist, track, token):
-    try:
-        q = f"track:{clean_name(track)} artist:{artist}"
-        url = f"https://api.spotify.com/v1/search?q={q}&type=track&limit=1"
-        headers = {"Authorization": f"Bearer {token}"}
-        resp = requests.get(url, headers=headers).json()
-        if 'tracks' in resp and resp['tracks']['items']:
-            item = resp['tracks']['items'][0]
-            return item['album']['images'][0]['url'], item['external_urls']['spotify']
-    except:
-        pass
+    """Attempts a strict search first, then a fuzzy search to get the Spotify Image."""
+    headers = {"Authorization": f"Bearer {token}"}
+    cleaned_track = clean_name(track)
+    
+    queries = [
+        f"track:\"{cleaned_track}\" artist:\"{artist}\"", # Strict
+        f"{cleaned_track} {artist}"                      # Fuzzy/General
+    ]
+
+    for q in queries:
+        try:
+            url = f"https://api.spotify.com/v1/search?q={quote(q)}&type=track&limit=1"
+            resp = requests.get(url, headers=headers).json()
+            if 'tracks' in resp and resp['tracks']['items']:
+                item = resp['tracks']['items'][0]
+                # Try to get the largest image (index 0)
+                img_url = item['album']['images'][0]['url'] if item['album']['images'] else None
+                spotify_url = item['external_urls']['spotify']
+                return img_url, spotify_url
+        except Exception:
+            continue
+            
     return None, None
 
 def fetch_from_lastfm(period, token):
@@ -50,7 +69,6 @@ def fetch_from_lastfm(period, token):
     try:
         data = requests.get(url).json()
         raw_tracks = data['toptracks']['track']
-        print(f"Found {len(raw_tracks)} tracks.")
     except Exception as e:
         print(f"Error fetching from Last.fm: {e}")
         return []
@@ -59,15 +77,19 @@ def fetch_from_lastfm(period, token):
     for t in raw_tracks:
         artist = t['artist']['name']
         title = t['name']
-        print(f"Processing: {title}")
         
+        # Priority: Fetch from Spotify
         img, link = get_spotify_data(artist, title, token)
         
-        # Fallbacks
-        if not img:
-            try: img = t['image'][-1]['#text']
-            except: img = ""
-        if not link:
+        if img:
+            print(f"✅ Found Spotify Image for: {title}")
+        else:
+            print(f"⚠️  No Spotify match, falling back for: {title}")
+            # Fallback to Last.fm metadata if Spotify fails
+            try:
+                img = t['image'][-1]['#text'] # Last.fm's largest size
+            except:
+                img = ""
             link = t['url']
 
         processed.append({
@@ -78,34 +100,30 @@ def fetch_from_lastfm(period, token):
             "image": img,
             "link": link
         })
-        time.sleep(0.05) # Tiny sleep to avoid rate limits
+        time.sleep(0.1) # Moderate sleep to respect rate limits
     return processed
 
 def sync_lastfm():
-    # 1. Get Token
     token = get_spotify_token()
     if not token:
         print("FAIL: No Spotify Token. Check Client ID/Secret.")
         return
 
-    # 2. Fetch Data
     recent = fetch_from_lastfm('7day', token)
     alltime = fetch_from_lastfm('overall', token)
 
-    # 3. THE SAVE (Force Save)
     final_data = {
         "recent": recent,
-        "alltime": alltime
+        "alltime": alltime,
+        "updated_at": int(time.time())
     }
 
-    print(f"DEBUG: Attempting to write to {os.path.abspath('songs.json')}")
-    
     try:
         with open('songs.json', 'w', encoding='utf-8') as f:
             json.dump(final_data, f, indent=4, ensure_ascii=False)
-        print("✅ SUCCESS: songs.json has been written!")
+        print(f"SUCCESS: {len(recent) + len(alltime)} tracks synced to songs.json!")
     except Exception as e:
-        print(f"❌ ERROR WRITING FILE: {e}")
+        print(f"ERROR WRITING FILE: {e}")
 
 if __name__ == "__main__":
     sync_lastfm()
