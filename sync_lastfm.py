@@ -3,7 +3,6 @@ import json
 import requests
 import time
 import re
-from urllib.parse import quote
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -22,55 +21,72 @@ def get_spotify_token():
     }
     try:
         response = requests.post(url, data=data)
-        return response.json().get("access_token")
+        token_data = response.json()
+        if "access_token" not in token_data:
+            print(f"Auth Error Details: {token_data}")
+            return None
+        return token_data.get("access_token")
     except Exception as e:
-        print(f"Spotify Auth Error: {e}")
+        print(f"Spotify Auth Exception: {e}")
         return None
 
 def clean_name(text):
-    """Removes common suffixes that break Spotify search queries."""
-    # Remove text in brackets/parentheses: (Remastered), [Deluxe Edition], etc.
+    # Remove (Remastered), [Official Video], etc.
     text = re.sub(r'\s*[\(\[].*?[\)\]]', '', text)
-    # Remove common tags after a dash
-    text = re.split(r' - | – ', text)[0]
-    # Specific common terms
-    text = re.sub(r'(?i)\b(remastered|remaster|deluxe|version|edit|radio edit|live)\b', '', text)
+    # Remove extra whitespace
     return text.strip()
 
 def get_spotify_data(artist, track, token):
-    """Attempts a strict search first, then a fuzzy search to get the Spotify Image."""
     headers = {"Authorization": f"Bearer {token}"}
-    cleaned_track = clean_name(track)
     
-    queries = [
-        f"track:\"{cleaned_track}\" artist:\"{artist}\"", # Strict
-        f"{cleaned_track} {artist}"                      # Fuzzy/General
-    ]
+    # We use a broad search query because "track:X artist:Y" 
+    # is often too strict for Last.fm's naming conventions.
+    search_query = f"{artist} {clean_name(track)}"
+    
+    url = "https://api.spotify.com/v1/search"
+    params = {
+        "q": search_query,
+        "type": "track",
+        "limit": 1
+    }
 
-    for q in queries:
-        try:
-            url = f"https://api.spotify.com/v1/search?q={quote(q)}&type=track&limit=1"
-            resp = requests.get(url, headers=headers).json()
-            if 'tracks' in resp and resp['tracks']['items']:
-                item = resp['tracks']['items'][0]
-                # Try to get the largest image (index 0)
-                img_url = item['album']['images'][0]['url'] if item['album']['images'] else None
-                spotify_url = item['external_urls']['spotify']
-                return img_url, spotify_url
-        except Exception:
-            continue
+    try:
+        resp = requests.get(url, headers=headers, params=params)
+        
+        if resp.status_code == 401:
+            print("Token expired or invalid.")
+            return None, None
+        
+        if resp.status_code != 200:
+            print(f"Spotify API Error {resp.status_code}: {resp.text}")
+            return None, None
+
+        data = resp.json()
+        if 'tracks' in data and data['tracks']['items']:
+            item = data['tracks']['items'][0]
+            # Get the high-res image
+            img_url = item['album']['images'][0]['url'] if item['album']['images'] else None
+            spotify_url = item['external_urls']['spotify']
+            return img_url, spotify_url
             
+    except Exception as e:
+        print(f"Request Error: {e}")
+        
     return None, None
 
 def fetch_from_lastfm(period, token):
-    print(f"--- Fetching {period} from Last.fm ---")
+    print(f"\n--- Fetching {period} from Last.fm ---")
     url = f"http://ws.audioscrobbler.com/2.0/?method=user.gettoptracks&user={LASTFM_USERNAME}&api_key={LASTFM_API_KEY}&format=json&period={period}&limit=50"
     
     try:
-        data = requests.get(url).json()
+        resp = requests.get(url)
+        data = resp.json()
+        if 'toptracks' not in data:
+            print(f"Last.fm Error: {data}")
+            return []
         raw_tracks = data['toptracks']['track']
     except Exception as e:
-        print(f"Error fetching from Last.fm: {e}")
+        print(f"Error connecting to Last.fm: {e}")
         return []
 
     processed = []
@@ -78,16 +94,16 @@ def fetch_from_lastfm(period, token):
         artist = t['artist']['name']
         title = t['name']
         
-        # Priority: Fetch from Spotify
+        # Try to get Spotify Data
         img, link = get_spotify_data(artist, title, token)
         
         if img:
-            print(f"✅ Found Spotify Image for: {title}")
+            print(f"✅ Found: {title} by {artist}")
         else:
-            print(f"⚠️  No Spotify match, falling back for: {title}")
-            # Fallback to Last.fm metadata if Spotify fails
+            print(f"❌ Failed: {title} (Using Last.fm fallback)")
+            # Fallback to Last.fm Image if Spotify fails
             try:
-                img = t['image'][-1]['#text'] # Last.fm's largest size
+                img = t['image'][-1]['#text']
             except:
                 img = ""
             link = t['url']
@@ -100,30 +116,33 @@ def fetch_from_lastfm(period, token):
             "image": img,
             "link": link
         })
-        time.sleep(0.1) # Moderate sleep to respect rate limits
+        time.sleep(0.1) # Avoid hitting Spotify rate limits
     return processed
 
 def sync_lastfm():
+    # 1. Get Token
     token = get_spotify_token()
     if not token:
-        print("FAIL: No Spotify Token. Check Client ID/Secret.")
+        print("FAIL: Could not get Spotify Token. Check your .env file.")
         return
 
+    # 2. Fetch Data
     recent = fetch_from_lastfm('7day', token)
     alltime = fetch_from_lastfm('overall', token)
 
+    # 3. Save
     final_data = {
         "recent": recent,
         "alltime": alltime,
-        "updated_at": int(time.time())
+        "last_updated": int(time.time())
     }
 
     try:
         with open('songs.json', 'w', encoding='utf-8') as f:
             json.dump(final_data, f, indent=4, ensure_ascii=False)
-        print(f"SUCCESS: {len(recent) + len(alltime)} tracks synced to songs.json!")
+        print("\n🎉 SUCCESS: songs.json is updated!")
     except Exception as e:
-        print(f"ERROR WRITING FILE: {e}")
+        print(f"❌ WRITE ERROR: {e}")
 
 if __name__ == "__main__":
     sync_lastfm()
