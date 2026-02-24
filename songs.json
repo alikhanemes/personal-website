@@ -378,6 +378,14 @@
         },
         {
             "rank": "48",
+            "title": "Crossing Field",
+            "artist": "Lisa",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Lisa/_/Crossing+Field"
+        },
+        {
+            "rank": "49",
             "title": "再会 (produced by Ayase)",
             "artist": "Lisa",
             "playcount": 2,
@@ -385,20 +393,12 @@
             "link": "https://www.last.fm/music/Lisa/_/%E5%86%8D%E4%BC%9A+(produced+by+Ayase)"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "紅蓮華",
             "artist": "Lisa",
             "playcount": 2,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Lisa/_/%E7%B4%85%E8%93%AE%E8%8F%AF"
-        },
-        {
-            "rank": "50",
-            "title": "departure!-second ver.- - TV Size",
-            "artist": "Masatoshi Ono",
-            "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Masatoshi+Ono/_/departure!-second+ver.-+-+TV+Size"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/SAYONARA+Baby"
         }
     ],
-    "last_updated": 1771928178
+    "last_updated": 1771928354
 }
