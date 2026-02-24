@@ -2,10 +2,9 @@ name: Update Last.fm Stats
 
 on:
   schedule:
-    # This runs every 6 hours automatically
-    - cron: '0 */6 * * *'
+    # This runs every 3 hours automatically
+    - cron: '0 */3 * * *'
   workflow_dispatch: 
-    # This allows you to click a button in GitHub to run it manually
 
 jobs:
   update-data:
