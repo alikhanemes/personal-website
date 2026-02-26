@@ -12,7 +12,7 @@
             "rank": "2",
             "title": "Push Ups",
             "artist": "Drake",
-            "playcount": 5,
+            "playcount": 6,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Drake/_/Push+Ups"
         },
@@ -20,7 +20,7 @@
             "rank": "3",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
-            "playcount": 5,
+            "playcount": 6,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
         },
@@ -34,6 +34,14 @@
         },
         {
             "rank": "5",
+            "title": "LOVE. FEAT. ZACARI.",
+            "artist": "Kendrick Lamar",
+            "playcount": 4,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI."
+        },
+        {
+            "rank": "6",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 4,
@@ -41,7 +49,7 @@
             "link": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 4,
@@ -49,7 +57,7 @@
             "link": "https://www.last.fm/music/Tatsuya+Kitani/_/%E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Timeless (feat Playboi Carti)",
             "artist": "The Weeknd",
             "playcount": 4,
@@ -57,7 +65,7 @@
             "link": "https://www.last.fm/music/The+Weeknd/_/Timeless+(feat+Playboi+Carti)"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 3,
@@ -65,7 +73,7 @@
             "link": "https://www.last.fm/music/Aimer/_/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 3,
@@ -73,7 +81,7 @@
             "link": "https://www.last.fm/music/Batta/_/Chase"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "TUCA DONKA (Slowed + Reverb)",
             "artist": "CURSEDEVIL",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://www.last.fm/music/CURSEDEVIL/_/TUCA+DONKA+(Slowed+%252B+Reverb)"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -89,7 +97,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/E%C5%84+Sul%C3%BD"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Let Me Love You",
             "artist": "DJ Snake",
             "playcount": 3,
@@ -97,20 +105,12 @@
             "link": "https://www.last.fm/music/DJ+Snake/_/Let+Me+Love+You"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 3,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!"
-        },
-        {
-            "rank": "14",
-            "title": "LOVE. FEAT. ZACARI.",
-            "artist": "Kendrick Lamar",
-            "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI."
         },
         {
             "rank": "15",
@@ -210,6 +210,14 @@
         },
         {
             "rank": "27",
+            "title": "edamame",
+            "artist": "bbno$",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/bbno$/_/edamame"
+        },
+        {
+            "rank": "28",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 2,
@@ -217,7 +225,7 @@
             "link": "https://www.last.fm/music/beabadoobee/_/the+perfect+pair"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "Leave the Door Open",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -225,7 +233,7 @@
             "link": "https://www.last.fm/music/Bruno+Mars/_/Leave+the+Door+Open"
         },
         {
-            "rank": "29",
+            "rank": "30",
             "title": "ヒカリアレ",
             "artist": "BURNOUT SYNDROMES",
             "playcount": 2,
@@ -233,7 +241,7 @@
             "link": "https://www.last.fm/music/BURNOUT+SYNDROMES/_/%E3%83%92%E3%82%AB%E3%83%AA%E3%82%A2%E3%83%AC"
         },
         {
-            "rank": "30",
+            "rank": "31",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -241,7 +249,7 @@
             "link": "https://www.last.fm/music/Creepy+Nuts/_/%E3%82%AA%E3%83%88%E3%83%8E%E3%82%B1+-+Otonoke"
         },
         {
-            "rank": "31",
+            "rank": "32",
             "title": "堕天 - Daten",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -249,7 +257,7 @@
             "link": "https://www.last.fm/music/Creepy+Nuts/_/%E5%A0%95%E5%A4%A9+-+Daten"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -257,7 +265,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Erikpe+-+%C3%B5zen+version"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -265,7 +273,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Ol"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -273,7 +281,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Qosh+Bol+Japyraq"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "TUCA DONKA",
             "artist": "DJ FKU",
             "playcount": 2,
@@ -281,7 +289,7 @@
             "link": "https://www.last.fm/music/DJ+FKU/_/TUCA+DONKA"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
@@ -289,7 +297,7 @@
             "link": "https://www.last.fm/music/Drake/_/God%27s+Plan"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "One Dance",
             "artist": "Drake",
             "playcount": 2,
@@ -297,7 +305,7 @@
             "link": "https://www.last.fm/music/Drake/_/One+Dance"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "Passionfruit",
             "artist": "Drake",
             "playcount": 2,
@@ -305,7 +313,7 @@
             "link": "https://www.last.fm/music/Drake/_/Passionfruit"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "osy jerlerdemiz",
             "artist": "dudeontheguitar",
             "playcount": 2,
@@ -313,7 +321,7 @@
             "link": "https://www.last.fm/music/dudeontheguitar/_/osy+jerlerdemiz"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 2,
@@ -321,7 +329,7 @@
             "link": "https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/Let+Me+Hear"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "Shinunoga E-Wa",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -329,7 +337,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Shinunoga+E-Wa"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "光るなら",
             "artist": "Goose house",
             "playcount": 2,
@@ -337,7 +345,7 @@
             "link": "https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "Big Dawgs",
             "artist": "HanuMankind",
             "playcount": 2,
@@ -345,7 +353,7 @@
             "link": "https://www.last.fm/music/HanuMankind/_/Big+Dawgs"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "Big Dawgs (feat. Kalmi)",
             "artist": "HanuMankind",
             "playcount": 2,
@@ -353,7 +361,7 @@
             "link": "https://www.last.fm/music/HanuMankind/_/Big+Dawgs+(feat.+Kalmi)"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "ワスレガタキ",
             "artist": "Huwie Ishizaki",
             "playcount": 2,
@@ -361,7 +369,7 @@
             "link": "https://www.last.fm/music/Huwie+Ishizaki/_/%E3%83%AF%E3%82%B9%E3%83%AC%E3%82%AC%E3%82%BF%E3%82%AD"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "Night Dancer",
             "artist": "imase",
             "playcount": 2,
@@ -369,7 +377,7 @@
             "link": "https://www.last.fm/music/imase/_/Night+Dancer"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "HOOLIGANG",
             "artist": "Joey Valence & Brae",
             "playcount": 2,
@@ -377,7 +385,7 @@
             "link": "https://www.last.fm/music/Joey+Valence+&+Brae/_/HOOLIGANG"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "Die with a Smile",
             "artist": "Lady Gaga",
             "playcount": 2,
@@ -385,20 +393,12 @@
             "link": "https://www.last.fm/music/Lady+Gaga/_/Die+with+a+Smile"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Crossing Field",
             "artist": "Lisa",
             "playcount": 2,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Lisa/_/Crossing+Field"
-        },
-        {
-            "rank": "50",
-            "title": "再会 (produced by Ayase)",
-            "artist": "Lisa",
-            "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Lisa/_/%E5%86%8D%E4%BC%9A+(produced+by+Ayase)"
         }
     ],
     "alltime": [
@@ -414,7 +414,7 @@
             "rank": "2",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
-            "playcount": 20,
+            "playcount": 21,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
         },
@@ -444,19 +444,19 @@
         },
         {
             "rank": "6",
+            "title": "Push Ups",
+            "artist": "Drake",
+            "playcount": 9,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Drake/_/Push+Ups"
+        },
+        {
+            "rank": "7",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 9,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Lady+Gaga/_/Judas"
-        },
-        {
-            "rank": "7",
-            "title": "Push Ups",
-            "artist": "Drake",
-            "playcount": 8,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Push+Ups"
         },
         {
             "rank": "8",
@@ -532,6 +532,14 @@
         },
         {
             "rank": "17",
+            "title": "LOVE. FEAT. ZACARI.",
+            "artist": "Kendrick Lamar",
+            "playcount": 7,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI."
+        },
+        {
+            "rank": "18",
             "title": "TUCA DONKA (Slowed + Reverb)",
             "artist": "CURSEDEVIL",
             "playcount": 6,
@@ -539,7 +547,7 @@
             "link": "https://www.last.fm/music/CURSEDEVIL/_/TUCA+DONKA+(Slowed+%252B+Reverb)"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 6,
@@ -547,7 +555,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/E%C5%84+Sul%C3%BD"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 6,
@@ -555,7 +563,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Erikpe+-+%C3%B5zen+version"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Sapar",
             "artist": "Darkhan Juzz",
             "playcount": 6,
@@ -563,7 +571,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Sapar"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 6,
@@ -571,20 +579,12 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 6,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Kendrick+Lamar/_/euphoria"
-        },
-        {
-            "rank": "23",
-            "title": "LOVE. FEAT. ZACARI.",
-            "artist": "Kendrick Lamar",
-            "playcount": 6,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI."
         },
         {
             "rank": "24",
@@ -803,5 +803,5 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Sheker"
         }
     ],
-    "last_updated": 1772081276
+    "last_updated": 1772088817
 }
