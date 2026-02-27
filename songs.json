@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Cadillac",
             "artist": "Morgenshtern",
-            "playcount": 30,
+            "playcount": 55,
             "image": "https://i.scdn.co/image/ab67616d0000b273b19565a46d15bff07d399fbf",
             "link": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
         },
@@ -404,19 +404,19 @@
     "alltime": [
         {
             "rank": "1",
+            "title": "Cadillac",
+            "artist": "Morgenshtern",
+            "playcount": 55,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b19565a46d15bff07d399fbf",
+            "link": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
+        },
+        {
+            "rank": "2",
             "title": "TUCA DONKA",
             "artist": "CURSEDEVIL",
             "playcount": 33,
             "image": "https://i.scdn.co/image/ab67616d0000b2739d6fdeae1a36f47bdded2961",
             "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
-        },
-        {
-            "rank": "2",
-            "title": "Cadillac",
-            "artist": "Morgenshtern",
-            "playcount": 31,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b19565a46d15bff07d399fbf",
-            "link": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
         },
         {
             "rank": "3",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         }
     ],
-    "last_updated": 1772217302
+    "last_updated": 1772227496
 }
