@@ -106,6 +106,14 @@
         },
         {
             "rank": "14",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+        },
+        {
+            "rank": "15",
             "title": "Blinding Lights",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "Heartless",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Is There Someone Else?",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Timeless (feat Playboi Carti)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "See You Again (feat. Kali Uchis)",
             "artist": "Tyler, The Creator",
             "playcount": 3,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "六爻(Hexagrams)",
             "artist": "攬佬SKAI ISYOURGOD",
             "playcount": 3,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/0EvTrXZUvbA0cBKcWPqz43"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 2,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 2,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "edamame",
             "artist": "bbno$",
             "playcount": 2,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 2,
@@ -201,7 +209,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "Leave the Door Open",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -209,7 +217,7 @@
             "link": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "Fighting Gold",
             "artist": "Coda",
             "playcount": 2,
@@ -217,7 +225,7 @@
             "link": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -225,7 +233,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "29",
+            "rank": "30",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -233,20 +241,12 @@
             "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "30",
+            "rank": "31",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27363a81484f79fc8a2caea9c3d",
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
-        },
-        {
-            "rank": "31",
-            "title": "Headlines",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
-            "link": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
         },
         {
             "rank": "32",
@@ -394,11 +394,11 @@
         },
         {
             "rank": "50",
-            "title": "Bad Habit",
+            "title": "Cody Freestyle",
             "artist": "Steve Lacy",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+            "link": "https://open.spotify.com/track/2kk2trjT2JXhEHtCnz9FWA"
         }
     ],
     "alltime": [
@@ -460,6 +460,14 @@
         },
         {
             "rank": "8",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+        },
+        {
+            "rank": "9",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 8,
@@ -467,7 +475,7 @@
             "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "ワスレガタキ",
             "artist": "Huwie Ishizaki",
             "playcount": 8,
@@ -475,7 +483,7 @@
             "link": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 8,
@@ -483,20 +491,12 @@
             "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 8,
             "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
-        },
-        {
-            "rank": "12",
-            "title": "Bad Habit",
-            "artist": "Steve Lacy",
-            "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
             "rank": "13",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0gHsfc1hXww86SnpwdunlR"
         }
     ],
-    "last_updated": 1772196276
+    "last_updated": 1772206449
 }
