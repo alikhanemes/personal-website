@@ -4,28 +4,20 @@
             "rank": "1",
             "title": "Cadillac",
             "artist": "Morgenshtern",
-            "playcount": 57,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b19565a46d15bff07d399fbf",
-            "link": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
+            "playcount": 56,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Morgenshtern/_/Cadillac"
         },
         {
             "rank": "2",
-            "title": "TUCA DONKA",
-            "artist": "CURSEDEVIL",
-            "playcount": 6,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/CURSEDEVIL/_/TUCA+DONKA"
-        },
-        {
-            "rank": "3",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
-            "playcount": 5,
+            "playcount": 4,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI."
         },
         {
-            "rank": "4",
+            "rank": "3",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 4,
@@ -33,7 +25,7 @@
             "link": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)"
         },
         {
-            "rank": "5",
+            "rank": "4",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 4,
@@ -41,7 +33,7 @@
             "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 4,
@@ -49,39 +41,7 @@
             "link": "https://www.last.fm/music/Sharlot/_/%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%BA%D0%B0"
         },
         {
-            "rank": "7",
-            "title": "Chase",
-            "artist": "Batta",
-            "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Batta/_/Chase"
-        },
-        {
-            "rank": "8",
-            "title": "TUCA DONKA (Slowed + Reverb)",
-            "artist": "CURSEDEVIL",
-            "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/CURSEDEVIL/_/TUCA+DONKA+(Slowed+%252B+Reverb)"
-        },
-        {
-            "rank": "9",
-            "title": "Eń Sulý",
-            "artist": "Darkhan Juzz",
-            "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Darkhan+Juzz/_/E%C5%84+Sul%C3%BD"
-        },
-        {
-            "rank": "10",
-            "title": "Let Me Love You",
-            "artist": "DJ Snake",
-            "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/DJ+Snake/_/Let+Me+Love+You"
-        },
-        {
-            "rank": "11",
+            "rank": "6",
             "title": "One Dance",
             "artist": "Drake",
             "playcount": 3,
@@ -89,7 +49,7 @@
             "link": "https://www.last.fm/music/Drake/_/One+Dance"
         },
         {
-            "rank": "12",
+            "rank": "7",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 3,
@@ -97,7 +57,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri"
         },
         {
-            "rank": "13",
+            "rank": "8",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 3,
@@ -105,7 +65,7 @@
             "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!"
         },
         {
-            "rank": "14",
+            "rank": "9",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 3,
@@ -113,7 +73,7 @@
             "link": "https://www.last.fm/music/Lady+Gaga/_/Judas"
         },
         {
-            "rank": "15",
+            "rank": "10",
             "title": "Chicago",
             "artist": "Michael Jackson",
             "playcount": 3,
@@ -121,7 +81,7 @@
             "link": "https://www.last.fm/music/Michael+Jackson/_/Chicago"
         },
         {
-            "rank": "16",
+            "rank": "11",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 3,
@@ -129,7 +89,7 @@
             "link": "https://www.last.fm/music/Steve+Lacy/_/Bad+Habit"
         },
         {
-            "rank": "17",
+            "rank": "12",
             "title": "Blinding Lights",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -137,7 +97,7 @@
             "link": "https://www.last.fm/music/The+Weeknd/_/Blinding+Lights"
         },
         {
-            "rank": "18",
+            "rank": "13",
             "title": "Heartless",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -145,7 +105,7 @@
             "link": "https://www.last.fm/music/The+Weeknd/_/Heartless"
         },
         {
-            "rank": "19",
+            "rank": "14",
             "title": "Is There Someone Else?",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -153,7 +113,7 @@
             "link": "https://www.last.fm/music/The+Weeknd/_/Is+There+Someone+Else%3F"
         },
         {
-            "rank": "20",
+            "rank": "15",
             "title": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -161,7 +121,7 @@
             "link": "https://www.last.fm/music/The+Weeknd/_/Popular+(with+Playboi+Carti+&+Madonna)+-+From+The+Idol+Vol.+1+(Music+from+the+HBO+Original+Series)"
         },
         {
-            "rank": "21",
+            "rank": "16",
             "title": "Timeless (feat Playboi Carti)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -169,7 +129,7 @@
             "link": "https://www.last.fm/music/The+Weeknd/_/Timeless+(feat+Playboi+Carti)"
         },
         {
-            "rank": "22",
+            "rank": "17",
             "title": "See You Again (feat. Kali Uchis)",
             "artist": "Tyler, The Creator",
             "playcount": 3,
@@ -177,7 +137,7 @@
             "link": "https://www.last.fm/music/Tyler,+The+Creator/_/See+You+Again+(feat.+Kali+Uchis)"
         },
         {
-            "rank": "23",
+            "rank": "18",
             "title": "六爻(Hexagrams)",
             "artist": "攬佬SKAI ISYOURGOD",
             "playcount": 3,
@@ -185,7 +145,7 @@
             "link": "https://www.last.fm/music/%E6%94%AC%E4%BD%ACSKAI+ISYOURGOD/_/%E5%85%AD%E7%88%BB(Hexagrams)"
         },
         {
-            "rank": "24",
+            "rank": "19",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 2,
@@ -193,7 +153,7 @@
             "link": "https://www.last.fm/music/Aimer/_/%E6%AE%8B%E9%9F%BF%E6%95%A3%E6%AD%8C"
         },
         {
-            "rank": "25",
+            "rank": "20",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 2,
@@ -201,7 +161,7 @@
             "link": "https://www.last.fm/music/Arctic+Monkeys/_/I+Wanna+Be+Yours"
         },
         {
-            "rank": "26",
+            "rank": "21",
             "title": "edamame",
             "artist": "bbno$",
             "playcount": 2,
@@ -209,7 +169,7 @@
             "link": "https://www.last.fm/music/bbno$/_/edamame"
         },
         {
-            "rank": "27",
+            "rank": "22",
             "title": "Fighting Gold",
             "artist": "Coda",
             "playcount": 2,
@@ -217,7 +177,15 @@
             "link": "https://www.last.fm/music/Coda/_/Fighting+Gold"
         },
         {
-            "rank": "28",
+            "rank": "23",
+            "title": "Eń Sulý",
+            "artist": "Darkhan Juzz",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Darkhan+Juzz/_/E%C5%84+Sul%C3%BD"
+        },
+        {
+            "rank": "24",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -225,7 +193,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Erikpe+-+%C3%B5zen+version"
         },
         {
-            "rank": "29",
+            "rank": "25",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -233,15 +201,15 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Esindi+Ji"
         },
         {
-            "rank": "30",
-            "title": "Qosh Bol Japyraq",
-            "artist": "Darkhan Juzz",
+            "rank": "26",
+            "title": "Let Me Love You",
+            "artist": "DJ Snake",
             "playcount": 2,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Qosh+Bol+Japyraq"
+            "link": "https://www.last.fm/music/DJ+Snake/_/Let+Me+Love+You"
         },
         {
-            "rank": "31",
+            "rank": "27",
             "title": "IDGAF (feat. Yeat)",
             "artist": "Drake",
             "playcount": 2,
@@ -249,7 +217,7 @@
             "link": "https://www.last.fm/music/Drake/_/IDGAF+(feat.+Yeat)"
         },
         {
-            "rank": "32",
+            "rank": "28",
             "title": "Passionfruit",
             "artist": "Drake",
             "playcount": 2,
@@ -257,7 +225,7 @@
             "link": "https://www.last.fm/music/Drake/_/Passionfruit"
         },
         {
-            "rank": "33",
+            "rank": "29",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 2,
@@ -265,7 +233,7 @@
             "link": "https://www.last.fm/music/Drake/_/Push+Ups"
         },
         {
-            "rank": "34",
+            "rank": "30",
             "title": "Big Dawgs (feat. Kalmi)",
             "artist": "HanuMankind",
             "playcount": 2,
@@ -273,7 +241,7 @@
             "link": "https://www.last.fm/music/HanuMankind/_/Big+Dawgs+(feat.+Kalmi)"
         },
         {
-            "rank": "35",
+            "rank": "31",
             "title": "SexyBack (feat. Timbaland)",
             "artist": "Justin Timberlake",
             "playcount": 2,
@@ -281,7 +249,7 @@
             "link": "https://www.last.fm/music/+noredirect/Justin+Timberlake/_/SexyBack+(feat.+Timbaland)"
         },
         {
-            "rank": "36",
+            "rank": "32",
             "title": "Headside In Da Skiez (Babycham Supernova)",
             "artist": "Kibo",
             "playcount": 2,
@@ -289,7 +257,7 @@
             "link": "https://www.last.fm/music/Kibo/_/Headside+In+Da+Skiez+(Babycham+Supernova)"
         },
         {
-            "rank": "37",
+            "rank": "33",
             "title": "Die with a Smile",
             "artist": "Lady Gaga",
             "playcount": 2,
@@ -297,7 +265,7 @@
             "link": "https://www.last.fm/music/Lady+Gaga/_/Die+with+a+Smile"
         },
         {
-            "rank": "38",
+            "rank": "34",
             "title": "Crossing Field",
             "artist": "Lisa",
             "playcount": 2,
@@ -305,7 +273,7 @@
             "link": "https://www.last.fm/music/Lisa/_/Crossing+Field"
         },
         {
-            "rank": "39",
+            "rank": "35",
             "title": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
             "artist": "Ludwig van Beethoven",
             "playcount": 2,
@@ -313,7 +281,7 @@
             "link": "https://www.last.fm/music/Ludwig+van+Beethoven/_/Symphony+No.+5+in+C+Minor,+Op.+67:+I.+Allegro+con+brio"
         },
         {
-            "rank": "40",
+            "rank": "36",
             "title": "Sure Thing",
             "artist": "Miguel",
             "playcount": 2,
@@ -321,7 +289,7 @@
             "link": "https://www.last.fm/music/Miguel/_/Sure+Thing"
         },
         {
-            "rank": "41",
+            "rank": "37",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 2,
@@ -329,15 +297,7 @@
             "link": "https://www.last.fm/music/Nana+Mizuki/_/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB"
         },
         {
-            "rank": "42",
-            "title": "無能",
-            "artist": "österreich",
-            "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/+noredirect/%C3%B6sterreich/_/%E7%84%A1%E8%83%BD"
-        },
-        {
-            "rank": "43",
+            "rank": "38",
             "title": "Taste of",
             "artist": "PRECO",
             "playcount": 2,
@@ -345,7 +305,7 @@
             "link": "https://www.last.fm/music/PRECO/_/Taste+of"
         },
         {
-            "rank": "44",
+            "rank": "39",
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 2,
@@ -353,7 +313,7 @@
             "link": "https://www.last.fm/music/Rich+Brian/_/Dat+$tick"
         },
         {
-            "rank": "45",
+            "rank": "40",
             "title": "Espresso",
             "artist": "Sabrina Carpenter",
             "playcount": 2,
@@ -361,15 +321,7 @@
             "link": "https://www.last.fm/music/Sabrina+Carpenter/_/Espresso"
         },
         {
-            "rank": "46",
-            "title": "Yugure no Tori",
-            "artist": "Shinsei Kamattechan",
-            "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Shinsei+Kamattechan/_/Yugure+no+Tori"
-        },
-        {
-            "rank": "47",
+            "rank": "41",
             "title": "Ice Cream Moment",
             "artist": "slump girl",
             "playcount": 2,
@@ -377,7 +329,7 @@
             "link": "https://www.last.fm/music/slump+girl/_/Ice+Cream+Moment"
         },
         {
-            "rank": "48",
+            "rank": "42",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 2,
@@ -385,7 +337,7 @@
             "link": "https://www.last.fm/music/sombr/_/back+to+friends"
         },
         {
-            "rank": "49",
+            "rank": "43",
             "title": "Cody Freestyle",
             "artist": "Steve Lacy",
             "playcount": 2,
@@ -393,12 +345,60 @@
             "link": "https://www.last.fm/music/Steve+Lacy/_/Cody+Freestyle"
         },
         {
-            "rank": "50",
-            "title": "One More Hour",
+            "rank": "44",
+            "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 2,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Tame+Impala/_/One+More+Hour"
+            "link": "https://www.last.fm/music/Tame+Impala/_/The+Less+I+Know+the+Better"
+        },
+        {
+            "rank": "45",
+            "title": "青のすみか",
+            "artist": "Tatsuya Kitani",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Tatsuya+Kitani/_/%E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B"
+        },
+        {
+            "rank": "46",
+            "title": "Out of Time",
+            "artist": "The Weeknd",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/The+Weeknd/_/Out+of+Time"
+        },
+        {
+            "rank": "47",
+            "title": "São Paulo (feat. Anitta)",
+            "artist": "The Weeknd",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/The+Weeknd/_/S%C3%A3o+Paulo+(feat.+Anitta)"
+        },
+        {
+            "rank": "48",
+            "title": "Starboy",
+            "artist": "The Weeknd",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/The+Weeknd/_/Starboy"
+        },
+        {
+            "rank": "49",
+            "title": "RUNNING OUT OF TIME",
+            "artist": "Tyler, The Creator",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Tyler,+The+Creator/_/RUNNING+OUT+OF+TIME"
+        },
+        {
+            "rank": "50",
+            "title": "Symphony No. 40 in G Minor, K. 550: I. Molto allegro",
+            "artist": "Wolfgang Amadeus Mozart",
+            "playcount": 2,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Wolfgang+Amadeus+Mozart/_/Symphony+No.+40+in+G+Minor,+K.+550:+I.+Molto+allegro"
         }
     ],
     "alltime": [
@@ -406,7 +406,7 @@
             "rank": "1",
             "title": "Cadillac",
             "artist": "Morgenshtern",
-            "playcount": 57,
+            "playcount": 56,
             "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Morgenshtern/_/Cadillac"
         },
@@ -803,5 +803,5 @@
             "link": "https://www.last.fm/music/Daniel+Caesar/_/Get+You+(feat.+Kali+Uchis)"
         }
     ],
-    "last_updated": 1772270436
+    "last_updated": 1772282009
 }
