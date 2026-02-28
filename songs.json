@@ -42,6 +42,14 @@
         },
         {
             "rank": "6",
+            "title": "Малышка",
+            "artist": "Sharlot",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+        },
+        {
+            "rank": "7",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 3,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "TUCA DONKA (Slowed + Reverb)",
             "artist": "CURSEDEVIL",
             "playcount": 3,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "Let Me Love You",
             "artist": "DJ Snake",
             "playcount": 3,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "One Dance",
             "artist": "Drake",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 3,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 3,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 3,
@@ -105,7 +113,15 @@
             "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
-            "rank": "14",
+            "rank": "15",
+            "title": "Judas",
+            "artist": "Lady Gaga",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+        },
+        {
+            "rank": "16",
             "title": "Chicago",
             "artist": "Michael Jackson",
             "playcount": 3,
@@ -113,15 +129,7 @@
             "link": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
         },
         {
-            "rank": "15",
-            "title": "Малышка",
-            "artist": "Sharlot",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
-            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
-        },
-        {
-            "rank": "16",
+            "rank": "17",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 3,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Blinding Lights",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "Heartless",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Is There Someone Else?",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Popular (with Playboi Carti & Madonna) - From The Idol Vol. 1 (Music from the HBO Original Series)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Timeless (feat Playboi Carti)",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "See You Again (feat. Kali Uchis)",
             "artist": "Tyler, The Creator",
             "playcount": 3,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "六爻(Hexagrams)",
             "artist": "攬佬SKAI ISYOURGOD",
             "playcount": 3,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/0EvTrXZUvbA0cBKcWPqz43"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 2,
@@ -201,7 +209,7 @@
             "link": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 2,
@@ -209,7 +217,7 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "edamame",
             "artist": "bbno$",
             "playcount": 2,
@@ -217,7 +225,7 @@
             "link": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 2,
@@ -225,7 +233,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "29",
+            "rank": "30",
             "title": "Leave the Door Open",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -233,7 +241,7 @@
             "link": "https://open.spotify.com/track/4pryE6cN2gFL1FVF5fYINl"
         },
         {
-            "rank": "30",
+            "rank": "31",
             "title": "Fighting Gold",
             "artist": "Coda",
             "playcount": 2,
@@ -241,7 +249,7 @@
             "link": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
         },
         {
-            "rank": "31",
+            "rank": "32",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -249,7 +257,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -257,7 +265,7 @@
             "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -265,7 +273,7 @@
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "IDGAF (feat. Yeat)",
             "artist": "Drake",
             "playcount": 2,
@@ -273,7 +281,7 @@
             "link": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "Passionfruit",
             "artist": "Drake",
             "playcount": 2,
@@ -281,7 +289,7 @@
             "link": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Big Dawgs (feat. Kalmi)",
             "artist": "HanuMankind",
             "playcount": 2,
@@ -289,7 +297,7 @@
             "link": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "HOOLIGANG",
             "artist": "Joey Valence & Brae",
             "playcount": 2,
@@ -297,7 +305,15 @@
             "link": "https://open.spotify.com/track/0lwkzF4dDxLp8HMVSQjpFf"
         },
         {
-            "rank": "38",
+            "rank": "39",
+            "title": "SexyBack (feat. Timbaland)",
+            "artist": "Justin Timberlake",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c6ba98fd3f3b396a6c6f7091",
+            "link": "https://open.spotify.com/track/0O45fw2L5vsWpdsOdXwNAR"
+        },
+        {
+            "rank": "40",
             "title": "Headside In Da Skiez (Babycham Supernova)",
             "artist": "Kibo",
             "playcount": 2,
@@ -305,7 +321,7 @@
             "link": "https://open.spotify.com/track/4ol6wLKnSSiu7MpPhYvIrk"
         },
         {
-            "rank": "39",
+            "rank": "41",
             "title": "Die with a Smile",
             "artist": "Lady Gaga",
             "playcount": 2,
@@ -313,15 +329,7 @@
             "link": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
         },
         {
-            "rank": "40",
-            "title": "Judas",
-            "artist": "Lady Gaga",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
-            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
-        },
-        {
-            "rank": "41",
+            "rank": "42",
             "title": "Crossing Field",
             "artist": "Lisa",
             "playcount": 2,
@@ -329,7 +337,7 @@
             "link": "https://open.spotify.com/track/4BvuZVf9KyBN3QiPfeI9hw"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "Symphony No. 5 in C Minor, Op. 67: I. Allegro con brio",
             "artist": "Ludwig van Beethoven",
             "playcount": 2,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/2ygeBLTP9uu3OW3VTulD8N"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "Sure Thing",
             "artist": "Miguel",
             "playcount": 2,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 2,
@@ -353,7 +361,15 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "45",
+            "rank": "46",
+            "title": "qazir bolmasa",
+            "artist": "Orynkhan",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f4457e0b40fe5625859b98c0",
+            "link": "https://open.spotify.com/track/2iqGYGeXS13Ib1L27JegQg"
+        },
+        {
+            "rank": "47",
             "title": "無能",
             "artist": "österreich",
             "playcount": 2,
@@ -361,7 +377,7 @@
             "link": "https://open.spotify.com/track/7qHv2Q41uBorzTguYfbUOw"
         },
         {
-            "rank": "46",
+            "rank": "48",
             "title": "Taste of",
             "artist": "PRECO",
             "playcount": 2,
@@ -369,7 +385,7 @@
             "link": "https://open.spotify.com/track/0nfW8RR5UetLDrGvBwip7b"
         },
         {
-            "rank": "47",
+            "rank": "49",
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 2,
@@ -377,28 +393,12 @@
             "link": "https://open.spotify.com/track/4bdJHQp90ymjEIkkYhcENB"
         },
         {
-            "rank": "48",
+            "rank": "50",
             "title": "Espresso",
             "artist": "Sabrina Carpenter",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273255ec9ddd8af81fd9aba2ced",
             "link": "https://open.spotify.com/track/1vLqigPHwiFnXsfrLMehV1"
-        },
-        {
-            "rank": "49",
-            "title": "Yugure no Tori",
-            "artist": "Shinsei Kamattechan",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2735ab02ebed5de37d2e540dfb5",
-            "link": "https://open.spotify.com/track/6owPhBDQ7yiDOR4PoDza3I"
-        },
-        {
-            "rank": "50",
-            "title": "Ice Cream Moment",
-            "artist": "slump girl",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f9df0f13d30ea7e5fe360602",
-            "link": "https://open.spotify.com/track/6eyRiNGtSWHCevrdjIu2Rg"
         }
     ],
     "alltime": [
@@ -438,7 +438,7 @@
             "rank": "5",
             "title": "Judas",
             "artist": "Lady Gaga",
-            "playcount": 11,
+            "playcount": 12,
             "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         }
     ],
-    "last_updated": 1772252043
+    "last_updated": 1772260278
 }
