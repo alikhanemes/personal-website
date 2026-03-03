@@ -330,6 +330,14 @@
         },
         {
             "rank": "42",
+            "title": "STAY (with Justin Bieber)",
+            "artist": "The Kid LAROI",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273aed1660585c1e3c9ffb50b6a",
+            "link": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+        },
+        {
+            "rank": "43",
             "title": "Save Your Tears",
             "artist": "The Weeknd",
             "playcount": 2,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "Starboy",
             "artist": "The Weeknd",
             "playcount": 2,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "Requiem, K. 626: Lacrimosa",
             "artist": "Wolfgang Amadeus Mozart",
             "playcount": 2,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/3oHSL6pt9LpNrQZuQGu9wL"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 2,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 2,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Кадилакта",
             "artist": "Кисло-сладкий",
             "playcount": 2,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/6zTSkUMMISKgIP7hARMAYs"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "Bye Bye Bye",
             "artist": "*NSYNC",
             "playcount": 1,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "BURN",
             "artist": "¥$",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b27393ad0e1d3ff85c7e18561cff",
             "link": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
-        },
-        {
-            "rank": "50",
-            "title": "Mr Recoup",
-            "artist": "21 Savage",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273819578d6529880615ce5692b",
-            "link": "https://open.spotify.com/track/38iBHQloAVZNpKsFVU8aAd"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3hHjC08VoyAvxETsu2ZISw"
         }
     ],
-    "last_updated": 1772563235
+    "last_updated": 1772573372
 }
