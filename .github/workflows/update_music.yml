@@ -2,9 +2,12 @@ name: Update Last.fm Stats
 
 on:
   schedule:
-    # This runs every 3 hours automatically
-    - cron: '0 */3 * * *'
+    - cron: '0 */3 * * *' # Every 3 hours
   workflow_dispatch: 
+
+# CRITICAL: Grant permission to push changes back to the repo
+permissions:
+  contents: write
 
 jobs:
   update-data:
@@ -13,6 +16,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches all history so git push works better
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -36,7 +41,14 @@ jobs:
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@users.noreply.github.com'
+          
+          # Check if there are changes to songs.json
           git add songs.json
-          # Only commit if songs.json actually changed
-          git diff --quiet && git diff --staged --quiet || git commit -m "chore: update music stats"
-          git push
+          if git diff --staged --quiet; then
+            echo "No changes to songs.json. Skipping push."
+          else
+            # Pull first to avoid conflicts, then commit and push
+            git pull --rebase origin main
+            git commit -m "chore: update music stats"
+            git push
+          fi
