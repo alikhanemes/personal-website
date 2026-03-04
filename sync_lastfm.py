@@ -38,21 +38,20 @@ def clean_name(text):
 
 def get_spotify_data(artist, track, token):
     headers = {"Authorization": f"Bearer {token}"}
-    
-    # We use a broad search query because "track:X artist:Y" 
-    # is often too strict for Last.fm's naming conventions.
     search_query = f"{artist} {clean_name(track)}"
-    
     url = "https://api.spotify.com/v1/search"
-    params = {
-        "q": search_query,
-        "type": "track",
-        "limit": 1
-    }
+    params = {"q": search_query, "type": "track", "limit": 1}
 
     try:
         resp = requests.get(url, headers=headers, params=params)
         
+        # If we hit a rate limit, read the 'Retry-After' header
+        if resp.status_code == 429:
+            retry_after = int(resp.headers.get("Retry-After", 3)) # Default to 3 seconds
+            print(f"⚠️ Rate limited! Sleeping for {retry_after}s...")
+            time.sleep(retry_after)
+            return get_spotify_data(artist, track, token) # Try again after sleeping
+
         if resp.status_code == 401:
             print("Token expired or invalid.")
             return None, None
@@ -64,7 +63,6 @@ def get_spotify_data(artist, track, token):
         data = resp.json()
         if 'tracks' in data and data['tracks']['items']:
             item = data['tracks']['items'][0]
-            # Get the high-res image
             img_url = item['album']['images'][0]['url'] if item['album']['images'] else None
             spotify_url = item['external_urls']['spotify']
             return img_url, spotify_url
@@ -116,7 +114,7 @@ def fetch_from_lastfm(period, token):
             "image": img,
             "link": link
         })
-        time.sleep(0.1) # Avoid hitting Spotify rate limits
+        time.sleep(0.5) # Avoid hitting Spotify rate limits
     return processed
 
 def sync_lastfm():
