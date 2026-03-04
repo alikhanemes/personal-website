@@ -42,13 +42,19 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@users.noreply.github.com'
           
-          # Check if there are changes to songs.json
+          # 1. Stage the file
           git add songs.json
+          
+          # 2. Check if there are changes to commit
           if git diff --staged --quiet; then
             echo "No changes to songs.json. Skipping push."
           else
-            # Pull first to avoid conflicts, then commit and push
-            git pull --rebase origin main
+            # 3. Commit locally first
             git commit -m "chore: update music stats"
-            git push
+            
+            # 4. Pull remote changes and rebase your commit on top of them
+            git pull --rebase origin main
+            
+            # 5. Push to the repository
+            git push origin main
           fi
