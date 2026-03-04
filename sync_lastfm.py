@@ -35,8 +35,21 @@ def clean_name(text):
     text = re.sub(r'\s*[\(\[].*?[\)\]]', '', text)
     # Remove extra whitespace
     return text.strip()
+# We use a cache to store tracks we already found. 
+# This prevents the script from asking Spotify twice for the same song.
+SPOTIFY_CACHE = {}
 
-def get_spotify_data(artist, track, token):
+def get_spotify_data(artist, track, token, retries=0):
+    # 1. Check cache first
+    cache_key = f"{artist}:{track}".lower()
+    if cache_key in SPOTIFY_CACHE:
+        return SPOTIFY_CACHE[cache_key]
+
+    # 2. Safety Break: Stop after 3 attempts to prevent the eternal loop
+    if retries > 2:
+        print(f"🛑 Giving up on searching '{track}' after 3 tries.")
+        return None, None
+
     headers = {"Authorization": f"Bearer {token}"}
     search_query = f"{artist} {clean_name(track)}"
     url = "https://api.spotify.com/v1/search"
@@ -45,32 +58,35 @@ def get_spotify_data(artist, track, token):
     try:
         resp = requests.get(url, headers=headers, params=params)
         
-        # If we hit a rate limit, read the 'Retry-After' header
+        # 3. Handle Rate Limit (429) specifically
         if resp.status_code == 429:
-            retry_after = int(resp.headers.get("Retry-After", 3)) # Default to 3 seconds
-            print(f"⚠️ Rate limited! Sleeping for {retry_after}s...")
-            time.sleep(retry_after)
-            return get_spotify_data(artist, track, token) # Try again after sleeping
+            # Get retry time from Spotify, but cap it at 60 seconds
+            wait_time = int(resp.headers.get("Retry-After", 5))
+            wait_time = min(wait_time, 60) 
+            print(f"⚠️ Rate limited! Waiting {wait_time}s... (Attempt {retries+1}/3)")
+            time.sleep(wait_time)
+            # Try again, incrementing the retry counter
+            return get_spotify_data(artist, track, token, retries + 1)
 
-        if resp.status_code == 401:
-            print("Token expired or invalid.")
-            return None, None
-        
         if resp.status_code != 200:
-            print(f"Spotify API Error {resp.status_code}: {resp.text}")
+            print(f"Spotify API Error {resp.status_code}")
             return None, None
 
         data = resp.json()
+        result = (None, None)
         if 'tracks' in data and data['tracks']['items']:
             item = data['tracks']['items'][0]
             img_url = item['album']['images'][0]['url'] if item['album']['images'] else None
             spotify_url = item['external_urls']['spotify']
-            return img_url, spotify_url
+            result = (img_url, spotify_url)
+        
+        # Save to cache so we don't look this up again in the next list
+        SPOTIFY_CACHE[cache_key] = result
+        return result
             
     except Exception as e:
         print(f"Request Error: {e}")
-        
-    return None, None
+        return None, None
 
 def fetch_from_lastfm(period, token):
     print(f"\n--- Fetching {period} from Last.fm ---")
@@ -99,7 +115,6 @@ def fetch_from_lastfm(period, token):
             print(f"✅ Found: {title} by {artist}")
         else:
             print(f"❌ Failed: {title} (Using Last.fm fallback)")
-            # Fallback to Last.fm Image if Spotify fails
             try:
                 img = t['image'][-1]['#text']
             except:
@@ -114,7 +129,8 @@ def fetch_from_lastfm(period, token):
             "image": img,
             "link": link
         })
-        time.sleep(0.5) # Avoid hitting Spotify rate limits
+        # Use 1.0 seconds to be very safe against 429 errors
+        time.sleep(1.0) 
     return processed
 
 def sync_lastfm():
