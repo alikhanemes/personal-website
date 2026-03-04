@@ -692,6 +692,14 @@
         },
         {
             "rank": "37",
+            "title": "Let Me Love You",
+            "artist": "DJ Snake",
+            "playcount": 5,
+            "image": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc",
+            "link": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
+        },
+        {
+            "rank": "38",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 5,
@@ -699,7 +707,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 5,
@@ -707,7 +715,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "Big Dawgs",
             "artist": "HanuMankind",
             "playcount": 5,
@@ -715,7 +723,7 @@
             "link": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "Night Dancer",
             "artist": "imase",
             "playcount": 5,
@@ -723,7 +731,7 @@
             "link": "https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 5,
@@ -731,7 +739,7 @@
             "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "squabble up",
             "artist": "Kendrick Lamar",
             "playcount": 5,
@@ -739,7 +747,7 @@
             "link": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "IRIS OUT",
             "artist": "Kenshi Yonezu",
             "playcount": 5,
@@ -747,7 +755,7 @@
             "link": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "departure!-second ver.- - TV Size",
             "artist": "Masatoshi Ono",
             "playcount": 5,
@@ -755,7 +763,7 @@
             "link": "https://open.spotify.com/track/26TtP84gzYGmNeftIyB9Ug"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 5,
@@ -763,7 +771,7 @@
             "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "Boy's a liar Pt. 2",
             "artist": "PinkPantheress",
             "playcount": 5,
@@ -771,7 +779,7 @@
             "link": "https://open.spotify.com/track/6AQbmUe0Qwf5PZnt4HmTXv"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Espresso",
             "artist": "Sabrina Carpenter",
             "playcount": 5,
@@ -779,7 +787,7 @@
             "link": "https://open.spotify.com/track/1vLqigPHwiFnXsfrLMehV1"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 5,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 5,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-        },
-        {
-            "rank": "50",
-            "title": "青のすみか - From THE FIRST TAKE",
-            "artist": "Tatsuya Kitani",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731af4cbc40fff5570e6dd3342",
-            "link": "https://open.spotify.com/track/3hHjC08VoyAvxETsu2ZISw"
         }
     ],
-    "last_updated": 1772573372
+    "last_updated": 1772587681
 }
