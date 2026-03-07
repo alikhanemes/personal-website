@@ -82,19 +82,19 @@
         },
         {
             "rank": "11",
+            "title": "Judas",
+            "artist": "Lady Gaga",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+        },
+        {
+            "rank": "12",
             "title": "Can You Hear the Music",
             "artist": "Ludwig Göransson",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273af634982d9b15de3c77f7dd9",
             "link": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
-        },
-        {
-            "rank": "12",
-            "title": "we never dated",
-            "artist": "sombr",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
-            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
             "rank": "13",
@@ -181,24 +181,24 @@
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/God%27s+Plan"
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
             "rank": "24",
             "title": "Kaikai Kitan",
             "artist": "Eve",
             "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Eve/_/Kaikai+Kitan"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9",
+            "link": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
         },
         {
             "rank": "25",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/Let+Me+Hear"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f7083957f85b021f69cf778",
+            "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
         },
         {
             "rank": "26",
@@ -210,14 +210,6 @@
         },
         {
             "rank": "27",
-            "title": "Judas",
-            "artist": "Lady Gaga",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
-            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
-        },
-        {
-            "rank": "28",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -225,7 +217,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "29",
+            "rank": "28",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -233,7 +225,7 @@
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
-            "rank": "30",
+            "rank": "29",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 3,
@@ -241,7 +233,23 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
+            "rank": "30",
+            "title": "we never dated",
+            "artist": "sombr",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
+            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+        },
+        {
             "rank": "31",
+            "title": "São Paulo (feat. Anitta)",
+            "artist": "The Weeknd",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
+            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+        },
+        {
+            "rank": "32",
             "title": "Requiem, K. 626: Lacrimosa",
             "artist": "Wolfgang Amadeus Mozart",
             "playcount": 3,
@@ -249,7 +257,7 @@
             "link": "https://open.spotify.com/track/3oHSL6pt9LpNrQZuQGu9wL"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 3,
@@ -257,7 +265,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 3,
@@ -265,7 +273,7 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Кадилакта",
             "artist": "Кисло-сладкий",
             "playcount": 3,
@@ -273,7 +281,7 @@
             "link": "https://open.spotify.com/track/6zTSkUMMISKgIP7hARMAYs"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "善惡終有報(What Goes Around)",
             "artist": "攬佬SKAI ISYOURGOD",
             "playcount": 3,
@@ -281,7 +289,15 @@
             "link": "https://open.spotify.com/track/5CSn84QJgyHs1zM0b5pu5x"
         },
         {
-            "rank": "36",
+            "rank": "37",
+            "title": "BURN",
+            "artist": "¥$",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27393ad0e1d3ff85c7e18561cff",
+            "link": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
+        },
+        {
+            "rank": "38",
             "title": "Seruen",
             "artist": "Abyken",
             "playcount": 2,
@@ -289,7 +305,7 @@
             "link": "https://open.spotify.com/track/2r2mPZrJbcCZMWKYevbuYw"
         },
         {
-            "rank": "37",
+            "rank": "39",
             "title": "革命道中 - On The Way",
             "artist": "Aina The End",
             "playcount": 2,
@@ -297,7 +313,7 @@
             "link": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
         },
         {
-            "rank": "38",
+            "rank": "40",
             "title": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse",
             "artist": "Antonín Dvořák",
             "playcount": 2,
@@ -305,7 +321,7 @@
             "link": "https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ"
         },
         {
-            "rank": "39",
+            "rank": "41",
             "title": "Symphony No. 9 in E minor, Op. 95, B. 178 \"From the New World\": IV. Allegro con fuoco",
             "artist": "Antonín Dvořák",
             "playcount": 2,
@@ -313,7 +329,7 @@
             "link": "https://open.spotify.com/track/6nqHzwOdGIaX57U6VU6kMO"
         },
         {
-            "rank": "40",
+            "rank": "42",
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 2,
@@ -321,15 +337,7 @@
             "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
         },
         {
-            "rank": "41",
-            "title": "if u think i'm pretty",
-            "artist": "Artemas",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a05f71a30fa52bf9c2b046b7",
-            "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
-        },
-        {
-            "rank": "42",
+            "rank": "43",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 2,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 2,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "Cha Cha Cha",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -353,7 +361,23 @@
             "link": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
         },
         {
-            "rank": "45",
+            "rank": "46",
+            "title": "Locked Out of Heaven",
+            "artist": "Bruno Mars",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+            "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
+        },
+        {
+            "rank": "47",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "48",
             "title": "Keipker",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -361,7 +385,7 @@
             "link": "https://open.spotify.com/track/2BHXC1rhe16nmdbNhONHDn"
         },
         {
-            "rank": "46",
+            "rank": "49",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -369,36 +393,12 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "47",
+            "rank": "50",
             "title": "Munayp",
             "artist": "Darkhan Juzz",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/26Cj7STqSoLXey5ZwMflfn"
-        },
-        {
-            "rank": "48",
-            "title": "Osy Tobeden",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/0dyhIIKIdtCs5l3q08IVKv"
-        },
-        {
-            "rank": "49",
-            "title": "Qosh Bol Japyraq",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27363a81484f79fc8a2caea9c3d",
-            "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
-        },
-        {
-            "rank": "50",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         }
     ],
     "alltime": [
@@ -422,7 +422,7 @@
             "rank": "3",
             "title": "Judas",
             "artist": "Lady Gaga",
-            "playcount": 15,
+            "playcount": 16,
             "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
@@ -780,6 +780,14 @@
         },
         {
             "rank": "48",
+            "title": "São Paulo (feat. Anitta)",
+            "artist": "The Weeknd",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
+            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+        },
+        {
+            "rank": "49",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 6,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Кадилакта",
             "artist": "Кисло-сладкий",
             "playcount": 6,
             "image": "https://i.scdn.co/image/ab67616d0000b27368b29bf954017f572d5563c9",
             "link": "https://open.spotify.com/track/6zTSkUMMISKgIP7hARMAYs"
-        },
-        {
-            "rank": "50",
-            "title": "大展鴻圖(Blueprint Supreme)",
-            "artist": "攬佬SKAI ISYOURGOD",
-            "playcount": 6,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-            "link": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
         }
     ],
-    "last_updated": 1772908662
+    "last_updated": 1772918283
 }
