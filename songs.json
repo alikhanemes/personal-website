@@ -2,14 +2,6 @@
     "recent": [
         {
             "rank": "1",
-            "title": "Малышка",
-            "artist": "Sharlot",
-            "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
-            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
-        },
-        {
-            "rank": "2",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 7,
@@ -17,10 +9,18 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         },
         {
+            "rank": "2",
+            "title": "Малышка",
+            "artist": "Sharlot",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+        },
+        {
             "rank": "3",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
-            "playcount": 5,
+            "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
         }
     ],
-    "last_updated": 1772857280
+    "last_updated": 1772865279
 }
