@@ -58,14 +58,6 @@
         },
         {
             "rank": "8",
-            "title": "Judas",
-            "artist": "Lady Gaga",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
-            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
-        },
-        {
-            "rank": "9",
             "title": "Can You Hear the Music",
             "artist": "Ludwig Göransson",
             "playcount": 4,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 4,
@@ -81,7 +73,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 4,
@@ -89,7 +81,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "a lot",
             "artist": "21 Savage",
             "playcount": 3,
@@ -97,7 +89,7 @@
             "link": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
         },
         {
-            "rank": "13",
+            "rank": "12",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 3,
@@ -105,7 +97,7 @@
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         },
         {
-            "rank": "14",
+            "rank": "13",
             "title": "Concerto No. 2 in G minor, Op. 8, RV 315, \"L'estate\" (Summer): III. Presto",
             "artist": "Antonio Vivaldi",
             "playcount": 3,
@@ -113,7 +105,7 @@
             "link": "https://open.spotify.com/track/1ZKPEIP43RTk02yuflqnhF"
         },
         {
-            "rank": "15",
+            "rank": "14",
             "title": "BON VOYAGE!",
             "artist": "BON-BON BLANCO",
             "playcount": 3,
@@ -121,7 +113,7 @@
             "link": "https://open.spotify.com/track/0KlIjeagjIm5WBcLvtFbiv"
         },
         {
-            "rank": "16",
+            "rank": "15",
             "title": "We Don't Talk Anymore (feat. Selena Gomez)",
             "artist": "Charlie Puth",
             "playcount": 3,
@@ -129,7 +121,7 @@
             "link": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "Auaga",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -137,7 +129,7 @@
             "link": "https://open.spotify.com/track/14UaCBOAlXJZAGpHAwt3Cp"
         },
         {
-            "rank": "18",
+            "rank": "17",
             "title": "Bari Shynai",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -145,7 +137,7 @@
             "link": "https://open.spotify.com/track/1SE2vcMDbVEteuiyuUIXkt"
         },
         {
-            "rank": "19",
+            "rank": "18",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 3,
@@ -153,7 +145,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "20",
+            "rank": "19",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 3,
@@ -161,7 +153,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "21",
+            "rank": "20",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 3,
@@ -169,12 +161,20 @@
             "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
         },
         {
-            "rank": "22",
+            "rank": "21",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
             "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+        },
+        {
+            "rank": "22",
+            "title": "Judas",
+            "artist": "Lady Gaga",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
             "rank": "23",
@@ -386,19 +386,19 @@
         },
         {
             "rank": "49",
-            "title": "Розовое вино",
-            "artist": "Eldzhey",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27369255d8d63701e55a842ba86",
-            "link": "https://open.spotify.com/track/2gcFOhxQOqAx1OABnxvUZ4"
-        },
-        {
-            "rank": "50",
             "title": "MIDDLE OF THE NIGHT",
             "artist": "Elley Duhé",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e",
             "link": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
+        },
+        {
+            "rank": "50",
+            "title": "I'm Still Standing",
+            "artist": "Elton John",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
+            "link": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
         }
     ],
-    "last_updated": 1772832391
+    "last_updated": 1772846794
 }
