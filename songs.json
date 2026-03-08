@@ -58,14 +58,6 @@
         },
         {
             "rank": "8",
-            "title": "Esindi Ji",
-            "artist": "Darkhan Juzz",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
-        },
-        {
-            "rank": "9",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 4,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 4,
@@ -81,7 +73,7 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "squabble up",
             "artist": "Kendrick Lamar",
             "playcount": 4,
@@ -89,7 +81,7 @@
             "link": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "Can You Hear the Music",
             "artist": "Ludwig Göransson",
             "playcount": 4,
@@ -97,7 +89,7 @@
             "link": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
         },
         {
-            "rank": "13",
+            "rank": "12",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 4,
@@ -105,7 +97,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "14",
+            "rank": "13",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 3,
@@ -113,7 +105,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "15",
+            "rank": "14",
             "title": "a lot",
             "artist": "21 Savage",
             "playcount": 3,
@@ -121,7 +113,7 @@
             "link": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
         },
         {
-            "rank": "16",
+            "rank": "15",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 3,
@@ -129,7 +121,7 @@
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 3,
@@ -137,7 +129,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "18",
+            "rank": "17",
             "title": "BIRDS OF A FEATHER",
             "artist": "Billie Eilish",
             "playcount": 3,
@@ -145,7 +137,7 @@
             "link": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
         },
         {
-            "rank": "19",
+            "rank": "18",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 3,
@@ -153,7 +145,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "20",
+            "rank": "19",
             "title": "We Don't Talk Anymore (feat. Selena Gomez)",
             "artist": "Charlie Puth",
             "playcount": 3,
@@ -161,7 +153,7 @@
             "link": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
         },
         {
-            "rank": "21",
+            "rank": "20",
             "title": "Auaga",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -169,12 +161,20 @@
             "link": "https://open.spotify.com/track/14UaCBOAlXJZAGpHAwt3Cp"
         },
         {
-            "rank": "22",
+            "rank": "21",
             "title": "Bari Shynai",
             "artist": "Darkhan Juzz",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/1SE2vcMDbVEteuiyuUIXkt"
+        },
+        {
+            "rank": "22",
+            "title": "Esindi Ji",
+            "artist": "Darkhan Juzz",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
         {
             "rank": "23",
@@ -298,14 +298,6 @@
         },
         {
             "rank": "38",
-            "title": "Seruen",
-            "artist": "Abyken",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732a0a16ed9c6b1c7a1b975229",
-            "link": "https://open.spotify.com/track/2r2mPZrJbcCZMWKYevbuYw"
-        },
-        {
-            "rank": "39",
             "title": "革命道中 - On The Way",
             "artist": "Aina The End",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse",
             "artist": "Antonín Dvořák",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/3sAYxq1986j3ydqLv6jwUJ"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Concerto No. 2 in G minor, Op. 8, RV 315, \"L'estate\" (Summer): III. Presto",
             "artist": "Antonio Vivaldi",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/1ZKPEIP43RTk02yuflqnhF"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Cha Cha Cha",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Keipker",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/2BHXC1rhe16nmdbNhONHDn"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Munayp",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/26Cj7STqSoLXey5ZwMflfn"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Osy Tobeden",
             "artist": "Darkhan Juzz",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/0dyhIIKIdtCs5l3q08IVKv"
+        },
+        {
+            "rank": "50",
+            "title": "Qosh Bol Japyraq",
+            "artist": "Darkhan Juzz",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27363a81484f79fc8a2caea9c3d",
+            "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6zTSkUMMISKgIP7hARMAYs"
         }
     ],
-    "last_updated": 1772973467
+    "last_updated": 1772983214
 }
