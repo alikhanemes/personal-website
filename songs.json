@@ -42,14 +42,6 @@
         },
         {
             "rank": "6",
-            "title": "Ol",
-            "artist": "Darkhan Juzz",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
-        },
-        {
-            "rank": "7",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 4,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "As It Was",
             "artist": "Harry Styles",
             "playcount": 4,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 4,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "squabble up",
             "artist": "Kendrick Lamar",
             "playcount": 4,
@@ -81,7 +73,7 @@
             "link": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 4,
@@ -89,7 +81,7 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "Can You Hear the Music",
             "artist": "Ludwig Göransson",
             "playcount": 4,
@@ -97,15 +89,7 @@
             "link": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
         },
         {
-            "rank": "13",
-            "title": "Bad Habit",
-            "artist": "Steve Lacy",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-        },
-        {
-            "rank": "14",
+            "rank": "12",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 3,
@@ -113,7 +97,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "15",
+            "rank": "13",
             "title": "a lot",
             "artist": "21 Savage",
             "playcount": 3,
@@ -121,7 +105,7 @@
             "link": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
         },
         {
-            "rank": "16",
+            "rank": "14",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 3,
@@ -129,7 +113,7 @@
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         },
         {
-            "rank": "17",
+            "rank": "15",
             "title": "Concerto No. 2 in G minor, Op. 8, RV 315, \"L'estate\" (Summer): III. Presto",
             "artist": "Antonio Vivaldi",
             "playcount": 3,
@@ -137,7 +121,7 @@
             "link": "https://open.spotify.com/track/1ZKPEIP43RTk02yuflqnhF"
         },
         {
-            "rank": "18",
+            "rank": "16",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 3,
@@ -145,7 +129,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "19",
+            "rank": "17",
             "title": "We Don't Talk Anymore (feat. Selena Gomez)",
             "artist": "Charlie Puth",
             "playcount": 3,
@@ -153,7 +137,7 @@
             "link": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
         },
         {
-            "rank": "20",
+            "rank": "18",
             "title": "Auaga",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -161,7 +145,7 @@
             "link": "https://open.spotify.com/track/14UaCBOAlXJZAGpHAwt3Cp"
         },
         {
-            "rank": "21",
+            "rank": "19",
             "title": "Bari Shynai",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -169,7 +153,15 @@
             "link": "https://open.spotify.com/track/1SE2vcMDbVEteuiyuUIXkt"
         },
         {
-            "rank": "22",
+            "rank": "20",
+            "title": "Ol",
+            "artist": "Darkhan Juzz",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
+        },
+        {
+            "rank": "21",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 3,
@@ -177,7 +169,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "23",
+            "rank": "22",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 3,
@@ -185,7 +177,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "24",
+            "rank": "23",
             "title": "Kaikai Kitan",
             "artist": "Eve",
             "playcount": 3,
@@ -193,7 +185,7 @@
             "link": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
         },
         {
-            "rank": "25",
+            "rank": "24",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 3,
@@ -201,7 +193,7 @@
             "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
         },
         {
-            "rank": "26",
+            "rank": "25",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -209,7 +201,7 @@
             "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
-            "rank": "27",
+            "rank": "26",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -217,7 +209,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "28",
+            "rank": "27",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -225,7 +217,7 @@
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
-            "rank": "29",
+            "rank": "28",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 3,
@@ -233,12 +225,20 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "30",
+            "rank": "29",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+        },
+        {
+            "rank": "30",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
             "rank": "31",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6zTSkUMMISKgIP7hARMAYs"
         }
     ],
-    "last_updated": 1772944924
+    "last_updated": 1772951867
 }
