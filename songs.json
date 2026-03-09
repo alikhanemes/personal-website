@@ -90,6 +90,14 @@
         },
         {
             "rank": "12",
+            "title": "IT BOY",
+            "artist": "bbno$",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739cd48ea54f12cdd1a244ce51",
+            "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
+        },
+        {
+            "rank": "13",
             "title": "BIRDS OF A FEATHER",
             "artist": "Billie Eilish",
             "playcount": 3,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 3,
@@ -105,7 +113,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "We Don't Talk Anymore (feat. Selena Gomez)",
             "artist": "Charlie Puth",
             "playcount": 3,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "Auaga",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/14UaCBOAlXJZAGpHAwt3Cp"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Keipker",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/2BHXC1rhe16nmdbNhONHDn"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "Munayp",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/26Cj7STqSoLXey5ZwMflfn"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Osy Tobeden",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/0dyhIIKIdtCs5l3q08IVKv"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Shyndar",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 3,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 3,
@@ -177,7 +185,15 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "23",
+            "rank": "24",
+            "title": "NOKIA",
+            "artist": "Drake",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+        },
+        {
+            "rank": "25",
             "title": "Kaikai Kitan",
             "artist": "Eve",
             "playcount": 3,
@@ -185,7 +201,7 @@
             "link": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
         },
         {
-            "rank": "24",
+            "rank": "26",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 3,
@@ -193,7 +209,7 @@
             "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
         },
         {
-            "rank": "25",
+            "rank": "27",
             "title": "Can You Hear the Music",
             "artist": "Ludwig Göransson",
             "playcount": 3,
@@ -201,7 +217,7 @@
             "link": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
         },
         {
-            "rank": "26",
+            "rank": "28",
             "title": "Animals",
             "artist": "Maroon 5",
             "playcount": 3,
@@ -209,7 +225,7 @@
             "link": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
         },
         {
-            "rank": "27",
+            "rank": "29",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -217,7 +233,39 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "28",
+            "rank": "30",
+            "title": "I Must Apologise",
+            "artist": "PinkPantheress",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
+            "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
+        },
+        {
+            "rank": "31",
+            "title": "Pain",
+            "artist": "PinkPantheress",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+            "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+        },
+        {
+            "rank": "32",
+            "title": "Until I Found You (with Em Beihold) - Em Beihold Version",
+            "artist": "Stephen Sanchez",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732bf0876d42b90a8852ad6244",
+            "link": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
+        },
+        {
+            "rank": "33",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+        },
+        {
+            "rank": "34",
             "title": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -225,7 +273,7 @@
             "link": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
         },
         {
-            "rank": "29",
+            "rank": "35",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 2,
@@ -233,7 +281,15 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "30",
+            "rank": "36",
+            "title": "Dancing in My Room",
+            "artist": "347aidan",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c",
+            "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
+        },
+        {
+            "rank": "37",
             "title": "Concerto No. 2 in G minor, Op. 8, RV 315, \"L'estate\" (Summer): III. Presto",
             "artist": "Antonio Vivaldi",
             "playcount": 2,
@@ -241,7 +297,7 @@
             "link": "https://open.spotify.com/track/1ZKPEIP43RTk02yuflqnhF"
         },
         {
-            "rank": "31",
+            "rank": "38",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
@@ -249,15 +305,7 @@
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
         },
         {
-            "rank": "32",
-            "title": "IT BOY",
-            "artist": "bbno$",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739cd48ea54f12cdd1a244ce51",
-            "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
-        },
-        {
-            "rank": "33",
+            "rank": "39",
             "title": "BON VOYAGE!",
             "artist": "BON-BON BLANCO",
             "playcount": 2,
@@ -265,7 +313,7 @@
             "link": "https://open.spotify.com/track/0KlIjeagjIm5WBcLvtFbiv"
         },
         {
-            "rank": "34",
+            "rank": "40",
             "title": "Cha Cha Cha",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -273,7 +321,7 @@
             "link": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
         },
         {
-            "rank": "35",
+            "rank": "41",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -281,7 +329,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "36",
+            "rank": "42",
             "title": "Jol - Shampein",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -289,7 +337,7 @@
             "link": "https://open.spotify.com/track/0gHsfc1hXww86SnpwdunlR"
         },
         {
-            "rank": "37",
+            "rank": "43",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -297,7 +345,7 @@
             "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "38",
+            "rank": "44",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -305,7 +353,7 @@
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
         },
         {
-            "rank": "39",
+            "rank": "45",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -313,7 +361,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "40",
+            "rank": "46",
             "title": "Shyrailym",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -321,7 +369,7 @@
             "link": "https://open.spotify.com/track/1gErj5qtlTojPaU1a85VEk"
         },
         {
-            "rank": "41",
+            "rank": "47",
             "title": "Shyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -329,15 +377,7 @@
             "link": "https://open.spotify.com/track/1dzFbTiI9u1xIYZcGBHI20"
         },
         {
-            "rank": "42",
-            "title": "NOKIA",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-        },
-        {
-            "rank": "43",
+            "rank": "48",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 2,
@@ -345,7 +385,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "44",
+            "rank": "49",
             "title": "Shape of You",
             "artist": "Ed Sheeran",
             "playcount": 2,
@@ -353,52 +393,12 @@
             "link": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
         },
         {
-            "rank": "45",
+            "rank": "50",
             "title": "MIDDLE OF THE NIGHT",
             "artist": "Elley Duhé",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27353a2e11c1bde700722fecd2e",
             "link": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
-        },
-        {
-            "rank": "46",
-            "title": "I'm Still Standing",
-            "artist": "Elton John",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273eb11e2abccdca41f39ad3b89",
-            "link": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
-        },
-        {
-            "rank": "47",
-            "title": "Godzilla (feat. Juice WRLD)",
-            "artist": "Eminem",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
-            "link": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
-        },
-        {
-            "rank": "48",
-            "title": "Tongue Tied",
-            "artist": "Grouplove",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d84a9bbcba91cb6a4a212b1b",
-            "link": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
-        },
-        {
-            "rank": "49",
-            "title": "Too Sweet",
-            "artist": "Hozier",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a863515e13cd344fe03c9d47",
-            "link": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
-        },
-        {
-            "rank": "50",
-            "title": "Men de Süyem",
-            "artist": "jeltoksan.",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bfa739baf60d7cba8b72fffd",
-            "link": "https://open.spotify.com/track/4nO5s6sOxbWAenM9AXW8pi"
         }
     ],
     "alltime": [
@@ -438,7 +438,7 @@
             "rank": "5",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
-            "playcount": 13,
+            "playcount": 14,
             "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
@@ -548,6 +548,14 @@
         },
         {
             "rank": "19",
+            "title": "Pain",
+            "artist": "PinkPantheress",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+            "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
+        },
+        {
+            "rank": "20",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 8,
@@ -555,7 +563,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -563,7 +571,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -571,7 +579,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 8,
@@ -579,7 +587,15 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "23",
+            "rank": "24",
+            "title": "NOKIA",
+            "artist": "Drake",
+            "playcount": 8,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+        },
+        {
+            "rank": "25",
             "title": "ワスレガタキ",
             "artist": "Huwie Ishizaki",
             "playcount": 8,
@@ -587,7 +603,7 @@
             "link": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
         },
         {
-            "rank": "24",
+            "rank": "26",
             "title": "TUCA DONKA (Slowed + Reverb)",
             "artist": "CURSEDEVIL",
             "playcount": 7,
@@ -595,7 +611,7 @@
             "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
         },
         {
-            "rank": "25",
+            "rank": "27",
             "title": "Bari Shynai",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -603,7 +619,7 @@
             "link": "https://open.spotify.com/track/1SE2vcMDbVEteuiyuUIXkt"
         },
         {
-            "rank": "26",
+            "rank": "28",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -611,7 +627,7 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         },
         {
-            "rank": "27",
+            "rank": "29",
             "title": "Sapar",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -619,7 +635,7 @@
             "link": "https://open.spotify.com/track/1O0iQ3z706fEF16QqoArh7"
         },
         {
-            "rank": "28",
+            "rank": "30",
             "title": "Shyndar",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -627,7 +643,7 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         },
         {
-            "rank": "29",
+            "rank": "31",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 7,
@@ -635,15 +651,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "30",
-            "title": "NOKIA",
-            "artist": "Drake",
-            "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-        },
-        {
-            "rank": "31",
+            "rank": "32",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 7,
@@ -651,7 +659,7 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "神様はじめました",
             "artist": "Hanae",
             "playcount": 7,
@@ -659,7 +667,7 @@
             "link": "https://open.spotify.com/track/7vP9nI0gNbEzcPgo4ne5t5"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 7,
@@ -667,20 +675,12 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 7,
             "image": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648",
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
-        },
-        {
-            "rank": "35",
-            "title": "Pain",
-            "artist": "PinkPantheress",
-            "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
-            "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
             "rank": "36",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
         }
     ],
-    "last_updated": 1773071747
+    "last_updated": 1773081929
 }
