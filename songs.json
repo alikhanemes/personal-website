@@ -250,14 +250,6 @@
         },
         {
             "rank": "32",
-            "title": "Until I Found You (with Em Beihold) - Em Beihold Version",
-            "artist": "Stephen Sanchez",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732bf0876d42b90a8852ad6244",
-            "link": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-        },
-        {
-            "rank": "33",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 3,
@@ -265,7 +257,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "34",
+            "rank": "33",
             "title": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
             "artist": "The Weeknd",
             "playcount": 3,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 2,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "Dancing in My Room",
             "artist": "347aidan",
             "playcount": 2,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "Concerto No. 2 in G minor, Op. 8, RV 315, \"L'estate\" (Summer): III. Presto",
             "artist": "Antonio Vivaldi",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/1ZKPEIP43RTk02yuflqnhF"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "BON VOYAGE!",
             "artist": "BON-BON BLANCO",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/0KlIjeagjIm5WBcLvtFbiv"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "Cha Cha Cha",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/6QletrrmpkUpeJkipX9pgf"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "We Don't Talk Anymore (feat. Selena Gomez)",
             "artist": "Charlie Puth",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/37FXw5QGFN7uwwsLy8uAc0"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Jol - Shampein",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/0gHsfc1hXww86SnpwdunlR"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Shyrailym",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/1gErj5qtlTojPaU1a85VEk"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Shyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/1dzFbTiI9u1xIYZcGBHI20"
+        },
+        {
+            "rank": "50",
+            "title": "U Are My High (with Future)",
+            "artist": "DJ Snake",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273facc0e1669e12f4189589498",
+            "link": "https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
         }
     ],
-    "last_updated": 1773178010
+    "last_updated": 1773192439
 }
