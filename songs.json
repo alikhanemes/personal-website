@@ -34,6 +34,14 @@
         },
         {
             "rank": "5",
+            "title": "I Must Apologise",
+            "artist": "PinkPantheress",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
+            "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
+        },
+        {
+            "rank": "6",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 4,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Passion",
             "artist": "PinkPantheress",
             "playcount": 4,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 4,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 4,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 3,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "BIRDS OF A FEATHER",
             "artist": "Billie Eilish",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 3,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 3,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 3,
@@ -105,20 +113,12 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "Animals",
             "artist": "Maroon 5",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
             "link": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
-        },
-        {
-            "rank": "15",
-            "title": "I Must Apologise",
-            "artist": "PinkPantheress",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
-            "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
             "rank": "16",
@@ -162,14 +162,6 @@
         },
         {
             "rank": "21",
-            "title": "Daiynbyz ba?",
-            "artist": "Alem",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
-            "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
-        },
-        {
-            "rank": "22",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
@@ -177,7 +169,7 @@
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
         },
         {
-            "rank": "23",
+            "rank": "22",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 2,
@@ -185,7 +177,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "24",
+            "rank": "23",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -193,7 +185,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "25",
+            "rank": "24",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -201,7 +193,7 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
         {
-            "rank": "26",
+            "rank": "25",
             "title": "Keipker",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -209,7 +201,7 @@
             "link": "https://open.spotify.com/track/2BHXC1rhe16nmdbNhONHDn"
         },
         {
-            "rank": "27",
+            "rank": "26",
             "title": "U Are My High (with Future)",
             "artist": "DJ Snake",
             "playcount": 2,
@@ -217,7 +209,7 @@
             "link": "https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI"
         },
         {
-            "rank": "28",
+            "rank": "27",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 2,
@@ -225,7 +217,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "29",
+            "rank": "28",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 2,
@@ -233,7 +225,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "30",
+            "rank": "29",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 2,
@@ -241,7 +233,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "31",
+            "rank": "30",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 2,
@@ -249,7 +241,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "32",
+            "rank": "31",
             "title": "Kaikai Kitan",
             "artist": "Eve",
             "playcount": 2,
@@ -257,7 +249,7 @@
             "link": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
         },
         {
-            "rank": "33",
+            "rank": "32",
             "title": "Baby",
             "artist": "Justin Bieber",
             "playcount": 2,
@@ -265,7 +257,7 @@
             "link": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
         },
         {
-            "rank": "34",
+            "rank": "33",
             "title": "All Falls Down",
             "artist": "Kanye West",
             "playcount": 2,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "I Wonder",
             "artist": "Kanye West",
             "playcount": 2,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "Actor",
             "artist": "Lilas",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "Sign",
             "artist": "Lilas",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/5n7dcUUhuP7t5gCW8QTEEU"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "スパークル",
             "artist": "Lilas",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "ハミング",
             "artist": "Lilas",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/17f50sZb2FwIeyh89It1qX"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "百花繚乱",
             "artist": "Lilas",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Love For You - Slowed Down",
             "artist": "LOVELI LORI",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/7f0yWXUDcVTW7ztRmi53oQ"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Can You Hear the Music",
             "artist": "Ludwig Göransson",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/4VnDmjYCZkyeqeb0NIKqdA"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "FVN!",
             "artist": "LVL1",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/6MNwXWX1d2k8ARllRJ5Ezt"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "“Tomodachi Game” Main Theme",
             "artist": "Michiru",
             "playcount": 2,
@@ -361,12 +353,20 @@
             "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Unslept",
             "artist": "Miraidempa",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273c91175393cd17e6bc3a947c5",
             "link": "https://open.spotify.com/track/1JMvajCm93H7ppK5sboii0"
+        },
+        {
+            "rank": "46",
+            "title": "Life Goes On",
+            "artist": "Oliver Tree",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf118f32a37c18511647b54a",
+            "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
             "rank": "47",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         }
     ],
-    "last_updated": 1773319594
+    "last_updated": 1773331011
 }
