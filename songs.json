@@ -66,14 +66,6 @@
         },
         {
             "rank": "9",
-            "title": "NOKIA",
-            "artist": "Drake",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-        },
-        {
-            "rank": "10",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 3,
@@ -81,12 +73,20 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648",
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+        },
+        {
+            "rank": "11",
+            "title": "meet the grahams",
+            "artist": "Kendrick Lamar",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ba8b74f6b8523c328be1bdd2",
+            "link": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
         },
         {
             "rank": "12",
@@ -178,6 +178,14 @@
         },
         {
             "rank": "23",
+            "title": "NOKIA",
+            "artist": "Drake",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+        },
+        {
+            "rank": "24",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 2,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "Baby",
             "artist": "Justin Bieber",
             "playcount": 2,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "All Falls Down",
             "artist": "Kanye West",
             "playcount": 2,
@@ -201,20 +209,12 @@
             "link": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "I Wonder",
             "artist": "Kanye West",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
             "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
-        },
-        {
-            "rank": "27",
-            "title": "meet the grahams",
-            "artist": "Kendrick Lamar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ba8b74f6b8523c328be1bdd2",
-            "link": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
         },
         {
             "rank": "28",
@@ -258,6 +258,14 @@
         },
         {
             "rank": "33",
+            "title": "РАТАТАТАТА",
+            "artist": "Morgenshtern",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273486265c805076bd076594db9",
+            "link": "https://open.spotify.com/track/41QuCYs1dEaneWhRvGVRHb"
+        },
+        {
+            "rank": "34",
             "title": "Just for Me",
             "artist": "PinkPantheress",
             "playcount": 2,
@@ -265,7 +273,7 @@
             "link": "https://open.spotify.com/track/1Vrj9Vcbb0lOG94pQbYvzv"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Last Valentines",
             "artist": "PinkPantheress",
             "playcount": 2,
@@ -273,7 +281,7 @@
             "link": "https://open.spotify.com/track/5aX9ocVkS6HqK5orEbsOoe"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "S&M",
             "artist": "Rihanna",
             "playcount": 2,
@@ -281,7 +289,7 @@
             "link": "https://open.spotify.com/track/2u02eLj96Atd6TBxkH9YvN"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 2,
@@ -289,7 +297,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "BURN",
             "artist": "¥$",
             "playcount": 1,
@@ -297,7 +305,7 @@
             "link": "https://open.spotify.com/track/5jfhLCSIFUO4ndzNRh4w4G"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 1,
@@ -305,7 +313,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "FIELD TRIP",
             "artist": "¥$",
             "playcount": 1,
@@ -313,7 +321,7 @@
             "link": "https://open.spotify.com/track/7vv89PswQvqGKCGJ1rw5on"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "Dancing in My Room",
             "artist": "347aidan",
             "playcount": 1,
@@ -321,7 +329,7 @@
             "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "革命道中 - On The Way",
             "artist": "Aina The End",
             "playcount": 1,
@@ -329,7 +337,7 @@
             "link": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "Dr. Tony Tony Chopper",
             "artist": "Anime Covers",
             "playcount": 1,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/1XDhtruuYxKHxqXE3olScy"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "Symphony No. 9 in E minor, Op. 95, B. 178 \"From the New World\": IV. Allegro con fuoco",
             "artist": "Antonín Dvořák",
             "playcount": 1,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/6nqHzwOdGIaX57U6VU6kMO"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "The Four Seasons, Violin Concerto No. 2 in G Minor, RV 315 \"L'estate\": III. Tempo impetuoso d'estate",
             "artist": "Antonio Vivaldi",
             "playcount": 1,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/0VQMAup2VdeQWLCvM14Uz2"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 1,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 1,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "What You Won't Do for Love",
             "artist": "Bobby Caldwell",
             "playcount": 1,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "BON VOYAGE!",
             "artist": "BON-BON BLANCO",
             "playcount": 1,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/0KlIjeagjIm5WBcLvtFbiv"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Summer",
             "artist": "Calvin Harris",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2738fba5806a323efd272677c4d",
             "link": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-        },
-        {
-            "rank": "50",
-            "title": "How Long",
-            "artist": "Charlie Puth",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273897f73256b9128a9d70eaf66",
-            "link": "https://open.spotify.com/track/6wmAHw1szh5RCKSRjiXhPe"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
         }
     ],
-    "last_updated": 1773462655
+    "last_updated": 1773470458
 }
