@@ -362,14 +362,6 @@
         },
         {
             "rank": "46",
-            "title": "オトノケ - Otonoke",
-            "artist": "Creepy Nuts",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731596b18678ae04bd27f85f41",
-            "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
-        },
-        {
-            "rank": "47",
             "title": "堕天 - Daten",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/5HPsZwo40KA3GThqBFZFac"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Bylygyp",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/0guswBl2fDDJInGjeR0RGe"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "IE",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/28QiVEUigoLfkdIx5PbIUg"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Sprinter",
             "artist": "Dave",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273dd9f1f94f2f9a10310a3d525",
             "link": "https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR"
+        },
+        {
+            "rank": "50",
+            "title": "Memories (feat. Kid Cudi)",
+            "artist": "David Guetta",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2e43ed3850e072831f7b2c6",
+            "link": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
         }
     ],
-    "last_updated": 1773730787
+    "last_updated": 1773741192
 }
