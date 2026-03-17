@@ -50,6 +50,14 @@
         },
         {
             "rank": "7",
+            "title": "West Coast",
+            "artist": "Lana Del Rey",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+            "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
+        },
+        {
+            "rank": "8",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 2,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 2,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Úıde",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -105,7 +113,7 @@
             "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 2,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Like That",
             "artist": "Future",
             "playcount": 2,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "The Planets, Op. 32: I. Mars, the Bringer of War",
             "artist": "Gustav Holst",
             "playcount": 2,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/1C3RIRKQZhSk5d2iioIhkg"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -145,20 +153,12 @@
             "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "meet the grahams",
             "artist": "Kendrick Lamar",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273ba8b74f6b8523c328be1bdd2",
             "link": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
-        },
-        {
-            "rank": "20",
-            "title": "West Coast",
-            "artist": "Lana Del Rey",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-            "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
         },
         {
             "rank": "21",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
         }
     ],
-    "last_updated": 1773773786
+    "last_updated": 1773783236
 }
