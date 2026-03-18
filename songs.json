@@ -34,14 +34,6 @@
         },
         {
             "rank": "5",
-            "title": "São Paulo (feat. Anitta)",
-            "artist": "The Weeknd",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
-            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
-        },
-        {
-            "rank": "6",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 3,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "I Wonder",
             "artist": "Kanye West",
             "playcount": 3,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "West Coast",
             "artist": "Lana Del Rey",
             "playcount": 3,
@@ -73,12 +65,20 @@
             "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
+        },
+        {
+            "rank": "10",
+            "title": "São Paulo (feat. Anitta)",
+            "artist": "The Weeknd",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
+            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
             "rank": "11",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
         }
     ],
-    "last_updated": 1773860059
+    "last_updated": 1773869479
 }
