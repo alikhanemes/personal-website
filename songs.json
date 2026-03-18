@@ -2,6 +2,14 @@
     "recent": [
         {
             "rank": "1",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "2",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 4,
@@ -9,7 +17,15 @@
             "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
-            "rank": "2",
+            "rank": "3",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+        },
+        {
+            "rank": "4",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 4,
@@ -17,7 +33,7 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "3",
+            "rank": "5",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 4,
@@ -25,15 +41,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "4",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-        },
-        {
-            "rank": "5",
+            "rank": "6",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 3,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "I Wonder",
             "artist": "Kanye West",
             "playcount": 3,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -57,20 +65,12 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "West Coast",
             "artist": "Lana Del Rey",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
             "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
-        },
-        {
-            "rank": "9",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
             "rank": "10",
@@ -407,14 +407,14 @@
             "title": "TUCA DONKA",
             "artist": "CURSEDEVIL",
             "playcount": 33,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734cb0bcb69aa6e5891ff4ab21",
-            "link": "https://open.spotify.com/track/17P1x1fNZIAwJyb2je2nX3"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d6fdeae1a36f47bdded2961",
+            "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
         },
         {
             "rank": "2",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
-            "playcount": 29,
+            "playcount": 30,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
@@ -476,6 +476,14 @@
         },
         {
             "rank": "10",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 12,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "11",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 12,
@@ -483,20 +491,12 @@
             "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 12,
             "image": "https://i.scdn.co/image/ab67616d0000b27387d3383ad8d19ab88aa83a4a",
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
-        },
-        {
-            "rank": "12",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 11,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "13",
@@ -687,8 +687,8 @@
             "title": "TUCA DONKA (Slowed + Reverb)",
             "artist": "CURSEDEVIL",
             "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734cb0bcb69aa6e5891ff4ab21",
-            "link": "https://open.spotify.com/track/17P1x1fNZIAwJyb2je2nX3"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d6fdeae1a36f47bdded2961",
+            "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
         },
         {
             "rank": "37",
@@ -743,8 +743,8 @@
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731e0cf6ea7d633da0f20918e4",
-            "link": "https://open.spotify.com/track/14QNjDBXGCwEzJZUKkiTem"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
+            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
             "rank": "44",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
         }
     ],
-    "last_updated": 1773850009
+    "last_updated": 1773860059
 }
