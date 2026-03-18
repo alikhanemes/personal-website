@@ -26,6 +26,14 @@
         },
         {
             "rank": "4",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "5",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 3,
@@ -33,7 +41,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "I Wonder",
             "artist": "Kanye West",
             "playcount": 3,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "West Coast",
             "artist": "Lana Del Rey",
             "playcount": 3,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 2,
@@ -81,20 +89,12 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273bbd45c8d36e0e045ef640411",
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
-        },
-        {
-            "rank": "12",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "13",
@@ -492,6 +492,14 @@
         },
         {
             "rank": "12",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 11,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "13",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 11,
@@ -499,7 +507,7 @@
             "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 11,
@@ -507,7 +515,7 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 11,
@@ -515,7 +523,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 11,
@@ -523,20 +531,12 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 11,
             "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
-        },
-        {
-            "rank": "17",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 10,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "18",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
         }
     ],
-    "last_updated": 1773838782
+    "last_updated": 1773850009
 }
