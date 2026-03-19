@@ -18,22 +18,6 @@
         },
         {
             "rank": "3",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "4",
-            "title": "back to friends",
-            "artist": "sombr",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
-            "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-        },
-        {
-            "rank": "5",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 3,
@@ -41,7 +25,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "6",
+            "rank": "4",
             "title": "I Wonder",
             "artist": "Kanye West",
             "playcount": 3,
@@ -49,7 +33,7 @@
             "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
         },
         {
-            "rank": "7",
+            "rank": "5",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -57,7 +41,7 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "8",
+            "rank": "6",
             "title": "West Coast",
             "artist": "Lana Del Rey",
             "playcount": 3,
@@ -65,12 +49,28 @@
             "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
         },
         {
-            "rank": "9",
+            "rank": "7",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+        },
+        {
+            "rank": "8",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
+        },
+        {
+            "rank": "9",
+            "title": "back to friends",
+            "artist": "sombr",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
+            "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
             "rank": "10",
@@ -114,14 +114,6 @@
         },
         {
             "rank": "15",
-            "title": "God's Plan",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "16",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 2,
@@ -129,7 +121,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "Like That",
             "artist": "Future",
             "playcount": 2,
@@ -137,7 +129,7 @@
             "link": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
         },
         {
-            "rank": "18",
+            "rank": "17",
             "title": "The Planets, Op. 32: I. Mars, the Bringer of War",
             "artist": "Gustav Holst",
             "playcount": 2,
@@ -145,15 +137,7 @@
             "link": "https://open.spotify.com/track/1C3RIRKQZhSk5d2iioIhkg"
         },
         {
-            "rank": "19",
-            "title": "LOVE. FEAT. ZACARI.",
-            "artist": "Kendrick Lamar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-        },
-        {
-            "rank": "20",
+            "rank": "18",
             "title": "meet the grahams",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -161,7 +145,7 @@
             "link": "https://open.spotify.com/track/4S8PxReB1UiDR2F5x1lyIR"
         },
         {
-            "rank": "21",
+            "rank": "19",
             "title": "РАТАТАТАТА",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -169,7 +153,15 @@
             "link": "https://open.spotify.com/track/41QuCYs1dEaneWhRvGVRHb"
         },
         {
-            "rank": "22",
+            "rank": "20",
+            "title": "Jerk",
+            "artist": "Oliver Tree",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
+        },
+        {
+            "rank": "21",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 2,
@@ -177,7 +169,7 @@
             "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
-            "rank": "23",
+            "rank": "22",
             "title": "Heartless",
             "artist": "The Weeknd",
             "playcount": 2,
@@ -185,12 +177,20 @@
             "link": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
         },
         {
-            "rank": "24",
+            "rank": "23",
             "title": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
             "artist": "The Weeknd",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5097b81179824803664aaaf",
             "link": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
+        },
+        {
+            "rank": "24",
+            "title": "fuck love",
+            "artist": "XXXTENTACION",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
+            "link": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
         },
         {
             "rank": "25",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/34Yl756FwYuZldE9xnshj5"
         }
     ],
-    "last_updated": 1773896023
+    "last_updated": 1773903227
 }
