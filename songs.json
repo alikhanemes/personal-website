@@ -333,24 +333,24 @@
             "title": "WE ON GO II (feat. Denzel Curry)",
             "artist": "Bia",
             "playcount": 1,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Bia/_/WE+ON+GO+II+(feat.+Denzel+Curry)"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b95daa59c5d03f8af37c21ef",
+            "link": "https://open.spotify.com/track/3LtqBgvHGsaSjYw9NmLkky"
         },
         {
             "rank": "43",
             "title": "BIRDS OF A FEATHER",
             "artist": "Billie Eilish",
             "playcount": 1,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Billie+Eilish/_/BIRDS+OF+A+FEATHER"
+            "image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62",
+            "link": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
         },
         {
             "rank": "44",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Bruno+Mars/_/Locked+Out+of+Heaven"
+            "image": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
+            "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
             "rank": "45",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         }
     ],
-    "last_updated": 1774075669
+    "last_updated": 1774085317
 }
