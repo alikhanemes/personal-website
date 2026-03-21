@@ -4,28 +4,12 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 5,
+            "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "2",
-            "title": "luther (with SZA)",
-            "artist": "Kendrick Lamar",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
-            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
-        },
-        {
-            "rank": "3",
-            "title": "West Coast",
-            "artist": "Lana Del Rey",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
-            "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
-        },
-        {
-            "rank": "4",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 4,
@@ -33,39 +17,23 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "5",
+            "rank": "3",
+            "title": "West Coast",
+            "artist": "Lana Del Rey",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f",
+            "link": "https://open.spotify.com/track/5Y6nVaayzitvsD5F7nr3DV"
+        },
+        {
+            "rank": "4",
             "title": "back to friends",
             "artist": "sombr",
-            "playcount": 4,
+            "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "6",
-            "title": "I Wonder",
-            "artist": "Kanye West",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-            "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
-        },
-        {
-            "rank": "7",
-            "title": "São Paulo (feat. Anitta)",
-            "artist": "The Weeknd",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
-            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
-        },
-        {
-            "rank": "8",
-            "title": "I Wanna Be Yours",
-            "artist": "Arctic Monkeys",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-            "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-        },
-        {
-            "rank": "9",
+            "rank": "5",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 2,
@@ -73,7 +41,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "10",
+            "rank": "6",
             "title": "NUEVAYoL",
             "artist": "Bad Bunny",
             "playcount": 2,
@@ -81,7 +49,7 @@
             "link": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
         },
         {
-            "rank": "11",
+            "rank": "7",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -89,7 +57,7 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "12",
+            "rank": "8",
             "title": "Úıde",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -97,7 +65,7 @@
             "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
         },
         {
-            "rank": "13",
+            "rank": "9",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 2,
@@ -105,7 +73,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "14",
+            "rank": "10",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 2,
@@ -113,7 +81,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "15",
+            "rank": "11",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
@@ -121,15 +89,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "16",
-            "title": "Like That",
-            "artist": "Future",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273cec3fc072352b5f4f637d9fa",
-            "link": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
-        },
-        {
-            "rank": "17",
+            "rank": "12",
             "title": "The Planets, Op. 32: I. Mars, the Bringer of War",
             "artist": "Gustav Holst",
             "playcount": 2,
@@ -137,7 +97,7 @@
             "link": "https://open.spotify.com/track/1C3RIRKQZhSk5d2iioIhkg"
         },
         {
-            "rank": "18",
+            "rank": "13",
             "title": "Too Sweet",
             "artist": "Hozier",
             "playcount": 2,
@@ -145,23 +105,15 @@
             "link": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
         },
         {
-            "rank": "19",
-            "title": "euphoria",
+            "rank": "14",
+            "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737587213b1be294ac4000f648",
-            "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
-            "rank": "20",
-            "title": "Die with a Smile",
-            "artist": "Lady Gaga",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27382ea2e9e1858aa012c57cd45",
-            "link": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-        },
-        {
-            "rank": "21",
+            "rank": "15",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 2,
@@ -169,7 +121,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "22",
+            "rank": "16",
             "title": "Animals",
             "artist": "Maroon 5",
             "playcount": 2,
@@ -177,7 +129,7 @@
             "link": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
         },
         {
-            "rank": "23",
+            "rank": "17",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -185,7 +137,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "24",
+            "rank": "18",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 2,
@@ -193,7 +145,7 @@
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
-            "rank": "25",
+            "rank": "19",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 2,
@@ -201,7 +153,7 @@
             "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
-            "rank": "26",
+            "rank": "20",
             "title": "Sparkle - Original Version",
             "artist": "RADWIMPS",
             "playcount": 2,
@@ -209,7 +161,7 @@
             "link": "https://open.spotify.com/track/1HNvADmPBGAExeyIHkcJtd"
         },
         {
-            "rank": "27",
+            "rank": "21",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 2,
@@ -217,7 +169,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "28",
+            "rank": "22",
             "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 2,
@@ -225,15 +177,15 @@
             "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
         },
         {
-            "rank": "29",
-            "title": "Heartless",
+            "rank": "23",
+            "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
-            "link": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
+            "image": "https://i.scdn.co/image/ab67616d0000b273982320da137d0de34410df61",
+            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "30",
+            "rank": "24",
             "title": "Save Your Tears (Remix) (with Ariana Grande) - Bonus Track",
             "artist": "The Weeknd",
             "playcount": 2,
@@ -241,31 +193,7 @@
             "link": "https://open.spotify.com/track/1oFAF1hdPOickyHgbuRjyX"
         },
         {
-            "rank": "31",
-            "title": "Starboy",
-            "artist": "The Weeknd",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-            "link": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-        },
-        {
-            "rank": "32",
-            "title": "fuck love",
-            "artist": "XXXTENTACION",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
-            "link": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
-        },
-        {
-            "rank": "33",
-            "title": "Sad!",
-            "artist": "XXXTENTACION",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
-        },
-        {
-            "rank": "34",
+            "rank": "25",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 1,
@@ -273,7 +201,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "35",
+            "rank": "26",
             "title": "a lot",
             "artist": "21 Savage",
             "playcount": 1,
@@ -281,15 +209,7 @@
             "link": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
         },
         {
-            "rank": "36",
-            "title": "Daiynbyz ba?",
-            "artist": "Alem",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
-            "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
-        },
-        {
-            "rank": "37",
+            "rank": "27",
             "title": "Kuiim",
             "artist": "Alem",
             "playcount": 1,
@@ -297,15 +217,7 @@
             "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
-            "rank": "38",
-            "title": "Vivaldi: The Four Seasons, Violin Concerto in G Minor, Op. 8 No. 2, RV 315 \"Summer\": III. Presto",
-            "artist": "Antonio Vivaldi",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7477d6017b9df1073421518",
-            "link": "https://open.spotify.com/track/7iDcPjWhBAlHnWL0BmqtE2"
-        },
-        {
-            "rank": "39",
+            "rank": "28",
             "title": "Do I Wanna Know?",
             "artist": "Arctic Monkeys",
             "playcount": 1,
@@ -313,7 +225,15 @@
             "link": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
         },
         {
-            "rank": "40",
+            "rank": "29",
+            "title": "I Wanna Be Yours",
+            "artist": "Arctic Monkeys",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+            "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+        },
+        {
+            "rank": "30",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 1,
@@ -321,7 +241,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "41",
+            "rank": "31",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 1,
@@ -329,15 +249,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "42",
-            "title": "WE ON GO II (feat. Denzel Curry)",
-            "artist": "Bia",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b95daa59c5d03f8af37c21ef",
-            "link": "https://open.spotify.com/track/3LtqBgvHGsaSjYw9NmLkky"
-        },
-        {
-            "rank": "43",
+            "rank": "32",
             "title": "BIRDS OF A FEATHER",
             "artist": "Billie Eilish",
             "playcount": 1,
@@ -345,7 +257,7 @@
             "link": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
         },
         {
-            "rank": "44",
+            "rank": "33",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -353,7 +265,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "45",
+            "rank": "34",
             "title": "Summer",
             "artist": "Calvin Harris",
             "playcount": 1,
@@ -361,7 +273,7 @@
             "link": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
         },
         {
-            "rank": "46",
+            "rank": "35",
             "title": "Safe and Sound",
             "artist": "Capital Cities",
             "playcount": 1,
@@ -369,7 +281,7 @@
             "link": "https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"
         },
         {
-            "rank": "47",
+            "rank": "36",
             "title": "Juna",
             "artist": "Clairo",
             "playcount": 1,
@@ -377,15 +289,7 @@
             "link": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
         },
         {
-            "rank": "48",
-            "title": "Lux Aeterna",
-            "artist": "Clint Mansell",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27363e878a2cbc968d18ab11c9e",
-            "link": "https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG"
-        },
-        {
-            "rank": "49",
+            "rank": "37",
             "title": "堕天 - Daten",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -393,12 +297,108 @@
             "link": "https://open.spotify.com/track/5HPsZwo40KA3GThqBFZFac"
         },
         {
-            "rank": "50",
+            "rank": "38",
             "title": "Bylygyp",
             "artist": "Darkhan Juzz",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
             "link": "https://open.spotify.com/track/0guswBl2fDDJInGjeR0RGe"
+        },
+        {
+            "rank": "39",
+            "title": "Qubylmaly",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
+        },
+        {
+            "rank": "40",
+            "title": "Memories (feat. Kid Cudi)",
+            "artist": "David Guetta",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b2e43ed3850e072831f7b2c6",
+            "link": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
+        },
+        {
+            "rank": "41",
+            "title": "dal solay",
+            "artist": "DE LACURE",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273476079fb7bf15e5331b32fc6",
+            "link": "https://open.spotify.com/track/3TZFLrXxI9Du2uUSTnDraU"
+        },
+        {
+            "rank": "42",
+            "title": "String Quartet No. 8 in C minor, Op. 110: II. Allegro molto",
+            "artist": "Dmitri Shostakovich",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e6737d3026a9814286d745f9",
+            "link": "https://open.spotify.com/track/1zwNC4HIvgQQ6nga0ygjIg"
+        },
+        {
+            "rank": "43",
+            "title": "Babydoll",
+            "artist": "Dominic Fike",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
+            "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
+        },
+        {
+            "rank": "44",
+            "title": "No Pole",
+            "artist": "Don Toliver",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+            "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+        },
+        {
+            "rank": "45",
+            "title": "Hotline Bling",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+            "link": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
+        },
+        {
+            "rank": "46",
+            "title": "In My Feelings",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+        },
+        {
+            "rank": "47",
+            "title": "Jimmy Cooks (feat. 21 Savage)",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
+            "link": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
+        },
+        {
+            "rank": "48",
+            "title": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+            "link": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+        },
+        {
+            "rank": "49",
+            "title": "NOKIA",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+        },
+        {
+            "rank": "50",
+            "title": "Push Ups",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
+            "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         }
     ],
-    "last_updated": 1774085317
+    "last_updated": 1774096659
 }
