@@ -2,19 +2,19 @@
     "recent": [
         {
             "rank": "1",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "2",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 5,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "2",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "3",
@@ -109,8 +109,8 @@
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
+            "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
         },
         {
             "rank": "15",
@@ -266,6 +266,14 @@
         },
         {
             "rank": "34",
+            "title": "Comet",
+            "artist": "BLESSED MANE",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27338c09baf1e49900fcfbbe466",
+            "link": "https://open.spotify.com/track/3kZc1gu7mCV8fhojOO3pAP"
+        },
+        {
+            "rank": "35",
             "title": "Death Is No More - Sped Up",
             "artist": "BLESSED MANE",
             "playcount": 1,
@@ -273,7 +281,7 @@
             "link": "https://open.spotify.com/track/6aJhrlHSuaUy3n2B0hqJLh"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -281,7 +289,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Summer",
             "artist": "Calvin Harris",
             "playcount": 1,
@@ -289,7 +297,7 @@
             "link": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Safe and Sound",
             "artist": "Capital Cities",
             "playcount": 1,
@@ -297,7 +305,7 @@
             "link": "https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "Juna",
             "artist": "Clairo",
             "playcount": 1,
@@ -305,7 +313,7 @@
             "link": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "Flashbacks (slowed)",
             "artist": "Craspore",
             "playcount": 1,
@@ -313,7 +321,7 @@
             "link": "https://open.spotify.com/track/5ThdZ2VJWD1OiW3oL98Z17"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "堕天 - Daten",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -321,7 +329,7 @@
             "link": "https://open.spotify.com/track/5HPsZwo40KA3GThqBFZFac"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "Desolation 2",
             "artist": "CREEPYMANE",
             "playcount": 1,
@@ -329,7 +337,7 @@
             "link": "https://open.spotify.com/track/4BGlnLkjEZKw8jtEOQxNeW"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "Bylygyp",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/0guswBl2fDDJInGjeR0RGe"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "Memories (feat. Kid Cudi)",
             "artist": "David Guetta",
             "playcount": 1,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/4dTaAiV9xFFCxnPur9c9yL"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "dal solay",
             "artist": "DE LACURE",
             "playcount": 1,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/3TZFLrXxI9Du2uUSTnDraU"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 1,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "No Pole",
             "artist": "Don Toliver",
             "playcount": 1,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "Hotline Bling",
             "artist": "Drake",
             "playcount": 1,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "In My Feelings",
             "artist": "Drake",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
-        },
-        {
-            "rank": "50",
-            "title": "Jimmy Cooks (feat. 21 Savage)",
-            "artist": "Drake",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738dc0d801766a5aa6a33cbe37",
-            "link": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
         }
     ],
     "alltime": [
@@ -444,6 +444,14 @@
         },
         {
             "rank": "6",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 15,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "7",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 14,
@@ -451,7 +459,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 14,
@@ -459,20 +467,12 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 13,
             "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-        },
-        {
-            "rank": "9",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "10",
@@ -487,8 +487,8 @@
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 12,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
+            "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
         },
         {
             "rank": "12",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         }
     ],
-    "last_updated": 1774192952
+    "last_updated": 1774204262
 }
