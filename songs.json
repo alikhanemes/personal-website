@@ -660,6 +660,14 @@
         },
         {
             "rank": "33",
+            "title": "Matsuri",
+            "artist": "Fujii Kaze",
+            "playcount": 8,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
+            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
+        },
+        {
+            "rank": "34",
             "title": "ワスレガタキ",
             "artist": "Huwie Ishizaki",
             "playcount": 8,
@@ -667,7 +675,7 @@
             "link": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 8,
@@ -675,7 +683,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 8,
@@ -683,7 +691,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 7,
@@ -691,7 +699,7 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "TUCA DONKA (Slowed + Reverb)",
             "artist": "CURSEDEVIL",
             "playcount": 7,
@@ -699,7 +707,7 @@
             "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "Bari Shynai",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -707,7 +715,7 @@
             "link": "https://open.spotify.com/track/1SE2vcMDbVEteuiyuUIXkt"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -715,7 +723,7 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -723,7 +731,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "Sapar",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -731,7 +739,7 @@
             "link": "https://open.spotify.com/track/1O0iQ3z706fEF16QqoArh7"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "Shyndar",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -739,7 +747,7 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 7,
@@ -747,20 +755,12 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 7,
             "image": "https://i.scdn.co/image/ab67616d0000b2736f7083957f85b021f69cf778",
             "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
-        },
-        {
-            "rank": "45",
-            "title": "Matsuri",
-            "artist": "Fujii Kaze",
-            "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
-            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
             "rank": "46",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         }
     ],
-    "last_updated": 1774230612
+    "last_updated": 1774242074
 }
