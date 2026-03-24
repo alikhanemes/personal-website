@@ -428,6 +428,14 @@
         },
         {
             "rank": "4",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
+            "playcount": 17,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+        },
+        {
+            "rank": "5",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 16,
@@ -435,20 +443,12 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 16,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
-        },
-        {
-            "rank": "6",
-            "title": "Bad Habit",
-            "artist": "Steve Lacy",
-            "playcount": 16,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
             "rank": "7",
@@ -636,6 +636,14 @@
         },
         {
             "rank": "30",
+            "title": "Sad!",
+            "artist": "XXXTENTACION",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+        },
+        {
+            "rank": "31",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -643,7 +651,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "31",
+            "rank": "32",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -651,7 +659,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Úıde",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -659,7 +667,7 @@
             "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 8,
@@ -667,7 +675,7 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "ワスレガタキ",
             "artist": "Huwie Ishizaki",
             "playcount": 8,
@@ -675,7 +683,7 @@
             "link": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 8,
@@ -683,15 +691,15 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
-            "link": "https://open.spotify.com/track/0t1fdMrn7JOg9DDsT95bxt"
+            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
+            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Starboy",
             "artist": "The Weeknd",
             "playcount": 8,
@@ -699,20 +707,12 @@
             "link": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 8,
             "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
-        },
-        {
-            "rank": "39",
-            "title": "Sad!",
-            "artist": "XXXTENTACION",
-            "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
             "rank": "40",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
         }
     ],
-    "last_updated": 1774357248
+    "last_updated": 1774368225
 }
