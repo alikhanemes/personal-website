@@ -591,16 +591,16 @@
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 10,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!"
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a1248eb3f195374b668f7e8",
+            "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
             "rank": "25",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 10,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
             "rank": "26",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
         }
     ],
-    "last_updated": 1774422204
+    "last_updated": 1774432213
 }
