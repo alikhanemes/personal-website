@@ -2,19 +2,19 @@
     "recent": [
         {
             "rank": "1",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
+            "title": "back to friends",
+            "artist": "sombr",
             "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+            "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
+            "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
             "rank": "2",
-            "title": "back to friends",
-            "artist": "sombr",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
             "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
-            "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "3",
@@ -26,6 +26,14 @@
         },
         {
             "rank": "4",
+            "title": "Dancing in My Room",
+            "artist": "347aidan",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c",
+            "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
+        },
+        {
+            "rank": "5",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 2,
@@ -33,20 +41,12 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "5",
-            "title": "GIMME A HUG",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
-        },
-        {
             "rank": "6",
-            "title": "恋風",
-            "artist": "Lilas",
+            "title": "Gimme Love",
+            "artist": "Joji",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
+            "image": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
+            "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
             "rank": "7",
@@ -90,6 +90,14 @@
         },
         {
             "rank": "12",
+            "title": "Life Goes On",
+            "artist": "Oliver Tree",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf118f32a37c18511647b54a",
+            "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+        },
+        {
+            "rank": "13",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 2,
@@ -97,7 +105,15 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "13",
+            "rank": "14",
+            "title": "Love Me Not (feat. Rex Orange County)",
+            "artist": "Ravyn Lenae",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27333b05d358247bbe9971370f2",
+            "link": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+        },
+        {
+            "rank": "15",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 2,
@@ -105,7 +121,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "14",
+            "rank": "16",
             "title": "Funk of Galáctico",
             "artist": "SXID",
             "playcount": 2,
@@ -113,28 +129,12 @@
             "link": "https://open.spotify.com/track/6fxeXlCSt4WLVlbqxgUBMB"
         },
         {
-            "rank": "15",
-            "title": "The Less I Know the Better",
-            "artist": "Tame Impala",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
-            "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
-        },
-        {
-            "rank": "16",
+            "rank": "17",
             "title": "青のすみか - From THE FIRST TAKE",
             "artist": "Tatsuya Kitani",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2731af4cbc40fff5570e6dd3342",
             "link": "https://open.spotify.com/track/3hHjC08VoyAvxETsu2ZISw"
-        },
-        {
-            "rank": "17",
-            "title": "Starboy",
-            "artist": "The Weeknd",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
-            "link": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
         },
         {
             "rank": "18",
@@ -170,14 +170,6 @@
         },
         {
             "rank": "22",
-            "title": "a lot",
-            "artist": "21 Savage",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731afd2e526e3723dd4a9fb4c8",
-            "link": "https://open.spotify.com/track/2t8yVaLvJ0RenpXUIAC52d"
-        },
-        {
-            "rank": "23",
             "title": "X-SLIDE",
             "artist": "2ke",
             "playcount": 1,
@@ -185,15 +177,7 @@
             "link": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
         },
         {
-            "rank": "24",
-            "title": "Dancing in My Room",
-            "artist": "347aidan",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c",
-            "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
-        },
-        {
-            "rank": "25",
+            "rank": "23",
             "title": "DEADLY HEIST - Best Part Looped",
             "artist": "509 $icario",
             "playcount": 1,
@@ -201,7 +185,7 @@
             "link": "https://open.spotify.com/track/7oGfH9dOIV0Bk7VZEAL0oC"
         },
         {
-            "rank": "26",
+            "rank": "24",
             "title": "HITMANE! - Ultra Slowed",
             "artist": "509 $icario",
             "playcount": 1,
@@ -209,7 +193,7 @@
             "link": "https://open.spotify.com/track/1RGQwT5BhFoHcjCfNyXqpJ"
         },
         {
-            "rank": "27",
+            "rank": "25",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 1,
@@ -217,7 +201,7 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "28",
+            "rank": "26",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 1,
@@ -225,7 +209,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "29",
+            "rank": "27",
             "title": "ASCENSION",
             "artist": "BLESSED MANE",
             "playcount": 1,
@@ -233,7 +217,7 @@
             "link": "https://open.spotify.com/track/1pxLGOzcQLCo3VSewgCXcU"
         },
         {
-            "rank": "30",
+            "rank": "28",
             "title": "Comet",
             "artist": "BLESSED MANE",
             "playcount": 1,
@@ -241,7 +225,7 @@
             "link": "https://open.spotify.com/track/3kZc1gu7mCV8fhojOO3pAP"
         },
         {
-            "rank": "31",
+            "rank": "29",
             "title": "Death is no more",
             "artist": "BLESSED MANE",
             "playcount": 1,
@@ -249,7 +233,7 @@
             "link": "https://open.spotify.com/track/70FceppUZq9dQz1mDPcHcs"
         },
         {
-            "rank": "32",
+            "rank": "30",
             "title": "Death Is No More - Sped Up",
             "artist": "BLESSED MANE",
             "playcount": 1,
@@ -257,7 +241,7 @@
             "link": "https://open.spotify.com/track/6aJhrlHSuaUy3n2B0hqJLh"
         },
         {
-            "rank": "33",
+            "rank": "31",
             "title": "Juna",
             "artist": "Clairo",
             "playcount": 1,
@@ -265,7 +249,7 @@
             "link": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN"
         },
         {
-            "rank": "34",
+            "rank": "32",
             "title": "Flashbacks (slowed)",
             "artist": "Craspore",
             "playcount": 1,
@@ -273,7 +257,7 @@
             "link": "https://open.spotify.com/track/6g5Vk6LUcUVNoYOM7EaG2Q"
         },
         {
-            "rank": "35",
+            "rank": "33",
             "title": "Desolation 2",
             "artist": "CREEPYMANE",
             "playcount": 1,
@@ -281,15 +265,7 @@
             "link": "https://open.spotify.com/track/4BGlnLkjEZKw8jtEOQxNeW"
         },
         {
-            "rank": "36",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
-        },
-        {
-            "rank": "37",
+            "rank": "34",
             "title": "Slide da treme melódica v2",
             "artist": "DJ FNK",
             "playcount": 1,
@@ -297,7 +273,7 @@
             "link": "https://open.spotify.com/track/6xBpb9zNWlRHTslOAe6kXF"
         },
         {
-            "rank": "38",
+            "rank": "35",
             "title": "Turu R9 - Slowed",
             "artist": "DJ Ikeraus",
             "playcount": 1,
@@ -305,7 +281,7 @@
             "link": "https://open.spotify.com/track/4aMdNP3vuboq7t8BPZ4rE1"
         },
         {
-            "rank": "39",
+            "rank": "36",
             "title": "PLANETA DESCONHECIDO",
             "artist": "DJ NK3",
             "playcount": 1,
@@ -313,23 +289,15 @@
             "link": "https://open.spotify.com/track/1bGCQoaz734Y5jeZ6GiUZ1"
         },
         {
-            "rank": "40",
-            "title": "Family Matters",
+            "rank": "37",
+            "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e",
-            "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "41",
-            "title": "Hotline Bling",
-            "artist": "Drake",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
-            "link": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
-        },
-        {
-            "rank": "42",
+            "rank": "38",
             "title": "In My Feelings",
             "artist": "Drake",
             "playcount": 1,
@@ -337,7 +305,7 @@
             "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
         },
         {
-            "rank": "43",
+            "rank": "39",
             "title": "Nonstop",
             "artist": "Drake",
             "playcount": 1,
@@ -345,15 +313,7 @@
             "link": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
         },
         {
-            "rank": "44",
-            "title": "Centuries",
-            "artist": "Fall Out Boy",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733cf1c1dbcfa3f1ab7282719b",
-            "link": "https://open.spotify.com/track/04aAxqtGp5pv12UXAg4pkq"
-        },
-        {
-            "rank": "45",
+            "rank": "40",
             "title": "SPOOKY",
             "artist": "fennecxx",
             "playcount": 1,
@@ -361,15 +321,7 @@
             "link": "https://open.spotify.com/track/2DLX3jOMKfA0ibptwXHzAG"
         },
         {
-            "rank": "46",
-            "title": "Trap Queen",
-            "artist": "Fetty Wap",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273df7c1e1c441dd172ea8f29f9",
-            "link": "https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ"
-        },
-        {
-            "rank": "47",
+            "rank": "41",
             "title": "Take Me Out",
             "artist": "Franz Ferdinand",
             "playcount": 1,
@@ -377,7 +329,7 @@
             "link": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
         },
         {
-            "rank": "48",
+            "rank": "42",
             "title": "Gyro Zeppeli",
             "artist": "Friedrich Habetler",
             "playcount": 1,
@@ -385,7 +337,7 @@
             "link": "https://open.spotify.com/track/77xG1B7ZKvmaYSeX6dH9VD"
         },
         {
-            "rank": "49",
+            "rank": "43",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -393,12 +345,60 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
-            "rank": "50",
+            "rank": "44",
             "title": "New Computers",
             "artist": "Girlfriends",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2739eb9d15d84018fd9c9fe60ba",
             "link": "https://open.spotify.com/track/4ZRiMYOGJvo1ESmh1VaEbc"
+        },
+        {
+            "rank": "45",
+            "title": "DON`T STOP - Slowed",
+            "artist": "GLXXMSTRIDER",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27384631d71e51ad92001a5179e",
+            "link": "https://open.spotify.com/track/52uQ2fQqo9hX5H4p7Niq0b"
+        },
+        {
+            "rank": "46",
+            "title": "On Melancholy Hill",
+            "artist": "Gorillaz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+            "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+        },
+        {
+            "rank": "47",
+            "title": "Swing Lynn",
+            "artist": "Harmless",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735713e82880ef7c842a8f104e",
+            "link": "https://open.spotify.com/track/3VCXx37jNGNOMns6z2OnvJ"
+        },
+        {
+            "rank": "48",
+            "title": "Too Sweet",
+            "artist": "Hozier",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a863515e13cd344fe03c9d47",
+            "link": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+        },
+        {
+            "rank": "49",
+            "title": "hypnotic - super slowed",
+            "artist": "ISQ",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735da04f3f5d0c4993cbcf9486",
+            "link": "https://open.spotify.com/track/0ePdvQb4qFBA9Ps1QZwhMu"
+        },
+        {
+            "rank": "50",
+            "title": "Vengeance",
+            "artist": "iwilldiehere",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273525e41dc7073ccf4b4c8c030",
+            "link": "https://open.spotify.com/track/4lmIsaZenLF3cUMwQynS1t"
         }
     ],
     "alltime": [
@@ -452,19 +452,19 @@
         },
         {
             "rank": "7",
+            "title": "back to friends",
+            "artist": "sombr",
+            "playcount": 16,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
+            "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+        },
+        {
+            "rank": "8",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 14,
             "image": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-        },
-        {
-            "rank": "8",
-            "title": "back to friends",
-            "artist": "sombr",
-            "playcount": 14,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
-            "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
             "rank": "9",
@@ -628,6 +628,14 @@
         },
         {
             "rank": "29",
+            "title": "Gimme Love",
+            "artist": "Joji",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
+            "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+        },
+        {
+            "rank": "30",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 9,
@@ -635,7 +643,7 @@
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
         },
         {
-            "rank": "30",
+            "rank": "31",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 9,
@@ -643,7 +651,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "31",
+            "rank": "32",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 9,
@@ -651,7 +659,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -659,7 +667,7 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -667,7 +675,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Úıde",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -675,7 +683,7 @@
             "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 8,
@@ -683,20 +691,12 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "ワスレガタキ",
             "artist": "Huwie Ishizaki",
             "playcount": 8,
             "image": "https://i.scdn.co/image/ab67616d0000b273f66a7e4c5b233b789adac42b",
             "link": "https://open.spotify.com/track/24PaqdVWQBvwnJmbRsvV5a"
-        },
-        {
-            "rank": "37",
-            "title": "Gimme Love",
-            "artist": "Joji",
-            "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
-            "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
             "rank": "38",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP"
         }
     ],
-    "last_updated": 1774595056
+    "last_updated": 1774605081
 }
