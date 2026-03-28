@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 11,
+            "playcount": 12,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -37,24 +37,24 @@
             "title": "X-SLIDE",
             "artist": "2ke",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/2ke/_/X-SLIDE"
+            "image": "https://i.scdn.co/image/ab67616d0000b273603dd4c13ce5fd52696d9bfc",
+            "link": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
         },
         {
             "rank": "6",
             "title": "Dancing in My Room",
             "artist": "347aidan",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/347aidan/_/Dancing+in+My+Room"
+            "image": "https://i.scdn.co/image/ab67616d0000b2735f4fbb2f9c3de128e526944c",
+            "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
         },
         {
             "rank": "7",
             "title": "Prospekt's March / Poppyfields",
             "artist": "Coldplay",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Coldplay/_/Prospekt%27s+March+%2F+Poppyfields"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/4yr1059N96a8msTHVftmFN"
         },
         {
             "rank": "8",
@@ -422,7 +422,7 @@
             "rank": "3",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 24,
+            "playcount": 25,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -436,6 +436,14 @@
         },
         {
             "rank": "5",
+            "title": "Men Sen Siyaqty",
+            "artist": "Darkhan Juzz",
+            "playcount": 17,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
+        },
+        {
+            "rank": "6",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 17,
@@ -443,20 +451,12 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 17,
             "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-        },
-        {
-            "rank": "7",
-            "title": "Men Sen Siyaqty",
-            "artist": "Darkhan Juzz",
-            "playcount": 16,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
             "rank": "8",
@@ -556,6 +556,14 @@
         },
         {
             "rank": "20",
+            "title": "luther (with SZA)",
+            "artist": "Kendrick Lamar",
+            "playcount": 11,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+        },
+        {
+            "rank": "21",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 11,
@@ -563,7 +571,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 11,
@@ -571,7 +579,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
             "playcount": 10,
@@ -579,7 +587,7 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 10,
@@ -587,7 +595,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 10,
@@ -595,7 +603,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 10,
@@ -603,20 +611,12 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 10,
             "image": "https://i.scdn.co/image/ab67616d0000b2737a1248eb3f195374b668f7e8",
             "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
-        },
-        {
-            "rank": "27",
-            "title": "luther (with SZA)",
-            "artist": "Kendrick Lamar",
-            "playcount": 10,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
-            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
             "rank": "28",
@@ -772,6 +772,14 @@
         },
         {
             "rank": "47",
+            "title": "Sheker",
+            "artist": "Darkhan Juzz",
+            "playcount": 7,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
+        },
+        {
+            "rank": "48",
             "title": "Shyndar",
             "artist": "Darkhan Juzz",
             "playcount": 7,
@@ -779,7 +787,7 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 7,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 7,
             "image": "https://i.scdn.co/image/ab67616d0000b2736f7083957f85b021f69cf778",
             "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
-        },
-        {
-            "rank": "50",
-            "title": "神様はじめました",
-            "artist": "Hanae",
-            "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a661f9e9cbc517fbc5718aeb",
-            "link": "https://open.spotify.com/track/7vP9nI0gNbEzcPgo4ne5t5"
         }
     ],
-    "last_updated": 1774681499
+    "last_updated": 1774690379
 }
