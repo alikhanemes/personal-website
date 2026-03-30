@@ -12,7 +12,7 @@
             "rank": "2",
             "title": "back to friends",
             "artist": "sombr",
-            "playcount": 7,
+            "playcount": 6,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
@@ -26,6 +26,14 @@
         },
         {
             "rank": "4",
+            "title": "Lost!",
+            "artist": "Coldplay",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
+        },
+        {
+            "rank": "5",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 3,
@@ -33,7 +41,7 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 3,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "X-SLIDE",
             "artist": "2ke",
             "playcount": 2,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "Dancing in My Room",
             "artist": "347aidan",
             "playcount": 2,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 2,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "Cemeteries of London",
             "artist": "Coldplay",
             "playcount": 2,
@@ -81,20 +89,12 @@
             "link": "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
-        },
-        {
-            "rank": "12",
-            "title": "Lost!",
-            "artist": "Coldplay",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
             "rank": "13",
@@ -138,6 +138,14 @@
         },
         {
             "rank": "18",
+            "title": "Heat Waves",
+            "artist": "Glass Animals",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
+            "link": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
+        },
+        {
+            "rank": "19",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 2,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "SLOW DANCING IN THE DARK",
             "artist": "Joji",
             "playcount": 2,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 2,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Love Me Not (feat. Rex Orange County)",
             "artist": "Ravyn Lenae",
             "playcount": 2,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Timeless (feat Playboi Carti)",
             "artist": "The Weeknd",
             "playcount": 2,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "Lost",
             "artist": "$uLTANR$",
             "playcount": 1,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/3Fbc0Ocn6sZHyrHmTKuIPO"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "Lost - Slowed",
             "artist": "$uLTANR$",
             "playcount": 1,
@@ -201,20 +209,12 @@
             "link": "https://open.spotify.com/track/3m223LIovaPRwPKYYm5f7M"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "Easier",
             "artist": "5 Seconds of Summer",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273726005f0f81903e157d9dbc7",
             "link": "https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI"
-        },
-        {
-            "rank": "27",
-            "title": "DEADLY HEIST - Best Part Looped",
-            "artist": "509 $icario",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734bb5f6da8cd2f0e34f70ad4c",
-            "link": "https://open.spotify.com/track/7oGfH9dOIV0Bk7VZEAL0oC"
         },
         {
             "rank": "28",
@@ -422,7 +422,7 @@
             "rank": "3",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 30,
+            "playcount": 31,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1O0iQ3z706fEF16QqoArh7"
         }
     ],
-    "last_updated": 1774855306
+    "last_updated": 1774865640
 }
