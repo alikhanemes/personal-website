@@ -503,16 +503,16 @@
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 14,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c5716278abba6a103ad13aa7",
-            "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B"
         },
         {
             "rank": "14",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
-            "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Artemas/_/i+like+the+way+you+kiss+me"
         },
         {
             "rank": "15",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1O0iQ3z706fEF16QqoArh7"
         }
     ],
-    "last_updated": 1775020863
+    "last_updated": 1775028020
 }
