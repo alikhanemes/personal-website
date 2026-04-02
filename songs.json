@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 22,
+            "playcount": 21,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -34,14 +34,6 @@
         },
         {
             "rank": "5",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "6",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 5,
@@ -49,12 +41,20 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
+        },
+        {
+            "rank": "7",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
             "rank": "8",
@@ -194,14 +194,6 @@
         },
         {
             "rank": "25",
-            "title": "Pain",
-            "artist": "PinkPantheress",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
-            "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
-        },
-        {
-            "rank": "26",
             "title": "Love Me Not (feat. Rex Orange County)",
             "artist": "Ravyn Lenae",
             "playcount": 2,
@@ -209,7 +201,7 @@
             "link": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
         },
         {
-            "rank": "27",
+            "rank": "26",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 2,
@@ -217,15 +209,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "28",
-            "title": "we never dated",
-            "artist": "sombr",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
-            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
-        },
-        {
-            "rank": "29",
+            "rank": "27",
             "title": "Some",
             "artist": "Steve Lacy",
             "playcount": 2,
@@ -233,7 +217,7 @@
             "link": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
         },
         {
-            "rank": "30",
+            "rank": "28",
             "title": "HOPE",
             "artist": "XXXTENTACION",
             "playcount": 2,
@@ -241,7 +225,7 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         },
         {
-            "rank": "31",
+            "rank": "29",
             "title": "X-SLIDE",
             "artist": "2ke",
             "playcount": 1,
@@ -249,7 +233,7 @@
             "link": "https://open.spotify.com/track/60AVJqYgyAlCckC6Nh2tgO"
         },
         {
-            "rank": "32",
+            "rank": "30",
             "title": "Dancing in My Room",
             "artist": "347aidan",
             "playcount": 1,
@@ -257,7 +241,7 @@
             "link": "https://open.spotify.com/track/6Pgmqg15yVexuOgtzuxwoX"
         },
         {
-            "rank": "33",
+            "rank": "31",
             "title": "Easier",
             "artist": "5 Seconds of Summer",
             "playcount": 1,
@@ -265,7 +249,7 @@
             "link": "https://open.spotify.com/track/2bjUEg4jBtKBlPdNrTAppI"
         },
         {
-            "rank": "34",
+            "rank": "32",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 1,
@@ -273,7 +257,7 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "35",
+            "rank": "33",
             "title": "BILLIE EILISH.",
             "artist": "Armani White",
             "playcount": 1,
@@ -281,7 +265,7 @@
             "link": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
         },
         {
-            "rank": "36",
+            "rank": "34",
             "title": "Memories",
             "artist": "Barnacle Boi",
             "playcount": 1,
@@ -289,7 +273,7 @@
             "link": "https://open.spotify.com/track/1qP4bvNmBubxS6BdMCKAgw"
         },
         {
-            "rank": "37",
+            "rank": "35",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 1,
@@ -297,7 +281,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "38",
+            "rank": "36",
             "title": "bad guy",
             "artist": "Billie Eilish",
             "playcount": 1,
@@ -305,7 +289,7 @@
             "link": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
         },
         {
-            "rank": "39",
+            "rank": "37",
             "title": "no forget her",
             "artist": "BLESSED MANE",
             "playcount": 1,
@@ -313,7 +297,7 @@
             "link": "https://open.spotify.com/track/0oPMBsCuo43U9OqbLc3EGd"
         },
         {
-            "rank": "40",
+            "rank": "38",
             "title": "Safe and Sound",
             "artist": "Capital Cities",
             "playcount": 1,
@@ -321,7 +305,7 @@
             "link": "https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"
         },
         {
-            "rank": "41",
+            "rank": "39",
             "title": "Adventure of a Lifetime",
             "artist": "Coldplay",
             "playcount": 1,
@@ -329,7 +313,7 @@
             "link": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
         },
         {
-            "rank": "42",
+            "rank": "40",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 1,
@@ -337,7 +321,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "43",
+            "rank": "41",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 1,
@@ -345,7 +329,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "44",
+            "rank": "42",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 1,
@@ -353,7 +337,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "45",
+            "rank": "43",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 1,
@@ -361,7 +345,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "46",
+            "rank": "44",
             "title": "Lovers In Japan - Osaka Sun Mix",
             "artist": "Coldplay",
             "playcount": 1,
@@ -369,7 +353,7 @@
             "link": "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb"
         },
         {
-            "rank": "47",
+            "rank": "45",
             "title": "Now My Feet Won't Touch the Ground",
             "artist": "Coldplay",
             "playcount": 1,
@@ -377,7 +361,7 @@
             "link": "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1"
         },
         {
-            "rank": "48",
+            "rank": "46",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 1,
@@ -385,7 +369,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "49",
+            "rank": "47",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -393,12 +377,28 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
-            "rank": "50",
+            "rank": "48",
             "title": "Bylygyp",
             "artist": "Darkhan Juzz",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
             "link": "https://open.spotify.com/track/0guswBl2fDDJInGjeR0RGe"
+        },
+        {
+            "rank": "49",
+            "title": "Esindi Ji",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
+        },
+        {
+            "rank": "50",
+            "title": "Keipker",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd391944d5c3a4c62a3b9884",
+            "link": "https://open.spotify.com/track/2BHXC1rhe16nmdbNhONHDn"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         }
     ],
-    "last_updated": 1775123862
+    "last_updated": 1775134896
 }
