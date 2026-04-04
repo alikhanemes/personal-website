@@ -34,6 +34,14 @@
         },
         {
             "rank": "5",
+            "title": "Dance with STEEL BALL RUN",
+            "artist": "Yugo Kanno",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ebb62f2c4e591e40f1de4484",
+            "link": "https://open.spotify.com/track/2Q0fRmDT1rIzDYvpwhLAXW"
+        },
+        {
+            "rank": "6",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 3,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 3,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Heat Waves",
             "artist": "Glass Animals",
             "playcount": 3,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -73,20 +81,12 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
-        },
-        {
-            "rank": "11",
-            "title": "Sheker",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
         },
         {
             "rank": "12",
@@ -266,14 +266,6 @@
         },
         {
             "rank": "34",
-            "title": "Men Sen Siyaqty",
-            "artist": "Darkhan Juzz",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
-        },
-        {
-            "rank": "35",
             "title": "Qaldyrma Menі",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -281,12 +273,20 @@
             "link": "https://open.spotify.com/track/1fKg0YRnTJ81IeEkCMhUf3"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
+        },
+        {
+            "rank": "36",
+            "title": "Sheker",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
         },
         {
             "rank": "37",
@@ -338,6 +338,14 @@
         },
         {
             "rank": "43",
+            "title": "Laugh Now Cry Later (feat. Lil Durk)",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+            "link": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+        },
+        {
+            "rank": "44",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 1,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "Godzilla (feat. Juice WRLD)",
             "artist": "Eminem",
             "playcount": 1,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 1,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "光るなら",
             "artist": "Goose house",
             "playcount": 1,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "On Melancholy Hill",
             "artist": "Gorillaz",
             "playcount": 1,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "Tongue Tied",
             "artist": "Grouplove",
             "playcount": 1,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "神様はじめました",
             "artist": "Hanae",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a661f9e9cbc517fbc5718aeb",
-            "link": "https://open.spotify.com/track/7vP9nI0gNbEzcPgo4ne5t5"
-        },
-        {
-            "rank": "50",
-            "title": "ウィーゴー！",
-            "artist": "Hiroshi Kitadani",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c656ff770621fa737a3a0155",
-            "link": "https://open.spotify.com/track/2PXf1Elmg9M3yzymZschoR"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/+noredirect/Hanae/_/%E7%A5%9E%E6%A7%98%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F"
         }
     ],
     "alltime": [
@@ -406,7 +406,7 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 38,
+            "playcount": 39,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -423,8 +423,8 @@
             "title": "TUCA DONKA",
             "artist": "CURSEDEVIL",
             "playcount": 33,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739d6fdeae1a36f47bdded2961",
-            "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/CURSEDEVIL/_/TUCA+DONKA"
         },
         {
             "rank": "4",
@@ -439,24 +439,24 @@
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 19,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
-            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Lady+Gaga/_/Judas"
         },
         {
             "rank": "6",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 18,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Steve+Lacy/_/Bad+Habit"
         },
         {
             "rank": "7",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 17,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Men+Sen+Siyaqty"
         },
         {
             "rank": "8",
@@ -479,16 +479,16 @@
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 15,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/LOVE.+FEAT.+ZACARI."
         },
         {
             "rank": "11",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 15,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Lilas/_/%E6%81%8B%E9%A2%A8"
         },
         {
             "rank": "12",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         }
     ],
-    "last_updated": 1775285739
+    "last_updated": 1775296578
 }
