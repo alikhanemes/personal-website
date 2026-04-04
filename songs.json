@@ -346,14 +346,6 @@
         },
         {
             "rank": "44",
-            "title": "Babydoll",
-            "artist": "Dominic Fike",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616",
-            "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
-        },
-        {
-            "rank": "45",
             "title": "Headlines",
             "artist": "Drake",
             "playcount": 1,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/6LxSe8YmdPxy095Ux6znaQ"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "In My Feelings",
             "artist": "Drake",
             "playcount": 1,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Jimmy Cooks (feat. 21 Savage)",
             "artist": "Drake",
             "playcount": 1,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Laugh Now Cry Later (feat. Lil Durk)",
             "artist": "Drake",
             "playcount": 1,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 1,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Godzilla (feat. Juice WRLD)",
             "artist": "Eminem",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
             "link": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+        },
+        {
+            "rank": "50",
+            "title": "Just Awake",
+            "artist": "Fear, and Loathing in Las Vegas",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27320f0de8a767c627dc7639ba6",
+            "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         }
     ],
-    "last_updated": 1775316474
+    "last_updated": 1775327747
 }
