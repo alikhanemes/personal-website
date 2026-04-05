@@ -663,32 +663,32 @@
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 9,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
-            "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Joji/_/Gimme+Love"
         },
         {
             "rank": "34",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 9,
-            "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
-            "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/PinkPantheress/_/I+Must+Apologise"
         },
         {
             "rank": "35",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 9,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
-            "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!"
         },
         {
             "rank": "36",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 9,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/XXXTENTACION/_/Sad!"
         },
         {
             "rank": "37",
@@ -703,8 +703,8 @@
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Erikpe+-+%C3%B5zen+version"
         },
         {
             "rank": "39",
@@ -727,8 +727,8 @@
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
-            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri"
         },
         {
             "rank": "42",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         }
     ],
-    "last_updated": 1775372450
+    "last_updated": 1775382940
 }
