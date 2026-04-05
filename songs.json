@@ -98,14 +98,6 @@
         },
         {
             "rank": "13",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
-            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
-        },
-        {
-            "rank": "14",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 2,
@@ -113,7 +105,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "15",
+            "rank": "14",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 2,
@@ -121,7 +113,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "16",
+            "rank": "15",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 2,
@@ -129,7 +121,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 2,
@@ -137,7 +129,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "18",
+            "rank": "17",
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 2,
@@ -145,7 +137,7 @@
             "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
-            "rank": "19",
+            "rank": "18",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 2,
@@ -153,7 +145,7 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "20",
+            "rank": "19",
             "title": "Heat Waves",
             "artist": "Glass Animals",
             "playcount": 2,
@@ -161,7 +153,7 @@
             "link": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
         },
         {
-            "rank": "21",
+            "rank": "20",
             "title": "why",
             "artist": "h4teboy",
             "playcount": 2,
@@ -169,12 +161,20 @@
             "link": "https://open.spotify.com/track/7e0sd39oELbsd5pG4KTh3G"
         },
         {
-            "rank": "22",
+            "rank": "21",
             "title": "SLOW DANCING IN THE DARK",
             "artist": "Joji",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2",
             "link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+        },
+        {
+            "rank": "22",
+            "title": "Departure!",
+            "artist": "Masatoshi Ono",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
+            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         },
         {
             "rank": "23",
@@ -358,7 +358,7 @@
             "artist": "DJ Unzensiert",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2734102866259073740ea0b1e2b",
-            "link": "https://open.spotify.com/track/6HqnEKZeafSHsseSgq3NmQ"
+            "link": "https://open.spotify.com/track/1eSsplHVhzc3H9J5leibmg"
         },
         {
             "rank": "46",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
         }
     ],
-    "last_updated": 1775402921
+    "last_updated": 1775414221
 }
