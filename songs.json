@@ -2,19 +2,19 @@
     "recent": [
         {
             "rank": "1",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 14,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
+        },
+        {
+            "rank": "2",
             "title": "TORE UP",
             "artist": "Don Toliver",
             "playcount": 14,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
             "link": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
-        },
-        {
-            "rank": "2",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "3",
@@ -274,6 +274,14 @@
         },
         {
             "rank": "35",
+            "title": "百花繚乱",
+            "artist": "Lilas",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e77e06b4aa422658900b529c",
+            "link": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
+        },
+        {
+            "rank": "36",
             "title": "Earrings",
             "artist": "Malcolm Todd",
             "playcount": 2,
@@ -281,7 +289,7 @@
             "link": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 2,
@@ -289,7 +297,7 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 2,
@@ -297,7 +305,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "MILLION DOLLAR BABY",
             "artist": "Tommy Richman",
             "playcount": 2,
@@ -305,7 +313,7 @@
             "link": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "HOPE",
             "artist": "XXXTENTACION",
             "playcount": 2,
@@ -313,7 +321,7 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 1,
@@ -321,7 +329,7 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "Snap Out of It",
             "artist": "Arctic Monkeys",
             "playcount": 1,
@@ -329,7 +337,7 @@
             "link": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "family ties (with Kendrick Lamar)",
             "artist": "Baby Keem",
             "playcount": 1,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 1,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "bad guy",
             "artist": "Billie Eilish",
             "playcount": 1,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "Cigarette Daydreams",
             "artist": "Cage the Elephant",
             "playcount": 1,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -377,28 +385,20 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
         {
-            "rank": "48",
+            "rank": "49",
+            "title": "Men Sen Siyaqty",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
+        },
+        {
+            "rank": "50",
             "title": "Qaldyrma Menі",
             "artist": "Darkhan Juzz",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
             "link": "https://open.spotify.com/track/1fKg0YRnTJ81IeEkCMhUf3"
-        },
-        {
-            "rank": "49",
-            "title": "TUCA DONKA",
-            "artist": "DJ FKU",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739d6fdeae1a36f47bdded2961",
-            "link": "https://open.spotify.com/track/0fRZPudbhfzCRZQMJhPRcU"
-        },
-        {
-            "rank": "50",
-            "title": "Please Me x Titanium",
-            "artist": "DJ Unzensiert",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734102866259073740ea0b1e2b",
-            "link": "https://open.spotify.com/track/1eSsplHVhzc3H9J5leibmg"
         }
     ],
     "alltime": [
@@ -406,7 +406,7 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 44,
+            "playcount": 45,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -452,19 +452,19 @@
         },
         {
             "rank": "7",
+            "title": "Men Sen Siyaqty",
+            "artist": "Darkhan Juzz",
+            "playcount": 18,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
+        },
+        {
+            "rank": "8",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 18,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "8",
-            "title": "Men Sen Siyaqty",
-            "artist": "Darkhan Juzz",
-            "playcount": 17,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
             "rank": "9",
@@ -676,6 +676,14 @@
         },
         {
             "rank": "35",
+            "title": "Sheker",
+            "artist": "Darkhan Juzz",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
+        },
+        {
+            "rank": "36",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 9,
@@ -683,7 +691,7 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 9,
@@ -691,7 +699,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 8,
@@ -699,7 +707,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "Lost!",
             "artist": "Coldplay",
             "playcount": 8,
@@ -707,7 +715,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 8,
@@ -715,7 +723,7 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "Erikpe - õzen version",
             "artist": "Darkhan Juzz",
             "playcount": 8,
@@ -723,20 +731,12 @@
             "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 8,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
-        },
-        {
-            "rank": "42",
-            "title": "Sheker",
-            "artist": "Darkhan Juzz",
-            "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
         },
         {
             "rank": "43",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
         }
     ],
-    "last_updated": 1775480399
+    "last_updated": 1775490160
 }
