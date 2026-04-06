@@ -2,19 +2,19 @@
     "recent": [
         {
             "rank": "1",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 18,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-        },
-        {
-            "rank": "2",
             "title": "TORE UP",
             "artist": "Don Toliver",
             "playcount": 14,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
             "link": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
+        },
+        {
+            "rank": "2",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 13,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "3",
@@ -34,6 +34,14 @@
         },
         {
             "rank": "5",
+            "title": "DNA.",
+            "artist": "Kendrick Lamar",
+            "playcount": 5,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+        },
+        {
+            "rank": "6",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 5,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 4,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 4,
@@ -57,15 +65,15 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "8",
-            "title": "DNA.",
-            "artist": "Kendrick Lamar",
+            "rank": "9",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
             "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "Dance with STEEL BALL RUN",
             "artist": "Yugo Kanno",
             "playcount": 4,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/2Q0fRmDT1rIzDYvpwhLAXW"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Prospekt's March / Poppyfields",
             "artist": "Coldplay",
             "playcount": 3,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/4yr1059N96a8msTHVftmFN"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Strawberry Swing",
             "artist": "Coldplay",
             "playcount": 3,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/2dphvmoLEXdk8hOYxmHlI3"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -105,7 +113,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 3,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 3,
@@ -137,15 +145,15 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "18",
-            "title": "Bad Habit",
-            "artist": "Steve Lacy",
+            "rank": "19",
+            "title": "New Person, Same Old Mistakes",
+            "artist": "Tame Impala",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+            "link": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Safe and Sound",
             "artist": "Capital Cities",
             "playcount": 2,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Cemeteries of London",
             "artist": "Coldplay",
             "playcount": 2,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 2,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 2,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 2,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 2,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 2,
@@ -201,7 +209,7 @@
             "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 2,
@@ -209,7 +217,7 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "Heat Waves",
             "artist": "Glass Animals",
             "playcount": 2,
@@ -217,7 +225,7 @@
             "link": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "why",
             "artist": "h4teboy",
             "playcount": 2,
@@ -225,7 +233,7 @@
             "link": "https://open.spotify.com/track/7e0sd39oELbsd5pG4KTh3G"
         },
         {
-            "rank": "29",
+            "rank": "30",
             "title": "SLOW DANCING IN THE DARK",
             "artist": "Joji",
             "playcount": 2,
@@ -233,7 +241,7 @@
             "link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
         },
         {
-            "rank": "30",
+            "rank": "31",
             "title": "Earrings",
             "artist": "Malcolm Todd",
             "playcount": 2,
@@ -241,7 +249,7 @@
             "link": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
         },
         {
-            "rank": "31",
+            "rank": "32",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 2,
@@ -249,20 +257,12 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
-        },
-        {
-            "rank": "33",
-            "title": "New Person, Same Old Mistakes",
-            "artist": "Tame Impala",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
-            "link": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
         },
         {
             "rank": "34",
@@ -438,7 +438,7 @@
             "rank": "5",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
-            "playcount": 20,
+            "playcount": 21,
             "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
@@ -764,6 +764,14 @@
         },
         {
             "rank": "46",
+            "title": "DNA.",
+            "artist": "Kendrick Lamar",
+            "playcount": 8,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+        },
+        {
+            "rank": "47",
             "title": "“Tomodachi Game” Main Theme",
             "artist": "Michiru",
             "playcount": 8,
@@ -771,7 +779,7 @@
             "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 8,
@@ -779,7 +787,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 8,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Starboy",
             "artist": "The Weeknd",
             "playcount": 8,
             "image": "https://i.scdn.co/image/ab67616d0000b2734718e2b124f79258be7bc452",
             "link": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
-        },
-        {
-            "rank": "50",
-            "title": "I Wanna Be Yours",
-            "artist": "Arctic Monkeys",
-            "playcount": 7,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-            "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         }
     ],
-    "last_updated": 1775452816
+    "last_updated": 1775460238
 }
