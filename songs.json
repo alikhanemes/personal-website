@@ -90,6 +90,22 @@
         },
         {
             "rank": "12",
+            "title": "we never dated",
+            "artist": "sombr",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
+            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+        },
+        {
+            "rank": "13",
+            "title": "Bad Habit",
+            "artist": "Steve Lacy",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
+        },
+        {
+            "rank": "14",
             "title": "Dance with STEEL BALL RUN",
             "artist": "Yugo Kanno",
             "playcount": 4,
@@ -97,7 +113,7 @@
             "link": "https://open.spotify.com/track/2Q0fRmDT1rIzDYvpwhLAXW"
         },
         {
-            "rank": "13",
+            "rank": "15",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 3,
@@ -105,7 +121,15 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "14",
+            "rank": "16",
+            "title": "That's What I Like",
+            "artist": "Bruno Mars",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+            "link": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+        },
+        {
+            "rank": "17",
             "title": "Cemeteries of London",
             "artist": "Coldplay",
             "playcount": 3,
@@ -113,7 +137,7 @@
             "link": "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI"
         },
         {
-            "rank": "15",
+            "rank": "18",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 3,
@@ -121,7 +145,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "16",
+            "rank": "19",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 3,
@@ -129,7 +153,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "17",
+            "rank": "20",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 3,
@@ -137,7 +161,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "18",
+            "rank": "21",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 3,
@@ -145,7 +169,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "19",
+            "rank": "22",
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 3,
@@ -153,7 +177,7 @@
             "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
-            "rank": "20",
+            "rank": "23",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 3,
@@ -161,7 +185,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "21",
+            "rank": "24",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 3,
@@ -169,7 +193,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "22",
+            "rank": "25",
             "title": "百花繚乱",
             "artist": "Lilas",
             "playcount": 3,
@@ -177,7 +201,7 @@
             "link": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
         },
         {
-            "rank": "23",
+            "rank": "26",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 3,
@@ -185,7 +209,7 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         },
         {
-            "rank": "24",
+            "rank": "27",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -193,23 +217,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "25",
-            "title": "we never dated",
-            "artist": "sombr",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
-            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
-        },
-        {
-            "rank": "26",
-            "title": "Bad Habit",
-            "artist": "Steve Lacy",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
-            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
-        },
-        {
-            "rank": "27",
+            "rank": "28",
             "title": "New Person, Same Old Mistakes",
             "artist": "Tame Impala",
             "playcount": 3,
@@ -217,7 +225,7 @@
             "link": "https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 3,
@@ -225,15 +233,15 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         },
         {
-            "rank": "29",
-            "title": "That's What I Like",
-            "artist": "Bruno Mars",
+            "rank": "30",
+            "title": "the perfect pair",
+            "artist": "beabadoobee",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-            "link": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
+            "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+            "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "30",
+            "rank": "31",
             "title": "Safe and Sound",
             "artist": "Capital Cities",
             "playcount": 2,
@@ -241,7 +249,7 @@
             "link": "https://open.spotify.com/track/5JVbvCHX10U2pLa5DEqGav"
         },
         {
-            "rank": "31",
+            "rank": "32",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 2,
@@ -249,7 +257,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 2,
@@ -257,7 +265,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Lovers In Japan - Osaka Sun Mix",
             "artist": "Coldplay",
             "playcount": 2,
@@ -265,20 +273,12 @@
             "link": "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Now My Feet Won't Touch the Ground",
             "artist": "Coldplay",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
             "link": "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1"
-        },
-        {
-            "rank": "35",
-            "title": "Yes",
-            "artist": "Coldplay",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
             "rank": "36",
@@ -298,6 +298,14 @@
         },
         {
             "rank": "38",
+            "title": "On Melancholy Hill",
+            "artist": "Gorillaz",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
+            "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+        },
+        {
+            "rank": "39",
             "title": "why",
             "artist": "h4teboy",
             "playcount": 2,
@@ -305,7 +313,7 @@
             "link": "https://open.spotify.com/track/7e0sd39oELbsd5pG4KTh3G"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 2,
@@ -313,7 +321,7 @@
             "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 2,
@@ -321,20 +329,12 @@
             "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "MILLION DOLLAR BABY",
             "artist": "Tommy Richman",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f",
             "link": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
-        },
-        {
-            "rank": "42",
-            "title": "HOPE",
-            "artist": "XXXTENTACION",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         },
         {
             "rank": "43",
@@ -378,14 +378,6 @@
         },
         {
             "rank": "48",
-            "title": "the perfect pair",
-            "artist": "beabadoobee",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-            "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
-        },
-        {
-            "rank": "49",
             "title": "What You Won't Do for Love",
             "artist": "Bobby Caldwell",
             "playcount": 1,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "I Just Might",
             "artist": "Bruno Mars",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273e7623a0a60f330ee2b24d498",
             "link": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
+        },
+        {
+            "rank": "50",
+            "title": "It Will Rain",
+            "artist": "Bruno Mars",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
+            "link": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
         }
     ],
     "alltime": [
@@ -438,7 +438,7 @@
             "rank": "5",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
-            "playcount": 21,
+            "playcount": 22,
             "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
@@ -508,6 +508,14 @@
         },
         {
             "rank": "14",
+            "title": "we never dated",
+            "artist": "sombr",
+            "playcount": 14,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
+            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+        },
+        {
+            "rank": "15",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 14,
@@ -515,7 +523,7 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 13,
@@ -523,7 +531,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 13,
@@ -531,20 +539,12 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 13,
             "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
-        },
-        {
-            "rank": "18",
-            "title": "we never dated",
-            "artist": "sombr",
-            "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
-            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
             "rank": "19",
@@ -676,6 +676,14 @@
         },
         {
             "rank": "35",
+            "title": "the perfect pair",
+            "artist": "beabadoobee",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+            "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+        },
+        {
+            "rank": "36",
             "title": "Lost!",
             "artist": "Coldplay",
             "playcount": 9,
@@ -683,7 +691,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 9,
@@ -691,7 +699,7 @@
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 9,
@@ -699,7 +707,7 @@
             "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 9,
@@ -707,20 +715,12 @@
             "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
-        },
-        {
-            "rank": "40",
-            "title": "the perfect pair",
-            "artist": "beabadoobee",
-            "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
-            "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
             "rank": "41",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
         }
     ],
-    "last_updated": 1775613418
+    "last_updated": 1775624917
 }
