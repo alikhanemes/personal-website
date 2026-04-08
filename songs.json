@@ -26,14 +26,6 @@
         },
         {
             "rank": "4",
-            "title": "Lost!",
-            "artist": "Coldplay",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
-        },
-        {
-            "rank": "5",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 5,
@@ -41,7 +33,7 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 5,
@@ -49,12 +41,20 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
+        },
+        {
+            "rank": "7",
+            "title": "Lost!",
+            "artist": "Coldplay",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
             "rank": "8",
@@ -82,6 +82,14 @@
         },
         {
             "rank": "11",
+            "title": "恋風",
+            "artist": "Lilas",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
+            "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
+        },
+        {
+            "rank": "12",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 4,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 4,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Dance with STEEL BALL RUN",
             "artist": "Yugo Kanno",
             "playcount": 4,
@@ -105,7 +113,7 @@
             "link": "https://open.spotify.com/track/2Q0fRmDT1rIzDYvpwhLAXW"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 3,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "That's What I Like",
             "artist": "Bruno Mars",
             "playcount": 3,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Cemeteries of London",
             "artist": "Coldplay",
             "playcount": 3,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 3,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 3,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 3,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 3,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 3,
@@ -169,20 +177,12 @@
             "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "23",
-            "title": "恋風",
-            "artist": "Lilas",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
-            "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
         },
         {
             "rank": "24",
@@ -338,6 +338,14 @@
         },
         {
             "rank": "43",
+            "title": "絶絶絶絶対聖域",
+            "artist": "Ano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730e63e2f33333ec8a9dd84955",
+            "link": "https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu"
+        },
+        {
+            "rank": "44",
             "title": "Snap Out of It",
             "artist": "Arctic Monkeys",
             "playcount": 1,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 1,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "family ties (with Kendrick Lamar)",
             "artist": "Baby Keem",
             "playcount": 1,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "All I Did Was Dream Of You (feat. The Marías)",
             "artist": "beabadoobee",
             "playcount": 1,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/0qWoOHqTirzo59FQ9eoECH"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "What You Won't Do for Love",
             "artist": "Bobby Caldwell",
             "playcount": 1,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/6Dk5fHTvH897XrVzCO64Mx"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "I Just Might",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "It Will Rain",
             "artist": "Bruno Mars",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273f01ba25235fb24f73605b9dd",
             "link": "https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C"
-        },
-        {
-            "rank": "50",
-            "title": "Just the Way You Are",
-            "artist": "Bruno Mars",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737039c1c841fc3dfa2ad8a0d8",
-            "link": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
         }
     ],
     "alltime": [
@@ -452,6 +452,14 @@
         },
         {
             "rank": "7",
+            "title": "恋風",
+            "artist": "Lilas",
+            "playcount": 19,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
+            "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
+        },
+        {
+            "rank": "8",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 18,
@@ -459,20 +467,12 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 18,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "9",
-            "title": "恋風",
-            "artist": "Lilas",
-            "playcount": 18,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
-            "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
         },
         {
             "rank": "10",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
         }
     ],
-    "last_updated": 1775653847
+    "last_updated": 1775664829
 }
