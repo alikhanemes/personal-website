@@ -386,19 +386,19 @@
         },
         {
             "rank": "49",
-            "title": "Sanctuary",
-            "artist": "Joji",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4",
-            "link": "https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN"
-        },
-        {
-            "rank": "50",
             "title": "SLOW DANCING IN THE DARK",
             "artist": "Joji",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2",
             "link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
+        },
+        {
+            "rank": "50",
+            "title": "OWA OWA",
+            "artist": "Lil Tecca",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
+            "link": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7vP9nI0gNbEzcPgo4ne5t5"
         }
     ],
-    "last_updated": 1775740485
+    "last_updated": 1775751411
 }
