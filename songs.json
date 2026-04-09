@@ -362,6 +362,14 @@
         },
         {
             "rank": "46",
+            "title": "Shinunoga E-Wa",
+            "artist": "Fujii Kaze",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc",
+            "link": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
+        },
+        {
+            "rank": "47",
             "title": "we fell in love in october",
             "artist": "girl in red",
             "playcount": 2,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Sanctuary",
             "artist": "Joji",
             "playcount": 2,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "SLOW DANCING IN THE DARK",
             "artist": "Joji",
             "playcount": 2,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "OWA OWA",
             "artist": "Lil Tecca",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
             "link": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
-        },
-        {
-            "rank": "50",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
-            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
     "alltime": [
@@ -524,6 +524,14 @@
         },
         {
             "rank": "16",
+            "title": "Малышка",
+            "artist": "Sharlot",
+            "playcount": 14,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+        },
+        {
+            "rank": "17",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 14,
@@ -531,20 +539,12 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 13,
             "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
-        },
-        {
-            "rank": "18",
-            "title": "Малышка",
-            "artist": "Sharlot",
-            "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
-            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
             "rank": "19",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7vP9nI0gNbEzcPgo4ne5t5"
         }
     ],
-    "last_updated": 1775719006
+    "last_updated": 1775729387
 }
