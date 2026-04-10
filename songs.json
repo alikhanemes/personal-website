@@ -362,14 +362,6 @@
         },
         {
             "rank": "46",
-            "title": "God's Plan",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "47",
             "title": "Shinunoga E-Wa",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "we fell in love in october",
             "artist": "girl in red",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "SLOW DANCING IN THE DARK",
             "artist": "Joji",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "OWA OWA",
             "artist": "Lil Tecca",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
             "link": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
+        },
+        {
+            "rank": "50",
+            "title": "Departure!",
+            "artist": "Masatoshi Ono",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
+            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         }
     ],
-    "last_updated": 1775786470
+    "last_updated": 1775798514
 }
