@@ -12,7 +12,7 @@
             "rank": "2",
             "title": "back to friends",
             "artist": "sombr",
-            "playcount": 10,
+            "playcount": 11,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
@@ -74,14 +74,6 @@
         },
         {
             "rank": "10",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "11",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 5,
@@ -89,7 +81,7 @@
             "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 5,
@@ -97,12 +89,20 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "13",
+            "rank": "12",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 5,
             "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
+        },
+        {
+            "rank": "13",
+            "title": "i like the way you kiss me",
+            "artist": "Artemas",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
+            "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
             "rank": "14",
@@ -170,19 +170,19 @@
         },
         {
             "rank": "22",
-            "title": "DNA.",
-            "artist": "Kendrick Lamar",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
-        },
-        {
-            "rank": "23",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
             "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
+        },
+        {
+            "rank": "23",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
             "rank": "24",
@@ -202,14 +202,6 @@
         },
         {
             "rank": "26",
-            "title": "i like the way you kiss me",
-            "artist": "Artemas",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
-            "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-        },
-        {
-            "rank": "27",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 3,
@@ -217,7 +209,7 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "28",
+            "rank": "27",
             "title": "That's What I Like",
             "artist": "Bruno Mars",
             "playcount": 3,
@@ -225,7 +217,7 @@
             "link": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
         },
         {
-            "rank": "29",
+            "rank": "28",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 3,
@@ -233,7 +225,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "30",
+            "rank": "29",
             "title": "Lovers In Japan - Osaka Sun Mix",
             "artist": "Coldplay",
             "playcount": 3,
@@ -241,7 +233,7 @@
             "link": "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb"
         },
         {
-            "rank": "31",
+            "rank": "30",
             "title": "Now My Feet Won't Touch the Ground",
             "artist": "Coldplay",
             "playcount": 3,
@@ -249,12 +241,20 @@
             "link": "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1"
         },
         {
-            "rank": "32",
+            "rank": "31",
             "title": "Barajatr",
             "artist": "dudeontheguitar",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2730c15b8793fe3110caaf7009e",
             "link": "https://open.spotify.com/track/4oBKssLTIGrXWZwyWYTqbN"
+        },
+        {
+            "rank": "32",
+            "title": "DNA.",
+            "artist": "Kendrick Lamar",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
         },
         {
             "rank": "33",
@@ -394,11 +394,11 @@
         },
         {
             "rank": "50",
-            "title": "OWA OWA",
-            "artist": "Lil Tecca",
+            "title": "Departure!",
+            "artist": "Masatoshi Ono",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732474acb55491f8b8c9b30147",
-            "link": "https://open.spotify.com/track/5E3XPRJVgYnxhMAFI7nZ7N"
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
+            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
     "alltime": [
@@ -430,7 +430,7 @@
             "rank": "4",
             "title": "back to friends",
             "artist": "sombr",
-            "playcount": 29,
+            "playcount": 30,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
@@ -486,7 +486,7 @@
             "rank": "11",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
-            "playcount": 16,
+            "playcount": 17,
             "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         }
     ],
-    "last_updated": 1775835996
+    "last_updated": 1775846698
 }
