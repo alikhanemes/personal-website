@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 11,
+            "playcount": 12,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -20,7 +20,7 @@
             "rank": "3",
             "title": "we never dated",
             "artist": "sombr",
-            "playcount": 9,
+            "playcount": 10,
             "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
@@ -406,7 +406,7 @@
             "rank": "1",
             "title": "Viva la Vida",
             "artist": "Coldplay",
-            "playcount": 51,
+            "playcount": 52,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
@@ -444,6 +444,14 @@
         },
         {
             "rank": "6",
+            "title": "we never dated",
+            "artist": "sombr",
+            "playcount": 20,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
+            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
+        },
+        {
+            "rank": "7",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 19,
@@ -451,7 +459,7 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 19,
@@ -459,20 +467,12 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 19,
             "image": "https://i.scdn.co/image/ab67616d0000b273d1a9be7be47701c762ed0dda",
             "link": "https://open.spotify.com/track/6QGuDk8tY8Lan39gTWtXWK"
-        },
-        {
-            "rank": "9",
-            "title": "we never dated",
-            "artist": "sombr",
-            "playcount": 19,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
-            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
             "rank": "10",
@@ -724,6 +724,14 @@
         },
         {
             "rank": "41",
+            "title": "Erikpe - õzen version",
+            "artist": "Darkhan Juzz",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
+        },
+        {
+            "rank": "42",
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 9,
@@ -731,7 +739,7 @@
             "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
         },
         {
-            "rank": "42",
+            "rank": "43",
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 9,
@@ -739,7 +747,7 @@
             "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "One More Hour",
             "artist": "Tame Impala",
             "playcount": 9,
@@ -747,7 +755,7 @@
             "link": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 9,
@@ -755,7 +763,7 @@
             "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 9,
@@ -763,7 +771,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "I Wanna Be Yours",
             "artist": "Arctic Monkeys",
             "playcount": 8,
@@ -771,20 +779,12 @@
             "link": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 8,
             "image": "https://i.scdn.co/image/ab67616d0000b273926f43e7cce571e62720fd46",
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
-        },
-        {
-            "rank": "48",
-            "title": "Erikpe - õzen version",
-            "artist": "Darkhan Juzz",
-            "playcount": 8,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
         },
         {
             "rank": "49",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         }
     ],
-    "last_updated": 1775911523
+    "last_updated": 1775921384
 }
