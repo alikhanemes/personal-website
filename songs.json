@@ -157,8 +157,8 @@
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730101b89babd455a9ec501562",
-            "link": "https://open.spotify.com/track/5ZMqdwtZvvNrpUUTijZem6"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
             "rank": "21",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         }
     ],
-    "last_updated": 1775856851
+    "last_updated": 1775872259
 }
