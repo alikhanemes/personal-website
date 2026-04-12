@@ -2,19 +2,19 @@
     "recent": [
         {
             "rank": "1",
-            "title": "Viva la Vida",
-            "artist": "Coldplay",
-            "playcount": 11,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
-        },
-        {
-            "rank": "2",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 11,
             "image": "https://i.scdn.co/image/ab67616d0000b2737fd4049ad3b037358cf809ef",
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+        },
+        {
+            "rank": "2",
+            "title": "Viva la Vida",
+            "artist": "Coldplay",
+            "playcount": 10,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "3",
@@ -258,14 +258,6 @@
         },
         {
             "rank": "33",
-            "title": "DNA.",
-            "artist": "Kendrick Lamar",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
-        },
-        {
-            "rank": "34",
             "title": "Stateside + Zara Larsson",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "crushing",
             "artist": "sombr",
             "playcount": 3,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/2pQoErkcTbLdQLnUtMYvuZ"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "i don't know you anymore",
             "artist": "sombr",
             "playcount": 3,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/5FCMqNc9fodjQRIXbG7Ld1"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "makes me want you",
             "artist": "sombr",
             "playcount": 3,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/0CRvTAUyG3WOb3DIelsJ12"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "One More Hour",
             "artist": "Tame Impala",
             "playcount": 3,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "Snap Out of It",
             "artist": "Arctic Monkeys",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "I Just Might",
             "artist": "Bruno Mars",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Cigarette Daydreams",
             "artist": "Cage the Elephant",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Lovers In Japan - Osaka Sun Mix",
             "artist": "Coldplay",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Prospekt's March / Poppyfields",
             "artist": "Coldplay",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/4yr1059N96a8msTHVftmFN"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Shinunoga E-Wa",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Sailor Song",
             "artist": "Gigi Perez",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273e6065f209e0a01986206bd53",
             "link": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
+        },
+        {
+            "rank": "50",
+            "title": "we fell in love in october",
+            "artist": "girl in red",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273d6839051c4760457e1a60b2a",
+            "link": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0lJvbLAT2hRU8UECFEYHgH"
         }
     ],
-    "last_updated": 1775959393
+    "last_updated": 1775971209
 }
