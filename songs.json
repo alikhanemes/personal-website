@@ -28,7 +28,7 @@
             "rank": "4",
             "title": "Glass of Water",
             "artist": "Coldplay",
-            "playcount": 6,
+            "playcount": 7,
             "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
@@ -644,6 +644,14 @@
         },
         {
             "rank": "31",
+            "title": "Glass of Water",
+            "artist": "Coldplay",
+            "playcount": 10,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
+        },
+        {
+            "rank": "32",
             "title": "Lost!",
             "artist": "Coldplay",
             "playcount": 10,
@@ -651,7 +659,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 10,
@@ -659,7 +667,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 10,
@@ -667,7 +675,7 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 10,
@@ -675,7 +683,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 10,
@@ -683,7 +691,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 10,
@@ -691,7 +699,7 @@
             "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Gimme Love",
             "artist": "Joji",
             "playcount": 10,
@@ -699,20 +707,12 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "I Must Apologise",
             "artist": "PinkPantheress",
             "playcount": 10,
             "image": "https://i.scdn.co/image/ab67616d0000b273cdca9efcc4db5015ac67061b",
             "link": "https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI"
-        },
-        {
-            "rank": "39",
-            "title": "Glass of Water",
-            "artist": "Coldplay",
-            "playcount": 9,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
-            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
             "rank": "40",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         }
     ],
-    "last_updated": 1776066939
+    "last_updated": 1776076229
 }
