@@ -325,8 +325,8 @@
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b1e2e1283c7692a628813d06",
-            "link": "https://open.spotify.com/track/0miA6152xejjzY1noCtI6C"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730fc6e47b0e97fd0719d419e7",
+            "link": "https://open.spotify.com/track/5PIL6o5OuH2qgL4OrWlBCo"
         },
         {
             "rank": "42",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         }
     ],
-    "last_updated": 1776193605
+    "last_updated": 1776203188
 }
