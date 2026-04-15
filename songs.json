@@ -306,6 +306,14 @@
         },
         {
             "rank": "39",
+            "title": "Stephanie",
+            "artist": "Nafeesisboujee",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733bda019c02edcbacd8b22417",
+            "link": "https://open.spotify.com/track/5rc7178sa2YRDlBFBHY0e8"
+        },
+        {
+            "rank": "40",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -313,7 +321,15 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "40",
+            "rank": "41",
+            "title": "Boy's a liar",
+            "artist": "PinkPantheress",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735d03a2f9304ab948d5cdac9b",
+            "link": "https://open.spotify.com/track/3NanY0K4okhIQzL33U5Ad8"
+        },
+        {
+            "rank": "42",
             "title": "Feel It Still",
             "artist": "Portugal. The Man",
             "playcount": 2,
@@ -321,7 +337,15 @@
             "link": "https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK"
         },
         {
-            "rank": "41",
+            "rank": "43",
+            "title": "All I Ever Asked (with sombr)",
+            "artist": "Rachel Chinouriri",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27388e15b861bc38f527f4122e8",
+            "link": "https://open.spotify.com/track/1awQLv1J6LkeEQ5co4OOoQ"
+        },
+        {
+            "rank": "44",
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 2,
@@ -329,7 +353,15 @@
             "link": "https://open.spotify.com/track/5PIL6o5OuH2qgL4OrWlBCo"
         },
         {
-            "rank": "42",
+            "rank": "45",
+            "title": "Снова я напиваюсь",
+            "artist": "SLAVA MARLOW",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27328059516a8477d0169237a8c",
+            "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
+        },
+        {
+            "rank": "46",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 2,
@@ -337,7 +369,7 @@
             "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
-            "rank": "43",
+            "rank": "47",
             "title": "savior",
             "artist": "sombr",
             "playcount": 2,
@@ -345,7 +377,7 @@
             "link": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
         },
         {
-            "rank": "44",
+            "rank": "48",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 2,
@@ -353,7 +385,7 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "45",
+            "rank": "49",
             "title": "Dracula",
             "artist": "Tame Impala",
             "playcount": 2,
@@ -361,44 +393,12 @@
             "link": "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM"
         },
         {
-            "rank": "46",
+            "rank": "50",
             "title": "Lovers Rock",
             "artist": "TV Girl",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84",
             "link": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM"
-        },
-        {
-            "rank": "47",
-            "title": "HOPE",
-            "artist": "XXXTENTACION",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
-        },
-        {
-            "rank": "48",
-            "title": "The Winner Takes It All",
-            "artist": "ABBA",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
-            "link": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
-        },
-        {
-            "rank": "49",
-            "title": "Алтыным",
-            "artist": "Aikyn Tolepbergen",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f2fff68cfd9ed31e6bfa38c1",
-            "link": "https://open.spotify.com/track/7mj848xSYWVDTzfS4xQQdr"
-        },
-        {
-            "rank": "50",
-            "title": "Sleepwalker - Slowed",
-            "artist": "akiaura",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731d93ddc540c76c8ff34a6498",
-            "link": "https://open.spotify.com/track/5cjRF0yXxYvqzmJfUbq9AW"
         }
     ],
     "alltime": [
@@ -764,6 +764,14 @@
         },
         {
             "rank": "46",
+            "title": "Jerk",
+            "artist": "Oliver Tree",
+            "playcount": 9,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
+        },
+        {
+            "rank": "47",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 9,
@@ -771,7 +779,7 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "undressed",
             "artist": "sombr",
             "playcount": 9,
@@ -779,7 +787,7 @@
             "link": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "One More Hour",
             "artist": "Tame Impala",
             "playcount": 9,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "The Less I Know the Better",
             "artist": "Tame Impala",
             "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
             "link": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
-        },
-        {
-            "rank": "50",
-            "title": "Sad!",
-            "artist": "XXXTENTACION",
-            "playcount": 9,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         }
     ],
-    "last_updated": 1776248073
+    "last_updated": 1776258943
 }
