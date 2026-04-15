@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Glass of Water",
             "artist": "Coldplay",
-            "playcount": 8,
+            "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
@@ -12,7 +12,7 @@
             "rank": "2",
             "title": "we never dated",
             "artist": "sombr",
-            "playcount": 8,
+            "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
@@ -446,7 +446,7 @@
             "rank": "6",
             "title": "we never dated",
             "artist": "sombr",
-            "playcount": 22,
+            "playcount": 23,
             "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
@@ -548,6 +548,14 @@
         },
         {
             "rank": "19",
+            "title": "Glass of Water",
+            "artist": "Coldplay",
+            "playcount": 13,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
+        },
+        {
+            "rank": "20",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 13,
@@ -555,7 +563,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 13,
@@ -563,20 +571,12 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 13,
             "image": "https://i.scdn.co/image/ab67616d0000b27387d3383ad8d19ab88aa83a4a",
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
-        },
-        {
-            "rank": "22",
-            "title": "Glass of Water",
-            "artist": "Coldplay",
-            "playcount": 12,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
-            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
             "rank": "23",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         }
     ],
-    "last_updated": 1776237898
+    "last_updated": 1776248073
 }
