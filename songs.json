@@ -314,14 +314,6 @@
         },
         {
             "rank": "40",
-            "title": "Snap Out of It",
-            "artist": "Arctic Monkeys",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
-            "link": "https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY"
-        },
-        {
-            "rank": "41",
             "title": "FUNK DO BOUNCE (Slowed)",
             "artist": "ariis",
             "playcount": 1,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/7etchTu0yJDGvk55gIQADV"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "BILLIE EILISH.",
             "artist": "Armani White",
             "playcount": 1,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Gashyqpyn sagan - Live",
             "artist": "Arshat",
             "playcount": 1,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/5QcI16BAYbJSUQV2MHabuj"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 1,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Бәрінен де сен сұлу",
             "artist": "Asyl Müra",
             "playcount": 1,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/5zI1PNTNwG42YW1mKbokCY"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "1-800",
             "artist": "bbno$",
             "playcount": 1,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "edamame",
             "artist": "bbno$",
             "playcount": 1,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/1golLrmqyxDWedF7YUHCOD"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 1,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "TIME",
             "artist": "Citizen",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2731f1f06a21f0b54170f4f1a4a",
             "link": "https://open.spotify.com/track/3Th9hnDljACufaL9H98vv9"
+        },
+        {
+            "rank": "50",
+            "title": "Players",
+            "artist": "Coi Leray",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2735626453d29a0124dea22fb1b",
+            "link": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         }
     ],
-    "last_updated": 1776452064
+    "last_updated": 1776461923
 }
