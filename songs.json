@@ -18,14 +18,6 @@
         },
         {
             "rank": "3",
-            "title": "we never dated",
-            "artist": "sombr",
-            "playcount": 6,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
-            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
-        },
-        {
-            "rank": "4",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 5,
@@ -33,15 +25,15 @@
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         },
         {
-            "rank": "5",
-            "title": "Малышка",
-            "artist": "Sharlot",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
-            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+            "rank": "4",
+            "title": "we never dated",
+            "artist": "sombr",
+            "playcount": 5,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
+            "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "Homewrecker",
             "artist": "sombr",
             "playcount": 4,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 3,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Stateside + Zara Larsson",
             "artist": "PinkPantheress",
             "playcount": 3,
@@ -73,20 +65,28 @@
             "link": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt"
         },
         {
+            "rank": "9",
+            "title": "Малышка",
+            "artist": "Sharlot",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+        },
+        {
             "rank": "10",
+            "title": "Let It Happen",
+            "artist": "Tame Impala",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
+            "link": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+        },
+        {
+            "rank": "11",
             "title": "Kuiim",
             "artist": "Alem",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
             "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
-        },
-        {
-            "rank": "11",
-            "title": "i like the way you kiss me",
-            "artist": "Artemas",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
-            "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
             "rank": "12",
@@ -290,6 +290,14 @@
         },
         {
             "rank": "37",
+            "title": "ROXANNE",
+            "artist": "Arizona Zervas",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+            "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+        },
+        {
+            "rank": "38",
             "title": "Gashyqpyn sagan - Live",
             "artist": "Arshat",
             "playcount": 1,
@@ -297,7 +305,15 @@
             "link": "https://open.spotify.com/track/5QcI16BAYbJSUQV2MHabuj"
         },
         {
-            "rank": "38",
+            "rank": "39",
+            "title": "i like the way you kiss me",
+            "artist": "Artemas",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
+            "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+        },
+        {
+            "rank": "40",
             "title": "Бәрінен де сен сұлу",
             "artist": "Asyl Müra",
             "playcount": 1,
@@ -305,7 +321,7 @@
             "link": "https://open.spotify.com/track/5zI1PNTNwG42YW1mKbokCY"
         },
         {
-            "rank": "39",
+            "rank": "41",
             "title": "1-800",
             "artist": "bbno$",
             "playcount": 1,
@@ -313,7 +329,7 @@
             "link": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
         },
         {
-            "rank": "40",
+            "rank": "42",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 1,
@@ -321,7 +337,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "41",
+            "rank": "43",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -329,39 +345,39 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "42",
+            "rank": "44",
             "title": "Doja",
             "artist": "Central Cee",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27391de4cb28d9066225b55e603",
-            "link": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
-        },
-        {
-            "rank": "43",
-            "title": "TIME",
-            "artist": "Citizen",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731f1f06a21f0b54170f4f1a4a",
-            "link": "https://open.spotify.com/track/3Th9hnDljACufaL9H98vv9"
-        },
-        {
-            "rank": "44",
-            "title": "Players",
-            "artist": "Coi Leray",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2735626453d29a0124dea22fb1b",
-            "link": "https://open.spotify.com/track/6UN73IYd0hZxLi8wFPMQij"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Central+Cee/_/Doja"
         },
         {
             "rank": "45",
-            "title": "Lovers in Japan",
-            "artist": "Coldplay",
+            "title": "TIME",
+            "artist": "Citizen",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Citizen/_/TIME"
         },
         {
             "rank": "46",
+            "title": "Players",
+            "artist": "Coi Leray",
+            "playcount": 1,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Coi+Leray/_/Players"
+        },
+        {
+            "rank": "47",
+            "title": "Lovers in Japan",
+            "artist": "Coldplay",
+            "playcount": 1,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Coldplay/_/Lovers+in+Japan"
+        },
+        {
+            "rank": "48",
             "title": "Now My Feet Won't Touch the Ground",
             "artist": "Coldplay",
             "playcount": 1,
@@ -369,7 +385,7 @@
             "link": "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1"
         },
         {
-            "rank": "47",
+            "rank": "49",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 1,
@@ -377,28 +393,12 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "48",
+            "rank": "50",
             "title": "Flashbacks - Slowed",
             "artist": "Craspore",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273c8af94260430d4ff5db2dc03",
             "link": "https://open.spotify.com/track/7xUbKzU2m4qjNyrTJ9ZJPp"
-        },
-        {
-            "rank": "49",
-            "title": "Fright",
-            "artist": "Creepy Nuts",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c7d08a0cca98d73eb52c1ca7",
-            "link": "https://open.spotify.com/track/0KOwIxuylidjOSllJAINxO"
-        },
-        {
-            "rank": "50",
-            "title": "オトノケ - Otonoke",
-            "artist": "Creepy Nuts",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731596b18678ae04bd27f85f41",
-            "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
     "alltime": [
@@ -468,6 +468,14 @@
         },
         {
             "rank": "9",
+            "title": "God's Plan",
+            "artist": "Drake",
+            "playcount": 19,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+        },
+        {
+            "rank": "10",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 19,
@@ -475,20 +483,12 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 18,
             "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-        },
-        {
-            "rank": "11",
-            "title": "God's Plan",
-            "artist": "Drake",
-            "playcount": 18,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
             "rank": "12",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         }
     ],
-    "last_updated": 1776420730
+    "last_updated": 1776431968
 }
