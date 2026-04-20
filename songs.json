@@ -10,6 +10,14 @@
         },
         {
             "rank": "2",
+            "title": "Glass of Water",
+            "artist": "Coldplay",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
+        },
+        {
+            "rank": "3",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 4,
@@ -17,7 +25,7 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "3",
+            "rank": "4",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 4,
@@ -25,7 +33,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "4",
+            "rank": "5",
             "title": "Let It Happen",
             "artist": "Tame Impala",
             "playcount": 4,
@@ -33,7 +41,7 @@
             "link": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 3,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "1-800",
             "artist": "bbno$",
             "playcount": 3,
@@ -49,20 +57,12 @@
             "link": "https://open.spotify.com/track/6NBZu27n3cxEk4y4c2Kxi8"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "TIME",
             "artist": "Citizen",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2731f1f06a21f0b54170f4f1a4a",
             "link": "https://open.spotify.com/track/3Th9hnDljACufaL9H98vv9"
-        },
-        {
-            "rank": "8",
-            "title": "Glass of Water",
-            "artist": "Coldplay",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
-            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
             "rank": "9",
@@ -540,6 +540,14 @@
         },
         {
             "rank": "18",
+            "title": "Glass of Water",
+            "artist": "Coldplay",
+            "playcount": 14,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
+        },
+        {
+            "rank": "19",
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 14,
@@ -547,20 +555,12 @@
             "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 14,
             "image": "https://i.scdn.co/image/ab67616d0000b273c5716278abba6a103ad13aa7",
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
-        },
-        {
-            "rank": "20",
-            "title": "Glass of Water",
-            "artist": "Coldplay",
-            "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
-            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
             "rank": "21",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0gHsfc1hXww86SnpwdunlR"
         }
     ],
-    "last_updated": 1776663422
+    "last_updated": 1776671966
 }
