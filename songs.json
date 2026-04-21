@@ -394,11 +394,11 @@
         },
         {
             "rank": "50",
-            "title": "Mr. Brightside",
-            "artist": "The Killers",
+            "title": "NIGHTS LIKE THIS",
+            "artist": "The Kid LAROI",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
-            "link": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a182fb516812ea67edde2b8",
+            "link": "https://open.spotify.com/track/1XBYiRV30ykHw5f4wm6qEn"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1776787723
+    "last_updated": 1776798361
 }
