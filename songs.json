@@ -285,64 +285,64 @@
             "title": "toq",
             "artist": "dudeontheguitar",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730e3f517ea2d3df2cd09f2f5b",
-            "link": "https://open.spotify.com/track/29an6WZdznVpU6PYs6lyb2"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/dudeontheguitar/_/toq"
         },
         {
             "rank": "37",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
-            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri"
         },
         {
             "rank": "38",
             "title": "from the start",
             "artist": "Good Kid",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730cc0a55b4aa153628e9e4dda",
-            "link": "https://open.spotify.com/track/6BJHsLiE47Sk0wQkuppqhr"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Good+Kid/_/from+the+start"
         },
         {
             "rank": "39",
             "title": "On Melancholy Hill",
             "artist": "Gorillaz",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273661d019f34569f79eae9e985",
-            "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Gorillaz/_/On+Melancholy+Hill"
         },
         {
             "rank": "40",
             "title": "Shut up My Moms Calling (Sped Up)",
             "artist": "Hotel Ugly",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
-            "link": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Hotel+Ugly/_/Shut+up+My+Moms+Calling+(Sped+Up)"
         },
         {
             "rank": "41",
             "title": "Lovin on Me",
             "artist": "Jack Harlow",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733a5390aae0708eefa335b4bf",
-            "link": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Jack+Harlow/_/Lovin+on+Me"
         },
         {
             "rank": "42",
             "title": "telepatía",
             "artist": "Kali Uchis",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99",
-            "link": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kali+Uchis/_/telepat%C3%ADa"
         },
         {
             "rank": "43",
             "title": "PINKY UP",
             "artist": "KATSEYE",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f995fcdb4d6f1c273a3bc56b",
-            "link": "https://open.spotify.com/track/4KmkJjHTNlr1jFY56Lyz4E"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/KATSEYE/_/PINKY+UP"
         },
         {
             "rank": "44",
@@ -647,8 +647,8 @@
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b27387d3383ad8d19ab88aa83a4a",
-            "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfc5a34a1164980a2c083aa9",
+            "link": "https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP"
         },
         {
             "rank": "32",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0eF8TYM3rYzdS26URcs4U6"
         }
     ],
-    "last_updated": 1777470349
+    "last_updated": 1777481349
 }
