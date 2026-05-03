@@ -205,32 +205,32 @@
             "title": "YUNG HEFNER",
             "artist": "Morgenshtern",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Morgenshtern/_/YUNG+HEFNER"
+            "image": "https://i.scdn.co/image/ab67616d0000b273a1ce6a763ecdf6daca9aadc7",
+            "link": "https://open.spotify.com/track/2OHtlG0qUAHhy9YLfDEo0K"
         },
         {
             "rank": "27",
             "title": "Mooz",
             "artist": "Ninety One",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Ninety+One/_/Mooz"
+            "image": "https://i.scdn.co/image/ab67616d0000b273c4032326cdff9536de631501",
+            "link": "https://open.spotify.com/track/3d2GgxInzow4BaPk1lygWu"
         },
         {
             "rank": "28",
             "title": "Қайтадан",
             "artist": "Ninety One",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Ninety+One/_/%D2%9A%D0%B0%D0%B9%D1%82%D0%B0%D0%B4%D0%B0%D0%BD"
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae0117f18e4ccec0d81c18ac",
+            "link": "https://open.spotify.com/track/7ygS8Vsh9dqFNQA7u6mp7A"
         },
         {
             "rank": "29",
             "title": "TU TU TU",
             "artist": "Orynkhan",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Orynkhan/_/TU+TU+TU"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b41166b39d479852c0266489",
+            "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
         },
         {
             "rank": "30",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2BHXC1rhe16nmdbNhONHDn"
         }
     ],
-    "last_updated": 1777758483
+    "last_updated": 1777775189
 }
