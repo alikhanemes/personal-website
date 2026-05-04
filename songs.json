@@ -357,24 +357,24 @@
             "title": "Seruen",
             "artist": "Abyken",
             "playcount": 1,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Abyken/_/Seruen"
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a0a16ed9c6b1c7a1b975229",
+            "link": "https://open.spotify.com/track/2r2mPZrJbcCZMWKYevbuYw"
         },
         {
             "rank": "46",
             "title": "ELESTET",
             "artist": "Alem",
             "playcount": 1,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Alem/_/ELESTET"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734248e82f6bcbe4999727fffd",
+            "link": "https://open.spotify.com/track/091kfw37h2ooz59q2v34J4"
         },
         {
             "rank": "47",
             "title": "Remember Summer Days",
             "artist": "Anri",
             "playcount": 1,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/+noredirect/Anri/_/Remember+Summer+Days"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfd93d36fe2365f9436587d1",
+            "link": "https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R"
         },
         {
             "rank": "48",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         }
     ],
-    "last_updated": 1777844858
+    "last_updated": 1777860979
 }
