@@ -245,16 +245,16 @@
             "title": "Chase",
             "artist": "Batta",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737c5aec47f6ffd05b073e288d",
-            "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Batta/_/Chase"
         },
         {
             "rank": "32",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739cd48ea54f12cdd1a244ce51",
-            "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/bbno$/_/IT+BOY"
         },
         {
             "rank": "33",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         }
     ],
-    "last_updated": 1778277407
+    "last_updated": 1778293981
 }
