@@ -26,14 +26,6 @@
         },
         {
             "rank": "4",
-            "title": "Kuiim",
-            "artist": "Alem",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
-            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
-        },
-        {
-            "rank": "5",
             "title": "Cemeteries of London",
             "artist": "Coldplay",
             "playcount": 4,
@@ -41,7 +33,7 @@
             "link": "https://open.spotify.com/track/03uqdEuopXPSCg4MvgA2fI"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "可愛くてごめん",
             "artist": "HoneyWorks",
             "playcount": 4,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/2xBibqkmXJ4NQCe8lJeZco"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "TU TU TU",
             "artist": "Orynkhan",
             "playcount": 4,
@@ -57,12 +49,20 @@
             "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "MILLION DOLLAR BABY",
             "artist": "Tommy Richman",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b27301c0cd5da820e6128655854f",
             "link": "https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A"
+        },
+        {
+            "rank": "8",
+            "title": "Kuiim",
+            "artist": "Alem",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
+            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
             "rank": "9",
@@ -178,22 +178,6 @@
         },
         {
             "rank": "23",
-            "title": "Men Sen Siyaqty",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
-        },
-        {
-            "rank": "24",
-            "title": "Úıde",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
-        },
-        {
-            "rank": "25",
             "title": "Please Me x Titanium",
             "artist": "DJ Unzensiert",
             "playcount": 2,
@@ -201,7 +185,7 @@
             "link": "https://open.spotify.com/track/1eSsplHVhzc3H9J5leibmg"
         },
         {
-            "rank": "26",
+            "rank": "24",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 2,
@@ -209,7 +193,7 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "27",
+            "rank": "25",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
@@ -217,7 +201,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "28",
+            "rank": "26",
             "title": "In My Feelings",
             "artist": "Drake",
             "playcount": 2,
@@ -225,7 +209,7 @@
             "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
         },
         {
-            "rank": "29",
+            "rank": "27",
             "title": "Break My Heart",
             "artist": "Dua Lipa",
             "playcount": 2,
@@ -233,7 +217,7 @@
             "link": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
         },
         {
-            "rank": "30",
+            "rank": "28",
             "title": "shyq",
             "artist": "dudeontheguitar",
             "playcount": 2,
@@ -241,7 +225,7 @@
             "link": "https://open.spotify.com/track/389oJRPYqCILDohevPsGF5"
         },
         {
-            "rank": "31",
+            "rank": "29",
             "title": "Shape of You",
             "artist": "Ed Sheeran",
             "playcount": 2,
@@ -249,7 +233,7 @@
             "link": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
         },
         {
-            "rank": "32",
+            "rank": "30",
             "title": "I'm Still Standing",
             "artist": "Elton John",
             "playcount": 2,
@@ -257,7 +241,7 @@
             "link": "https://open.spotify.com/track/1jDJFeK9x3OZboIAHsY9k2"
         },
         {
-            "rank": "33",
+            "rank": "31",
             "title": "Wind's Anthem (feat. suis From Yorushika)",
             "artist": "Eve",
             "playcount": 2,
@@ -265,7 +249,7 @@
             "link": "https://open.spotify.com/track/1xjyjzvD6l7nCHMySQrgVc"
         },
         {
-            "rank": "34",
+            "rank": "32",
             "title": "光るなら",
             "artist": "Goose house",
             "playcount": 2,
@@ -273,7 +257,7 @@
             "link": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
         },
         {
-            "rank": "35",
+            "rank": "33",
             "title": "Somebody That I Used to Know",
             "artist": "Gotye",
             "playcount": 2,
@@ -281,7 +265,7 @@
             "link": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
         },
         {
-            "rank": "36",
+            "rank": "34",
             "title": "ウィーゴー！",
             "artist": "Hiroshi Kitadani",
             "playcount": 2,
@@ -289,7 +273,7 @@
             "link": "https://open.spotify.com/track/2PXf1Elmg9M3yzymZschoR"
         },
         {
-            "rank": "37",
+            "rank": "35",
             "title": "Did It First (with Central Cee)",
             "artist": "Ice Spice",
             "playcount": 2,
@@ -297,7 +281,7 @@
             "link": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
         },
         {
-            "rank": "38",
+            "rank": "36",
             "title": "BOY IN RED",
             "artist": "Isaiah Rashad",
             "playcount": 2,
@@ -305,7 +289,7 @@
             "link": "https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf"
         },
         {
-            "rank": "39",
+            "rank": "37",
             "title": "Lovin on Me",
             "artist": "Jack Harlow",
             "playcount": 2,
@@ -313,7 +297,7 @@
             "link": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
         },
         {
-            "rank": "40",
+            "rank": "38",
             "title": "DUCKWORTH.",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -321,7 +305,7 @@
             "link": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
         },
         {
-            "rank": "41",
+            "rank": "39",
             "title": "N95",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -329,7 +313,7 @@
             "link": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
         },
         {
-            "rank": "42",
+            "rank": "40",
             "title": "Maui Wowie",
             "artist": "Kid Cudi",
             "playcount": 2,
@@ -337,7 +321,7 @@
             "link": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
         },
         {
-            "rank": "43",
+            "rank": "41",
             "title": "HOMAGE FUNK",
             "artist": "KIXIA",
             "playcount": 2,
@@ -345,7 +329,7 @@
             "link": "https://open.spotify.com/track/4oFXV9F1OhUZy9cEGqrGHe"
         },
         {
-            "rank": "44",
+            "rank": "42",
             "title": "Actor",
             "artist": "Lilas",
             "playcount": 2,
@@ -353,7 +337,7 @@
             "link": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
         },
         {
-            "rank": "45",
+            "rank": "43",
             "title": "Despacito",
             "artist": "Luis Fonsi",
             "playcount": 2,
@@ -361,7 +345,7 @@
             "link": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
         },
         {
-            "rank": "46",
+            "rank": "44",
             "title": "Earrings",
             "artist": "Malcolm Todd",
             "playcount": 2,
@@ -369,7 +353,7 @@
             "link": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
         },
         {
-            "rank": "47",
+            "rank": "45",
             "title": "Sugar",
             "artist": "Maroon 5",
             "playcount": 2,
@@ -377,7 +361,7 @@
             "link": "https://open.spotify.com/track/78Yxsdi1JiwLDsU7TWHezw"
         },
         {
-            "rank": "48",
+            "rank": "46",
             "title": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
             "artist": "Metro Boomin",
             "playcount": 2,
@@ -385,7 +369,7 @@
             "link": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
         },
         {
-            "rank": "49",
+            "rank": "47",
             "title": "Cristal & МОЁТ",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -393,12 +377,28 @@
             "link": "https://open.spotify.com/track/45jJ6Q9LYboGyjH0vuOhM2"
         },
         {
-            "rank": "50",
+            "rank": "48",
             "title": "YUNG HEFNER",
             "artist": "Morgenshtern",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273a1ce6a763ecdf6daca9aadc7",
             "link": "https://open.spotify.com/track/2OHtlG0qUAHhy9YLfDEo0K"
+        },
+        {
+            "rank": "49",
+            "title": "ПОВОД",
+            "artist": "Morgenshtern",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310dc167541c3985a4250ddac",
+            "link": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
+        },
+        {
+            "rank": "50",
+            "title": "Последняя Любовь",
+            "artist": "Morgenshtern",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27306d115628b77ec4b64232d0b",
+            "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         }
     ],
-    "last_updated": 1778418425
+    "last_updated": 1778428115
 }
