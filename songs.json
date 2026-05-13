@@ -42,14 +42,6 @@
         },
         {
             "rank": "6",
-            "title": "Kuiim",
-            "artist": "Alem",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
-            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
-        },
-        {
-            "rank": "7",
             "title": "TU TU TU",
             "artist": "Orynkhan",
             "playcount": 3,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "Usta",
             "artist": "rusha",
             "playcount": 3,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/4K2FHG5OFLvIGPxhW0IfPf"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Black Rover",
             "artist": "VK Blanka",
             "playcount": 3,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "redrum",
             "artist": "21 Savage",
             "playcount": 2,
@@ -81,12 +73,20 @@
             "link": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
+        },
+        {
+            "rank": "11",
+            "title": "Kuiim",
+            "artist": "Alem",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
+            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
             "rank": "12",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         }
     ],
-    "last_updated": 1778692446
+    "last_updated": 1778701697
 }
