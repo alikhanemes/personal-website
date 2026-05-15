@@ -258,14 +258,6 @@
         },
         {
             "rank": "33",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
-            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
-        },
-        {
-            "rank": "34",
             "title": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
             "artist": "Metro Boomin",
             "playcount": 1,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "時也命也",
             "artist": "Novel Fergus",
             "playcount": 1,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/2KyStI2ww4oLfHngjv3KGi"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 1,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "Bink's Brew (A Sea Shanty from \"One Piece\")",
             "artist": "Pellek",
             "playcount": 1,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/1nezQ0LsB9vgmKCLF4zlLC"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 1,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/0Q1XTiAwsIIu45SkQccgfj"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "EARFQUAKE",
             "artist": "Tyler, The Creator",
             "playcount": 1,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "WTF 2",
             "artist": "Ugovhb",
             "playcount": 1,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Black Rover",
             "artist": "VK Blanka",
             "playcount": 1,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 1,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 1,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "All I Need Is MONEY!",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/2fP6LEkHgDGsZ20048ng3u"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Elegy Of The Dynast",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/0uCgEJ9Md7vyyZuRRMqxbI"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Ginpatsu no Shonen",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/5F0QoU4XCrdNlDdru6Gf6m"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Hunter ☆ Parade",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/234le5zcrnvEO9tO5E3r5J"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Hunter ☆ Taisou",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/22HH8zluTbsvR0CQMvH5vy"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "I Ain't Ojisan!",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/64SiqMHLu85fTF6Sm1d5QT"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Nakama to Iukoto.",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
             "link": "https://open.spotify.com/track/5JSCkc5mK36fox8BFveqs2"
+        },
+        {
+            "rank": "50",
+            "title": "Requiem Aranea",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27320639040f567517f7da2c7bb",
+            "link": "https://open.spotify.com/track/3mDLfHw09pJF8HBn9sv8v4"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         }
     ],
-    "last_updated": 1778853272
+    "last_updated": 1778863798
 }
