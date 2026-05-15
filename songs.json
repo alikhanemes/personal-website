@@ -42,6 +42,14 @@
         },
         {
             "rank": "6",
+            "title": "IT BOY",
+            "artist": "bbno$",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739cd48ea54f12cdd1a244ce51",
+            "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
+        },
+        {
+            "rank": "7",
             "title": "I Just Might",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -49,15 +57,15 @@
             "link": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c31525876411cfb98b220003",
-            "link": "https://open.spotify.com/track/0WxY1PPhJBSfyWSPMgZWuQ"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 1,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 1,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 1,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 1,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Lovers In Japan - Osaka Sun Mix",
             "artist": "Coldplay",
             "playcount": 1,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 1,
@@ -105,7 +113,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "Prospekt's March / Poppyfields",
             "artist": "Coldplay",
             "playcount": 1,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/4yr1059N96a8msTHVftmFN"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "Rainy Day",
             "artist": "Coldplay",
             "playcount": 1,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/551YulB9BVtzcCQl0vX6nC"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 1,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 1,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "IE",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/28QiVEUigoLfkdIx5PbIUg"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Qaldyrma Menі",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/1fKg0YRnTJ81IeEkCMhUf3"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 1,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "baq",
             "artist": "dudeontheguitar",
             "playcount": 1,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/6kK4vzEsuGNDySSn1fRvLx"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "toqta",
             "artist": "dudeontheguitar",
             "playcount": 1,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/4RArqtglrudaEMWkEJJ04X"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Kaikai Kitan",
             "artist": "Eve",
             "playcount": 1,
@@ -185,7 +193,15 @@
             "link": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
         },
         {
-            "rank": "24",
+            "rank": "25",
+            "title": "ЛАБИРИНТ",
+            "artist": "Face",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27376f4f4fce2d6999774b9325e",
+            "link": "https://open.spotify.com/track/7biChppM3c8q7qcVl7ceb2"
+        },
+        {
+            "rank": "26",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 1,
@@ -193,7 +209,7 @@
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
-            "rank": "25",
+            "rank": "27",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 1,
@@ -201,7 +217,7 @@
             "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
-            "rank": "26",
+            "rank": "28",
             "title": "Kyoso Requiem",
             "artist": "Hyskoa(CV:Daisuke Namikawa)",
             "playcount": 1,
@@ -209,7 +225,7 @@
             "link": "https://open.spotify.com/track/6VMebwlEfC3q4kIMdVCVsU"
         },
         {
-            "rank": "27",
+            "rank": "29",
             "title": "Did It First (with Central Cee)",
             "artist": "Ice Spice",
             "playcount": 1,
@@ -217,7 +233,7 @@
             "link": "https://open.spotify.com/track/57lsYy0OZLNb5OQ7fEa3Hs"
         },
         {
-            "rank": "28",
+            "rank": "30",
             "title": "BOY IN RED",
             "artist": "Isaiah Rashad",
             "playcount": 1,
@@ -225,7 +241,7 @@
             "link": "https://open.spotify.com/track/7B2ygRXyWZulEpO4G1CHZf"
         },
         {
-            "rank": "29",
+            "rank": "31",
             "title": "Lovin on Me",
             "artist": "Jack Harlow",
             "playcount": 1,
@@ -233,7 +249,7 @@
             "link": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
         },
         {
-            "rank": "30",
+            "rank": "32",
             "title": "DUCKWORTH.",
             "artist": "Kendrick Lamar",
             "playcount": 1,
@@ -241,7 +257,7 @@
             "link": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
         },
         {
-            "rank": "31",
+            "rank": "33",
             "title": "Maui Wowie",
             "artist": "Kid Cudi",
             "playcount": 1,
@@ -249,7 +265,7 @@
             "link": "https://open.spotify.com/track/0Hnm7mnmqOLCIgvbMpM4Ev"
         },
         {
-            "rank": "32",
+            "rank": "34",
             "title": "Roommates",
             "artist": "Malcolm Todd",
             "playcount": 1,
@@ -257,7 +273,7 @@
             "link": "https://open.spotify.com/track/08smZJCMrfuOQpRTaRmtF2"
         },
         {
-            "rank": "33",
+            "rank": "35",
             "title": "Am I Dreaming (Metro Boomin & A$AP Rocky, Roisee)",
             "artist": "Metro Boomin",
             "playcount": 1,
@@ -265,7 +281,31 @@
             "link": "https://open.spotify.com/track/6Ec5LeRzkisa5KJtwLfOoW"
         },
         {
-            "rank": "34",
+            "rank": "36",
+            "title": "Cadillac",
+            "artist": "Morgenshtern",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b19565a46d15bff07d399fbf",
+            "link": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
+        },
+        {
+            "rank": "37",
+            "title": "Cristal & МОЁТ",
+            "artist": "Morgenshtern",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ac3b3e7940daf3d5d2597d71",
+            "link": "https://open.spotify.com/track/45jJ6Q9LYboGyjH0vuOhM2"
+        },
+        {
+            "rank": "38",
+            "title": "Последняя Любовь",
+            "artist": "Morgenshtern",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27306d115628b77ec4b64232d0b",
+            "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
+        },
+        {
+            "rank": "39",
             "title": "時也命也",
             "artist": "Novel Fergus",
             "playcount": 1,
@@ -273,15 +313,7 @@
             "link": "https://open.spotify.com/track/2KyStI2ww4oLfHngjv3KGi"
         },
         {
-            "rank": "35",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "36",
+            "rank": "40",
             "title": "Bink's Brew (A Sea Shanty from \"One Piece\")",
             "artist": "Pellek",
             "playcount": 1,
@@ -289,7 +321,7 @@
             "link": "https://open.spotify.com/track/1nezQ0LsB9vgmKCLF4zlLC"
         },
         {
-            "rank": "37",
+            "rank": "41",
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 1,
@@ -297,7 +329,23 @@
             "link": "https://open.spotify.com/track/0Q1XTiAwsIIu45SkQccgfj"
         },
         {
-            "rank": "38",
+            "rank": "42",
+            "title": "Малышка",
+            "artist": "Sharlot",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+        },
+        {
+            "rank": "43",
+            "title": "Снова я напиваюсь",
+            "artist": "SLAVA MARLOW",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27328059516a8477d0169237a8c",
+            "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
+        },
+        {
+            "rank": "44",
             "title": "EARFQUAKE",
             "artist": "Tyler, The Creator",
             "playcount": 1,
@@ -305,15 +353,7 @@
             "link": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0"
         },
         {
-            "rank": "39",
-            "title": "WTF 2",
-            "artist": "Ugovhb",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27300eb533f941bc5ff1dad080a",
-            "link": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"
-        },
-        {
-            "rank": "40",
+            "rank": "45",
             "title": "Black Rover",
             "artist": "VK Blanka",
             "playcount": 1,
@@ -321,15 +361,7 @@
             "link": "https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP"
         },
         {
-            "rank": "41",
-            "title": "Sad!",
-            "artist": "XXXTENTACION",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
-        },
-        {
-            "rank": "42",
+            "rank": "46",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 1,
@@ -337,7 +369,7 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "43",
+            "rank": "47",
             "title": "All I Need Is MONEY!",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -345,7 +377,7 @@
             "link": "https://open.spotify.com/track/2fP6LEkHgDGsZ20048ng3u"
         },
         {
-            "rank": "44",
+            "rank": "48",
             "title": "Elegy Of The Dynast",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -353,7 +385,7 @@
             "link": "https://open.spotify.com/track/0uCgEJ9Md7vyyZuRRMqxbI"
         },
         {
-            "rank": "45",
+            "rank": "49",
             "title": "Ginpatsu no Shonen",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -361,44 +393,12 @@
             "link": "https://open.spotify.com/track/5F0QoU4XCrdNlDdru6Gf6m"
         },
         {
-            "rank": "46",
+            "rank": "50",
             "title": "Hunter ☆ Parade",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
             "link": "https://open.spotify.com/track/234le5zcrnvEO9tO5E3r5J"
-        },
-        {
-            "rank": "47",
-            "title": "Hunter ☆ Taisou",
-            "artist": "Yoshihisa Hirano",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
-            "link": "https://open.spotify.com/track/22HH8zluTbsvR0CQMvH5vy"
-        },
-        {
-            "rank": "48",
-            "title": "I Ain't Ojisan!",
-            "artist": "Yoshihisa Hirano",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
-            "link": "https://open.spotify.com/track/64SiqMHLu85fTF6Sm1d5QT"
-        },
-        {
-            "rank": "49",
-            "title": "Nakama to Iukoto.",
-            "artist": "Yoshihisa Hirano",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
-            "link": "https://open.spotify.com/track/5JSCkc5mK36fox8BFveqs2"
-        },
-        {
-            "rank": "50",
-            "title": "Requiem Aranea",
-            "artist": "Yoshihisa Hirano",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27320639040f567517f7da2c7bb",
-            "link": "https://open.spotify.com/track/3mDLfHw09pJF8HBn9sv8v4"
         }
     ],
     "alltime": [
@@ -468,19 +468,19 @@
         },
         {
             "rank": "9",
+            "title": "Малышка",
+            "artist": "Sharlot",
+            "playcount": 24,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
+        },
+        {
+            "rank": "10",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 23,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "10",
-            "title": "Малышка",
-            "artist": "Sharlot",
-            "playcount": 23,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
-            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
             "rank": "11",
@@ -591,8 +591,8 @@
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 16,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c31525876411cfb98b220003",
-            "link": "https://open.spotify.com/track/0WxY1PPhJBSfyWSPMgZWuQ"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
             "rank": "25",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         }
     ],
-    "last_updated": 1778863798
+    "last_updated": 1778873097
 }
