@@ -298,14 +298,6 @@
         },
         {
             "rank": "38",
-            "title": "ROXANNE",
-            "artist": "Arizona Zervas",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
-            "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-        },
-        {
-            "rank": "39",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 1,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "スキンズ - Skins",
             "artist": "ASIAN KUNG-FU GENERATION",
             "playcount": 1,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/2Hbwu2z4ybNTIMVF8v3SxJ"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "遥か彼方",
             "artist": "ASIAN KUNG-FU GENERATION",
             "playcount": 1,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Hotel Room",
             "artist": "Ax and the Hatchetmen",
             "playcount": 1,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/5p5bK3qF9ttryVxpxJvZYF"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "It's Going Down Now",
             "artist": "Azumi Takahashi",
             "playcount": 1,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/3znIACSXPLn3HFCf7moZ28"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 1,
@@ -353,15 +345,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "45",
-            "title": "IT BOY",
-            "artist": "bbno$",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739cd48ea54f12cdd1a244ce51",
-            "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
-        },
-        {
-            "rank": "46",
+            "rank": "44",
             "title": "BIRDS OF A FEATHER",
             "artist": "Billie Eilish",
             "playcount": 1,
@@ -369,7 +353,7 @@
             "link": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
         },
         {
-            "rank": "47",
+            "rank": "45",
             "title": "CHIHIRO",
             "artist": "Billie Eilish",
             "playcount": 1,
@@ -377,7 +361,7 @@
             "link": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
         },
         {
-            "rank": "48",
+            "rank": "46",
             "title": "I Just Might",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -385,7 +369,7 @@
             "link": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
         },
         {
-            "rank": "49",
+            "rank": "47",
             "title": "Runaway Baby",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -393,12 +377,28 @@
             "link": "https://open.spotify.com/track/5MMLS3xm12D7N26xlfFApr"
         },
         {
-            "rank": "50",
+            "rank": "48",
             "title": "ヒカリアレ",
             "artist": "BURNOUT SYNDROMES",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2739b2fd3a5d29c28e87a25553a",
             "link": "https://open.spotify.com/track/5WLaJoYalaASb9JB7Yk5U6"
+        },
+        {
+            "rank": "49",
+            "title": "Tek It",
+            "artist": "Cafuné",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ecaf001a812bb1ecc6cc482d",
+            "link": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP"
+        },
+        {
+            "rank": "50",
+            "title": "Cigarette Daydreams",
+            "artist": "Cage the Elephant",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+            "link": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         }
     ],
-    "last_updated": 1779432388
+    "last_updated": 1779450167
 }
