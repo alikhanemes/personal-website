@@ -631,8 +631,8 @@
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 16,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Nana+Mizuki/_/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB"
+            "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
+            "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
             "rank": "30",
@@ -647,24 +647,24 @@
             "title": "Kún Men Aıym",
             "artist": "Darkhan Juzz",
             "playcount": 15,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Darkhan+Juzz/_/K%C3%BAn+Men+A%C4%B1ym"
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/6huZ1wQDL1QHlTwE7yh4cV"
         },
         {
             "rank": "32",
             "title": "TORE UP",
             "artist": "Don Toliver",
             "playcount": 15,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Don+Toliver/_/TORE+UP"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
+            "link": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
         },
         {
             "rank": "33",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 15,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Oliver+Tree/_/Jerk"
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
             "rank": "34",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         }
     ],
-    "last_updated": 1779573777
+    "last_updated": 1779590659
 }
