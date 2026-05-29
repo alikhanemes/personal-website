@@ -50,14 +50,6 @@
         },
         {
             "rank": "7",
-            "title": "Munayp",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/26Cj7STqSoLXey5ZwMflfn"
-        },
-        {
-            "rank": "8",
             "title": "Shyraq",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/1dzFbTiI9u1xIYZcGBHI20"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Tausyldy Mahabbat",
             "artist": "Enendroen",
             "playcount": 2,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/23tnDIkK6pWb0gfaxPPKjC"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "Somebody That I Used to Know",
             "artist": "Gotye",
             "playcount": 2,
@@ -81,7 +73,7 @@
             "link": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "Can't Tell Me Nothing",
             "artist": "Kanye West",
             "playcount": 2,
@@ -89,12 +81,20 @@
             "link": "https://open.spotify.com/track/0mEdbdeRFQwBhN4xfyIeUM"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "Unaidy Magan",
             "artist": "Marhaba Sabi",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2737b5805a16ceb865e1641e02a",
             "link": "https://open.spotify.com/track/0Jay9BduJRL8l4jZ6I8vkN"
+        },
+        {
+            "rank": "12",
+            "title": "Последняя Любовь",
+            "artist": "Morgenshtern",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27306d115628b77ec4b64232d0b",
+            "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
             "rank": "13",
@@ -130,6 +130,14 @@
         },
         {
             "rank": "17",
+            "title": "Снова я напиваюсь",
+            "artist": "SLAVA MARLOW",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27328059516a8477d0169237a8c",
+            "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
+        },
+        {
+            "rank": "18",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 2,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "Men Seni Suyemin",
             "artist": "Son Pascal",
             "playcount": 2,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/7tb9Wo86D1xDkKqTbZ3J0p"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "Paradox",
             "artist": "Survive Said The Prophet",
             "playcount": 2,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Big City Life",
             "artist": "V $ X V PRiNCE",
             "playcount": 2,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/4H7l4XhX159wfGyxzpg0ke"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Кадилакта",
             "artist": "Кисло-сладкий",
             "playcount": 2,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/6zTSkUMMISKgIP7hARMAYs"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Smack That",
             "artist": "Akon",
             "playcount": 1,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/2kQuhkFX7uSVepCD3h29g5"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 1,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "ELESTET",
             "artist": "Alem",
             "playcount": 1,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/091kfw37h2ooz59q2v34J4"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "Kuiim",
             "artist": "Alem",
             "playcount": 1,
@@ -201,7 +209,7 @@
             "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "Aigyr",
             "artist": "Aro",
             "playcount": 1,
@@ -209,7 +217,7 @@
             "link": "https://open.spotify.com/track/5drC7QioUykkOy6X1sNjhD"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 1,
@@ -217,7 +225,15 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "28",
+            "rank": "29",
+            "title": "sensiz?",
+            "artist": "AYAU",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737924729a0c98f38f50d8b939",
+            "link": "https://open.spotify.com/track/4jaoetVSfzoFpULWyqSNZN"
+        },
+        {
+            "rank": "30",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 1,
@@ -225,7 +241,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "29",
+            "rank": "31",
             "title": "IT BOY",
             "artist": "bbno$",
             "playcount": 1,
@@ -233,7 +249,7 @@
             "link": "https://open.spotify.com/track/05lUNz9yIOg4CdeA3mAutQ"
         },
         {
-            "rank": "30",
+            "rank": "32",
             "title": "Sex, Drugs, Etc.",
             "artist": "Beach Weather",
             "playcount": 1,
@@ -241,7 +257,7 @@
             "link": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq"
         },
         {
-            "rank": "31",
+            "rank": "33",
             "title": "Sex, Drugs, Etc. - Sped Up Version",
             "artist": "Beach Weather",
             "playcount": 1,
@@ -249,7 +265,7 @@
             "link": "https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b"
         },
         {
-            "rank": "32",
+            "rank": "34",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -257,7 +273,7 @@
             "link": "https://open.spotify.com/track/3w3y8KPTfNeOKPiqUTakBh"
         },
         {
-            "rank": "33",
+            "rank": "35",
             "title": "Tek It - Sped Up",
             "artist": "Cafuné",
             "playcount": 1,
@@ -265,7 +281,7 @@
             "link": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
         },
         {
-            "rank": "34",
+            "rank": "36",
             "title": "The Days - NOTION Remix Slowed",
             "artist": "Chrystal",
             "playcount": 1,
@@ -273,7 +289,7 @@
             "link": "https://open.spotify.com/track/1pw4MtsToJzFUzutjcOqdu"
         },
         {
-            "rank": "35",
+            "rank": "37",
             "title": "Fighting Gold",
             "artist": "Coda",
             "playcount": 1,
@@ -281,7 +297,7 @@
             "link": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
         },
         {
-            "rank": "36",
+            "rank": "38",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 1,
@@ -289,7 +305,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "37",
+            "rank": "39",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 1,
@@ -297,7 +313,7 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "38",
+            "rank": "40",
             "title": "ロスタイム - Losstime",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -305,7 +321,7 @@
             "link": "https://open.spotify.com/track/1O4JEMG1V06Lmkw8JQMY52"
         },
         {
-            "rank": "39",
+            "rank": "41",
             "title": "700",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -313,7 +329,7 @@
             "link": "https://open.spotify.com/track/6RRfXf20uI5IQRg50ZF5K4"
         },
         {
-            "rank": "40",
+            "rank": "42",
             "title": "Auaga",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -321,7 +337,15 @@
             "link": "https://open.spotify.com/track/14UaCBOAlXJZAGpHAwt3Cp"
         },
         {
-            "rank": "41",
+            "rank": "43",
+            "title": "Bylygyp",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/0guswBl2fDDJInGjeR0RGe"
+        },
+        {
+            "rank": "44",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -329,7 +353,15 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         },
         {
-            "rank": "42",
+            "rank": "45",
+            "title": "Erikpe - õzen version",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
+        },
+        {
+            "rank": "46",
             "title": "Esindi Ji",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -337,7 +369,7 @@
             "link": "https://open.spotify.com/track/2UcRBCJuDnmV5QfhKHld3R"
         },
         {
-            "rank": "43",
+            "rank": "47",
             "title": "IE",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -345,60 +377,28 @@
             "link": "https://open.spotify.com/track/28QiVEUigoLfkdIx5PbIUg"
         },
         {
-            "rank": "44",
-            "title": "Sapar",
+            "rank": "48",
+            "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/1O0iQ3z706fEF16QqoArh7"
-        },
-        {
-            "rank": "45",
-            "title": "End of Beginning",
-            "artist": "Djo",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1",
-            "link": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-        },
-        {
-            "rank": "46",
-            "title": "Taspa",
-            "artist": "Dosekesh",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27387c67adaa029fc8c5f899986",
-            "link": "https://open.spotify.com/track/2rYSKQX9vl6WMYWx0BM6Di"
-        },
-        {
-            "rank": "47",
-            "title": "Nuthin' But a \"G\" Thang",
-            "artist": "Dr. Dre",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739710731c9d7baec635f1bab1",
-            "link": "https://open.spotify.com/track/5Tbpp3OLLClPJF8t1DmrFD"
-        },
-        {
-            "rank": "48",
-            "title": "GIMME A HUG",
-            "artist": "Drake",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
             "rank": "49",
-            "title": "In My Feelings",
-            "artist": "Drake",
+            "title": "Munayp",
+            "artist": "Darkhan Juzz",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/26Cj7STqSoLXey5ZwMflfn"
         },
         {
             "rank": "50",
-            "title": "kelmid",
-            "artist": "dudeontheguitar",
+            "title": "Ol",
+            "artist": "Darkhan Juzz",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27353acdffc201c80dbd696ae37",
-            "link": "https://open.spotify.com/track/0ugDlnO2RlEP3p68Ib9A0w"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         }
     ],
     "alltime": [
@@ -462,7 +462,7 @@
             "rank": "8",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
-            "playcount": 25,
+            "playcount": 26,
             "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
@@ -470,7 +470,7 @@
             "rank": "9",
             "title": "Малышка",
             "artist": "Sharlot",
-            "playcount": 25,
+            "playcount": 26,
             "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
@@ -548,6 +548,14 @@
         },
         {
             "rank": "19",
+            "title": "Sheker",
+            "artist": "Darkhan Juzz",
+            "playcount": 19,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
+        },
+        {
+            "rank": "20",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 19,
@@ -555,15 +563,15 @@
             "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
-            "rank": "20",
-            "title": "Sheker",
+            "rank": "21",
+            "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 18,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/54w04Shxa9xRKJkZQp7uqB"
+            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
+            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 18,
@@ -571,20 +579,12 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Look at Me!",
             "artist": "XXXTENTACION",
             "playcount": 18,
             "image": "https://i.scdn.co/image/ab67616d0000b27371af28545729f60b3eca66f7",
             "link": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
-        },
-        {
-            "rank": "23",
-            "title": "Ol",
-            "artist": "Darkhan Juzz",
-            "playcount": 17,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
             "rank": "24",
@@ -780,6 +780,14 @@
         },
         {
             "rank": "48",
+            "title": "Erikpe - õzen version",
+            "artist": "Darkhan Juzz",
+            "playcount": 13,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
+            "link": "https://open.spotify.com/track/4LM2zdbOmHVTjVU8Mj9Dfe"
+        },
+        {
+            "rank": "49",
             "title": "Munayp",
             "artist": "Darkhan Juzz",
             "playcount": 13,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/26Cj7STqSoLXey5ZwMflfn"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Qosh Bol Japyraq",
             "artist": "Darkhan Juzz",
             "playcount": 13,
             "image": "https://i.scdn.co/image/ab67616d0000b27363a81484f79fc8a2caea9c3d",
             "link": "https://open.spotify.com/track/59InyMWbkbVZctdq4ayEdo"
-        },
-        {
-            "rank": "50",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 13,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         }
     ],
-    "last_updated": 1780022553
+    "last_updated": 1780037473
 }
