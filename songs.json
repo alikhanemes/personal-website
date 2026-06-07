@@ -386,19 +386,19 @@
         },
         {
             "rank": "49",
-            "title": "恋愛サーキュレーション",
-            "artist": "物語シリーズ",
+            "title": "Hyouriittai",
+            "artist": "Yuzu",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273168da2035a75e56b2f53c0d3",
-            "link": "https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm"
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
+            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
         },
         {
             "rank": "50",
-            "title": "FUK SUMN",
-            "artist": "¥$",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
-            "link": "https://open.spotify.com/track/0cbVD7WpHVdHUKwoolzhCZ"
+            "title": "REASON",
+            "artist": "Yuzu",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c7cd89a0e7b99abe8492754c",
+            "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         }
     ],
-    "last_updated": 1780783267
+    "last_updated": 1780801036
 }
