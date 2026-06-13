@@ -4,25 +4,25 @@
             "rank": "1",
             "title": "kim?",
             "artist": "rusha",
-            "playcount": 7,
+            "playcount": 6,
             "image": "https://i.scdn.co/image/ab67616d0000b273c3c09b572234a9ef35267da9",
             "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         },
         {
             "rank": "2",
-            "title": "Usta",
-            "artist": "rusha",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
-            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
-        },
-        {
-            "rank": "3",
             "title": "s.o.s",
             "artist": "rusha",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273f668705d4e6cd4dbb2f9f1c2",
             "link": "https://open.spotify.com/track/70W0hmJkm6L98IQVoK421t"
+        },
+        {
+            "rank": "3",
+            "title": "Usta",
+            "artist": "rusha",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
+            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
         },
         {
             "rank": "4",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         }
     ],
-    "last_updated": 1781349135
+    "last_updated": 1781358495
 }
