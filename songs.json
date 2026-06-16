@@ -2,6 +2,14 @@
     "recent": [
         {
             "rank": "1",
+            "title": "Sprinter",
+            "artist": "Dave",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273dd9f1f94f2f9a10310a3d525",
+            "link": "https://open.spotify.com/track/6NYbDTmstd7JSUWl2hVBqR"
+        },
+        {
+            "rank": "2",
             "title": "kim?",
             "artist": "rusha",
             "playcount": 4,
@@ -9,7 +17,7 @@
             "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         },
         {
-            "rank": "2",
+            "rank": "3",
             "title": "Kaiju",
             "artist": "Sakanaction",
             "playcount": 4,
@@ -17,7 +25,15 @@
             "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
         },
         {
-            "rank": "3",
+            "rank": "4",
+            "title": "Hyouriittai",
+            "artist": "Yuzu",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
+            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
+        },
+        {
+            "rank": "5",
             "title": "Jupiter",
             "artist": "Ayaka Hirahara",
             "playcount": 3,
@@ -25,7 +41,7 @@
             "link": "https://open.spotify.com/track/2YKcLHb85Rwyl9LvPOcmQ1"
         },
         {
-            "rank": "4",
+            "rank": "6",
             "title": "family ties (with Kendrick Lamar)",
             "artist": "Baby Keem",
             "playcount": 3,
@@ -33,7 +49,7 @@
             "link": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
         },
         {
-            "rank": "5",
+            "rank": "7",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 3,
@@ -41,15 +57,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "6",
-            "title": "luther (with SZA)",
-            "artist": "Kendrick Lamar",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
-            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
-        },
-        {
-            "rank": "7",
+            "rank": "8",
             "title": "Money Trees",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "スパークル",
             "artist": "Lilas",
             "playcount": 3,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "ドラマ「陸王」より Jupiter ORIGINAL COVER",
             "artist": "NIYARI計画",
             "playcount": 3,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/7fE702Ee5Jni8iSnwxDYN3"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "前へ進む裕乃",
             "artist": "Takayuki Hattori",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/5sf5B0bPUeIqz7v8qdkqCB"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "青のすみか (Acoustic ver.)",
             "artist": "Tatsuya Kitani",
             "playcount": 3,
@@ -89,20 +97,12 @@
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "shakaisanka",
             "artist": "Tengokuchusya",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b27321c1422977ba28808f4816c1",
             "link": "https://open.spotify.com/track/3IyLf2A1h5rxPTH2hhMNzg"
-        },
-        {
-            "rank": "13",
-            "title": "Hyouriittai",
-            "artist": "Yuzu",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
-            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
         },
         {
             "rank": "14",
@@ -146,6 +146,14 @@
         },
         {
             "rank": "19",
+            "title": "Kuiim",
+            "artist": "Alem",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
+            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
+        },
+        {
+            "rank": "20",
             "title": "rose",
             "artist": "Anna Tsuchiya",
             "playcount": 2,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/1aXkCl0ABWivQBPjvLXbLA"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "WE ON GO",
             "artist": "Bia",
             "playcount": 2,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -169,20 +177,12 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "ばかまじめ",
             "artist": "Creepy Nuts",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273826ae0c2ae90c2a747def60e",
             "link": "https://open.spotify.com/track/7FiTlLKW0Knj8rm7lMa9N7"
-        },
-        {
-            "rank": "23",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d4c2cfc6c869a9133b1ddc94",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
             "rank": "24",
@@ -338,6 +338,14 @@
         },
         {
             "rank": "43",
+            "title": "luther (with SZA)",
+            "artist": "Kendrick Lamar",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
+            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+        },
+        {
+            "rank": "44",
             "title": "squabble up",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "tv off (feat. Lefty Gunplay)",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -353,7 +361,7 @@
             "link": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "500lbs",
             "artist": "Lil Tecca",
             "playcount": 2,
@@ -361,7 +369,7 @@
             "link": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "Actor",
             "artist": "Lilas",
             "playcount": 2,
@@ -369,7 +377,7 @@
             "link": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Answer",
             "artist": "Lilas",
             "playcount": 2,
@@ -377,7 +385,7 @@
             "link": "https://open.spotify.com/track/0avegfB0TQ8cGDk9nuxcOQ"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "Name of Life",
             "artist": "Lilas",
             "playcount": 2,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "stay with me",
             "artist": "Lilas",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2739ad947177cb26dc868110c7f",
             "link": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
-        },
-        {
-            "rank": "50",
-            "title": "サークル",
-            "artist": "Lilas",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de9614ca7864f6f41a40439f",
-            "link": "https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe"
         }
     ],
     "alltime": [
@@ -508,19 +508,19 @@
         },
         {
             "rank": "14",
+            "title": "Kuiim",
+            "artist": "Alem",
+            "playcount": 24,
+            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
+            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
+        },
+        {
+            "rank": "15",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 23,
             "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
-        },
-        {
-            "rank": "15",
-            "title": "Kuiim",
-            "artist": "Alem",
-            "playcount": 23,
-            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
-            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
             "rank": "16",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         }
     ],
-    "last_updated": 1781607744
+    "last_updated": 1781628095
 }
