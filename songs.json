@@ -10,14 +10,6 @@
         },
         {
             "rank": "2",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "3",
             "title": "Hyouriittai",
             "artist": "Yuzu",
             "playcount": 4,
@@ -25,15 +17,7 @@
             "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
         },
         {
-            "rank": "4",
-            "title": "Jupiter",
-            "artist": "Ayaka Hirahara",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bda3f2ec618a17fb213ceb25",
-            "link": "https://open.spotify.com/track/2YKcLHb85Rwyl9LvPOcmQ1"
-        },
-        {
-            "rank": "5",
+            "rank": "3",
             "title": "スパークル",
             "artist": "Lilas",
             "playcount": 3,
@@ -41,15 +25,15 @@
             "link": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
         },
         {
-            "rank": "6",
-            "title": "ドラマ「陸王」より Jupiter ORIGINAL COVER",
-            "artist": "NIYARI計画",
+            "rank": "4",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b27314ba845069839beb11fc57e3",
-            "link": "https://open.spotify.com/track/7fE702Ee5Jni8iSnwxDYN3"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "7",
+            "rank": "5",
             "title": "kim?",
             "artist": "rusha",
             "playcount": 3,
@@ -57,7 +41,7 @@
             "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         },
         {
-            "rank": "8",
+            "rank": "6",
             "title": "Kaiju",
             "artist": "Sakanaction",
             "playcount": 3,
@@ -65,15 +49,7 @@
             "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
         },
         {
-            "rank": "9",
-            "title": "前へ進む裕乃",
-            "artist": "Takayuki Hattori",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730f5f05ff23d3cfffd4aecf6c",
-            "link": "https://open.spotify.com/track/5sf5B0bPUeIqz7v8qdkqCB"
-        },
-        {
-            "rank": "10",
+            "rank": "7",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 3,
@@ -81,7 +57,7 @@
             "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
         },
         {
-            "rank": "11",
+            "rank": "8",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 2,
@@ -89,7 +65,7 @@
             "link": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
         },
         {
-            "rank": "12",
+            "rank": "9",
             "title": "ELESTET",
             "artist": "Alem",
             "playcount": 2,
@@ -97,7 +73,7 @@
             "link": "https://open.spotify.com/track/091kfw37h2ooz59q2v34J4"
         },
         {
-            "rank": "13",
+            "rank": "10",
             "title": "Kuiim",
             "artist": "Alem",
             "playcount": 2,
@@ -105,7 +81,15 @@
             "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
-            "rank": "14",
+            "rank": "11",
+            "title": "Jupiter",
+            "artist": "Ayaka Hirahara",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bda3f2ec618a17fb213ceb25",
+            "link": "https://open.spotify.com/track/2YKcLHb85Rwyl9LvPOcmQ1"
+        },
+        {
+            "rank": "12",
             "title": "WE ON GO",
             "artist": "Bia",
             "playcount": 2,
@@ -113,7 +97,7 @@
             "link": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
         },
         {
-            "rank": "15",
+            "rank": "13",
             "title": "ばかまじめ",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -121,15 +105,7 @@
             "link": "https://open.spotify.com/track/7FiTlLKW0Knj8rm7lMa9N7"
         },
         {
-            "rank": "16",
-            "title": "TORE UP",
-            "artist": "Don Toliver",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
-            "link": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
-        },
-        {
-            "rank": "17",
+            "rank": "14",
             "title": "Janice STFU",
             "artist": "Drake",
             "playcount": 2,
@@ -137,7 +113,7 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
-            "rank": "18",
+            "rank": "15",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 2,
@@ -145,7 +121,7 @@
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
-            "rank": "19",
+            "rank": "16",
             "title": "LOVE. FEAT. ZACARI.",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -153,7 +129,7 @@
             "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
-            "rank": "20",
+            "rank": "17",
             "title": "Actor",
             "artist": "Lilas",
             "playcount": 2,
@@ -161,7 +137,7 @@
             "link": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
         },
         {
-            "rank": "21",
+            "rank": "18",
             "title": "Answer",
             "artist": "Lilas",
             "playcount": 2,
@@ -169,7 +145,7 @@
             "link": "https://open.spotify.com/track/0avegfB0TQ8cGDk9nuxcOQ"
         },
         {
-            "rank": "22",
+            "rank": "19",
             "title": "Name of Life",
             "artist": "Lilas",
             "playcount": 2,
@@ -177,7 +153,7 @@
             "link": "https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh"
         },
         {
-            "rank": "23",
+            "rank": "20",
             "title": "stay with me",
             "artist": "Lilas",
             "playcount": 2,
@@ -185,7 +161,7 @@
             "link": "https://open.spotify.com/track/5jL2iJzLhS4PNsLtc4ltgw"
         },
         {
-            "rank": "24",
+            "rank": "21",
             "title": "サークル",
             "artist": "Lilas",
             "playcount": 2,
@@ -193,7 +169,7 @@
             "link": "https://open.spotify.com/track/5sRnmEbAVSOcfqNlVwTfQe"
         },
         {
-            "rank": "25",
+            "rank": "22",
             "title": "パズル",
             "artist": "Lilas",
             "playcount": 2,
@@ -201,7 +177,7 @@
             "link": "https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR"
         },
         {
-            "rank": "26",
+            "rank": "23",
             "title": "ハミング",
             "artist": "Lilas",
             "playcount": 2,
@@ -209,7 +185,7 @@
             "link": "https://open.spotify.com/track/591fXk91OaNpI1mUbxhhnF"
         },
         {
-            "rank": "27",
+            "rank": "24",
             "title": "ロマンスの約束",
             "artist": "Lilas",
             "playcount": 2,
@@ -217,7 +193,7 @@
             "link": "https://open.spotify.com/track/1tevypbWcDiPoUSlxKkaUu"
         },
         {
-            "rank": "28",
+            "rank": "25",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 2,
@@ -225,7 +201,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "29",
+            "rank": "26",
             "title": "百花繚乱",
             "artist": "Lilas",
             "playcount": 2,
@@ -233,7 +209,7 @@
             "link": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
         },
         {
-            "rank": "30",
+            "rank": "27",
             "title": "おもかげ (produced by Vaundy)",
             "artist": "Milet",
             "playcount": 2,
@@ -241,7 +217,7 @@
             "link": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
         },
         {
-            "rank": "31",
+            "rank": "28",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 2,
@@ -249,23 +225,23 @@
             "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
         },
         {
-            "rank": "32",
-            "title": "それぞれの愛",
-            "artist": "Ryo Yoshimata",
+            "rank": "29",
+            "title": "ドラマ「陸王」より Jupiter ORIGINAL COVER",
+            "artist": "NIYARI計画",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731d536b31be4efe883782a320",
-            "link": "https://open.spotify.com/track/2Qb5r3NhEW2mxNJ90U8sVS"
+            "image": "https://i.scdn.co/image/ab67616d0000b27314ba845069839beb11fc57e3",
+            "link": "https://open.spotify.com/track/7fE702Ee5Jni8iSnwxDYN3"
         },
         {
-            "rank": "33",
-            "title": "裕乃のテーマ",
+            "rank": "30",
+            "title": "前へ進む裕乃",
             "artist": "Takayuki Hattori",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2730f5f05ff23d3cfffd4aecf6c",
-            "link": "https://open.spotify.com/track/3LYAj03xTdos2dHD3flM0N"
+            "link": "https://open.spotify.com/track/5sf5B0bPUeIqz7v8qdkqCB"
         },
         {
-            "rank": "34",
+            "rank": "31",
             "title": "青のすみか (Acoustic ver.)",
             "artist": "Tatsuya Kitani",
             "playcount": 2,
@@ -273,7 +249,7 @@
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         },
         {
-            "rank": "35",
+            "rank": "32",
             "title": "shakaisanka",
             "artist": "Tengokuchusya",
             "playcount": 2,
@@ -281,7 +257,7 @@
             "link": "https://open.spotify.com/track/3IyLf2A1h5rxPTH2hhMNzg"
         },
         {
-            "rank": "36",
+            "rank": "33",
             "title": "G・I Theme",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -289,7 +265,7 @@
             "link": "https://open.spotify.com/track/0iuhw4Ok6TJWi5bP52Kyat"
         },
         {
-            "rank": "37",
+            "rank": "34",
             "title": "Ginpatsu no Lullaby",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -297,7 +273,7 @@
             "link": "https://open.spotify.com/track/6rrGWbGXgv2kGUMtoe0vPp"
         },
         {
-            "rank": "38",
+            "rank": "35",
             "title": "Hegemony Of The Food Chain",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -305,7 +281,7 @@
             "link": "https://open.spotify.com/track/4vm1B2axBhW8nx1IqFD4LC"
         },
         {
-            "rank": "39",
+            "rank": "36",
             "title": "I Ain't Ojisan!",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -313,7 +289,7 @@
             "link": "https://open.spotify.com/track/64SiqMHLu85fTF6Sm1d5QT"
         },
         {
-            "rank": "40",
+            "rank": "37",
             "title": "Kujirato Yori",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -321,7 +297,7 @@
             "link": "https://open.spotify.com/track/3snNowHzH6pSjIR6YDZC7I"
         },
         {
-            "rank": "41",
+            "rank": "38",
             "title": "Legend Of The Martial Artist",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -329,7 +305,7 @@
             "link": "https://open.spotify.com/track/6nBCSvioSDFhZ1RaH6nlA5"
         },
         {
-            "rank": "42",
+            "rank": "39",
             "title": "Requiem Aranea",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -337,7 +313,7 @@
             "link": "https://open.spotify.com/track/3mDLfHw09pJF8HBn9sv8v4"
         },
         {
-            "rank": "43",
+            "rank": "40",
             "title": "The World of Adventurers - Kanzenban",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -345,7 +321,7 @@
             "link": "https://open.spotify.com/track/6uTTT5YZLkrI8atUK97s52"
         },
         {
-            "rank": "44",
+            "rank": "41",
             "title": "DUET",
             "artist": "ZICO",
             "playcount": 2,
@@ -353,15 +329,15 @@
             "link": "https://open.spotify.com/track/0M4O6UEu4F9SxImTsBuX9n"
         },
         {
-            "rank": "45",
+            "rank": "42",
             "title": "OH MY!!",
             "artist": "ネフェルピトー(CV:藤村歩)",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734f079859392a11ff71b94814",
-            "link": "https://open.spotify.com/track/4CRqeGDZZ9IgvrfkAnbv57"
+            "image": "https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4",
+            "link": "https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP"
         },
         {
-            "rank": "46",
+            "rank": "43",
             "title": "Ito -cruel spider-",
             "artist": "マチ(CV:前田玲奈)",
             "playcount": 2,
@@ -369,7 +345,7 @@
             "link": "https://open.spotify.com/track/0k1wQpS7XeAqnTisqc8vVx"
         },
         {
-            "rank": "47",
+            "rank": "44",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 1,
@@ -377,15 +353,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "48",
-            "title": "redrum",
-            "artist": "21 Savage",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731e146244cf70b7aab703c057",
-            "link": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
-        },
-        {
-            "rank": "49",
+            "rank": "45",
             "title": "P.I.M.P.",
             "artist": "50 Cent",
             "playcount": 1,
@@ -393,12 +361,44 @@
             "link": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
         },
         {
-            "rank": "50",
+            "rank": "46",
             "title": "Impala",
             "artist": "Adèle Castillon",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2733651618563d0a680be134558",
             "link": "https://open.spotify.com/track/1RcD8Oly1JH5G4MdjheoY0"
+        },
+        {
+            "rank": "47",
+            "title": "プラネタリウム",
+            "artist": "ai otsuka",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bfca414b7a654241a6950e35",
+            "link": "https://open.spotify.com/track/3zfyzbHuqcT2AAffAyLm02"
+        },
+        {
+            "rank": "48",
+            "title": "Brave Shine",
+            "artist": "Aimer",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b54e91cdc2fc4e29efab4e4b",
+            "link": "https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ"
+        },
+        {
+            "rank": "49",
+            "title": "愛♡スクリ～ム！",
+            "artist": "Aiscream",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732590b046b72d6ce5d6703ee7",
+            "link": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
+        },
+        {
+            "rank": "50",
+            "title": "Daiynbyz ba?",
+            "artist": "Alem",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
+            "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         }
     ],
-    "last_updated": 1781785254
+    "last_updated": 1781805526
 }
