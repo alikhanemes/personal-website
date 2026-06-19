@@ -333,8 +333,8 @@
             "title": "OH MY!!",
             "artist": "ネフェルピトー(CV:藤村歩)",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27393f551abf615209c537fb4d4",
-            "link": "https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f079859392a11ff71b94814",
+            "link": "https://open.spotify.com/track/4CRqeGDZZ9IgvrfkAnbv57"
         },
         {
             "rank": "43",
@@ -487,8 +487,8 @@
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 27,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Sharlot/_/%D0%9C%D0%B0%D0%BB%D1%8B%D1%88%D0%BA%D0%B0"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730aefe3f8dadc6001bec3646e",
+            "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
             "rank": "12",
@@ -551,8 +551,8 @@
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!"
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
+            "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         },
         {
             "rank": "20",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         }
     ],
-    "last_updated": 1781823327
+    "last_updated": 1781840722
 }
