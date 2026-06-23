@@ -18,38 +18,6 @@
         },
         {
             "rank": "3",
-            "title": "WE ON GO",
-            "artist": "Bia",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b08b8fa3e0d46fd47f8dbf7",
-            "link": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
-        },
-        {
-            "rank": "4",
-            "title": "the WORLD",
-            "artist": "Nightmare",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a83a2f295033bb468401e441",
-            "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
-        },
-        {
-            "rank": "5",
-            "title": "Hyouriittai",
-            "artist": "Yuzu",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
-            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
-        },
-        {
-            "rank": "6",
-            "title": "CARNIVAL",
-            "artist": "¥$",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
-            "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
-        },
-        {
-            "rank": "7",
             "title": "P.I.M.P.",
             "artist": "50 Cent",
             "playcount": 1,
@@ -57,7 +25,7 @@
             "link": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
         },
         {
-            "rank": "8",
+            "rank": "4",
             "title": "Impala",
             "artist": "Adèle Castillon",
             "playcount": 1,
@@ -65,7 +33,7 @@
             "link": "https://open.spotify.com/track/1RcD8Oly1JH5G4MdjheoY0"
         },
         {
-            "rank": "9",
+            "rank": "5",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 1,
@@ -73,7 +41,7 @@
             "link": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
         },
         {
-            "rank": "10",
+            "rank": "6",
             "title": "Kuiim",
             "artist": "Alem",
             "playcount": 1,
@@ -81,7 +49,7 @@
             "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
-            "rank": "11",
+            "rank": "7",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 1,
@@ -89,7 +57,15 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
-            "rank": "12",
+            "rank": "8",
+            "title": "WE ON GO",
+            "artist": "Bia",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b08b8fa3e0d46fd47f8dbf7",
+            "link": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
+        },
+        {
+            "rank": "9",
             "title": "WE ON GO III (feat. TiaCorine)",
             "artist": "Bia",
             "playcount": 1,
@@ -97,7 +73,7 @@
             "link": "https://open.spotify.com/track/6VT4Dnjd2OgBpwpzGMwo58"
         },
         {
-            "rank": "13",
+            "rank": "10",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 1,
@@ -105,7 +81,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "14",
+            "rank": "11",
             "title": "ROCKSTAR (feat. Roddy Ricch)",
             "artist": "DaBaby",
             "playcount": 1,
@@ -113,7 +89,7 @@
             "link": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
         },
         {
-            "rank": "15",
+            "rank": "12",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -121,7 +97,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "16",
+            "rank": "13",
             "title": "Darkest Dreaming",
             "artist": "David Sylvian",
             "playcount": 1,
@@ -129,7 +105,7 @@
             "link": "https://open.spotify.com/track/2HuE24KHxr3UJ4MPNCt29d"
         },
         {
-            "rank": "17",
+            "rank": "14",
             "title": "BANDIT",
             "artist": "Don Toliver",
             "playcount": 1,
@@ -137,15 +113,7 @@
             "link": "https://open.spotify.com/track/0PHrcmOtDE89ew4vVEaD7S"
         },
         {
-            "rank": "18",
-            "title": "TORE UP",
-            "artist": "Don Toliver",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5050e0d58c704da6bb519e1",
-            "link": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
-        },
-        {
-            "rank": "19",
+            "rank": "15",
             "title": "Hotline Bling",
             "artist": "Drake",
             "playcount": 1,
@@ -153,7 +121,7 @@
             "link": "https://open.spotify.com/track/0wwPcA6wtMf6HUMpIRdeP7"
         },
         {
-            "rank": "20",
+            "rank": "16",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 1,
@@ -161,23 +129,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "21",
-            "title": "4 Raws",
-            "artist": "EsDeeKid",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045",
-            "link": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
-        },
-        {
-            "rank": "22",
-            "title": "Let Me Hear",
-            "artist": "Fear, and Loathing in Las Vegas",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736f7083957f85b021f69cf778",
-            "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
-        },
-        {
-            "rank": "23",
+            "rank": "17",
             "title": "On Melancholy Hill",
             "artist": "Gorillaz",
             "playcount": 1,
@@ -185,7 +137,7 @@
             "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
         },
         {
-            "rank": "24",
+            "rank": "18",
             "title": "You Know How We Do It",
             "artist": "Ice Cube",
             "playcount": 1,
@@ -193,7 +145,7 @@
             "link": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo"
         },
         {
-            "rank": "25",
+            "rank": "19",
             "title": "WHATS POPPIN",
             "artist": "Jack Harlow",
             "playcount": 1,
@@ -201,7 +153,7 @@
             "link": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
         },
         {
-            "rank": "26",
+            "rank": "20",
             "title": "Honeypie",
             "artist": "Jawny",
             "playcount": 1,
@@ -209,7 +161,7 @@
             "link": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
         },
         {
-            "rank": "27",
+            "rank": "21",
             "title": "Surround Sound (feat. 21 Savage & Baby Tate)",
             "artist": "JID",
             "playcount": 1,
@@ -217,7 +169,7 @@
             "link": "https://open.spotify.com/track/1udwFobQ1JoOdWPQrp2b6u"
         },
         {
-            "rank": "28",
+            "rank": "22",
             "title": "Bound 2",
             "artist": "Kanye West",
             "playcount": 1,
@@ -225,7 +177,7 @@
             "link": "https://open.spotify.com/track/3sNVsP50132BTNlImLx70i"
         },
         {
-            "rank": "29",
+            "rank": "23",
             "title": "Good Morning",
             "artist": "Kanye West",
             "playcount": 1,
@@ -233,23 +185,7 @@
             "link": "https://open.spotify.com/track/6MXXY2eiWkpDCezVCc0cMH"
         },
         {
-            "rank": "30",
-            "title": "I Wonder",
-            "artist": "Kanye West",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27326f7f19c7f0381e56156c94a",
-            "link": "https://open.spotify.com/track/7rbECVPkY5UODxoOUVKZnA"
-        },
-        {
-            "rank": "31",
-            "title": "KICK BACK",
-            "artist": "Kenshi Yonezu",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273173fe2bb0d2a222613d80d86",
-            "link": "https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG"
-        },
-        {
-            "rank": "32",
+            "rank": "24",
             "title": "ZEZE (feat. Travis Scott & Offset)",
             "artist": "Kodak Black",
             "playcount": 1,
@@ -257,15 +193,7 @@
             "link": "https://open.spotify.com/track/0FZ4Dmg8jJJAPJnvBIzD9z"
         },
         {
-            "rank": "33",
-            "title": "Falling Down - Bonus Track",
-            "artist": "Lil Peep",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27355e36b0dc5b0ef008fc85319",
-            "link": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
-        },
-        {
-            "rank": "34",
+            "rank": "25",
             "title": "500lbs",
             "artist": "Lil Tecca",
             "playcount": 1,
@@ -273,7 +201,7 @@
             "link": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
         },
         {
-            "rank": "35",
+            "rank": "26",
             "title": "Sometimes",
             "artist": "Mattyeux",
             "playcount": 1,
@@ -281,7 +209,7 @@
             "link": "https://open.spotify.com/track/4b0fiEZg92FBFYze5uEx0l"
         },
         {
-            "rank": "36",
+            "rank": "27",
             "title": "VHS",
             "artist": "Mattyeux",
             "playcount": 1,
@@ -289,7 +217,7 @@
             "link": "https://open.spotify.com/track/0sdCzUNGQZHL6pE0puBOfN"
         },
         {
-            "rank": "37",
+            "rank": "28",
             "title": "All The Way Live (Spider-Man: Across the Spider-Verse) (Metro Boomin & Future, Lil Uzi Vert)",
             "artist": "Metro Boomin",
             "playcount": 1,
@@ -297,15 +225,7 @@
             "link": "https://open.spotify.com/track/0B6g379TMw0nYGXA7y5xHz"
         },
         {
-            "rank": "38",
-            "title": "ダブルシャッフル",
-            "artist": "Nana Mizuki",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
-            "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
-        },
-        {
-            "rank": "39",
+            "rank": "29",
             "title": "Escape",
             "artist": "Nemzzz",
             "playcount": 1,
@@ -313,15 +233,7 @@
             "link": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
         },
         {
-            "rank": "40",
-            "title": "Again (feat. XXXTENTACION)",
-            "artist": "Noah Cyrus",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27349af7d5bfd29ae589a99e1cd",
-            "link": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
-        },
-        {
-            "rank": "41",
+            "rank": "30",
             "title": "Attracted to You",
             "artist": "PinkPantheress",
             "playcount": 1,
@@ -329,7 +241,7 @@
             "link": "https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe"
         },
         {
-            "rank": "42",
+            "rank": "31",
             "title": "ILoveUIHateU",
             "artist": "Playboi Carti",
             "playcount": 1,
@@ -337,7 +249,7 @@
             "link": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
         },
         {
-            "rank": "43",
+            "rank": "32",
             "title": "THE SHADE",
             "artist": "Rex Orange County",
             "playcount": 1,
@@ -345,7 +257,7 @@
             "link": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
         },
         {
-            "rank": "44",
+            "rank": "33",
             "title": "kim?",
             "artist": "rusha",
             "playcount": 1,
@@ -353,7 +265,7 @@
             "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         },
         {
-            "rank": "45",
+            "rank": "34",
             "title": "Kaiju",
             "artist": "Sakanaction",
             "playcount": 1,
@@ -361,7 +273,7 @@
             "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
         },
         {
-            "rank": "46",
+            "rank": "35",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 1,
@@ -369,7 +281,7 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "47",
+            "rank": "36",
             "title": "Whistle",
             "artist": "Stepz",
             "playcount": 1,
@@ -377,28 +289,116 @@
             "link": "https://open.spotify.com/track/6YvKrlE1Vj1YIZmw3BDYhL"
         },
         {
-            "rank": "48",
-            "title": "MUKANJYO",
-            "artist": "Survive Said The Prophet",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27366692ec3a0f5437132315850",
-            "link": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
-        },
-        {
-            "rank": "49",
-            "title": "Paradox",
-            "artist": "Survive Said The Prophet",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273741ea5c4d5eab47149a301bd",
-            "link": "https://open.spotify.com/track/6A7sTvj68RJAVgTduJEQnA"
-        },
-        {
-            "rank": "50",
+            "rank": "37",
             "title": "Let It Happen",
             "artist": "Tame Impala",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79",
             "link": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
+        },
+        {
+            "rank": "38",
+            "title": "Roi",
+            "artist": "Videoclub",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6",
+            "link": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
+        },
+        {
+            "rank": "39",
+            "title": "Hegemony Of The Food Chain",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a3d17df4628b8aac546f1b9",
+            "link": "https://open.spotify.com/track/4vm1B2axBhW8nx1IqFD4LC"
+        },
+        {
+            "rank": "40",
+            "title": "I Ain't Ojisan!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/64SiqMHLu85fTF6Sm1d5QT"
+        },
+        {
+            "rank": "41",
+            "title": "Obvious Difference Of Power",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a3d17df4628b8aac546f1b9",
+            "link": "https://open.spotify.com/track/6Btug5pWTSYdIqYstYS0rB"
+        },
+        {
+            "rank": "42",
+            "title": "Tomonamida",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/1hs9Zyyf7WYiU9jXUSMOyZ"
+        },
+        {
+            "rank": "43",
+            "title": "Bad Bad Bad (feat. Lil Baby)",
+            "artist": "Young Thug",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738da62aa4aa86bb58f67196e9",
+            "link": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
+        },
+        {
+            "rank": "44",
+            "title": "Shinpai Muyou",
+            "artist": "Yuki Chiba",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273898d6f286c94200c34174288",
+            "link": "https://open.spotify.com/track/1susvnKQ4rmj5AyAC1YuPR"
+        },
+        {
+            "rank": "45",
+            "title": "Hyouriittai",
+            "artist": "Yuzu",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
+            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
+        },
+        {
+            "rank": "46",
+            "title": "Гүл Алматы",
+            "artist": "Батыр",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273db714d2ec3f09d0d2231d696",
+            "link": "https://open.spotify.com/track/5mM6ljD8SGJB3CLWBY1RgF"
+        },
+        {
+            "rank": "47",
+            "title": "departure! - Killua version",
+            "artist": "キルア=ゾルディック(CV:伊瀬茉莉也)",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fd88621b27af3c8e8b3ba297",
+            "link": "https://open.spotify.com/track/2CXyAEwG6zokFUv6ew9xwb"
+        },
+        {
+            "rank": "48",
+            "title": "OH MY!!",
+            "artist": "ネフェルピトー(CV:藤村歩)",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e7291f8cb9ed598dfdf705ea",
+            "link": "https://open.spotify.com/track/6i81Ro9sDVidhqfoFwVFZA"
+        },
+        {
+            "rank": "49",
+            "title": "大展鴻圖(Blueprint Supreme)",
+            "artist": "攬佬SKAI ISYOURGOD",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
+            "link": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
+        },
+        {
+            "rank": "50",
+            "title": "香車豪宅(Whips and Cribs)",
+            "artist": "攬佬SKAI ISYOURGOD",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
+            "link": "https://open.spotify.com/track/2bmM9FCWjDgynYnKwzzM04"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         }
     ],
-    "last_updated": 1782182582
+    "last_updated": 1782197155
 }
