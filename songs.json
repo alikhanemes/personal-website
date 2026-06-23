@@ -2,19 +2,19 @@
     "recent": [
         {
             "rank": "1",
+            "title": "Kaiju",
+            "artist": "Sakanaction",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732337f03620420d4561c7e6c9",
+            "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
+        },
+        {
+            "rank": "2",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "2",
-            "title": "Kaiju",
-            "artist": "Sakanaction",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732337f03620420d4561c7e6c9",
-            "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
         },
         {
             "rank": "3",
@@ -266,6 +266,14 @@
         },
         {
             "rank": "34",
+            "title": "the WORLD",
+            "artist": "Nightmare",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a83a2f295033bb468401e441",
+            "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
+        },
+        {
+            "rank": "35",
             "title": "Attracted to You",
             "artist": "PinkPantheress",
             "playcount": 1,
@@ -273,7 +281,7 @@
             "link": "https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "ILoveUIHateU",
             "artist": "Playboi Carti",
             "playcount": 1,
@@ -281,7 +289,7 @@
             "link": "https://open.spotify.com/track/1BpKJw4RZxaFB88NE5uxXf"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "THE SHADE",
             "artist": "Rex Orange County",
             "playcount": 1,
@@ -289,7 +297,7 @@
             "link": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Aoi",
             "artist": "Sakanaction",
             "playcount": 1,
@@ -297,7 +305,7 @@
             "link": "https://open.spotify.com/track/73TEyhGLxixHAwzOdoamgV"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 1,
@@ -305,7 +313,7 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "39",
+            "rank": "40",
             "title": "Whistle",
             "artist": "Stepz",
             "playcount": 1,
@@ -313,7 +321,7 @@
             "link": "https://open.spotify.com/track/6YvKrlE1Vj1YIZmw3BDYhL"
         },
         {
-            "rank": "40",
+            "rank": "41",
             "title": "Let It Happen",
             "artist": "Tame Impala",
             "playcount": 1,
@@ -321,7 +329,7 @@
             "link": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
         },
         {
-            "rank": "41",
+            "rank": "42",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 1,
@@ -329,7 +337,15 @@
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         },
         {
-            "rank": "42",
+            "rank": "43",
+            "title": "青のすみか - From THE FIRST TAKE",
+            "artist": "Tatsuya Kitani",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731af4cbc40fff5570e6dd3342",
+            "link": "https://open.spotify.com/track/3hHjC08VoyAvxETsu2ZISw"
+        },
+        {
+            "rank": "44",
             "title": "Roi",
             "artist": "Videoclub",
             "playcount": 1,
@@ -337,7 +353,7 @@
             "link": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
         },
         {
-            "rank": "43",
+            "rank": "45",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 1,
@@ -345,7 +361,7 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "44",
+            "rank": "46",
             "title": "Red Swan",
             "artist": "YOSHIKI",
             "playcount": 1,
@@ -353,7 +369,7 @@
             "link": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX"
         },
         {
-            "rank": "45",
+            "rank": "47",
             "title": "Bad Bad Bad (feat. Lil Baby)",
             "artist": "Young Thug",
             "playcount": 1,
@@ -361,7 +377,7 @@
             "link": "https://open.spotify.com/track/1GeNui6m825V8jP4uKiIaH"
         },
         {
-            "rank": "46",
+            "rank": "48",
             "title": "Shinpai Muyou",
             "artist": "Yuki Chiba",
             "playcount": 1,
@@ -369,7 +385,7 @@
             "link": "https://open.spotify.com/track/1susvnKQ4rmj5AyAC1YuPR"
         },
         {
-            "rank": "47",
+            "rank": "49",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 1,
@@ -377,28 +393,12 @@
             "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
         },
         {
-            "rank": "48",
+            "rank": "50",
             "title": "Гүл Алматы",
             "artist": "Батыр",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273db714d2ec3f09d0d2231d696",
             "link": "https://open.spotify.com/track/5mM6ljD8SGJB3CLWBY1RgF"
-        },
-        {
-            "rank": "49",
-            "title": "大展鴻圖(Blueprint Supreme)",
-            "artist": "攬佬SKAI ISYOURGOD",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-            "link": "https://open.spotify.com/track/0hEWvzkgbI301JZj947gFz"
-        },
-        {
-            "rank": "50",
-            "title": "香車豪宅(Whips and Cribs)",
-            "artist": "攬佬SKAI ISYOURGOD",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-            "link": "https://open.spotify.com/track/2bmM9FCWjDgynYnKwzzM04"
         }
     ],
     "alltime": [
@@ -780,6 +780,14 @@
         },
         {
             "rank": "48",
+            "title": "the WORLD",
+            "artist": "Nightmare",
+            "playcount": 16,
+            "image": "https://i.scdn.co/image/ab67616d0000b273a83a2f295033bb468401e441",
+            "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
+        },
+        {
+            "rank": "49",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 16,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Usta",
             "artist": "rusha",
             "playcount": 16,
             "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
             "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
-        },
-        {
-            "rank": "50",
-            "title": "São Paulo (feat. Anitta)",
-            "artist": "The Weeknd",
-            "playcount": 16,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
-            "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         }
     ],
-    "last_updated": 1782244516
+    "last_updated": 1782252647
 }
