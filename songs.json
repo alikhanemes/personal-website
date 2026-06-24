@@ -2,6 +2,14 @@
     "recent": [
         {
             "rank": "1",
+            "title": "Departure!",
+            "artist": "Masatoshi Ono",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
+            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
+        },
+        {
+            "rank": "2",
             "title": "Kaiju",
             "artist": "Sakanaction",
             "playcount": 2,
@@ -9,7 +17,7 @@
             "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
         },
         {
-            "rank": "2",
+            "rank": "3",
             "title": "Chase",
             "artist": "Batta",
             "playcount": 1,
@@ -17,7 +25,7 @@
             "link": "https://open.spotify.com/track/5V5akuBxKpIlTUPaueNpyy"
         },
         {
-            "rank": "3",
+            "rank": "4",
             "title": "WE ON GO",
             "artist": "Bia",
             "playcount": 1,
@@ -25,7 +33,7 @@
             "link": "https://open.spotify.com/track/01vCzM84c5JLSkG2iXC9VZ"
         },
         {
-            "rank": "4",
+            "rank": "5",
             "title": "Fighting Gold",
             "artist": "Coda",
             "playcount": 1,
@@ -33,7 +41,7 @@
             "link": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Darkest Dreaming",
             "artist": "David Sylvian",
             "playcount": 1,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/2HuE24KHxr3UJ4MPNCt29d"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Janice STFU",
             "artist": "Drake",
             "playcount": 1,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 1,
@@ -65,7 +73,15 @@
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
-            "rank": "9",
+            "rank": "10",
+            "title": "花",
+            "artist": "Fujii Kaze",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f079859392a11ff71b94814",
+            "link": "https://open.spotify.com/track/4CRqeGDZZ9IgvrfkAnbv57"
+        },
+        {
+            "rank": "11",
             "title": "On Melancholy Hill",
             "artist": "Gorillaz",
             "playcount": 1,
@@ -73,7 +89,47 @@
             "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
         },
         {
-            "rank": "10",
+            "rank": "12",
+            "title": "Death Note",
+            "artist": "Hideki Taniuchi",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
+            "link": "https://open.spotify.com/track/6ZLQDL4mgQoI4QNlTFiki4"
+        },
+        {
+            "rank": "13",
+            "title": "Jiken",
+            "artist": "Hideki Taniuchi",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
+            "link": "https://open.spotify.com/track/6NxREG1LnCcwwt0MiQ7O3I"
+        },
+        {
+            "rank": "14",
+            "title": "Senritsu",
+            "artist": "Hideki Taniuchi",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
+            "link": "https://open.spotify.com/track/3V710HiuXy8xYuD5O1hSO9"
+        },
+        {
+            "rank": "15",
+            "title": "Shunjun",
+            "artist": "Hideki Taniuchi",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
+            "link": "https://open.spotify.com/track/4serFrU8at941xKPEfvCrZ"
+        },
+        {
+            "rank": "16",
+            "title": "Tokuso",
+            "artist": "Hideki Taniuchi",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
+            "link": "https://open.spotify.com/track/5nU0eRIql9LOTXijksH0ul"
+        },
+        {
+            "rank": "17",
             "title": "Honeypie",
             "artist": "Jawny",
             "playcount": 1,
@@ -81,7 +137,7 @@
             "link": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
         },
         {
-            "rank": "11",
+            "rank": "18",
             "title": "AIZO",
             "artist": "King Gnu",
             "playcount": 1,
@@ -89,7 +145,7 @@
             "link": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
         },
         {
-            "rank": "12",
+            "rank": "19",
             "title": "SPECIALZ",
             "artist": "King Gnu",
             "playcount": 1,
@@ -97,7 +153,7 @@
             "link": "https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF"
         },
         {
-            "rank": "13",
+            "rank": "20",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 1,
@@ -105,15 +161,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "14",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
-            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
-        },
-        {
-            "rank": "15",
+            "rank": "21",
             "title": "“Tomodachi Game” Main Theme",
             "artist": "Michiru",
             "playcount": 1,
@@ -121,7 +169,7 @@
             "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
         },
         {
-            "rank": "16",
+            "rank": "22",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 1,
@@ -129,7 +177,7 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "17",
+            "rank": "23",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 1,
@@ -137,7 +185,7 @@
             "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
         },
         {
-            "rank": "18",
+            "rank": "24",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 1,
@@ -145,7 +193,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "19",
+            "rank": "25",
             "title": "Attracted to You",
             "artist": "PinkPantheress",
             "playcount": 1,
@@ -153,7 +201,7 @@
             "link": "https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe"
         },
         {
-            "rank": "20",
+            "rank": "26",
             "title": "THE SHADE",
             "artist": "Rex Orange County",
             "playcount": 1,
@@ -161,7 +209,7 @@
             "link": "https://open.spotify.com/track/1gH1h30wkQdd9zhY3j7a8T"
         },
         {
-            "rank": "21",
+            "rank": "27",
             "title": "Aoi",
             "artist": "Sakanaction",
             "playcount": 1,
@@ -169,7 +217,7 @@
             "link": "https://open.spotify.com/track/73TEyhGLxixHAwzOdoamgV"
         },
         {
-            "rank": "22",
+            "rank": "28",
             "title": "Let It Happen",
             "artist": "Tame Impala",
             "playcount": 1,
@@ -177,7 +225,7 @@
             "link": "https://open.spotify.com/track/2X485T9Z5Ly0xyaghN73ed"
         },
         {
-            "rank": "23",
+            "rank": "29",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 1,
@@ -185,7 +233,7 @@
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         },
         {
-            "rank": "24",
+            "rank": "30",
             "title": "青のすみか - From THE FIRST TAKE",
             "artist": "Tatsuya Kitani",
             "playcount": 1,
@@ -193,7 +241,7 @@
             "link": "https://open.spotify.com/track/3hHjC08VoyAvxETsu2ZISw"
         },
         {
-            "rank": "25",
+            "rank": "31",
             "title": "夜に駆ける",
             "artist": "YOASOBI",
             "playcount": 1,
@@ -201,36 +249,156 @@
             "link": "https://open.spotify.com/track/3dPtXHP0oXQ4HCWHsOA9js"
         },
         {
-            "rank": "26",
-            "title": "Red Swan",
-            "artist": "YOSHIKI",
+            "rank": "32",
+            "title": "All I Need Is MONEY!",
+            "artist": "Yoshihisa Hirano",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2735ce0fbd16dba08ae792dc1cf",
-            "link": "https://open.spotify.com/track/0zvN9oq95bIEQjvfcdeZlX"
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/2fP6LEkHgDGsZ20048ng3u"
         },
         {
-            "rank": "27",
-            "title": "REASON",
-            "artist": "Yuzu",
+            "rank": "33",
+            "title": "Ansatsu Ikka no Yakata",
+            "artist": "Yoshihisa Hirano",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c7cd89a0e7b99abe8492754c",
-            "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
+            "image": "https://i.scdn.co/image/ab67616d0000b27320639040f567517f7da2c7bb",
+            "link": "https://open.spotify.com/track/77zojCpdYn6CvCYh9FeXMj"
         },
         {
-            "rank": "28",
-            "title": "Гүл Алматы",
-            "artist": "Батыр",
+            "rank": "34",
+            "title": "Asaichi Nite",
+            "artist": "Yoshihisa Hirano",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273db714d2ec3f09d0d2231d696",
-            "link": "https://open.spotify.com/track/5mM6ljD8SGJB3CLWBY1RgF"
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/2GOdaq6JObP0lo6JBkyPX1"
         },
         {
-            "rank": "29",
-            "title": "香車豪宅(Whips and Cribs)",
-            "artist": "攬佬SKAI ISYOURGOD",
+            "rank": "35",
+            "title": "Boys, Be Courageous!",
+            "artist": "Yoshihisa Hirano",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739870c9519822a973411b6594",
-            "link": "https://open.spotify.com/track/2bmM9FCWjDgynYnKwzzM04"
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/6ukGU8ncTtBUQzzP2zM2eL"
+        },
+        {
+            "rank": "36",
+            "title": "Chichi no Senaka",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/1my84BIIIjJH7hEHFKvid8"
+        },
+        {
+            "rank": "37",
+            "title": "G・I Theme",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a3d17df4628b8aac546f1b9",
+            "link": "https://open.spotify.com/track/0iuhw4Ok6TJWi5bP52Kyat"
+        },
+        {
+            "rank": "38",
+            "title": "Genei no Banka",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/7uhZ0Irxe4uUk3R2MweOip"
+        },
+        {
+            "rank": "39",
+            "title": "Get Funky!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/6VkesTgeKXcSJer40DWmSO"
+        },
+        {
+            "rank": "40",
+            "title": "Hashire!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/7a72wnHcmxaNYT5f3FIEwE"
+        },
+        {
+            "rank": "41",
+            "title": "Hiiro no Hitomi no Aika",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/4k8qWLE0P9L9y6ZTDeQk0k"
+        },
+        {
+            "rank": "42",
+            "title": "Hunter ☆ Taisou",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/22HH8zluTbsvR0CQMvH5vy"
+        },
+        {
+            "rank": "43",
+            "title": "Hunter yo Eien Nare!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/5ICyB3Khaha87FG9w6rMZx"
+        },
+        {
+            "rank": "44",
+            "title": "I Ain't Ojisan!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/64SiqMHLu85fTF6Sm1d5QT"
+        },
+        {
+            "rank": "45",
+            "title": "Ikkiuchi!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/5wkv6oyZ60NGHLPGCm79eE"
+        },
+        {
+            "rank": "46",
+            "title": "Kokai",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/2eJHnOWh1ZdRlYp9sswQsm"
+        },
+        {
+            "rank": "47",
+            "title": "Konjo Dashite!",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27320639040f567517f7da2c7bb",
+            "link": "https://open.spotify.com/track/6dLgHZGTxJ67EFStEIQYoZ"
+        },
+        {
+            "rank": "48",
+            "title": "Koshitantan...",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/6uLi0hkw3CZdWxlZiDQJjK"
+        },
+        {
+            "rank": "49",
+            "title": "Light Lights up Light",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
+            "link": "https://open.spotify.com/track/3qv7O3NXbhrntjBgrkVbBK"
+        },
+        {
+            "rank": "50",
+            "title": "Meimou",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b27310c4ee6d692d102f0ce4769c",
+            "link": "https://open.spotify.com/track/3Z2LaNYAhvGvkI6ToHEQvp"
         }
     ],
     "alltime": [
@@ -612,6 +780,14 @@
         },
         {
             "rank": "48",
+            "title": "Departure!",
+            "artist": "Masatoshi Ono",
+            "playcount": 16,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
+            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
+        },
+        {
+            "rank": "49",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 16,
@@ -619,21 +795,13 @@
             "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 16,
             "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
-        },
-        {
-            "rank": "50",
-            "title": "Usta",
-            "artist": "rusha",
-            "playcount": 16,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
-            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
         }
     ],
-    "last_updated": 1782310545
+    "last_updated": 1782320600
 }
