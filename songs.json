@@ -447,40 +447,40 @@
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 19,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/euphoria"
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdc727cfc07ddbabf925bb2f",
+            "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
             "rank": "28",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 19,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/sombr/_/12+to+12"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e3665d175bd9aadb15b08b2",
+            "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
             "rank": "29",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 19,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/XXXTENTACION/_/Sad!"
+            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
             "rank": "30",
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 18,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/beabadoobee/_/the+perfect+pair"
+            "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+            "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
             "rank": "31",
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 18,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Creepy+Nuts/_/%E3%82%AA%E3%83%88%E3%83%8E%E3%82%B1+-+Otonoke"
+            "image": "https://i.scdn.co/image/ab67616d0000b2731596b18678ae04bd27f85f41",
+            "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
             "rank": "32",
@@ -635,5 +635,5 @@
             "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
         }
     ],
-    "last_updated": 1782302137
+    "last_updated": 1782310545
 }
