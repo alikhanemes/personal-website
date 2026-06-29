@@ -53,8 +53,8 @@
             "title": "Kaiju",
             "artist": "Sakanaction",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732337f03620420d4561c7e6c9",
-            "link": "https://open.spotify.com/track/7sMRDjjwsB7wQEBOkdfg0i"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Sakanaction/_/Kaiju"
         },
         {
             "rank": "8",
@@ -85,8 +85,8 @@
             "title": "Kuiim",
             "artist": "Alem",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
-            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Alem/_/Kuiim"
         },
         {
             "rank": "12",
@@ -202,6 +202,14 @@
         },
         {
             "rank": "26",
+            "title": "How Bout Now",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c1e02d4becb7c5bbca01e2a",
+            "link": "https://open.spotify.com/track/4n4BflhWjCHIxrI4v7Xt9s"
+        },
+        {
+            "rank": "27",
             "title": "It's Up (feat. Young Thug & 21 Savage)",
             "artist": "Drake",
             "playcount": 1,
@@ -209,7 +217,7 @@
             "link": "https://open.spotify.com/track/1qIwin7JMVuX70qN6wD8ww"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "Jumpman",
             "artist": "Drake",
             "playcount": 1,
@@ -217,7 +225,7 @@
             "link": "https://open.spotify.com/track/27GmP9AWRs744SzKcpJsTZ"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "Jungle",
             "artist": "Drake",
             "playcount": 1,
@@ -225,7 +233,15 @@
             "link": "https://open.spotify.com/track/7JXZq0JgG2zTrSOAgY8VMC"
         },
         {
-            "rank": "29",
+            "rank": "30",
+            "title": "Knife Talk (with 21 Savage ft. Project Pat)",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273cd945b4e3de57edd28481a3f",
+            "link": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+        },
+        {
+            "rank": "31",
             "title": "Know Yourself",
             "artist": "Drake",
             "playcount": 1,
@@ -233,7 +249,7 @@
             "link": "https://open.spotify.com/track/5InOp6q2vvx0fShv3bzFLZ"
         },
         {
-            "rank": "30",
+            "rank": "32",
             "title": "Laugh Now Cry Later (feat. Lil Durk)",
             "artist": "Drake",
             "playcount": 1,
@@ -241,7 +257,7 @@
             "link": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
         },
         {
-            "rank": "31",
+            "rank": "33",
             "title": "Legend",
             "artist": "Drake",
             "playcount": 1,
@@ -249,7 +265,7 @@
             "link": "https://open.spotify.com/track/1ID1QFSNNxi0hiZCNcwjUC"
         },
         {
-            "rank": "32",
+            "rank": "34",
             "title": "Make Them Cry",
             "artist": "Drake",
             "playcount": 1,
@@ -257,7 +273,7 @@
             "link": "https://open.spotify.com/track/55wlsNYqcfiQsHuX8l0jmF"
         },
         {
-            "rank": "33",
+            "rank": "35",
             "title": "March 14",
             "artist": "Drake",
             "playcount": 1,
@@ -265,7 +281,7 @@
             "link": "https://open.spotify.com/track/09lmraDvzBT3pUQ2rUtJzK"
         },
         {
-            "rank": "34",
+            "rank": "36",
             "title": "Mob Ties",
             "artist": "Drake",
             "playcount": 1,
@@ -273,7 +289,7 @@
             "link": "https://open.spotify.com/track/7rC5Pl8rQSX4myONQHYPBK"
         },
         {
-            "rank": "35",
+            "rank": "37",
             "title": "National Treasures",
             "artist": "Drake",
             "playcount": 1,
@@ -281,7 +297,7 @@
             "link": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
         },
         {
-            "rank": "36",
+            "rank": "38",
             "title": "No Face",
             "artist": "Drake",
             "playcount": 1,
@@ -289,7 +305,7 @@
             "link": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
         },
         {
-            "rank": "37",
+            "rank": "39",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 1,
@@ -297,7 +313,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "38",
+            "rank": "40",
             "title": "Nonstop",
             "artist": "Drake",
             "playcount": 1,
@@ -305,7 +321,7 @@
             "link": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
         },
         {
-            "rank": "39",
+            "rank": "41",
             "title": "One Dance",
             "artist": "Drake",
             "playcount": 1,
@@ -313,7 +329,7 @@
             "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
         },
         {
-            "rank": "40",
+            "rank": "42",
             "title": "Over",
             "artist": "Drake",
             "playcount": 1,
@@ -321,7 +337,7 @@
             "link": "https://open.spotify.com/track/6BdgtqiV3oXNqBikezwdvC"
         },
         {
-            "rank": "41",
+            "rank": "43",
             "title": "Pop Style",
             "artist": "Drake",
             "playcount": 1,
@@ -329,7 +345,7 @@
             "link": "https://open.spotify.com/track/5mPSyjLatqB00IkPqRlbTE"
         },
         {
-            "rank": "42",
+            "rank": "44",
             "title": "Portland",
             "artist": "Drake",
             "playcount": 1,
@@ -337,7 +353,7 @@
             "link": "https://open.spotify.com/track/2bjwRfXMk4uRgOD9IBYl9h"
         },
         {
-            "rank": "43",
+            "rank": "45",
             "title": "Practice",
             "artist": "Drake",
             "playcount": 1,
@@ -345,7 +361,7 @@
             "link": "https://open.spotify.com/track/0jF2AdhsalO1L7KkhK4LE5"
         },
         {
-            "rank": "44",
+            "rank": "46",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 1,
@@ -353,7 +369,7 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "45",
+            "rank": "47",
             "title": "Pussy & Millions (feat. Travis Scott)",
             "artist": "Drake",
             "playcount": 1,
@@ -361,7 +377,7 @@
             "link": "https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh"
         },
         {
-            "rank": "46",
+            "rank": "48",
             "title": "Ran To Atlanta (feat. Future & Molly Santana)",
             "artist": "Drake",
             "playcount": 1,
@@ -369,7 +385,7 @@
             "link": "https://open.spotify.com/track/3DK90400cDlV5WUJPraMph"
         },
         {
-            "rank": "47",
+            "rank": "49",
             "title": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
             "artist": "Drake",
             "playcount": 1,
@@ -377,28 +393,12 @@
             "link": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
         },
         {
-            "rank": "48",
+            "rank": "50",
             "title": "Rusty Intro",
             "artist": "Drake",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b273b92879e45761d711016476df",
             "link": "https://open.spotify.com/track/41DHDnlRXQiNJf3GbisIYk"
-        },
-        {
-            "rank": "49",
-            "title": "Shabang",
-            "artist": "Drake",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-            "link": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
-        },
-        {
-            "rank": "50",
-            "title": "The Motto",
-            "artist": "Drake",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c7ea04a9b455e3f68ef82550",
-            "link": "https://open.spotify.com/track/4Kz4RdRCceaA9VgTqBhBfa"
         }
     ],
     "alltime": [
@@ -748,6 +748,14 @@
         },
         {
             "rank": "44",
+            "title": "Jerk",
+            "artist": "Oliver Tree",
+            "playcount": 17,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
+        },
+        {
+            "rank": "45",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 17,
@@ -755,7 +763,7 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "45",
+            "rank": "46",
             "title": "undressed",
             "artist": "sombr",
             "playcount": 17,
@@ -763,7 +771,7 @@
             "link": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
         },
         {
-            "rank": "46",
+            "rank": "47",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 17,
@@ -771,7 +779,7 @@
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "Timeless (feat Playboi Carti)",
             "artist": "The Weeknd",
             "playcount": 17,
@@ -779,7 +787,7 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "HOPE",
             "artist": "XXXTENTACION",
             "playcount": 17,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 16,
             "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
-        },
-        {
-            "rank": "50",
-            "title": "Eń Sulý",
-            "artist": "Darkhan Juzz",
-            "playcount": 16,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ca7d1cfaf54216f536665f91",
-            "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         }
     ],
-    "last_updated": 1782718033
+    "last_updated": 1782738166
 }
