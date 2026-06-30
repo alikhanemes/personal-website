@@ -639,8 +639,8 @@
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 19,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/XXXTENTACION/_/Sad!"
+            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
             "rank": "31",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         }
     ],
-    "last_updated": 1782819759
+    "last_updated": 1782828489
 }
