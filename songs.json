@@ -655,8 +655,8 @@
             "title": "the perfect pair",
             "artist": "beabadoobee",
             "playcount": 18,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/beabadoobee/_/the+perfect+pair"
+            "image": "https://i.scdn.co/image/ab67616d0000b273384d10f967c2b914de7e2713",
+            "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         },
         {
             "rank": "33",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         }
     ],
-    "last_updated": 1782935199
+    "last_updated": 1782944168
 }
