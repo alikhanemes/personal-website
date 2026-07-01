@@ -141,8 +141,8 @@
             "title": "Hyouriittai",
             "artist": "Yuzu",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
-            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/+noredirect/Yuzu/_/Hyouriittai"
         },
         {
             "rank": "19",
@@ -157,8 +157,8 @@
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
-            "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Alem/_/Daiynbyz+ba%3F"
         },
         {
             "rank": "21",
@@ -639,8 +639,8 @@
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 19,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
-            "link": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e3665d175bd9aadb15b08b2",
+            "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
             "rank": "31",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS"
         }
     ],
-    "last_updated": 1782907069
+    "last_updated": 1782915932
 }
