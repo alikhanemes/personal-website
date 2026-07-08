@@ -42,14 +42,6 @@
         },
         {
             "rank": "6",
-            "title": "kim?",
-            "artist": "rusha",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c3c09b572234a9ef35267da9",
-            "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
-        },
-        {
-            "rank": "7",
             "title": "Electronica",
             "artist": "ziproom",
             "playcount": 4,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/25dAjY6eOu4LTsBYfraOKA"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "Get a million",
             "artist": "ziproom",
             "playcount": 4,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/6mLfHigeiF47BxyV00xLJ3"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Shabang",
             "artist": "Drake",
             "playcount": 3,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 3,
@@ -81,7 +73,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "ICE",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -89,7 +81,7 @@
             "link": "https://open.spotify.com/track/6fGoRtDjJZvt5IvVXl0rZy"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -97,7 +89,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "13",
+            "rank": "12",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -105,7 +97,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "14",
+            "rank": "13",
             "title": "Beinem Oiyńda",
             "artist": "rusha",
             "playcount": 3,
@@ -113,12 +105,20 @@
             "link": "https://open.spotify.com/track/6R7ktfDuJ9g2iVeZe3orUa"
         },
         {
+            "rank": "14",
+            "title": "kim?",
+            "artist": "rusha",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3c09b572234a9ef35267da9",
+            "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
+        },
+        {
             "rank": "15",
             "title": "s.o.s",
             "artist": "rusha",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
-            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
+            "image": "https://i.scdn.co/image/ab67616d0000b273e4a7b4f2f07fd6bc5161d3d2",
+            "link": "https://open.spotify.com/track/6YtkOhiHmf46w1noltVnF2"
         },
         {
             "rank": "16",
@@ -274,14 +274,6 @@
         },
         {
             "rank": "35",
-            "title": "Toosie Slide",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736443676b54522a86f6323e65",
-            "link": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
-        },
-        {
-            "rank": "36",
             "title": "küt meni",
             "artist": "dudeontheguitar",
             "playcount": 2,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/6wsnYUHns3N8o5LvglR4hs"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "Kobelekter",
             "artist": "jeltoksan.",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/2CqCqeVfzn58ljCRuiua7m"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "IRIS OUT",
             "artist": "Kenshi Yonezu",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "Sukisugite METSU!",
             "artist": "M!LK",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/4Re9Zb9uYlMtMiZy7HFFw5"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "Cadillac",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/3aVNCtmLR9BSgFALSySejF"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "РАТАТАТАТА",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/41QuCYs1dEaneWhRvGVRHb"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Bounce",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/4Qqo5j7w4l717LM6oa9B3l"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Hurt",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Let Me Down",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Lies Came Out My Mouth",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Miss You - Bonus Track",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "TU TU TU",
             "artist": "Orynkhan",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "SOMEBODY LOVES ME",
             "artist": "PARTYNEXTDOOR",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/2kZoOj1n5vk9BuF0sih58M"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Alem",
             "artist": "rusha",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273521acfe2bf5c71ddfc4d1cbf",
             "link": "https://open.spotify.com/track/7j5BDdCQ8YMlUpIBr2WvrM"
+        },
+        {
+            "rank": "50",
+            "title": "Tynyştyq - Chill Edit",
+            "artist": "rusha",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273455bf3d9d7569f7096d1d72a",
+            "link": "https://open.spotify.com/track/4D20wVpMSoBxehBY6G1NIc"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         }
     ],
-    "last_updated": 1783489586
+    "last_updated": 1783498607
 }
