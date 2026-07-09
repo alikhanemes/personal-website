@@ -4,12 +4,52 @@
             "rank": "1",
             "title": "Dive",
             "artist": "ziproom",
-            "playcount": 9,
+            "playcount": 10,
             "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
             "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
             "rank": "2",
+            "title": "Electronica",
+            "artist": "ziproom",
+            "playcount": 7,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ebec267399bb6b10ffc688f",
+            "link": "https://open.spotify.com/track/25dAjY6eOu4LTsBYfraOKA"
+        },
+        {
+            "rank": "3",
+            "title": "Get a million",
+            "artist": "ziproom",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e840e4568d2dc4ced1bed5f2",
+            "link": "https://open.spotify.com/track/6mLfHigeiF47BxyV00xLJ3"
+        },
+        {
+            "rank": "4",
+            "title": "Katsushika",
+            "artist": "ziproom",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b27307387da998337037fb8113c0",
+            "link": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
+        },
+        {
+            "rank": "5",
+            "title": "MINT",
+            "artist": "ziproom",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb4a8cc43ff74663931fd0bf",
+            "link": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
+        },
+        {
+            "rank": "6",
+            "title": "ROUTINE",
+            "artist": "ziproom",
+            "playcount": 6,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370",
+            "link": "https://open.spotify.com/track/1Kx1k5Ydc4s9Kr0dzJM2Az"
+        },
+        {
+            "rank": "7",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 5,
@@ -17,47 +57,23 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "3",
-            "title": "Electronica",
+            "rank": "8",
+            "title": "Dance With Me",
+            "artist": "ziproom",
+            "playcount": 5,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
+            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
+        },
+        {
+            "rank": "9",
+            "title": "Mile",
             "artist": "ziproom",
             "playcount": 5,
             "image": "https://i.scdn.co/image/ab67616d0000b2732ebec267399bb6b10ffc688f",
-            "link": "https://open.spotify.com/track/25dAjY6eOu4LTsBYfraOKA"
+            "link": "https://open.spotify.com/track/7cFQHuHaifA7LAeWjUfEQN"
         },
         {
-            "rank": "4",
-            "title": "Get a million",
-            "artist": "ziproom",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e840e4568d2dc4ced1bed5f2",
-            "link": "https://open.spotify.com/track/6mLfHigeiF47BxyV00xLJ3"
-        },
-        {
-            "rank": "5",
-            "title": "Katsushika",
-            "artist": "ziproom",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b27307387da998337037fb8113c0",
-            "link": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
-        },
-        {
-            "rank": "6",
-            "title": "MINT",
-            "artist": "ziproom",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bb4a8cc43ff74663931fd0bf",
-            "link": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
-        },
-        {
-            "rank": "7",
-            "title": "ROUTINE",
-            "artist": "ziproom",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370",
-            "link": "https://open.spotify.com/track/1Kx1k5Ydc4s9Kr0dzJM2Az"
-        },
-        {
-            "rank": "8",
+            "rank": "10",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 3,
@@ -65,7 +81,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "9",
+            "rank": "11",
             "title": "One Dance",
             "artist": "Drake",
             "playcount": 3,
@@ -73,28 +89,12 @@
             "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
         },
         {
-            "rank": "10",
+            "rank": "12",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273bf118f32a37c18511647b54a",
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
-        },
-        {
-            "rank": "11",
-            "title": "Dance With Me",
-            "artist": "ziproom",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
-            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
-        },
-        {
-            "rank": "12",
-            "title": "Mile",
-            "artist": "ziproom",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732ebec267399bb6b10ffc688f",
-            "link": "https://open.spotify.com/track/7cFQHuHaifA7LAeWjUfEQN"
         },
         {
             "rank": "13",
@@ -354,6 +354,22 @@
         },
         {
             "rank": "45",
+            "title": "I OWN MY ROLE",
+            "artist": "ziproom",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370",
+            "link": "https://open.spotify.com/track/1YXAmhccpWgowN4PMFpech"
+        },
+        {
+            "rank": "46",
+            "title": "Re:fresh",
+            "artist": "ziproom",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730e441a0bf8fd557072fca9fb",
+            "link": "https://open.spotify.com/track/1qQoAepMrTHc4TitKCsi0m"
+        },
+        {
+            "rank": "47",
             "title": "Renton",
             "artist": "ziproom",
             "playcount": 2,
@@ -361,7 +377,7 @@
             "link": "https://open.spotify.com/track/5s5ydutMDMkrzJChlTyXYs"
         },
         {
-            "rank": "46",
+            "rank": "48",
             "title": "No Limit",
             "artist": "999999999",
             "playcount": 1,
@@ -369,7 +385,7 @@
             "link": "https://open.spotify.com/track/1eUkZEhwbZkkhNfgA1qVyA"
         },
         {
-            "rank": "47",
+            "rank": "49",
             "title": "Brave Shine",
             "artist": "Aimer",
             "playcount": 1,
@@ -377,28 +393,12 @@
             "link": "https://open.spotify.com/track/46YSff2Rq1ZtN1YVk5cwbZ"
         },
         {
-            "rank": "48",
+            "rank": "50",
             "title": "残響散歌",
             "artist": "Aimer",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2734712af3b1a7b737c8d9694cd",
             "link": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
-        },
-        {
-            "rank": "49",
-            "title": "Daiynbyz ba?",
-            "artist": "Alem",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
-            "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
-        },
-        {
-            "rank": "50",
-            "title": "ELESTET",
-            "artist": "Alem",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734248e82f6bcbe4999727fffd",
-            "link": "https://open.spotify.com/track/091kfw37h2ooz59q2v34J4"
         }
     ],
     "alltime": [
@@ -639,8 +639,8 @@
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 20,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
-            "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Nana+Mizuki/_/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB"
         },
         {
             "rank": "31",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         }
     ],
-    "last_updated": 1783625430
+    "last_updated": 1783635512
 }
