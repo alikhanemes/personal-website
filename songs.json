@@ -639,8 +639,8 @@
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 20,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Nana+Mizuki/_/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB"
+            "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
+            "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
             "rank": "31",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         }
     ],
-    "last_updated": 1783635512
+    "last_updated": 1783650465
 }
