@@ -511,8 +511,8 @@
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 27,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Lilas/_/%E6%81%8B%E9%A2%A8"
         },
         {
             "rank": "15",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         }
     ],
-    "last_updated": 1783943860
+    "last_updated": 1783952633
 }
