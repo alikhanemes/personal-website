@@ -293,8 +293,8 @@
             "title": "Swag",
             "artist": "miyauchi",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27384c8b7c4cf4947429ef2d984",
-            "link": "https://open.spotify.com/track/2IRGXWQ4hKSji5OlgELev6"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b5d0cb4c41583d7790c9cab",
+            "link": "https://open.spotify.com/track/6ZE3jPRUtPx2tqOuu1612P"
         },
         {
             "rank": "38",
@@ -695,8 +695,8 @@
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 20,
-            "image": "https://i.scdn.co/image/ab67616d0000b27387d3383ad8d19ab88aa83a4a",
-            "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cfc5a34a1164980a2c083aa9",
+            "link": "https://open.spotify.com/track/2vB0EKXrPcYIshTXZFtQVP"
         },
         {
             "rank": "38",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         }
     ],
-    "last_updated": 1783970317
+    "last_updated": 1783979551
 }
