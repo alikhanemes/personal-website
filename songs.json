@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Dive",
             "artist": "ziproom",
-            "playcount": 8,
+            "playcount": 7,
             "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
             "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
@@ -12,36 +12,12 @@
             "rank": "2",
             "title": "Electronica",
             "artist": "ziproom",
-            "playcount": 7,
+            "playcount": 6,
             "image": "https://i.scdn.co/image/ab67616d0000b2732ebec267399bb6b10ffc688f",
             "link": "https://open.spotify.com/track/25dAjY6eOu4LTsBYfraOKA"
         },
         {
             "rank": "3",
-            "title": "Dance With Me",
-            "artist": "ziproom",
-            "playcount": 6,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
-            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
-        },
-        {
-            "rank": "4",
-            "title": "Get a million",
-            "artist": "ziproom",
-            "playcount": 6,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e840e4568d2dc4ced1bed5f2",
-            "link": "https://open.spotify.com/track/6mLfHigeiF47BxyV00xLJ3"
-        },
-        {
-            "rank": "5",
-            "title": "MINT",
-            "artist": "ziproom",
-            "playcount": 6,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bb4a8cc43ff74663931fd0bf",
-            "link": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
-        },
-        {
-            "rank": "6",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 5,
@@ -49,15 +25,23 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "7",
-            "title": "Katsushika",
+            "rank": "4",
+            "title": "Dance With Me",
             "artist": "ziproom",
             "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b27307387da998337037fb8113c0",
-            "link": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
+            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
         },
         {
-            "rank": "8",
+            "rank": "5",
+            "title": "MINT",
+            "artist": "ziproom",
+            "playcount": 5,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bb4a8cc43ff74663931fd0bf",
+            "link": "https://open.spotify.com/track/6UxOKWo0JBJjXIGBAn6Ko2"
+        },
+        {
+            "rank": "6",
             "title": "Janice STFU",
             "artist": "Drake",
             "playcount": 4,
@@ -65,7 +49,7 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
-            "rank": "9",
+            "rank": "7",
             "title": "One Dance",
             "artist": "Drake",
             "playcount": 4,
@@ -73,7 +57,7 @@
             "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
         },
         {
-            "rank": "10",
+            "rank": "8",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 4,
@@ -81,15 +65,23 @@
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
         },
         {
-            "rank": "11",
-            "title": "ROUTINE",
+            "rank": "9",
+            "title": "Get a million",
             "artist": "ziproom",
             "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370",
-            "link": "https://open.spotify.com/track/1Kx1k5Ydc4s9Kr0dzJM2Az"
+            "image": "https://i.scdn.co/image/ab67616d0000b273e840e4568d2dc4ced1bed5f2",
+            "link": "https://open.spotify.com/track/6mLfHigeiF47BxyV00xLJ3"
         },
         {
-            "rank": "12",
+            "rank": "10",
+            "title": "Katsushika",
+            "artist": "ziproom",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b27307387da998337037fb8113c0",
+            "link": "https://open.spotify.com/track/3trjhda0OoKKmEVnVQ8Gnf"
+        },
+        {
+            "rank": "11",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 3,
@@ -97,7 +89,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "13",
+            "rank": "12",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 3,
@@ -105,7 +97,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "14",
+            "rank": "13",
             "title": "Shabang",
             "artist": "Drake",
             "playcount": 3,
@@ -113,7 +105,7 @@
             "link": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
         },
         {
-            "rank": "15",
+            "rank": "14",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 3,
@@ -121,7 +113,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "16",
+            "rank": "15",
             "title": "Count Me Out",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -129,7 +121,7 @@
             "link": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "20 Min",
             "artist": "Lil Uzi Vert",
             "playcount": 3,
@@ -137,7 +129,7 @@
             "link": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
         },
         {
-            "rank": "18",
+            "rank": "17",
             "title": "パズル",
             "artist": "Lilas",
             "playcount": 3,
@@ -145,7 +137,7 @@
             "link": "https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR"
         },
         {
-            "rank": "19",
+            "rank": "18",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -153,7 +145,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "20",
+            "rank": "19",
             "title": "Dat $tick",
             "artist": "Rich Brian",
             "playcount": 3,
@@ -161,7 +153,7 @@
             "link": "https://open.spotify.com/track/0Q1XTiAwsIIu45SkQccgfj"
         },
         {
-            "rank": "21",
+            "rank": "20",
             "title": "i wish i knew how to quit you",
             "artist": "sombr",
             "playcount": 3,
@@ -169,12 +161,20 @@
             "link": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
         },
         {
-            "rank": "22",
+            "rank": "21",
             "title": "Mile",
             "artist": "ziproom",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2732ebec267399bb6b10ffc688f",
             "link": "https://open.spotify.com/track/7cFQHuHaifA7LAeWjUfEQN"
+        },
+        {
+            "rank": "22",
+            "title": "ROUTINE",
+            "artist": "ziproom",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732ede67eccb5bfc0f77ba2370",
+            "link": "https://open.spotify.com/track/1Kx1k5Ydc4s9Kr0dzJM2Az"
         },
         {
             "rank": "23",
@@ -330,14 +330,6 @@
         },
         {
             "rank": "42",
-            "title": "Swag",
-            "artist": "miyauchi",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734b5d0cb4c41583d7790c9cab",
-            "link": "https://open.spotify.com/track/6ZE3jPRUtPx2tqOuu1612P"
-        },
-        {
-            "rank": "43",
             "title": "ПУСТОЙ ВОКЗАЛ",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/31DoKPoVBMXfPcrlb44gF0"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Hurt",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Beinem Oiyńda",
             "artist": "rusha",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/6R7ktfDuJ9g2iVeZe3orUa"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "kim?",
             "artist": "rusha",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "MUKANJYO",
             "artist": "Survive Said The Prophet",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "A COLD PLAY",
             "artist": "The Kid LAROI",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2732388354b23034efeef7ca117",
             "link": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+        },
+        {
+            "rank": "50",
+            "title": "FE!N (feat. Playboi Carti)",
+            "artist": "Travis Scott",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
+            "link": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         }
     ],
-    "last_updated": 1784080384
+    "last_updated": 1784093200
 }
