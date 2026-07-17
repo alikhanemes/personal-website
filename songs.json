@@ -5,16 +5,16 @@
             "title": "Dive",
             "artist": "ziproom",
             "playcount": 8,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ziproom/_/Dive"
+            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
+            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
             "rank": "2",
             "title": "Dance With Me",
             "artist": "ziproom",
             "playcount": 5,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ziproom/_/Dance+With+Me"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
+            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
         },
         {
             "rank": "3",
@@ -261,7 +261,7 @@
             "title": "California Girls",
             "artist": "Future",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b2d807413ab3b35a3297c02c",
+            "image": "https://i.scdn.co/image/ab67616d0000b27378337626e83628a76aa7e0a4",
             "link": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
         },
         {
@@ -378,14 +378,6 @@
         },
         {
             "rank": "48",
-            "title": "MUKANJYO",
-            "artist": "Survive Said The Prophet",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27366692ec3a0f5437132315850",
-            "link": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
-        },
-        {
-            "rank": "49",
             "title": "A COLD PLAY",
             "artist": "The Kid LAROI",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "São Paulo (feat. Anitta)",
             "artist": "The Weeknd",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273de79f330bc297af3fae736da",
             "link": "https://open.spotify.com/track/7DY756WOLyOz2Xnhw4EFiC"
+        },
+        {
+            "rank": "50",
+            "title": "FE!N (feat. Playboi Carti)",
+            "artist": "Travis Scott",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
+            "link": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
         }
     ],
-    "last_updated": 1784305034
+    "last_updated": 1784314828
 }
