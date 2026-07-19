@@ -314,14 +314,6 @@
         },
         {
             "rank": "40",
-            "title": "Matsuri",
-            "artist": "Fujii Kaze",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
-            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
-        },
-        {
-            "rank": "41",
             "title": "California Girls",
             "artist": "Future",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Life Is Good (feat. Drake)",
             "artist": "Future",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Honeypie",
             "artist": "Jawny",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Sanctuary",
             "artist": "Joji",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Count Me Out",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "DUCKWORTH.",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "20 Min",
             "artist": "Lil Uzi Vert",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/0uxSUdBrJy9Un0EYoBowng"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Shinzo wo Sasageyo !",
             "artist": "Linked Horizon",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "PARALLEL",
             "artist": "Liza",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/6t2hernNP059dFBRyBKLKT"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
+        },
+        {
+            "rank": "50",
+            "title": "“Tomodachi Game” operation 1",
+            "artist": "Michiru",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
+            "link": "https://open.spotify.com/track/6qiLpBdfR7V3KskLVbGmQ2"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         }
     ],
-    "last_updated": 1784411122
+    "last_updated": 1784426815
 }
