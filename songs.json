@@ -21,8 +21,8 @@
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738726fbdf67617a664fa8d8e5",
-            "link": "https://open.spotify.com/track/09iIknPfMVfwuD5U9IWolR"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdc23044cca7d22a9641861d",
+            "link": "https://open.spotify.com/track/7HTIMhL9h5rvvIVMDAwTrf"
         },
         {
             "rank": "4",
@@ -407,8 +407,8 @@
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 75,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Coldplay/_/Viva+la+Vida"
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
             "rank": "2",
@@ -519,8 +519,8 @@
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 28,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738726fbdf67617a664fa8d8e5",
-            "link": "https://open.spotify.com/track/09iIknPfMVfwuD5U9IWolR"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdc23044cca7d22a9641861d",
+            "link": "https://open.spotify.com/track/7HTIMhL9h5rvvIVMDAwTrf"
         },
         {
             "rank": "16",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
         }
     ],
-    "last_updated": 1784899615
+    "last_updated": 1784911020
 }
