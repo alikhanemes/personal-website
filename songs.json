@@ -61,8 +61,8 @@
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738726fbdf67617a664fa8d8e5",
-            "link": "https://open.spotify.com/track/09iIknPfMVfwuD5U9IWolR"
+            "image": "https://i.scdn.co/image/ab67616d0000b27324801707a9c3abda16727bba",
+            "link": "https://open.spotify.com/track/5PUXDztIR63TwSEzUa0o2v"
         },
         {
             "rank": "9",
@@ -314,14 +314,6 @@
         },
         {
             "rank": "40",
-            "title": "luther (with SZA)",
-            "artist": "Kendrick Lamar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
-            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
-        },
-        {
-            "rank": "41",
             "title": "Money Trees",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Falling Down - Bonus Track",
             "artist": "Lil Peep",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "What's Up, People?!",
             "artist": "Maximum the Hormone",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/07qCt941ZIm3alfGCoP247"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "ПОВОД",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Khat",
             "artist": "Navjot Ahuja",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "The WORLD - TV Size",
             "artist": "Nightmare",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/4ujXpPnwSFE6P7r4STcogU"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "TU TU TU",
             "artist": "Orynkhan",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+        },
+        {
+            "rank": "50",
+            "title": "kim?",
+            "artist": "rusha",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3c09b572234a9ef35267da9",
+            "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         }
     ],
     "alltime": [
@@ -519,8 +519,8 @@
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 28,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738726fbdf67617a664fa8d8e5",
-            "link": "https://open.spotify.com/track/09iIknPfMVfwuD5U9IWolR"
+            "image": "https://i.scdn.co/image/ab67616d0000b27324801707a9c3abda16727bba",
+            "link": "https://open.spotify.com/track/5PUXDztIR63TwSEzUa0o2v"
         },
         {
             "rank": "16",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/3004LRyOsDWOtaJpfsWRod"
         }
     ],
-    "last_updated": 1785031898
+    "last_updated": 1785045374
 }
