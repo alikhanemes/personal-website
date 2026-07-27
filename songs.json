@@ -117,8 +117,8 @@
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b27324801707a9c3abda16727bba",
-            "link": "https://open.spotify.com/track/5PUXDztIR63TwSEzUa0o2v"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdc23044cca7d22a9641861d",
+            "link": "https://open.spotify.com/track/7HTIMhL9h5rvvIVMDAwTrf"
         },
         {
             "rank": "16",
@@ -535,8 +535,8 @@
             "title": "Sheker",
             "artist": "Darkhan Juzz",
             "playcount": 28,
-            "image": "https://i.scdn.co/image/ab67616d0000b27324801707a9c3abda16727bba",
-            "link": "https://open.spotify.com/track/5PUXDztIR63TwSEzUa0o2v"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cdc23044cca7d22a9641861d",
+            "link": "https://open.spotify.com/track/7HTIMhL9h5rvvIVMDAwTrf"
         },
         {
             "rank": "18",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         }
     ],
-    "last_updated": 1785119091
+    "last_updated": 1785133438
 }
