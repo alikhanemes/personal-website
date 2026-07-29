@@ -18,14 +18,6 @@
         },
         {
             "rank": "3",
-            "title": "Kuiim",
-            "artist": "Alem",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
-            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
-        },
-        {
-            "rank": "4",
             "title": "Men Sen Siyaqty",
             "artist": "Darkhan Juzz",
             "playcount": 4,
@@ -33,7 +25,7 @@
             "link": "https://open.spotify.com/track/6548avIVNmpiTLTdcTw3RQ"
         },
         {
-            "rank": "5",
+            "rank": "4",
             "title": "Big City Life",
             "artist": "V $ X V PRiNCE",
             "playcount": 4,
@@ -41,7 +33,7 @@
             "link": "https://open.spotify.com/track/4H7l4XhX159wfGyxzpg0ke"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "Dance With Me",
             "artist": "ziproom",
             "playcount": 4,
@@ -49,12 +41,20 @@
             "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
+        },
+        {
+            "rank": "7",
+            "title": "Kuiim",
+            "artist": "Alem",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273809f43070733645dbc735010",
+            "link": "https://open.spotify.com/track/2yYayyCbIrGiprUSx1EqHY"
         },
         {
             "rank": "8",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
-    "last_updated": 1785275982
+    "last_updated": 1785290583
 }
