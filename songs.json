@@ -330,6 +330,14 @@
         },
         {
             "rank": "42",
+            "title": "Friendship or betrayal",
+            "artist": "Michiru",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
+            "link": "https://open.spotify.com/track/7t3G78FfE8Gx3o5xhyrW8P"
+        },
+        {
+            "rank": "43",
             "title": "Swag",
             "artist": "miyauchi",
             "playcount": 2,
@@ -337,7 +345,7 @@
             "link": "https://open.spotify.com/track/6ZE3jPRUtPx2tqOuu1612P"
         },
         {
-            "rank": "43",
+            "rank": "44",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -345,7 +353,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "44",
+            "rank": "45",
             "title": "The WORLD - TV Size",
             "artist": "Nightmare",
             "playcount": 2,
@@ -353,7 +361,15 @@
             "link": "https://open.spotify.com/track/4ujXpPnwSFE6P7r4STcogU"
         },
         {
-            "rank": "45",
+            "rank": "46",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+        },
+        {
+            "rank": "47",
             "title": "Контракт",
             "artist": "Poshlaya Molly",
             "playcount": 2,
@@ -361,7 +377,7 @@
             "link": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
         },
         {
-            "rank": "46",
+            "rank": "48",
             "title": "Qolshatyr",
             "artist": "rusha",
             "playcount": 2,
@@ -369,7 +385,7 @@
             "link": "https://open.spotify.com/track/2uHjk6Eska0jA0dsMY7vBr"
         },
         {
-            "rank": "47",
+            "rank": "49",
             "title": "Conclusion",
             "artist": "Sakepnk",
             "playcount": 2,
@@ -377,28 +393,12 @@
             "link": "https://open.spotify.com/track/1p1NjjMRSYfI5fv2TKcd9u"
         },
         {
-            "rank": "48",
+            "rank": "50",
             "title": "pump",
             "artist": "SaySo",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273e535d768eb0474a387c3ecee",
             "link": "https://open.spotify.com/track/2Mk3KfgPzD7pnTgtBbIApD"
-        },
-        {
-            "rank": "49",
-            "title": "Boku no Sensou",
-            "artist": "Shinsei Kamattechan",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273953495ccff3d6488674ac770",
-            "link": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
-        },
-        {
-            "rank": "50",
-            "title": "Selfless",
-            "artist": "The Strokes",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-            "link": "https://open.spotify.com/track/2t0wwvR15fc3K1ey8OiOaN"
         }
     ],
     "alltime": [
@@ -406,7 +406,7 @@
             "rank": "1",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
-            "playcount": 76,
+            "playcount": 77,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
-    "last_updated": 1785313833
+    "last_updated": 1785324023
 }
