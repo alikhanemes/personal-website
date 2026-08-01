@@ -149,40 +149,40 @@
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Steve+Lacy/_/Bad+Habit"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736938311000a0e494a26986e5",
+            "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
             "rank": "20",
             "title": "Dance With Me",
             "artist": "ziproom",
             "playcount": 3,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ziproom/_/Dance+With+Me"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
+            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
         },
         {
             "rank": "21",
             "title": "螺旋 - RASEN",
             "artist": "9Lana",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/9Lana/_/%E8%9E%BA%E6%97%8B+-+RASEN"
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d936556e2ac7b2b8175cf51",
+            "link": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
         },
         {
             "rank": "22",
             "title": "愛♡スクリ～ム！",
             "artist": "Aiscream",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Aiscream/_/%E6%84%9B%E2%99%A1%E3%82%B9%E3%82%AF%E3%83%AA%EF%BD%9E%E3%83%A0%EF%BC%81"
+            "image": "https://i.scdn.co/image/ab67616d0000b2732590b046b72d6ce5d6703ee7",
+            "link": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
         },
         {
             "rank": "23",
             "title": "ブラッドサーキュレーター",
             "artist": "ASIAN KUNG-FU GENERATION",
             "playcount": 2,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ASIAN+KUNG-FU+GENERATION/_/%E3%83%96%E3%83%A9%E3%83%83%E3%83%89%E3%82%B5%E3%83%BC%E3%82%AD%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC"
+            "image": "https://i.scdn.co/image/ab67616d0000b2735aa8a0895c01825adff14238",
+            "link": "https://open.spotify.com/track/6OJ3J7ohQquziO9cM9URCI"
         },
         {
             "rank": "24",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         }
     ],
-    "last_updated": 1785611766
+    "last_updated": 1785621017
 }
