@@ -282,14 +282,6 @@
         },
         {
             "rank": "36",
-            "title": "NOKIA",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
-        },
-        {
-            "rank": "37",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "Garden",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "Kirari",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/7nhXN2H8h3i2PaHPXb6FO3"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Shinunoga E-Wa",
             "artist": "Fujii Kaze",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/0o9zmvc5f3EFApU52PPIyW"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "ウィーゴー！",
             "artist": "Hiroshi Kitadani",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/2PXf1Elmg9M3yzymZschoR"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Honeypie",
             "artist": "Jawny",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Die Hard",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Actor",
             "artist": "Lilas",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Answer",
             "artist": "Lilas",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/0avegfB0TQ8cGDk9nuxcOQ"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "スパークル",
             "artist": "Lilas",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "パズル",
             "artist": "Lilas",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "百花繚乱",
             "artist": "Lilas",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Guren no Yumiya Tv Size Ver.",
             "artist": "Linked Horizon",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273def688aa9f13e456064cf848",
             "link": "https://open.spotify.com/track/6rsbsdiGDrYvhbb1K7ziTL"
+        },
+        {
+            "rank": "50",
+            "title": "What's Up, People?!",
+            "artist": "Maximum the Hormone",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2736686bf5b2e62ef26ec0d0ea4",
+            "link": "https://open.spotify.com/track/07qCt941ZIm3alfGCoP247"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1jKXjxMWlq4BhH6f9GtZbu"
         }
     ],
-    "last_updated": 1785658410
+    "last_updated": 1785666628
 }
