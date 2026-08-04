@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
-            "playcount": 10,
+            "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
@@ -42,30 +42,6 @@
         },
         {
             "rank": "6",
-            "title": "Hurt",
-            "artist": "Oliver Tree",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-        },
-        {
-            "rank": "7",
-            "title": "Jerk",
-            "artist": "Oliver Tree",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
-        },
-        {
-            "rank": "8",
-            "title": "Let Me Down",
-            "artist": "Oliver Tree",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
-        },
-        {
-            "rank": "9",
             "title": "螺旋 - RASEN",
             "artist": "9Lana",
             "playcount": 3,
@@ -73,7 +49,7 @@
             "link": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
         },
         {
-            "rank": "10",
+            "rank": "7",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 3,
@@ -81,7 +57,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "11",
+            "rank": "8",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 3,
@@ -89,7 +65,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "12",
+            "rank": "9",
             "title": "Make Them Pay",
             "artist": "Drake",
             "playcount": 3,
@@ -97,7 +73,7 @@
             "link": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
         },
         {
-            "rank": "13",
+            "rank": "10",
             "title": "DUCKWORTH.",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -105,7 +81,7 @@
             "link": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
         },
         {
-            "rank": "14",
+            "rank": "11",
             "title": "I Just Got Mad",
             "artist": "Malcolm Todd",
             "playcount": 3,
@@ -113,7 +89,7 @@
             "link": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
         },
         {
-            "rank": "15",
+            "rank": "12",
             "title": "КРАСНЫЙ ФЛАГ",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -121,7 +97,7 @@
             "link": "https://open.spotify.com/track/7AuYlke4foydiCbZbqS5JP"
         },
         {
-            "rank": "16",
+            "rank": "13",
             "title": "ПОВОД",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -129,12 +105,36 @@
             "link": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
         },
         {
-            "rank": "17",
+            "rank": "14",
             "title": "ПУСТОЙ ВОКЗАЛ",
             "artist": "Morgenshtern",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b27310dc167541c3985a4250ddac",
             "link": "https://open.spotify.com/track/31DoKPoVBMXfPcrlb44gF0"
+        },
+        {
+            "rank": "15",
+            "title": "Hurt",
+            "artist": "Oliver Tree",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
+        },
+        {
+            "rank": "16",
+            "title": "Jerk",
+            "artist": "Oliver Tree",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
+        },
+        {
+            "rank": "17",
+            "title": "Let Me Down",
+            "artist": "Oliver Tree",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
         },
         {
             "rank": "18",
@@ -154,14 +154,6 @@
         },
         {
             "rank": "20",
-            "title": "Miracle Man",
-            "artist": "Oliver Tree",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/2PFnwW05Wh0MYkfZxSwfuf"
-        },
-        {
-            "rank": "21",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -169,7 +161,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "22",
+            "rank": "21",
             "title": "Как тебя покорить",
             "artist": "Peremotka",
             "playcount": 3,
@@ -177,7 +169,7 @@
             "link": "https://open.spotify.com/track/1CqOEa4NIRBaWR6sNHTDTo"
         },
         {
-            "rank": "23",
+            "rank": "22",
             "title": "WAKE UP, ITS THE FIRST OF THE MONTH",
             "artist": "Seames Life",
             "playcount": 3,
@@ -185,7 +177,7 @@
             "link": "https://open.spotify.com/track/0rSGJphttDxNgs2ueOMnn0"
         },
         {
-            "rank": "24",
+            "rank": "23",
             "title": "MUKANJYO",
             "artist": "Survive Said The Prophet",
             "playcount": 3,
@@ -193,7 +185,7 @@
             "link": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
         },
         {
-            "rank": "25",
+            "rank": "24",
             "title": "Show",
             "artist": "Ado",
             "playcount": 2,
@@ -201,7 +193,7 @@
             "link": "https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN"
         },
         {
-            "rank": "26",
+            "rank": "25",
             "title": "愛♡スクリ～ム！",
             "artist": "Aiscream",
             "playcount": 2,
@@ -209,7 +201,7 @@
             "link": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
         },
         {
-            "rank": "27",
+            "rank": "26",
             "title": "ブラッドサーキュレーター",
             "artist": "ASIAN KUNG-FU GENERATION",
             "playcount": 2,
@@ -217,7 +209,7 @@
             "link": "https://open.spotify.com/track/6OJ3J7ohQquziO9cM9URCI"
         },
         {
-            "rank": "28",
+            "rank": "27",
             "title": "Chocolate Strawberry",
             "artist": "Bxndz",
             "playcount": 2,
@@ -225,7 +217,7 @@
             "link": "https://open.spotify.com/track/524E2JGOnV4Be51Lygl3eq"
         },
         {
-            "rank": "29",
+            "rank": "28",
             "title": "All My Fellas - Slowed",
             "artist": "Chula 22",
             "playcount": 2,
@@ -233,7 +225,7 @@
             "link": "https://open.spotify.com/track/05pJ7F3I0D14XGLN2aBvWb"
         },
         {
-            "rank": "30",
+            "rank": "29",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 2,
@@ -241,7 +233,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "31",
+            "rank": "30",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 2,
@@ -249,7 +241,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "32",
+            "rank": "31",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 2,
@@ -257,7 +249,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "33",
+            "rank": "32",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 2,
@@ -265,7 +257,7 @@
             "link": "https://open.spotify.com/track/1y0ZoHeeEd0XTT8X7SnSq3"
         },
         {
-            "rank": "34",
+            "rank": "33",
             "title": "Now My Feet Won't Touch the Ground",
             "artist": "Coldplay",
             "playcount": 2,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 2,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 2,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "Mirage",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "ロスタイム - Losstime",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/1O4JEMG1V06Lmkw8JQMY52"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "End of Beginning",
             "artist": "Djo",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "No Pole",
             "artist": "Don Toliver",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "National Treasures",
             "artist": "Drake",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Nonstop",
             "artist": "Drake",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Shabang",
             "artist": "Drake",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Toosie Slide",
             "artist": "Drake",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 2,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Fuel",
             "artist": "Eminem",
             "playcount": 2,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/5In8B6Om5OKrhwBMB4tXSi"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "4 Raws",
             "artist": "EsDeeKid",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273cff4bd68d5d0dd9a0a748045",
             "link": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
+        },
+        {
+            "rank": "50",
+            "title": "Just Awake",
+            "artist": "Fear, and Loathing in Las Vegas",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27320f0de8a767c627dc7639ba6",
+            "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         }
     ],
-    "last_updated": 1785832129
+    "last_updated": 1785842443
 }
