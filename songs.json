@@ -12,12 +12,20 @@
             "rank": "2",
             "title": "Dive",
             "artist": "ziproom",
-            "playcount": 6,
+            "playcount": 7,
             "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
             "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
             "rank": "3",
+            "title": "Life in Technicolor",
+            "artist": "Coldplay",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
+            "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
+        },
+        {
+            "rank": "4",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 4,
@@ -25,7 +33,7 @@
             "link": "https://open.spotify.com/track/1y0ZoHeeEd0XTT8X7SnSq3"
         },
         {
-            "rank": "4",
+            "rank": "5",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 4,
@@ -33,7 +41,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "Janice STFU",
             "artist": "Drake",
             "playcount": 4,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -49,7 +57,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "螺旋 - RASEN",
             "artist": "9Lana",
             "playcount": 3,
@@ -65,20 +73,12 @@
             "link": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
-        },
-        {
-            "rank": "10",
-            "title": "Life in Technicolor",
-            "artist": "Coldplay",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
-            "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
             "rank": "11",
@@ -98,6 +98,14 @@
         },
         {
             "rank": "13",
+            "title": "No Pole",
+            "artist": "Don Toliver",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+            "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+        },
+        {
+            "rank": "14",
             "title": "Make Them Pay",
             "artist": "Drake",
             "playcount": 3,
@@ -105,7 +113,23 @@
             "link": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
         },
         {
-            "rank": "14",
+            "rank": "15",
+            "title": "National Treasures",
+            "artist": "Drake",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+            "link": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
+        },
+        {
+            "rank": "16",
+            "title": "What Did I Miss?",
+            "artist": "Drake",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
+            "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+        },
+        {
+            "rank": "17",
             "title": "DUCKWORTH.",
             "artist": "Kendrick Lamar",
             "playcount": 3,
@@ -113,7 +137,7 @@
             "link": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
         },
         {
-            "rank": "15",
+            "rank": "18",
             "title": "I Just Got Mad",
             "artist": "Malcolm Todd",
             "playcount": 3,
@@ -121,7 +145,7 @@
             "link": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
         },
         {
-            "rank": "16",
+            "rank": "19",
             "title": "КРАСНЫЙ ФЛАГ",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -129,7 +153,7 @@
             "link": "https://open.spotify.com/track/7AuYlke4foydiCbZbqS5JP"
         },
         {
-            "rank": "17",
+            "rank": "20",
             "title": "ПОВОД",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -137,7 +161,7 @@
             "link": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
         },
         {
-            "rank": "18",
+            "rank": "21",
             "title": "ПУСТОЙ ВОКЗАЛ",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -145,7 +169,7 @@
             "link": "https://open.spotify.com/track/31DoKPoVBMXfPcrlb44gF0"
         },
         {
-            "rank": "19",
+            "rank": "22",
             "title": "Hurt",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -153,7 +177,7 @@
             "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
         },
         {
-            "rank": "20",
+            "rank": "23",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -161,7 +185,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "21",
+            "rank": "24",
             "title": "Let Me Down",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -169,7 +193,7 @@
             "link": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
         },
         {
-            "rank": "22",
+            "rank": "25",
             "title": "Lies Came Out My Mouth",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -177,7 +201,7 @@
             "link": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
         },
         {
-            "rank": "23",
+            "rank": "26",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -185,7 +209,7 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
-            "rank": "24",
+            "rank": "27",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 3,
@@ -193,7 +217,7 @@
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
-            "rank": "25",
+            "rank": "28",
             "title": "Как тебя покорить",
             "artist": "Peremotka",
             "playcount": 3,
@@ -201,7 +225,7 @@
             "link": "https://open.spotify.com/track/1CqOEa4NIRBaWR6sNHTDTo"
         },
         {
-            "rank": "26",
+            "rank": "29",
             "title": "WAKE UP, ITS THE FIRST OF THE MONTH",
             "artist": "Seames Life",
             "playcount": 3,
@@ -209,7 +233,7 @@
             "link": "https://open.spotify.com/track/0rSGJphttDxNgs2ueOMnn0"
         },
         {
-            "rank": "27",
+            "rank": "30",
             "title": "MUKANJYO",
             "artist": "Survive Said The Prophet",
             "playcount": 3,
@@ -217,7 +241,15 @@
             "link": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
         },
         {
-            "rank": "28",
+            "rank": "31",
+            "title": "Dance With Me",
+            "artist": "ziproom",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
+            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
+        },
+        {
+            "rank": "32",
             "title": "Show",
             "artist": "Ado",
             "playcount": 2,
@@ -225,7 +257,7 @@
             "link": "https://open.spotify.com/track/1rDgAHDX95RmylxjgVW9tN"
         },
         {
-            "rank": "29",
+            "rank": "33",
             "title": "愛♡スクリ～ム！",
             "artist": "Aiscream",
             "playcount": 2,
@@ -233,7 +265,7 @@
             "link": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
         },
         {
-            "rank": "30",
+            "rank": "34",
             "title": "ブラッドサーキュレーター",
             "artist": "ASIAN KUNG-FU GENERATION",
             "playcount": 2,
@@ -241,7 +273,7 @@
             "link": "https://open.spotify.com/track/6OJ3J7ohQquziO9cM9URCI"
         },
         {
-            "rank": "31",
+            "rank": "35",
             "title": "Chocolate Strawberry",
             "artist": "Bxndz",
             "playcount": 2,
@@ -249,7 +281,7 @@
             "link": "https://open.spotify.com/track/524E2JGOnV4Be51Lygl3eq"
         },
         {
-            "rank": "32",
+            "rank": "36",
             "title": "All My Fellas - Slowed",
             "artist": "Chula 22",
             "playcount": 2,
@@ -257,7 +289,7 @@
             "link": "https://open.spotify.com/track/05pJ7F3I0D14XGLN2aBvWb"
         },
         {
-            "rank": "33",
+            "rank": "37",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 2,
@@ -265,7 +297,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "34",
+            "rank": "38",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 2,
@@ -273,7 +305,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "35",
+            "rank": "39",
             "title": "Life in Technicolor II",
             "artist": "Coldplay",
             "playcount": 2,
@@ -281,7 +313,7 @@
             "link": "https://open.spotify.com/track/0VpFFXnT2kNjqJmTv57aZi"
         },
         {
-            "rank": "36",
+            "rank": "40",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 2,
@@ -289,7 +321,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "37",
+            "rank": "41",
             "title": "Lovers In Japan - Osaka Sun Mix",
             "artist": "Coldplay",
             "playcount": 2,
@@ -297,7 +329,7 @@
             "link": "https://open.spotify.com/track/1wV03IHNBW0ZkT5lBCScXb"
         },
         {
-            "rank": "38",
+            "rank": "42",
             "title": "Now My Feet Won't Touch the Ground",
             "artist": "Coldplay",
             "playcount": 2,
@@ -305,7 +337,7 @@
             "link": "https://open.spotify.com/track/4PA4J8GvCN8RuE39wJ1QT1"
         },
         {
-            "rank": "39",
+            "rank": "43",
             "title": "Prospekt's March / Poppyfields",
             "artist": "Coldplay",
             "playcount": 2,
@@ -313,7 +345,7 @@
             "link": "https://open.spotify.com/track/4yr1059N96a8msTHVftmFN"
         },
         {
-            "rank": "40",
+            "rank": "44",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 2,
@@ -321,7 +353,7 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "41",
+            "rank": "45",
             "title": "Mirage",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -329,7 +361,7 @@
             "link": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
         },
         {
-            "rank": "42",
+            "rank": "46",
             "title": "ロスタイム - Losstime",
             "artist": "Creepy Nuts",
             "playcount": 2,
@@ -337,7 +369,7 @@
             "link": "https://open.spotify.com/track/1O4JEMG1V06Lmkw8JQMY52"
         },
         {
-            "rank": "43",
+            "rank": "47",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -345,7 +377,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "44",
+            "rank": "48",
             "title": "End of Beginning",
             "artist": "Djo",
             "playcount": 2,
@@ -353,7 +385,7 @@
             "link": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
         },
         {
-            "rank": "45",
+            "rank": "49",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 2,
@@ -361,44 +393,12 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "46",
-            "title": "No Pole",
-            "artist": "Don Toliver",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
-            "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
-        },
-        {
-            "rank": "47",
+            "rank": "50",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "48",
-            "title": "National Treasures",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-            "link": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
-        },
-        {
-            "rank": "49",
-            "title": "Nonstop",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
-        },
-        {
-            "rank": "50",
-            "title": "Shabang",
-            "artist": "Drake",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-            "link": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
         }
     ],
     "alltime": [
@@ -484,19 +484,19 @@
         },
         {
             "rank": "11",
+            "title": "Dive",
+            "artist": "ziproom",
+            "playcount": 35,
+            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
+            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+        },
+        {
+            "rank": "12",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 34,
             "image": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
             "link": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-        },
-        {
-            "rank": "12",
-            "title": "Dive",
-            "artist": "ziproom",
-            "playcount": 34,
-            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
-            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
             "rank": "13",
@@ -524,19 +524,19 @@
         },
         {
             "rank": "16",
+            "title": "LOVE. FEAT. ZACARI.",
+            "artist": "Kendrick Lamar",
+            "playcount": 31,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+        },
+        {
+            "rank": "17",
             "title": "Daiynbyz ba?",
             "artist": "Alem",
             "playcount": 30,
             "image": "https://i.scdn.co/image/ab67616d0000b27328fc7c6a60c04a63ef76897b",
             "link": "https://open.spotify.com/track/1unIaWu5Hq7sz78HWHeX7t"
-        },
-        {
-            "rank": "17",
-            "title": "LOVE. FEAT. ZACARI.",
-            "artist": "Kendrick Lamar",
-            "playcount": 30,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
             "rank": "18",
@@ -564,6 +564,14 @@
         },
         {
             "rank": "21",
+            "title": "What Did I Miss?",
+            "artist": "Drake",
+            "playcount": 26,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
+            "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+        },
+        {
+            "rank": "22",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 26,
@@ -571,7 +579,7 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 26,
@@ -579,7 +587,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 26,
@@ -587,7 +595,7 @@
             "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 25,
@@ -595,20 +603,12 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 25,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
-        },
-        {
-            "rank": "26",
-            "title": "What Did I Miss?",
-            "artist": "Drake",
-            "playcount": 25,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
-            "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
             "rank": "27",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         }
     ],
-    "last_updated": 1785871505
+    "last_updated": 1785881298
 }
