@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
-            "playcount": 8,
+            "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
@@ -572,6 +572,14 @@
         },
         {
             "rank": "22",
+            "title": "Alien Boy",
+            "artist": "Oliver Tree",
+            "playcount": 26,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
+        },
+        {
+            "rank": "23",
             "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 26,
@@ -579,7 +587,7 @@
             "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 25,
@@ -587,7 +595,7 @@
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 25,
@@ -595,36 +603,28 @@
             "link": "https://open.spotify.com/track/5Nz7hI3cCOHmMR4vSLJ1An"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 25,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/What+Did+I+Miss%3F"
-        },
-        {
-            "rank": "26",
-            "title": "Alien Boy",
-            "artist": "Oliver Tree",
-            "playcount": 25,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
+            "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
             "rank": "27",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 25,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/PinkPantheress/_/Pain"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730348d174bc1253a02bcb4ca2",
+            "link": "https://open.spotify.com/track/4S4QJfBGGrC8jRIjJHf1Ka"
         },
         {
             "rank": "28",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 25,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/sombr/_/12+to+12"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736e3665d175bd9aadb15b08b2",
+            "link": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
         },
         {
             "rank": "29",
@@ -639,16 +639,16 @@
             "title": "Shyraq",
             "artist": "Darkhan Juzz",
             "playcount": 24,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Shyraq"
+            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
+            "link": "https://open.spotify.com/track/1dzFbTiI9u1xIYZcGBHI20"
         },
         {
             "rank": "31",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 24,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)"
+            "image": "https://i.scdn.co/image/ab67616d0000b273e2a0a166493a2bde5480a420",
+            "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
             "rank": "32",
@@ -663,48 +663,48 @@
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 24,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!"
+            "image": "https://i.scdn.co/image/ab67616d0000b273c2ca118136d81cbd2f3deefd",
+            "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         },
         {
             "rank": "34",
             "title": "HOPE",
             "artist": "XXXTENTACION",
             "playcount": 24,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/XXXTENTACION/_/HOPE"
+            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+            "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         },
         {
             "rank": "35",
             "title": "Look at Me!",
             "artist": "XXXTENTACION",
             "playcount": 24,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/XXXTENTACION/_/Look+at+Me!"
+            "image": "https://i.scdn.co/image/ab67616d0000b27371af28545729f60b3eca66f7",
+            "link": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
         },
         {
             "rank": "36",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 23,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Ol"
+            "image": "https://i.scdn.co/image/ab67616d0000b2731cddc0eab6582e94d526832c",
+            "link": "https://open.spotify.com/track/7Ak437PosMbr2jp9EZvhB8"
         },
         {
             "rank": "37",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 23,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!"
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a1248eb3f195374b668f7e8",
+            "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
             "rank": "38",
             "title": "Sad!",
             "artist": "XXXTENTACION",
             "playcount": 23,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/XXXTENTACION/_/Sad!"
+            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
         },
         {
             "rank": "39",
@@ -727,24 +727,24 @@
             "title": "Usta",
             "artist": "rusha",
             "playcount": 22,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/rusha/_/Usta"
+            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
+            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
         },
         {
             "rank": "42",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 22,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/SLAVA+MARLOW/_/%D0%A1%D0%BD%D0%BE%D0%B2%D0%B0+%D1%8F+%D0%BD%D0%B0%D0%BF%D0%B8%D0%B2%D0%B0%D1%8E%D1%81%D1%8C"
+            "image": "https://i.scdn.co/image/ab67616d0000b27328059516a8477d0169237a8c",
+            "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
             "rank": "43",
             "title": "undressed",
             "artist": "sombr",
             "playcount": 22,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/sombr/_/undressed"
+            "image": "https://i.scdn.co/image/ab67616d0000b273de8eea4082c20ec1a5d91914",
+            "link": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
         },
         {
             "rank": "44",
@@ -759,49 +759,49 @@
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Creepy+Nuts/_/%E3%82%AA%E3%83%88%E3%83%8E%E3%82%B1+-+Otonoke"
+            "image": "https://i.scdn.co/image/ab67616d0000b2731596b18678ae04bd27f85f41",
+            "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         },
         {
             "rank": "46",
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/DNA."
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
         },
         {
             "rank": "47",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/euphoria"
+            "image": "https://i.scdn.co/image/ab67616d0000b273bdc727cfc07ddbabf925bb2f",
+            "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
             "rank": "48",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Lady+Gaga/_/Judas"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
+            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
             "rank": "49",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Masatoshi+Ono/_/Departure!"
+            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
+            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         },
         {
             "rank": "50",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 21,
-            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Tatsuya+Kitani/_/%E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B"
+            "image": "https://i.scdn.co/image/ab67616d0000b27387d3383ad8d19ab88aa83a4a",
+            "link": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
         }
     ],
-    "last_updated": 1785865667
+    "last_updated": 1785871505
 }
