@@ -12,7 +12,7 @@
             "rank": "2",
             "title": "Dive",
             "artist": "ziproom",
-            "playcount": 7,
+            "playcount": 6,
             "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
             "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
@@ -50,6 +50,14 @@
         },
         {
             "rank": "7",
+            "title": "Qubylmaly",
+            "artist": "Darkhan Juzz",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
+            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
+        },
+        {
+            "rank": "8",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -57,7 +65,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -65,7 +73,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "9",
+            "rank": "10",
             "title": "螺旋 - RASEN",
             "artist": "9Lana",
             "playcount": 3,
@@ -73,7 +81,7 @@
             "link": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
         },
         {
-            "rank": "10",
+            "rank": "11",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 3,
@@ -89,20 +97,12 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273e21cc1db05580b6f2d2a3b6e",
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
-        },
-        {
-            "rank": "13",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
             "rank": "14",
@@ -381,8 +381,8 @@
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731cddc0eab6582e94d526832c",
-            "link": "https://open.spotify.com/track/7Ak437PosMbr2jp9EZvhB8"
+            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
+            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
             "rank": "49",
@@ -564,6 +564,14 @@
         },
         {
             "rank": "21",
+            "title": "Qubylmaly",
+            "artist": "Darkhan Juzz",
+            "playcount": 26,
+            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
+            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
+        },
+        {
+            "rank": "22",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 26,
@@ -571,7 +579,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 26,
@@ -579,7 +587,7 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 26,
@@ -587,7 +595,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 26,
@@ -595,20 +603,12 @@
             "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 25,
             "image": "https://i.scdn.co/image/ab67616d0000b27318f3449e90684e2a89636898",
             "link": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
-        },
-        {
-            "rank": "26",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 25,
-            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
             "rank": "27",
@@ -647,8 +647,8 @@
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 24,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731cddc0eab6582e94d526832c",
-            "link": "https://open.spotify.com/track/7Ak437PosMbr2jp9EZvhB8"
+            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
+            "link": "https://open.spotify.com/track/7Cu3FfaMRX3XNF5np3Ir2D"
         },
         {
             "rank": "32",
@@ -687,24 +687,24 @@
             "title": "Look at Me!",
             "artist": "XXXTENTACION",
             "playcount": 24,
-            "image": "https://i.scdn.co/image/ab67616d0000b27371af28545729f60b3eca66f7",
-            "link": "https://open.spotify.com/track/7floNISpH8VF4z4459Qo18"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/XXXTENTACION/_/Look+at+Me!"
         },
         {
             "rank": "37",
-            "title": "ウィーアー!",
-            "artist": "Hiroshi Kitadani",
-            "playcount": 23,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737a1248eb3f195374b668f7e8",
-            "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
+            "title": "Sad!",
+            "artist": "XXXTENTACION",
+            "playcount": 24,
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/XXXTENTACION/_/Sad!"
         },
         {
             "rank": "38",
-            "title": "Sad!",
-            "artist": "XXXTENTACION",
+            "title": "ウィーアー!",
+            "artist": "Hiroshi Kitadani",
             "playcount": 23,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!"
         },
         {
             "rank": "39",
@@ -727,24 +727,24 @@
             "title": "Usta",
             "artist": "rusha",
             "playcount": 22,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
-            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/rusha/_/Usta"
         },
         {
             "rank": "42",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 22,
-            "image": "https://i.scdn.co/image/ab67616d0000b27328059516a8477d0169237a8c",
-            "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/SLAVA+MARLOW/_/%D0%A1%D0%BD%D0%BE%D0%B2%D0%B0+%D1%8F+%D0%BD%D0%B0%D0%BF%D0%B8%D0%B2%D0%B0%D1%8E%D1%81%D1%8C"
         },
         {
             "rank": "43",
             "title": "undressed",
             "artist": "sombr",
             "playcount": 22,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de8eea4082c20ec1a5d91914",
-            "link": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/sombr/_/undressed"
         },
         {
             "rank": "44",
@@ -759,49 +759,49 @@
             "title": "オトノケ - Otonoke",
             "artist": "Creepy Nuts",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731596b18678ae04bd27f85f41",
-            "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Creepy+Nuts/_/%E3%82%AA%E3%83%88%E3%83%8E%E3%82%B1+-+Otonoke"
         },
         {
             "rank": "46",
             "title": "Úıde",
             "artist": "Darkhan Juzz",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bd77b5129a20ea522e87a2ee",
-            "link": "https://open.spotify.com/track/2dWJ5xYr3QqcOeSuatbdzg"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Darkhan+Juzz/_/%C3%9A%C4%B1de"
         },
         {
             "rank": "47",
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/DNA."
         },
         {
             "rank": "48",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bdc727cfc07ddbabf925bb2f",
-            "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/euphoria"
         },
         {
             "rank": "49",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
-            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Lady+Gaga/_/Judas"
         },
         {
             "rank": "50",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
-            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
+            "image": "https://lastfm.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Masatoshi+Ono/_/Departure!"
         }
     ],
-    "last_updated": 1785938063
+    "last_updated": 1785949538
 }
