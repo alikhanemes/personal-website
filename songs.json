@@ -18,6 +18,14 @@
         },
         {
             "rank": "3",
+            "title": "Dive",
+            "artist": "ziproom",
+            "playcount": 5,
+            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
+            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+        },
+        {
+            "rank": "4",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 4,
@@ -25,7 +33,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "4",
+            "rank": "5",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 4,
@@ -33,7 +41,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "5",
+            "rank": "6",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 4,
@@ -41,7 +49,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 4,
@@ -49,7 +57,15 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "7",
+            "rank": "8",
+            "title": "God's Plan",
+            "artist": "Drake",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+        },
+        {
+            "rank": "9",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -57,7 +73,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "8",
+            "rank": "10",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -65,15 +81,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "9",
-            "title": "Dive",
-            "artist": "ziproom",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
-            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
-        },
-        {
-            "rank": "10",
+            "rank": "11",
             "title": "螺旋 - RASEN",
             "artist": "9Lana",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 3,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 3,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 3,
@@ -105,20 +113,12 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "No Pole",
             "artist": "Don Toliver",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
             "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
-        },
-        {
-            "rank": "15",
-            "title": "God's Plan",
-            "artist": "Drake",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
             "rank": "16",
@@ -436,6 +436,14 @@
         },
         {
             "rank": "5",
+            "title": "God's Plan",
+            "artist": "Drake",
+            "playcount": 37,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+        },
+        {
+            "rank": "6",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 37,
@@ -443,7 +451,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "6",
+            "rank": "7",
             "title": "Bad Habit",
             "artist": "Steve Lacy",
             "playcount": 37,
@@ -451,20 +459,12 @@
             "link": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 36,
             "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
             "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-        },
-        {
-            "rank": "8",
-            "title": "God's Plan",
-            "artist": "Drake",
-            "playcount": 36,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
             "rank": "9",
@@ -476,19 +476,19 @@
         },
         {
             "rank": "10",
+            "title": "Dive",
+            "artist": "ziproom",
+            "playcount": 36,
+            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
+            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+        },
+        {
+            "rank": "11",
             "title": "kim?",
             "artist": "rusha",
             "playcount": 35,
             "image": "https://i.scdn.co/image/ab67616d0000b273c3c09b572234a9ef35267da9",
             "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
-        },
-        {
-            "rank": "11",
-            "title": "Dive",
-            "artist": "ziproom",
-            "playcount": 35,
-            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
-            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
             "rank": "12",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
-    "last_updated": 1786014983
+    "last_updated": 1786024316
 }
