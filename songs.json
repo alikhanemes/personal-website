@@ -18,14 +18,6 @@
         },
         {
             "rank": "3",
-            "title": "Dive",
-            "artist": "ziproom",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
-            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
-        },
-        {
-            "rank": "4",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 4,
@@ -33,7 +25,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "5",
+            "rank": "4",
             "title": "Lost+ (with Jay-Z)",
             "artist": "Coldplay",
             "playcount": 4,
@@ -41,7 +33,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 4,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 4,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 4,
@@ -65,12 +57,20 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b27306d115628b77ec4b64232d0b",
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
+        },
+        {
+            "rank": "9",
+            "title": "Dive",
+            "artist": "ziproom",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b27360b283c86941d4d4cee115cc",
+            "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
             "rank": "10",
@@ -114,6 +114,14 @@
         },
         {
             "rank": "15",
+            "title": "God's Plan",
+            "artist": "Drake",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+        },
+        {
+            "rank": "16",
             "title": "Make Them Pay",
             "artist": "Drake",
             "playcount": 3,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "National Treasures",
             "artist": "Drake",
             "playcount": 3,
@@ -129,7 +137,7 @@
             "link": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 3,
@@ -137,7 +145,7 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "I Just Got Mad",
             "artist": "Malcolm Todd",
             "playcount": 3,
@@ -145,7 +153,7 @@
             "link": "https://open.spotify.com/track/5cEbOJ1W1cgWJ3LGeRBsn7"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "КРАСНЫЙ ФЛАГ",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -153,7 +161,7 @@
             "link": "https://open.spotify.com/track/7AuYlke4foydiCbZbqS5JP"
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "ПОВОД",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -161,7 +169,7 @@
             "link": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "ПУСТОЙ ВОКЗАЛ",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -169,7 +177,7 @@
             "link": "https://open.spotify.com/track/31DoKPoVBMXfPcrlb44gF0"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Hurt",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -177,7 +185,7 @@
             "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -185,7 +193,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "Let Me Down",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -193,7 +201,7 @@
             "link": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "Lies Came Out My Mouth",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -201,7 +209,7 @@
             "link": "https://open.spotify.com/track/6AAURjeIX1qMn36jFLbCru"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -209,7 +217,7 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "Как тебя покорить",
             "artist": "Peremotka",
             "playcount": 3,
@@ -217,7 +225,7 @@
             "link": "https://open.spotify.com/track/1CqOEa4NIRBaWR6sNHTDTo"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "WAKE UP, ITS THE FIRST OF THE MONTH",
             "artist": "Seames Life",
             "playcount": 3,
@@ -225,20 +233,12 @@
             "link": "https://open.spotify.com/track/0rSGJphttDxNgs2ueOMnn0"
         },
         {
-            "rank": "29",
+            "rank": "30",
             "title": "MUKANJYO",
             "artist": "Survive Said The Prophet",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b27366692ec3a0f5437132315850",
             "link": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
-        },
-        {
-            "rank": "30",
-            "title": "Dance With Me",
-            "artist": "ziproom",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5225bf5addb8fb72243b168",
-            "link": "https://open.spotify.com/track/1DxgAwgYRisIF9b8GXV18B"
         },
         {
             "rank": "31",
@@ -394,11 +394,11 @@
         },
         {
             "rank": "50",
-            "title": "God's Plan",
+            "title": "In My Feelings",
             "artist": "Drake",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+            "link": "https://open.spotify.com/track/2G7V7zsVDxg1yRsu7Ew9RJ"
         }
     ],
     "alltime": [
@@ -452,27 +452,27 @@
         },
         {
             "rank": "7",
+            "title": "ROXANNE",
+            "artist": "Arizona Zervas",
+            "playcount": 36,
+            "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+            "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+        },
+        {
+            "rank": "8",
+            "title": "God's Plan",
+            "artist": "Drake",
+            "playcount": 36,
+            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
+            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+        },
+        {
+            "rank": "9",
             "title": "we never dated",
             "artist": "sombr",
             "playcount": 36,
             "image": "https://i.scdn.co/image/ab67616d0000b273a866e6634ca8152aaa3834c1",
             "link": "https://open.spotify.com/track/7o3xJRQhpHRZ6IbyQX2xrp"
-        },
-        {
-            "rank": "8",
-            "title": "ROXANNE",
-            "artist": "Arizona Zervas",
-            "playcount": 35,
-            "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
-            "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-        },
-        {
-            "rank": "9",
-            "title": "God's Plan",
-            "artist": "Drake",
-            "playcount": 35,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
-            "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
         },
         {
             "rank": "10",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
-    "last_updated": 1786004719
+    "last_updated": 1786014983
 }
