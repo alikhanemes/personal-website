@@ -34,14 +34,6 @@
         },
         {
             "rank": "5",
-            "title": "Alien Boy",
-            "artist": "Oliver Tree",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
-        },
-        {
-            "rank": "6",
             "title": "Amour Plastique",
             "artist": "Videoclub",
             "playcount": 4,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "Roi",
             "artist": "Videoclub",
             "playcount": 4,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 3,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 3,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 3,
@@ -81,7 +73,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "11",
+            "rank": "10",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 3,
@@ -89,7 +81,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "12",
+            "rank": "11",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 3,
@@ -97,7 +89,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "13",
+            "rank": "12",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 3,
@@ -105,7 +97,7 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "14",
+            "rank": "13",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 3,
@@ -113,7 +105,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "15",
+            "rank": "14",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 3,
@@ -121,7 +113,7 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "16",
+            "rank": "15",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 3,
@@ -129,12 +121,20 @@
             "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "No Pole",
             "artist": "Don Toliver",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
             "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+        },
+        {
+            "rank": "17",
+            "title": "Alien Boy",
+            "artist": "Oliver Tree",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
             "rank": "18",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
-    "last_updated": 1786279140
+    "last_updated": 1786289163
 }
