@@ -10,19 +10,19 @@
         },
         {
             "rank": "2",
+            "title": "No Pole",
+            "artist": "Don Toliver",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
+            "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+        },
+        {
+            "rank": "3",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
-        },
-        {
-            "rank": "3",
-            "title": "Amour Plastique",
-            "artist": "Videoclub",
-            "playcount": 4,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6",
-            "link": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
         },
         {
             "rank": "4",
@@ -58,11 +58,11 @@
         },
         {
             "rank": "8",
-            "title": "No Pole",
-            "artist": "Don Toliver",
+            "title": "Janice STFU",
+            "artist": "Drake",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b273307323fa550564b0201b1d76",
-            "link": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+            "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
             "rank": "9",
@@ -82,6 +82,30 @@
         },
         {
             "rank": "11",
+            "title": "Thinkin Bout You",
+            "artist": "Frank Ocean",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+            "link": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+        },
+        {
+            "rank": "12",
+            "title": "Count Me Out",
+            "artist": "Kendrick Lamar",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+            "link": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
+        },
+        {
+            "rank": "13",
+            "title": "LOVE. FEAT. ZACARI.",
+            "artist": "Kendrick Lamar",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+        },
+        {
+            "rank": "14",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -89,7 +113,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "12",
+            "rank": "15",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -97,7 +121,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "13",
+            "rank": "16",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -105,7 +129,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "14",
+            "rank": "17",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 3,
@@ -113,7 +137,23 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
-            "rank": "15",
+            "rank": "18",
+            "title": "Amour Plastique",
+            "artist": "Videoclub",
+            "playcount": 3,
+            "image": "https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6",
+            "link": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
+        },
+        {
+            "rank": "19",
+            "title": "螺旋 - RASEN",
+            "artist": "9Lana",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737d936556e2ac7b2b8175cf51",
+            "link": "https://open.spotify.com/track/46B70zbvWffi3pnCDNpCBH"
+        },
+        {
+            "rank": "20",
             "title": "family ties (with Kendrick Lamar)",
             "artist": "Baby Keem",
             "playcount": 2,
@@ -121,7 +161,7 @@
             "link": "https://open.spotify.com/track/3QFInJAm9eyaho5vBzxInN"
         },
         {
-            "rank": "16",
+            "rank": "21",
             "title": "Let Go",
             "artist": "Beau Young Prince",
             "playcount": 2,
@@ -129,7 +169,23 @@
             "link": "https://open.spotify.com/track/5F2AuFzEiuAQD0JVNjVJQz"
         },
         {
-            "rank": "17",
+            "rank": "22",
+            "title": "Toxic",
+            "artist": "BoyWithUke",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ee07023115f822012390d2a0",
+            "link": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+        },
+        {
+            "rank": "23",
+            "title": "The Days - NOTION Remix",
+            "artist": "Chrystal",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739041b9965925059507fb44af",
+            "link": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
+        },
+        {
+            "rank": "24",
             "title": "42",
             "artist": "Coldplay",
             "playcount": 2,
@@ -137,7 +193,7 @@
             "link": "https://open.spotify.com/track/2i2Lz3FDIqYdsJZEWkEaTC"
         },
         {
-            "rank": "18",
+            "rank": "25",
             "title": "Death and All His Friends",
             "artist": "Coldplay",
             "playcount": 2,
@@ -145,7 +201,7 @@
             "link": "https://open.spotify.com/track/0guzngk1qWk5sgdYbThEGI"
         },
         {
-            "rank": "19",
+            "rank": "26",
             "title": "Life in Technicolor",
             "artist": "Coldplay",
             "playcount": 2,
@@ -153,7 +209,7 @@
             "link": "https://open.spotify.com/track/1rkbMXhEjIytsUGbhoR5pn"
         },
         {
-            "rank": "20",
+            "rank": "27",
             "title": "Lovers in Japan",
             "artist": "Coldplay",
             "playcount": 2,
@@ -161,7 +217,7 @@
             "link": "https://open.spotify.com/track/5qPGi9p8VqcizfdgWxtmLt"
         },
         {
-            "rank": "21",
+            "rank": "28",
             "title": "Postcards from Far Away",
             "artist": "Coldplay",
             "playcount": 2,
@@ -169,7 +225,7 @@
             "link": "https://open.spotify.com/track/4sbbpL1WwwGRr6xWk2y0Hk"
         },
         {
-            "rank": "22",
+            "rank": "29",
             "title": "Violet Hill",
             "artist": "Coldplay",
             "playcount": 2,
@@ -177,7 +233,7 @@
             "link": "https://open.spotify.com/track/1ZqHjApl3pfzwjweTfMi0g"
         },
         {
-            "rank": "23",
+            "rank": "30",
             "title": "Viva la Vida",
             "artist": "Coldplay",
             "playcount": 2,
@@ -185,7 +241,7 @@
             "link": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b"
         },
         {
-            "rank": "24",
+            "rank": "31",
             "title": "Yes",
             "artist": "Coldplay",
             "playcount": 2,
@@ -193,7 +249,15 @@
             "link": "https://open.spotify.com/track/04zfFfRMXegKi4mMkGMeze"
         },
         {
-            "rank": "25",
+            "rank": "32",
+            "title": "Mirage",
+            "artist": "Creepy Nuts",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273ae1ddda81dd700bfbfeeb929",
+            "link": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
+        },
+        {
+            "rank": "33",
             "title": "Eń Sulý",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -201,7 +265,7 @@
             "link": "https://open.spotify.com/track/3Sz4ssEPEY1YW8sJhBzY9N"
         },
         {
-            "rank": "26",
+            "rank": "34",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 2,
@@ -209,7 +273,7 @@
             "link": "https://open.spotify.com/track/7Ak437PosMbr2jp9EZvhB8"
         },
         {
-            "rank": "27",
+            "rank": "35",
             "title": "Please Me x Titanium",
             "artist": "DJ Unzensiert",
             "playcount": 2,
@@ -217,15 +281,15 @@
             "link": "https://open.spotify.com/track/5xopbIDOEEqHIMEEQhHj6a"
         },
         {
-            "rank": "28",
-            "title": "Janice STFU",
+            "rank": "36",
+            "title": "Laugh Now Cry Later (feat. Lil Durk)",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
-            "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
+            "image": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+            "link": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
         },
         {
-            "rank": "29",
+            "rank": "37",
             "title": "Make Them Pay",
             "artist": "Drake",
             "playcount": 2,
@@ -233,7 +297,7 @@
             "link": "https://open.spotify.com/track/57rkFdhoKjgkg16fsS4pgg"
         },
         {
-            "rank": "30",
+            "rank": "38",
             "title": "National Treasures",
             "artist": "Drake",
             "playcount": 2,
@@ -241,7 +305,7 @@
             "link": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
         },
         {
-            "rank": "31",
+            "rank": "39",
             "title": "Nonstop",
             "artist": "Drake",
             "playcount": 2,
@@ -249,7 +313,7 @@
             "link": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
         },
         {
-            "rank": "32",
+            "rank": "40",
             "title": "Toosie Slide",
             "artist": "Drake",
             "playcount": 2,
@@ -257,7 +321,15 @@
             "link": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
         },
         {
-            "rank": "33",
+            "rank": "41",
+            "title": "Which One (feat. Central Cee)",
+            "artist": "Drake",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
+            "link": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
+        },
+        {
+            "rank": "42",
             "title": "bilegim kep tur",
             "artist": "dudeontheguitar",
             "playcount": 2,
@@ -265,7 +337,7 @@
             "link": "https://open.spotify.com/track/7tu7GRpQusKZ3o8PtiJtTA"
         },
         {
-            "rank": "34",
+            "rank": "43",
             "title": "şeksız",
             "artist": "dudeontheguitar",
             "playcount": 2,
@@ -273,7 +345,7 @@
             "link": "https://open.spotify.com/track/1JzUMP3OxN7jUDGZGDglLC"
         },
         {
-            "rank": "35",
+            "rank": "44",
             "title": "4 Raws",
             "artist": "EsDeeKid",
             "playcount": 2,
@@ -281,15 +353,7 @@
             "link": "https://open.spotify.com/track/554qQSs9lpRVq6TlaaiIKT"
         },
         {
-            "rank": "36",
-            "title": "Thinkin Bout You",
-            "artist": "Frank Ocean",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-            "link": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
-        },
-        {
-            "rank": "37",
+            "rank": "45",
             "title": "WAIT FOR U (feat. Drake & Tems)",
             "artist": "Future",
             "playcount": 2,
@@ -297,7 +361,7 @@
             "link": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
         },
         {
-            "rank": "38",
+            "rank": "46",
             "title": "empty out your pockets",
             "artist": "Juice WRLD",
             "playcount": 2,
@@ -305,23 +369,7 @@
             "link": "https://open.spotify.com/track/2QxekHjOYDnzNO5w8hu2D9"
         },
         {
-            "rank": "39",
-            "title": "DUCKWORTH.",
-            "artist": "Kendrick Lamar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/0y9uTzK9cNKSAEHnpeRG8C"
-        },
-        {
-            "rank": "40",
-            "title": "LOVE. FEAT. ZACARI.",
-            "artist": "Kendrick Lamar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
-        },
-        {
-            "rank": "41",
+            "rank": "47",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -329,7 +377,7 @@
             "link": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
         },
         {
-            "rank": "42",
+            "rank": "48",
             "title": "squabble up",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -337,7 +385,7 @@
             "link": "https://open.spotify.com/track/0nj9Bq5sHDiTxSHunhgkFb"
         },
         {
-            "rank": "43",
+            "rank": "49",
             "title": "AIZO",
             "artist": "King Gnu",
             "playcount": 2,
@@ -345,60 +393,12 @@
             "link": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9"
         },
         {
-            "rank": "44",
-            "title": "The Way Life Goes (feat. Oh Wonder)",
-            "artist": "Lil Uzi Vert",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f23aee9d3be9fcbca1bc6352",
-            "link": "https://open.spotify.com/track/2eAZfqOm4EnOF9VvN50Tyc"
-        },
-        {
-            "rank": "45",
-            "title": "Love Me",
-            "artist": "Lil Wayne",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27380c64a084164867806ea617a",
-            "link": "https://open.spotify.com/track/2XHzzp1j4IfTNp1FTn7YFg"
-        },
-        {
-            "rank": "46",
-            "title": "Sure Thing",
-            "artist": "Miguel",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d5a8395b0d80b8c48a5d851c",
-            "link": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
-        },
-        {
-            "rank": "47",
-            "title": "Mahabbatym",
-            "artist": "Moldanazar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bf004ef295664188f5dcd9c5",
-            "link": "https://open.spotify.com/track/4T3ssJ7h388Hif7k1I3wUa"
-        },
-        {
-            "rank": "48",
-            "title": "ПОВОД",
-            "artist": "Morgenshtern",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b27310dc167541c3985a4250ddac",
-            "link": "https://open.spotify.com/track/1SUguUEQfQokc535Ye7ttR"
-        },
-        {
-            "rank": "49",
-            "title": "Turn It Up (feat. Tommy Cash)",
-            "artist": "Oliver Tree",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273988410e7766fce3d8e135a19",
-            "link": "https://open.spotify.com/track/1LqGBnl9m1duX1XWopugaf"
-        },
-        {
             "rank": "50",
-            "title": "TU TU TU",
-            "artist": "Orynkhan",
+            "title": "500lbs",
+            "artist": "Lil Tecca",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b41166b39d479852c0266489",
-            "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
+            "image": "https://i.scdn.co/image/ab67616d0000b273c4e6adea69105e6b6e214b96",
+            "link": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
         }
     ],
     "alltime": [
@@ -414,7 +414,7 @@
             "rank": "2",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
-            "playcount": 79,
+            "playcount": 80,
             "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
             "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
@@ -516,19 +516,19 @@
         },
         {
             "rank": "15",
+            "title": "LOVE. FEAT. ZACARI.",
+            "artist": "Kendrick Lamar",
+            "playcount": 32,
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+        },
+        {
+            "rank": "16",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 32,
             "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
-        },
-        {
-            "rank": "16",
-            "title": "LOVE. FEAT. ZACARI.",
-            "artist": "Kendrick Lamar",
-            "playcount": 31,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
         },
         {
             "rank": "17",
@@ -548,19 +548,19 @@
         },
         {
             "rank": "19",
+            "title": "NOKIA",
+            "artist": "Drake",
+            "playcount": 28,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
+        },
+        {
+            "rank": "20",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 28,
             "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
-        },
-        {
-            "rank": "20",
-            "title": "NOKIA",
-            "artist": "Drake",
-            "playcount": 27,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
             "rank": "21",
@@ -772,6 +772,14 @@
         },
         {
             "rank": "47",
+            "title": "One Dance",
+            "artist": "Drake",
+            "playcount": 21,
+            "image": "https://i.scdn.co/image/ab67616d0000b2739416ed64daf84936d89e671c",
+            "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
+        },
+        {
+            "rank": "48",
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 21,
@@ -779,7 +787,7 @@
             "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
         },
         {
-            "rank": "48",
+            "rank": "49",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 21,
@@ -787,21 +795,13 @@
             "link": "https://open.spotify.com/track/77DRzu7ERs0TX3roZcre7Q"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 21,
             "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
-        },
-        {
-            "rank": "50",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f7aa0fd62a866dd3dfa54e50",
-            "link": "https://open.spotify.com/track/68XJP1sxQ5aiwbDJ8McUSr"
         }
     ],
-    "last_updated": 1786346429
+    "last_updated": 1786356776
 }
