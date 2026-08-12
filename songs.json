@@ -194,14 +194,6 @@
         },
         {
             "rank": "25",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273149978344a787ee7da744135",
-            "link": "https://open.spotify.com/track/2YH5DbTbSsRgOrqohPPP0N"
-        },
-        {
-            "rank": "26",
             "title": "Babydoll",
             "artist": "Dominic Fike",
             "playcount": 2,
@@ -209,12 +201,20 @@
             "link": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc"
         },
         {
-            "rank": "27",
+            "rank": "26",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273f907de96b9a4fbc04accc0d5",
             "link": "https://open.spotify.com/track/6DCZcSspjsKoFjzjrWoCdn"
+        },
+        {
+            "rank": "27",
+            "title": "Janice STFU",
+            "artist": "Drake",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+            "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
             "rank": "28",
@@ -258,14 +258,6 @@
         },
         {
             "rank": "33",
-            "title": "Mahabbatym",
-            "artist": "Moldanazar",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273bf004ef295664188f5dcd9c5",
-            "link": "https://open.spotify.com/track/4T3ssJ7h388Hif7k1I3wUa"
-        },
-        {
-            "rank": "34",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 2,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "Hurt",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "Let Me Down",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/0jk6J6B9ivegJc7dTg10Mp"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "Miracle Man",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/2PFnwW05Wh0MYkfZxSwfuf"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "TU TU TU",
             "artist": "Orynkhan",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/2dQmynYXqI3uPxkOnmEqxT"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Tek sen",
             "artist": "rusha",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/2KQX5ngmlyy6uB5efNAE5B"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 2,
@@ -353,12 +345,20 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "FE!N (feat. Playboi Carti)",
             "artist": "Travis Scott",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b27304481c826dd292e5e4983b3f",
             "link": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
+        },
+        {
+            "rank": "45",
+            "title": "La Seine - Extrait de la bande originale un monstre à Paris",
+            "artist": "Vanessa Paradis",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27387a675b0336e8bbf44e3a323",
+            "link": "https://open.spotify.com/track/4B6XjmOWI55np7y4MUTXDu"
         },
         {
             "rank": "46",
@@ -394,11 +394,11 @@
         },
         {
             "rank": "50",
-            "title": "NUMB",
+            "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl"
+            "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         }
     ],
     "alltime": [
@@ -572,6 +572,14 @@
         },
         {
             "rank": "22",
+            "title": "Moonlight",
+            "artist": "XXXTENTACION",
+            "playcount": 28,
+            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
+            "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
+        },
+        {
+            "rank": "23",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 27,
@@ -579,20 +587,12 @@
             "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 27,
             "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
-        },
-        {
-            "rank": "24",
-            "title": "Moonlight",
-            "artist": "XXXTENTACION",
-            "playcount": 27,
-            "image": "https://i.scdn.co/image/ab67616d0000b273806c160566580d6335d1f16c",
-            "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         },
         {
             "rank": "25",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0"
         }
     ],
-    "last_updated": 1786509892
+    "last_updated": 1786519010
 }
