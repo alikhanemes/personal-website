@@ -306,14 +306,6 @@
         },
         {
             "rank": "39",
-            "title": "Hurt",
-            "artist": "Oliver Tree",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
-            "link": "https://open.spotify.com/track/6Ph8QwsRfZunN5e1GGBIqa"
-        },
-        {
-            "rank": "40",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Life Goes On",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Малышка",
             "artist": "Sharlot",
             "playcount": 2,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/4vs2gDl1qheUeVluOXgMuS"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 2,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 2,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "back home",
             "artist": "Yeat",
             "playcount": 2,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/40oYjPdjvFBCZH1Smsk46H"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "Dive",
             "artist": "ziproom",
             "playcount": 2,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "恋愛サーキュレーション",
             "artist": "物語シリーズ",
             "playcount": 2,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 1,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "Meaningless Love",
             "artist": "1NONLY",
             "playcount": 1,
@@ -393,12 +385,20 @@
             "link": "https://open.spotify.com/track/4dIxAVrv3gRNq1uZ5ezdJM"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "Do for Love",
             "artist": "2Pac",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2738e0ff34ad21955b6f4da9b86",
             "link": "https://open.spotify.com/track/4AE7Lj39VnSZNOmGH2iZaq"
+        },
+        {
+            "rank": "50",
+            "title": "Backlight",
+            "artist": "Ado",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2730cbecafa929898c82adc519c",
+            "link": "https://open.spotify.com/track/3WY0iazRPHOlIq6CdbKLZ6"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1786893392
+    "last_updated": 1786904442
 }
