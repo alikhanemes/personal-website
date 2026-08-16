@@ -157,72 +157,72 @@
             "title": "No Face",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/No+Face"
+            "image": "https://i.scdn.co/image/ab67616d0000b273cf05fc616cf7e38c0e52b888",
+            "link": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
         },
         {
             "rank": "21",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/NOKIA"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
             "rank": "22",
             "title": "Passionfruit",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Passionfruit"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+            "link": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
         },
         {
             "rank": "23",
             "title": "Shabang",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Shabang"
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+            "link": "https://open.spotify.com/track/6vjpQIdABqntoe3zPazPec"
         },
         {
             "rank": "24",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/What+Did+I+Miss%3F"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
+            "link": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
         },
         {
             "rank": "25",
             "title": "Which One (feat. Central Cee)",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Which+One+(feat.+Central+Cee)"
+            "image": "https://i.scdn.co/image/ab67616d0000b2738028a7b8c9fce086d4a47ba7",
+            "link": "https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT"
         },
         {
             "rank": "26",
             "title": "Whisper My Name",
             "artist": "Drake",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Whisper+My+Name"
+            "image": "https://i.scdn.co/image/ab67616d0000b273fe9d3ab9adb1d3b59835b81c",
+            "link": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
         },
         {
             "rank": "27",
             "title": "Godzilla (feat. Juice WRLD)",
             "artist": "Eminem",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Eminem/_/Godzilla+(feat.+Juice+WRLD)"
+            "image": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+            "link": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
         },
         {
             "rank": "28",
             "title": "Count Me Out",
             "artist": "Kendrick Lamar",
             "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/Count+Me+Out"
+            "image": "https://i.scdn.co/image/ab67616d0000b2732e02117d76426a08ac7c174f",
+            "link": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
         },
         {
             "rank": "29",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1786843398
+    "last_updated": 1786851822
 }
