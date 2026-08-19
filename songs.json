@@ -285,72 +285,72 @@
             "title": "şeksız",
             "artist": "dudeontheguitar",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/dudeontheguitar/_/%C5%9Feks%C4%B1z"
+            "image": "https://i.scdn.co/image/ab67616d0000b27335ec8381bb864e27189beee8",
+            "link": "https://open.spotify.com/track/1JzUMP3OxN7jUDGZGDglLC"
         },
         {
             "rank": "37",
             "title": "Kaikai Kitan",
             "artist": "Eve",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Eve/_/Kaikai+Kitan"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734b54d2a72484832db80a0fe9",
+            "link": "https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos"
         },
         {
             "rank": "38",
             "title": "Let Me Hear",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/Let+Me+Hear"
+            "image": "https://i.scdn.co/image/ab67616d0000b2736f7083957f85b021f69cf778",
+            "link": "https://open.spotify.com/track/1llkMtLL4vbe0pr3NV2ckg"
         },
         {
             "rank": "39",
             "title": "Kaerou",
             "artist": "Fujii Kaze",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Fujii+Kaze/_/Kaerou"
+            "image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc",
+            "link": "https://open.spotify.com/track/26e8ujjSpBAHhIY2ymLUT1"
         },
         {
             "rank": "40",
             "title": "Matsuri",
             "artist": "Fujii Kaze",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739e16930796a07f1195002389",
+            "link": "https://open.spotify.com/track/7AMGgAPFczs3wJgMqu6Eqi"
         },
         {
             "rank": "41",
             "title": "Nan-Nan",
             "artist": "Fujii Kaze",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Fujii+Kaze/_/Nan-Nan"
+            "image": "https://i.scdn.co/image/ab67616d0000b27322805a1b17e41ae357bd98bc",
+            "link": "https://open.spotify.com/track/2CbGuO0LtVvbh3umN3mDwM"
         },
         {
             "rank": "42",
             "title": "光るなら",
             "artist": "Goose house",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825",
+            "link": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
         },
         {
             "rank": "43",
             "title": "Somebody That I Used to Know",
             "artist": "Gotye",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Gotye/_/Somebody+That+I+Used+to+Know"
+            "image": "https://i.scdn.co/image/ab67616d0000b273e1d47c00ddecbfb810c807ed",
+            "link": "https://open.spotify.com/track/4wCmqSrbyCgxEXROQE6vtV"
         },
         {
             "rank": "44",
             "title": "Kuroi Light",
             "artist": "Hideki Taniuchi",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/+noredirect/Hideki+Taniuchi/_/Kuroi+Light"
+            "image": "https://i.scdn.co/image/ab67616d0000b2738c86e4a1f37c0775128adfd3",
+            "link": "https://open.spotify.com/track/2tQypmsoGht97b5P30tCSp"
         },
         {
             "rank": "45",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1787102580
+    "last_updated": 1787110923
 }
