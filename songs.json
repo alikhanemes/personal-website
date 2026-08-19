@@ -221,8 +221,8 @@
             "title": "Passionfruit",
             "artist": "Drake",
             "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Passionfruit"
+            "image": "https://i.scdn.co/image/ab67616d0000b2734f0fd9dad63977146e685700",
+            "link": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
         },
         {
             "rank": "29",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1787121278
+    "last_updated": 1787131701
 }
