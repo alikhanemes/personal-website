@@ -26,110 +26,6 @@
         },
         {
             "rank": "4",
-            "title": "熱情のスペクトラム",
-            "artist": "Ikimonogakari",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ff62a8bad528d3b04d0794e",
-            "link": "https://open.spotify.com/track/1p0WZg4NXoNVGj2AuoLJe7"
-        },
-        {
-            "rank": "5",
-            "title": "“Tomodachi Game” Main Theme",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
-        },
-        {
-            "rank": "6",
-            "title": "“Tomodachi Game” operation 1",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/6qiLpBdfR7V3KskLVbGmQ2"
-        },
-        {
-            "rank": "7",
-            "title": "Calm perspective",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/4fROGtr63eqkAs9RoJqGBL"
-        },
-        {
-            "rank": "8",
-            "title": "Faint hope",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/5OH1RslD8DnoQirq24ls1x"
-        },
-        {
-            "rank": "9",
-            "title": "Friendship or betrayal",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/7t3G78FfE8Gx3o5xhyrW8P"
-        },
-        {
-            "rank": "10",
-            "title": "Manabu-kun appears",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/4qobLuQPqPwRtVanfreXjt"
-        },
-        {
-            "rank": "11",
-            "title": "Previous episode",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/4WkRABxWKVL78bU4SuvLF4"
-        },
-        {
-            "rank": "12",
-            "title": "Rivals blocking",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/20dsovEiULDaoTyhWmGv0V"
-        },
-        {
-            "rank": "13",
-            "title": "Rule explanation",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/5Hw3GXnjq5m3LINmL50EkG"
-        },
-        {
-            "rank": "14",
-            "title": "Sad past",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/1lahLlbfEMsnYmEiUEWvjd"
-        },
-        {
-            "rank": "15",
-            "title": "What each of them has to deal with",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/3KJZZlsHQzZoi2aeng7Hmp"
-        },
-        {
-            "rank": "16",
-            "title": "ダブルシャッフル",
-            "artist": "Nana Mizuki",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
-            "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
-        },
-        {
-            "rank": "17",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 1,
@@ -137,7 +33,7 @@
             "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
         },
         {
-            "rank": "18",
+            "rank": "5",
             "title": "obsessed",
             "artist": "Olivia Rodrigo",
             "playcount": 1,
@@ -145,7 +41,7 @@
             "link": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
         },
         {
-            "rank": "19",
+            "rank": "6",
             "title": "stupid song",
             "artist": "Olivia Rodrigo",
             "playcount": 1,
@@ -153,7 +49,7 @@
             "link": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
         },
         {
-            "rank": "20",
+            "rank": "7",
             "title": "the cure",
             "artist": "Olivia Rodrigo",
             "playcount": 1,
@@ -161,23 +57,7 @@
             "link": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
         },
         {
-            "rank": "21",
-            "title": "Hyouriittai",
-            "artist": "Yuzu",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
-            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
-        },
-        {
-            "rank": "22",
-            "title": "REASON",
-            "artist": "Yuzu",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c7cd89a0e7b99abe8492754c",
-            "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
-        },
-        {
-            "rank": "23",
+            "rank": "8",
             "title": "恋愛サーキュレーション",
             "artist": "物語シリーズ",
             "playcount": 1,
@@ -423,8 +303,8 @@
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 25,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Coldplay/_/Glass+of+Water"
+            "image": "https://i.scdn.co/image/ab67616d0000b2730de348af6c3e533f24c99472",
+            "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         },
         {
             "rank": "31",
@@ -587,5 +467,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1787239696
+    "last_updated": 1787250589
 }
