@@ -2,67 +2,11 @@
     "recent": [
         {
             "rank": "1",
-            "title": "光るなら",
-            "artist": "Goose house",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825",
-            "link": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
-        },
-        {
-            "rank": "2",
-            "title": "Kuroi Light",
-            "artist": "Hideki Taniuchi",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738c86e4a1f37c0775128adfd3",
-            "link": "https://open.spotify.com/track/2tQypmsoGht97b5P30tCSp"
-        },
-        {
-            "rank": "3",
-            "title": "L no Theme B",
-            "artist": "Hideki Taniuchi",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b32962c50d77fffae076a1eb",
-            "link": "https://open.spotify.com/track/51HAxeq4x0PL85jaIyPZgD"
-        },
-        {
-            "rank": "4",
-            "title": "the WORLD",
-            "artist": "Nightmare",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273a83a2f295033bb468401e441",
-            "link": "https://open.spotify.com/track/5W53797BOyrbASWrZq24lp"
-        },
-        {
-            "rank": "5",
-            "title": "obsessed",
-            "artist": "Olivia Rodrigo",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734063d624ebf8ff67bc3701ee",
-            "link": "https://open.spotify.com/track/6tNgRQ0K2NYZ0Rb9l9DzL8"
-        },
-        {
-            "rank": "6",
             "title": "stupid song",
             "artist": "Olivia Rodrigo",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
             "link": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-        },
-        {
-            "rank": "7",
-            "title": "the cure",
-            "artist": "Olivia Rodrigo",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27379e480cbab8c7b86d277841a",
-            "link": "https://open.spotify.com/track/4EoJ151oQ5jY48z4RhSE96"
-        },
-        {
-            "rank": "8",
-            "title": "恋愛サーキュレーション",
-            "artist": "物語シリーズ",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273168da2035a75e56b2f53c0d3",
-            "link": "https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm"
         }
     ],
     "alltime": [
@@ -407,8 +351,8 @@
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 23,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
-            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/DNA."
         },
         {
             "rank": "44",
@@ -455,8 +399,8 @@
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 21,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
-            "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/%C2%A5$/_/CARNIVAL"
         },
         {
             "rank": "50",
@@ -467,5 +411,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1787304634
+    "last_updated": 1787315661
 }
