@@ -1,14 +1,5 @@
 {
-    "recent": [
-        {
-            "rank": "1",
-            "title": "stupid song",
-            "artist": "Olivia Rodrigo",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736949b83f85d782b21ce70583",
-            "link": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ"
-        }
-    ],
+    "recent": [],
     "alltime": [
         {
             "rank": "1",
@@ -87,8 +78,8 @@
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 36,
-            "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
-            "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Arizona+Zervas/_/ROXANNE"
         },
         {
             "rank": "11",
@@ -351,8 +342,8 @@
             "title": "DNA.",
             "artist": "Kendrick Lamar",
             "playcount": 23,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Kendrick+Lamar/_/DNA."
+            "image": "https://i.scdn.co/image/ab67616d0000b2738b52c6b9bc4e43d873869699",
+            "link": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
         },
         {
             "rank": "44",
@@ -399,8 +390,8 @@
             "title": "CARNIVAL",
             "artist": "¥$",
             "playcount": 21,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/%C2%A5$/_/CARNIVAL"
+            "image": "https://i.scdn.co/image/ab67616d0000b2739c654f315df05ae7c6ec8980",
+            "link": "https://open.spotify.com/track/2McT2fkH0VDqPsbiB9HWPq"
         },
         {
             "rank": "50",
@@ -411,5 +402,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1787315661
+    "last_updated": 1787326008
 }
