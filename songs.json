@@ -326,8 +326,8 @@
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 24,
-            "image": "https://i.scdn.co/image/ab67616d0000b27306d115628b77ec4b64232d0b",
-            "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Morgenshtern/_/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F+%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C"
         },
         {
             "rank": "42",
@@ -366,24 +366,24 @@
             "title": "“Tomodachi Game” Main Theme",
             "artist": "Michiru",
             "playcount": 22,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739fa7ef173be4ea0da6259fea",
-            "link": "https://open.spotify.com/track/6svRSDQzevrq7N5nYebpvw"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Michiru/_/%E2%80%9CTomodachi+Game%E2%80%9D+Main+Theme"
         },
         {
             "rank": "47",
             "title": "Usta",
             "artist": "rusha",
             "playcount": 22,
-            "image": "https://i.scdn.co/image/ab67616d0000b273ee1ab9c8937c569b15437e31",
-            "link": "https://open.spotify.com/track/1NkRaNFhmwL8GugWuopSA8"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/rusha/_/Usta"
         },
         {
             "rank": "48",
             "title": "undressed",
             "artist": "sombr",
             "playcount": 22,
-            "image": "https://i.scdn.co/image/ab67616d0000b273de8eea4082c20ec1a5d91914",
-            "link": "https://open.spotify.com/track/4AajxCEwGEsmHmT4H1TwjY"
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/sombr/_/undressed"
         },
         {
             "rank": "49",
@@ -402,5 +402,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1787422823
+    "last_updated": 1787433363
 }
