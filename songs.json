@@ -6,8 +6,8 @@
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
             "playcount": 82,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
         },
         {
             "rank": "2",
@@ -86,8 +86,8 @@
             "title": "kim?",
             "artist": "rusha",
             "playcount": 36,
-            "image": "https://i.scdn.co/image/ab67616d0000b273870025e9b4d8052112a02200",
-            "link": "https://open.spotify.com/track/1Th1uc7Ib0heem8TzkS33n"
+            "image": "https://i.scdn.co/image/ab67616d0000b273c3c09b572234a9ef35267da9",
+            "link": "https://open.spotify.com/track/2erIddwGcOuNNHdL3EGTVq"
         },
         {
             "rank": "12",
@@ -402,5 +402,5 @@
             "link": "https://open.spotify.com/track/6KYOlIwDHbrbeBbJEtQ0Fj"
         }
     ],
-    "last_updated": 1788507443
+    "last_updated": 1788527101
 }
