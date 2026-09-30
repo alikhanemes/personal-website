@@ -26,6 +26,14 @@
         },
         {
             "rank": "4",
+            "title": "Контракт",
+            "artist": "Poshlaya Molly",
+            "playcount": 4,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Poshlaya+Molly/_/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82"
+        },
+        {
+            "rank": "5",
             "title": "Hyouriittai",
             "artist": "Yuzu",
             "playcount": 4,
@@ -33,15 +41,31 @@
             "link": "https://www.last.fm/music/+noredirect/Yuzu/_/Hyouriittai"
         },
         {
-            "rank": "5",
-            "title": "Контракт",
-            "artist": "Poshlaya Molly",
+            "rank": "6",
+            "title": "ウィーゴー！",
+            "artist": "Hiroshi Kitadani",
             "playcount": 3,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Poshlaya+Molly/_/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%B0%D0%BA%D1%82"
+            "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%B4%E3%83%BC%EF%BC%81"
         },
         {
-            "rank": "6",
+            "rank": "7",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 3,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
+        },
+        {
+            "rank": "8",
+            "title": "夜に駆ける",
+            "artist": "YOASOBI",
+            "playcount": 3,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B"
+        },
+        {
+            "rank": "9",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 3,
@@ -49,15 +73,7 @@
             "link": "https://www.last.fm/music/+noredirect/Yuzu/_/REASON"
         },
         {
-            "rank": "7",
-            "title": "ウィーゴー！",
-            "artist": "Hiroshi Kitadani",
-            "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%B4%E3%83%BC%EF%BC%81"
-        },
-        {
-            "rank": "8",
+            "rank": "10",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 2,
@@ -65,7 +81,7 @@
             "link": "https://www.last.fm/music/Lady+Gaga/_/Judas"
         },
         {
-            "rank": "9",
+            "rank": "11",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -73,15 +89,7 @@
             "link": "https://www.last.fm/music/Morgenshtern/_/%D0%94%D0%9E%D0%9C+(%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD,+%D0%9F%D1%80%D0%B0%D0%B3%D0%B0,+%D0%9D%D0%B8%D1%86%D1%86%D0%B0)"
         },
         {
-            "rank": "10",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 2,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
-        },
-        {
-            "rank": "11",
+            "rank": "12",
             "title": "Yuugure no Tori - TV Size",
             "artist": "Shinsei Kamattechan",
             "playcount": 2,
@@ -89,7 +97,7 @@
             "link": "https://www.last.fm/music/Shinsei+Kamattechan/_/Yuugure+no+Tori+-+TV+Size"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "るるちゃんの自殺配信",
             "artist": "Shinsei Kamattechan",
             "playcount": 2,
@@ -97,7 +105,7 @@
             "link": "https://www.last.fm/music/Shinsei+Kamattechan/_/%E3%82%8B%E3%82%8B%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E8%87%AA%E6%AE%BA%E9%85%8D%E4%BF%A1"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "Elegy Of The Dynast",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -105,7 +113,7 @@
             "link": "https://www.last.fm/music/+noredirect/Yoshihisa+Hirano/_/Elegy+Of+The+Dynast"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "Hunter ☆ Parade",
             "artist": "Yoshihisa Hirano",
             "playcount": 2,
@@ -113,7 +121,7 @@
             "link": "https://www.last.fm/music/+noredirect/Yoshihisa+Hirano/_/Hunter+%E2%98%86+Parade"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "革命道中 - On The Way",
             "artist": "Aina The End",
             "playcount": 1,
@@ -121,7 +129,7 @@
             "link": "https://www.last.fm/music/Aina+The+End/_/%E9%9D%A9%E5%91%BD%E9%81%93%E4%B8%AD+-+On+The+Way"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Shinsekai Yori",
             "artist": "Ano",
             "playcount": 1,
@@ -129,7 +137,7 @@
             "link": "https://www.last.fm/music/Ano/_/Shinsekai+Yori"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 1,
@@ -137,7 +145,7 @@
             "link": "https://www.last.fm/music/Arizona+Zervas/_/ROXANNE"
         },
         {
-            "rank": "18",
+            "rank": "19",
             "title": "CHAIN",
             "artist": "ASCA",
             "playcount": 1,
@@ -145,7 +153,7 @@
             "link": "https://www.last.fm/music/ASCA/_/CHAIN"
         },
         {
-            "rank": "19",
+            "rank": "20",
             "title": "basqany :(",
             "artist": "AYAU",
             "playcount": 1,
@@ -153,7 +161,7 @@
             "link": "https://www.last.fm/music/AYAU/_/basqany+:("
         },
         {
-            "rank": "20",
+            "rank": "21",
             "title": "Toxic",
             "artist": "Britney Spears",
             "playcount": 1,
@@ -161,7 +169,7 @@
             "link": "https://www.last.fm/music/Britney+Spears/_/Toxic"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Locked Out of Heaven",
             "artist": "Bruno Mars",
             "playcount": 1,
@@ -169,7 +177,7 @@
             "link": "https://www.last.fm/music/Bruno+Mars/_/Locked+Out+of+Heaven"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "Tek It",
             "artist": "Cafuné",
             "playcount": 1,
@@ -177,7 +185,7 @@
             "link": "https://www.last.fm/music/Cafun%C3%A9/_/Tek+It"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "Rather Be (feat. Jess Glynne)",
             "artist": "Clean Bandit",
             "playcount": 1,
@@ -185,7 +193,7 @@
             "link": "https://www.last.fm/music/Clean+Bandit/_/Rather+Be+(feat.+Jess+Glynne)"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "ばかまじめ",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -193,7 +201,15 @@
             "link": "https://www.last.fm/music/Creepy+Nuts/_/%E3%81%B0%E3%81%8B%E3%81%BE%E3%81%98%E3%82%81"
         },
         {
-            "rank": "25",
+            "rank": "26",
+            "title": "Men Sen Siyaqty",
+            "artist": "Darkhan Juzz",
+            "playcount": 1,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Men+Sen+Siyaqty"
+        },
+        {
+            "rank": "27",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 1,
@@ -201,7 +217,23 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Qubylmaly"
         },
         {
-            "rank": "26",
+            "rank": "28",
+            "title": "No Pole",
+            "artist": "Don Toliver",
+            "playcount": 1,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Don+Toliver/_/No+Pole"
+        },
+        {
+            "rank": "29",
+            "title": "Janice STFU",
+            "artist": "Drake",
+            "playcount": 1,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Drake/_/Janice+STFU"
+        },
+        {
+            "rank": "30",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 1,
@@ -209,7 +241,7 @@
             "link": "https://www.last.fm/music/Drake/_/NOKIA"
         },
         {
-            "rank": "27",
+            "rank": "31",
             "title": "Push Ups",
             "artist": "Drake",
             "playcount": 1,
@@ -217,7 +249,7 @@
             "link": "https://www.last.fm/music/Drake/_/Push+Ups"
         },
         {
-            "rank": "28",
+            "rank": "32",
             "title": "IGNITE",
             "artist": "Eir Aoi",
             "playcount": 1,
@@ -225,7 +257,7 @@
             "link": "https://www.last.fm/music/Eir+Aoi/_/IGNITE"
         },
         {
-            "rank": "29",
+            "rank": "33",
             "title": "We Are the People",
             "artist": "Empire of the Sun",
             "playcount": 1,
@@ -233,7 +265,7 @@
             "link": "https://www.last.fm/music/Empire+of+the+Sun/_/We+Are+the+People"
         },
         {
-            "rank": "30",
+            "rank": "34",
             "title": "Tausyldy Mahabbat",
             "artist": "Enendroen",
             "playcount": 1,
@@ -241,7 +273,7 @@
             "link": "https://www.last.fm/music/Enendroen/_/Tausyldy+Mahabbat"
         },
         {
-            "rank": "31",
+            "rank": "35",
             "title": "Feelin’ Go(o)d",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -249,7 +281,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Feelin%E2%80%99+Go(o)d"
         },
         {
-            "rank": "32",
+            "rank": "36",
             "title": "Garden",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -257,7 +289,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Garden"
         },
         {
-            "rank": "33",
+            "rank": "37",
             "title": "Kazeyo",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -265,7 +297,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Kazeyo"
         },
         {
-            "rank": "34",
+            "rank": "38",
             "title": "Kirari",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -273,7 +305,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Kirari"
         },
         {
-            "rank": "35",
+            "rank": "39",
             "title": "masshiro (pure white)",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -281,7 +313,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/masshiro+(pure+white)"
         },
         {
-            "rank": "36",
+            "rank": "40",
             "title": "masshiro (pure white) - KOBY SHY Remix",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -289,7 +321,15 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/masshiro+(pure+white)+-+KOBY+SHY+Remix"
         },
         {
-            "rank": "37",
+            "rank": "41",
+            "title": "Matsuri",
+            "artist": "Fujii Kaze",
+            "playcount": 1,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Fujii+Kaze/_/Matsuri"
+        },
+        {
+            "rank": "42",
             "title": "SAYONARA Baby",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -297,7 +337,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/SAYONARA+Baby"
         },
         {
-            "rank": "38",
+            "rank": "43",
             "title": "Workin' Hard",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -305,7 +345,7 @@
             "link": "https://www.last.fm/music/Fujii+Kaze/_/Workin%27+Hard"
         },
         {
-            "rank": "39",
+            "rank": "44",
             "title": "Honki VS Kyoki",
             "artist": "Gon=Freecss(CV:Megumi Han)",
             "playcount": 1,
@@ -313,7 +353,7 @@
             "link": "https://www.last.fm/music/Gon=Freecss(CV:Megumi+Han)/_/Honki+VS+Kyoki"
         },
         {
-            "rank": "40",
+            "rank": "45",
             "title": "this is what falling in love feels like",
             "artist": "JVKE",
             "playcount": 1,
@@ -321,7 +361,7 @@
             "link": "https://www.last.fm/music/JVKE/_/this+is+what+falling+in+love+feels+like"
         },
         {
-            "rank": "41",
+            "rank": "46",
             "title": "Runaway",
             "artist": "Kanye West",
             "playcount": 1,
@@ -329,7 +369,15 @@
             "link": "https://www.last.fm/music/Kanye+West/_/Runaway"
         },
         {
-            "rank": "42",
+            "rank": "47",
+            "title": "Count Me Out",
+            "artist": "Kendrick Lamar",
+            "playcount": 1,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Kendrick+Lamar/_/Count+Me+Out"
+        },
+        {
+            "rank": "48",
             "title": "luther (with SZA)",
             "artist": "Kendrick Lamar",
             "playcount": 1,
@@ -337,7 +385,7 @@
             "link": "https://www.last.fm/music/Kendrick+Lamar/_/luther+(with+SZA)"
         },
         {
-            "rank": "43",
+            "rank": "49",
             "title": "Bad Romance",
             "artist": "Lady Gaga",
             "playcount": 1,
@@ -345,60 +393,12 @@
             "link": "https://www.last.fm/music/Lady+Gaga/_/Bad+Romance"
         },
         {
-            "rank": "44",
+            "rank": "50",
             "title": "Just Dance",
             "artist": "Lady Gaga",
             "playcount": 1,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Lady+Gaga/_/Just+Dance"
-        },
-        {
-            "rank": "45",
-            "title": "Poker Face",
-            "artist": "Lady Gaga",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Lady+Gaga/_/Poker+Face"
-        },
-        {
-            "rank": "46",
-            "title": "Telephone",
-            "artist": "Lady Gaga",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/+noredirect/Lady+Gaga/_/Telephone"
-        },
-        {
-            "rank": "47",
-            "title": "スパークル",
-            "artist": "Lilas",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Lilas/_/%E3%82%B9%E3%83%91%E3%83%BC%E3%82%AF%E3%83%AB"
-        },
-        {
-            "rank": "48",
-            "title": "Payphone",
-            "artist": "Maroon 5",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Maroon+5/_/Payphone"
-        },
-        {
-            "rank": "49",
-            "title": "This Love",
-            "artist": "Maroon 5",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Maroon+5/_/This+Love"
-        },
-        {
-            "rank": "50",
-            "title": "Two-faced",
-            "artist": "Michiru",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Michiru/_/Two-faced"
         }
     ],
     "alltime": [
@@ -406,7 +406,7 @@
             "rank": "1",
             "title": "DIE TRYING",
             "artist": "PARTYNEXTDOOR",
-            "playcount": 84,
+            "playcount": 85,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/PARTYNEXTDOOR/_/DIE+TRYING"
         },
@@ -444,6 +444,14 @@
         },
         {
             "rank": "6",
+            "title": "Men Sen Siyaqty",
+            "artist": "Darkhan Juzz",
+            "playcount": 38,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Men+Sen+Siyaqty"
+        },
+        {
+            "rank": "7",
             "title": "God's Plan",
             "artist": "Drake",
             "playcount": 38,
@@ -451,7 +459,7 @@
             "link": "https://www.last.fm/music/Drake/_/God%27s+Plan"
         },
         {
-            "rank": "7",
+            "rank": "8",
             "title": "Dive",
             "artist": "ziproom",
             "playcount": 38,
@@ -459,20 +467,12 @@
             "link": "https://www.last.fm/music/ziproom/_/Dive"
         },
         {
-            "rank": "8",
+            "rank": "9",
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 37,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Arizona+Zervas/_/ROXANNE"
-        },
-        {
-            "rank": "9",
-            "title": "Men Sen Siyaqty",
-            "artist": "Darkhan Juzz",
-            "playcount": 37,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Darkhan+Juzz/_/Men+Sen+Siyaqty"
         },
         {
             "rank": "10",
@@ -556,6 +556,14 @@
         },
         {
             "rank": "20",
+            "title": "夜に駆ける",
+            "artist": "YOASOBI",
+            "playcount": 30,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B"
+        },
+        {
+            "rank": "21",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 29,
@@ -563,7 +571,7 @@
             "link": "https://www.last.fm/music/Nana+Mizuki/_/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB"
         },
         {
-            "rank": "21",
+            "rank": "22",
             "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 29,
@@ -571,7 +579,7 @@
             "link": "https://www.last.fm/music/XXXTENTACION/_/Moonlight"
         },
         {
-            "rank": "22",
+            "rank": "23",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 28,
@@ -579,7 +587,7 @@
             "link": "https://www.last.fm/music/Drake/_/What+Did+I+Miss%3F"
         },
         {
-            "rank": "23",
+            "rank": "24",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 28,
@@ -587,20 +595,12 @@
             "link": "https://www.last.fm/music/Hiroshi+Kitadani/_/%E3%82%A6%E3%82%A3%E3%83%BC%E3%82%A2%E3%83%BC!"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 28,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Oliver+Tree/_/Alien+Boy"
-        },
-        {
-            "rank": "25",
-            "title": "夜に駆ける",
-            "artist": "YOASOBI",
-            "playcount": 28,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/YOASOBI/_/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B"
         },
         {
             "rank": "26",
@@ -644,6 +644,14 @@
         },
         {
             "rank": "31",
+            "title": "SPIT IN MY FACE!",
+            "artist": "ThxSoMch",
+            "playcount": 26,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!"
+        },
+        {
+            "rank": "32",
             "title": "HOPE",
             "artist": "XXXTENTACION",
             "playcount": 26,
@@ -651,7 +659,7 @@
             "link": "https://www.last.fm/music/XXXTENTACION/_/HOPE"
         },
         {
-            "rank": "32",
+            "rank": "33",
             "title": "i like the way you kiss me",
             "artist": "Artemas",
             "playcount": 25,
@@ -659,7 +667,7 @@
             "link": "https://www.last.fm/music/Artemas/_/i+like+the+way+you+kiss+me"
         },
         {
-            "rank": "33",
+            "rank": "34",
             "title": "Glass of Water",
             "artist": "Coldplay",
             "playcount": 25,
@@ -667,7 +675,7 @@
             "link": "https://www.last.fm/music/Coldplay/_/Glass+of+Water"
         },
         {
-            "rank": "34",
+            "rank": "35",
             "title": "Ol",
             "artist": "Darkhan Juzz",
             "playcount": 25,
@@ -675,7 +683,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Ol"
         },
         {
-            "rank": "35",
+            "rank": "36",
             "title": "Shyraq",
             "artist": "Darkhan Juzz",
             "playcount": 25,
@@ -683,7 +691,7 @@
             "link": "https://www.last.fm/music/Darkhan+Juzz/_/Shyraq"
         },
         {
-            "rank": "36",
+            "rank": "37",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 25,
@@ -691,7 +699,7 @@
             "link": "https://www.last.fm/music/Morgenshtern/_/%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F+%D0%9B%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C"
         },
         {
-            "rank": "37",
+            "rank": "38",
             "title": "Pain",
             "artist": "PinkPantheress",
             "playcount": 25,
@@ -699,20 +707,12 @@
             "link": "https://www.last.fm/music/PinkPantheress/_/Pain"
         },
         {
-            "rank": "38",
+            "rank": "39",
             "title": "12 to 12",
             "artist": "sombr",
             "playcount": 25,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/sombr/_/12+to+12"
-        },
-        {
-            "rank": "39",
-            "title": "SPIT IN MY FACE!",
-            "artist": "ThxSoMch",
-            "playcount": 25,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/ThxSoMch/_/SPIT+IN+MY+FACE!"
         },
         {
             "rank": "40",
@@ -764,6 +764,14 @@
         },
         {
             "rank": "46",
+            "title": "“Tomodachi Game” Main Theme",
+            "artist": "Michiru",
+            "playcount": 23,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Michiru/_/%E2%80%9CTomodachi+Game%E2%80%9D+Main+Theme"
+        },
+        {
+            "rank": "47",
             "title": "Usta",
             "artist": "rusha",
             "playcount": 23,
@@ -771,7 +779,7 @@
             "link": "https://www.last.fm/music/rusha/_/Usta"
         },
         {
-            "rank": "47",
+            "rank": "48",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 23,
@@ -779,29 +787,21 @@
             "link": "https://www.last.fm/music/+noredirect/Yuzu/_/REASON"
         },
         {
-            "rank": "48",
+            "rank": "49",
+            "title": "Janice STFU",
+            "artist": "Drake",
+            "playcount": 22,
+            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
+            "link": "https://www.last.fm/music/Drake/_/Janice+STFU"
+        },
+        {
+            "rank": "50",
             "title": "euphoria",
             "artist": "Kendrick Lamar",
             "playcount": 22,
             "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
             "link": "https://www.last.fm/music/Kendrick+Lamar/_/euphoria"
-        },
-        {
-            "rank": "49",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 22,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Masatoshi+Ono/_/Departure!"
-        },
-        {
-            "rank": "50",
-            "title": "“Tomodachi Game” Main Theme",
-            "artist": "Michiru",
-            "playcount": 22,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Michiru/_/%E2%80%9CTomodachi+Game%E2%80%9D+Main+Theme"
         }
     ],
-    "last_updated": 1790739107
+    "last_updated": 1790768779
 }
