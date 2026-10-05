@@ -18,27 +18,27 @@
         },
         {
             "rank": "3",
-            "title": "DIE TRYING",
-            "artist": "PARTYNEXTDOOR",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
-            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
-        },
-        {
-            "rank": "4",
-            "title": "Контракт",
-            "artist": "Poshlaya Molly",
-            "playcount": 5,
-            "image": "https://i.scdn.co/image/ab67616d0000b273418e072993fc456293ccc7c5",
-            "link": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
-        },
-        {
-            "rank": "5",
             "title": "No Face",
             "artist": "Drake",
             "playcount": 4,
             "image": "https://i.scdn.co/image/ab67616d0000b273cf05fc616cf7e38c0e52b888",
             "link": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
+        },
+        {
+            "rank": "4",
+            "title": "DIE TRYING",
+            "artist": "PARTYNEXTDOOR",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273b5a28a256eae6dc0424fef59",
+            "link": "https://open.spotify.com/track/0NUqi0ps17YpLUC3kgsZq0"
+        },
+        {
+            "rank": "5",
+            "title": "Контракт",
+            "artist": "Poshlaya Molly",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b273418e072993fc456293ccc7c5",
+            "link": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
         },
         {
             "rank": "6",
@@ -58,11 +58,11 @@
         },
         {
             "rank": "8",
-            "title": "ウィーアー!",
-            "artist": "Hiroshi Kitadani",
+            "title": "HUNTING FOR YOUR DREAM",
+            "artist": "Galneryus",
             "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737a1248eb3f195374b668f7e8",
-            "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
+            "image": "https://i.scdn.co/image/ab67616d0000b2732a3026471dce51cbbebb4748",
+            "link": "https://open.spotify.com/track/2wSBd0G5t1suEUn4xWM8Vh"
         },
         {
             "rank": "9",
@@ -114,14 +114,6 @@
         },
         {
             "rank": "15",
-            "title": "Qubylmaly",
-            "artist": "Darkhan Juzz",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731cddc0eab6582e94d526832c",
-            "link": "https://open.spotify.com/track/3004LRyOsDWOtaJpfsWRod"
-        },
-        {
-            "rank": "16",
             "title": "Janice STFU",
             "artist": "Drake",
             "playcount": 2,
@@ -129,7 +121,7 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
-            "rank": "17",
+            "rank": "16",
             "title": "NOKIA",
             "artist": "Drake",
             "playcount": 2,
@@ -137,15 +129,7 @@
             "link": "https://open.spotify.com/track/2u9S9JJ6hTZS3Vf22HOZKg"
         },
         {
-            "rank": "18",
-            "title": "HUNTING FOR YOUR DREAM",
-            "artist": "Galneryus",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732a3026471dce51cbbebb4748",
-            "link": "https://open.spotify.com/track/2wSBd0G5t1suEUn4xWM8Vh"
-        },
-        {
-            "rank": "19",
+            "rank": "17",
             "title": "あーーっす！",
             "artist": "Hiroshi Kitadani",
             "playcount": 2,
@@ -153,7 +137,15 @@
             "link": "https://open.spotify.com/track/3rki2mgXaUSL8av1syOWTB"
         },
         {
-            "rank": "20",
+            "rank": "18",
+            "title": "ウィーアー!",
+            "artist": "Hiroshi Kitadani",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b2737a1248eb3f195374b668f7e8",
+            "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
+        },
+        {
+            "rank": "19",
             "title": "Shut up My Moms Calling",
             "artist": "Hotel Ugly",
             "playcount": 2,
@@ -161,7 +153,7 @@
             "link": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
         },
         {
-            "rank": "21",
+            "rank": "20",
             "title": "Count Me Out",
             "artist": "Kendrick Lamar",
             "playcount": 2,
@@ -169,7 +161,7 @@
             "link": "https://open.spotify.com/track/6BU1RZexmvJcBjgagVVt3M"
         },
         {
-            "rank": "22",
+            "rank": "21",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 2,
@@ -177,7 +169,7 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "23",
+            "rank": "22",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 2,
@@ -185,7 +177,7 @@
             "link": "https://open.spotify.com/track/4cH6RfZ1qIuz6sumRoDEGK"
         },
         {
-            "rank": "24",
+            "rank": "23",
             "title": "“Tomodachi Game” Main Theme",
             "artist": "Michiru",
             "playcount": 2,
@@ -193,7 +185,7 @@
             "link": "https://open.spotify.com/track/3lBz9hQiZ4SEqBY7wGiPyu"
         },
         {
-            "rank": "25",
+            "rank": "24",
             "title": "Friendship or betrayal",
             "artist": "Michiru",
             "playcount": 2,
@@ -201,7 +193,7 @@
             "link": "https://open.spotify.com/track/61LZxmLJ0aCwQzcTT5gqCr"
         },
         {
-            "rank": "26",
+            "rank": "25",
             "title": "ДОМ (Лондон, Прага, Ницца)",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -209,7 +201,7 @@
             "link": "https://open.spotify.com/track/5rELQYNJgj4btlKsA47hiR"
         },
         {
-            "rank": "27",
+            "rank": "26",
             "title": "КРАСНЫЙ ФЛАГ",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -217,7 +209,7 @@
             "link": "https://open.spotify.com/track/7AuYlke4foydiCbZbqS5JP"
         },
         {
-            "rank": "28",
+            "rank": "27",
             "title": "ПУСТОЙ ВОКЗАЛ",
             "artist": "Morgenshtern",
             "playcount": 2,
@@ -225,7 +217,7 @@
             "link": "https://open.spotify.com/track/31DoKPoVBMXfPcrlb44gF0"
         },
         {
-            "rank": "29",
+            "rank": "28",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 2,
@@ -233,7 +225,7 @@
             "link": "https://open.spotify.com/track/6l5Ruz1XlAt5GGU0c9jECu"
         },
         {
-            "rank": "30",
+            "rank": "29",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 2,
@@ -241,7 +233,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "31",
+            "rank": "30",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 2,
@@ -249,7 +241,7 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "32",
+            "rank": "31",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 2,
@@ -257,7 +249,7 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "33",
+            "rank": "32",
             "title": "i wish i knew how to quit you",
             "artist": "sombr",
             "playcount": 2,
@@ -265,7 +257,7 @@
             "link": "https://open.spotify.com/track/5Lfdb0KKLWKEns27p20uYt"
         },
         {
-            "rank": "34",
+            "rank": "33",
             "title": "Some",
             "artist": "Steve Lacy",
             "playcount": 2,
@@ -273,7 +265,7 @@
             "link": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd"
         },
         {
-            "rank": "35",
+            "rank": "34",
             "title": "Jane!",
             "artist": "The Long Faces",
             "playcount": 2,
@@ -281,7 +273,7 @@
             "link": "https://open.spotify.com/track/1VXu0l60UkpybzcyX38pzc"
         },
         {
-            "rank": "36",
+            "rank": "35",
             "title": "SPIT IN MY FACE!",
             "artist": "ThxSoMch",
             "playcount": 2,
@@ -289,7 +281,7 @@
             "link": "https://open.spotify.com/track/1N8TTK1Uoy7UvQNUazfUt5"
         },
         {
-            "rank": "37",
+            "rank": "36",
             "title": "The Color Violet",
             "artist": "Tory Lanez",
             "playcount": 2,
@@ -297,7 +289,7 @@
             "link": "https://open.spotify.com/track/3azJifCSqg9fRij2yKIbWz"
         },
         {
-            "rank": "38",
+            "rank": "37",
             "title": "Amour Plastique",
             "artist": "Videoclub",
             "playcount": 2,
@@ -305,7 +297,7 @@
             "link": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
         },
         {
-            "rank": "39",
+            "rank": "38",
             "title": "Roi",
             "artist": "Videoclub",
             "playcount": 2,
@@ -313,7 +305,7 @@
             "link": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
         },
         {
-            "rank": "40",
+            "rank": "39",
             "title": "HOPE",
             "artist": "XXXTENTACION",
             "playcount": 2,
@@ -321,7 +313,39 @@
             "link": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
         },
         {
+            "rank": "40",
+            "title": "Ginpatsu no Shonen",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
+            "link": "https://open.spotify.com/track/7GiLP1xaxWCQgsQCJs54Q7"
+        },
+        {
             "rank": "41",
+            "title": "Hiiro no Hitomi no Aika",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
+            "link": "https://open.spotify.com/track/5rHaGWpXXfCZjkujj9fqnD"
+        },
+        {
+            "rank": "42",
+            "title": "Shonen no Asa no Uta",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
+            "link": "https://open.spotify.com/track/1qsISCtMsoMIGIWP3ybVCN"
+        },
+        {
+            "rank": "43",
+            "title": "The World of Adventurers - Kanzenban",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 2,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
+            "link": "https://open.spotify.com/track/0FrVhWFgNs3H0hNAAmAGbF"
+        },
+        {
+            "rank": "44",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 2,
@@ -329,7 +353,7 @@
             "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
         },
         {
-            "rank": "42",
+            "rank": "45",
             "title": "did i tell u that i miss u",
             "artist": "Adore",
             "playcount": 1,
@@ -337,7 +361,7 @@
             "link": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
         },
         {
-            "rank": "43",
+            "rank": "46",
             "title": "愛♡スクリ～ム！",
             "artist": "Aiscream",
             "playcount": 1,
@@ -345,7 +369,7 @@
             "link": "https://open.spotify.com/track/2BBIUV8wIBbqc7HXObzdgH"
         },
         {
-            "rank": "44",
+            "rank": "47",
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 1,
@@ -353,15 +377,7 @@
             "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
         },
         {
-            "rank": "45",
-            "title": "basqany :(",
-            "artist": "AYAU",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f53bd4aeb42086acc4e7441b",
-            "link": "https://open.spotify.com/track/44UwGXACfBK4GduW9Wu3U4"
-        },
-        {
-            "rank": "46",
+            "rank": "48",
             "title": "Duvet",
             "artist": "bôa",
             "playcount": 1,
@@ -369,15 +385,7 @@
             "link": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM"
         },
         {
-            "rank": "47",
-            "title": "Toxic",
-            "artist": "Britney Spears",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273efc6988972cb04105f002cd4",
-            "link": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
-        },
-        {
-            "rank": "48",
+            "rank": "49",
             "title": "Tek It - Sped Up",
             "artist": "Cafuné",
             "playcount": 1,
@@ -385,20 +393,12 @@
             "link": "https://open.spotify.com/track/0MnTkIEP4zZN1IUSu8MvIz"
         },
         {
-            "rank": "49",
+            "rank": "50",
             "title": "シンデレラ",
             "artist": "Cidergirl",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b27340f69650473301d4b98dbd02",
             "link": "https://open.spotify.com/track/6ilTR3RpLCAHDt3Z6YuQGx"
-        },
-        {
-            "rank": "50",
-            "title": "Adventure of a Lifetime",
-            "artist": "Coldplay",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
-            "link": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         }
     ],
-    "last_updated": 1791206405
+    "last_updated": 1791236876
 }
