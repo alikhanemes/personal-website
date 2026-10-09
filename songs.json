@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
-            "playcount": 7,
+            "playcount": 9,
             "image": "https://i.scdn.co/image/ab67616d0000b27320f0de8a767c627dc7639ba6",
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
@@ -36,7 +36,7 @@
             "rank": "5",
             "title": "HUNTING FOR YOUR DREAM",
             "artist": "Galneryus",
-            "playcount": 4,
+            "playcount": 5,
             "image": "https://i.scdn.co/image/ab67616d0000b2732a3026471dce51cbbebb4748",
             "link": "https://open.spotify.com/track/2wSBd0G5t1suEUn4xWM8Vh"
         },
@@ -74,6 +74,14 @@
         },
         {
             "rank": "10",
+            "title": "The World of Adventurers - Kanzenban",
+            "artist": "Yoshihisa Hirano",
+            "playcount": 4,
+            "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
+            "link": "https://open.spotify.com/track/0FrVhWFgNs3H0hNAAmAGbF"
+        },
+        {
+            "rank": "11",
             "title": "Whisper My Name",
             "artist": "Drake",
             "playcount": 3,
@@ -81,7 +89,7 @@
             "link": "https://open.spotify.com/track/7KGHenqXZofXNm5MKDbT3J"
         },
         {
-            "rank": "11",
+            "rank": "12",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 3,
@@ -89,7 +97,7 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "12",
+            "rank": "13",
             "title": "departure! - TV Size",
             "artist": "Masatoshi Ono",
             "playcount": 3,
@@ -97,7 +105,7 @@
             "link": "https://open.spotify.com/track/4SNgX7KKnhksuHBy1gdSu1"
         },
         {
-            "rank": "13",
+            "rank": "14",
             "title": "КРАСНЫЙ ФЛАГ",
             "artist": "Morgenshtern",
             "playcount": 3,
@@ -105,7 +113,7 @@
             "link": "https://open.spotify.com/track/7AuYlke4foydiCbZbqS5JP"
         },
         {
-            "rank": "14",
+            "rank": "15",
             "title": "Снова я напиваюсь",
             "artist": "SLAVA MARLOW",
             "playcount": 3,
@@ -113,7 +121,7 @@
             "link": "https://open.spotify.com/track/6JbZYUhyqil0sCYiqEyTKm"
         },
         {
-            "rank": "15",
+            "rank": "16",
             "title": "back to friends",
             "artist": "sombr",
             "playcount": 3,
@@ -121,7 +129,7 @@
             "link": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
         },
         {
-            "rank": "16",
+            "rank": "17",
             "title": "Ginpatsu no Shonen",
             "artist": "Yoshihisa Hirano",
             "playcount": 3,
@@ -129,20 +137,12 @@
             "link": "https://open.spotify.com/track/7GiLP1xaxWCQgsQCJs54Q7"
         },
         {
-            "rank": "17",
+            "rank": "18",
             "title": "Hiiro no Hitomi no Aika",
             "artist": "Yoshihisa Hirano",
             "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
             "link": "https://open.spotify.com/track/5rHaGWpXXfCZjkujj9fqnD"
-        },
-        {
-            "rank": "18",
-            "title": "The World of Adventurers - Kanzenban",
-            "artist": "Yoshihisa Hirano",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b27357ed69ead82fd46aec5c8cd9",
-            "link": "https://open.spotify.com/track/0FrVhWFgNs3H0hNAAmAGbF"
         },
         {
             "rank": "19",
@@ -386,7 +386,7 @@
         },
         {
             "rank": "49",
-            "title": "夕方のピアノ",
+            "title": "夕方のピアノ - 2015remaster",
             "artist": "Shinsei Kamattechan",
             "playcount": 2,
             "image": "https://i.scdn.co/image/ab67616d0000b2732846618f8ab9adcd6a0f1bf4",
@@ -394,11 +394,11 @@
         },
         {
             "rank": "50",
-            "title": "夕方のピアノ - 2015remaster",
-            "artist": "Shinsei Kamattechan",
+            "title": "Ты горишь как огонь",
+            "artist": "SLAVA MARLOW",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2732846618f8ab9adcd6a0f1bf4",
-            "link": "https://open.spotify.com/track/6bS04IBm3qJ0G0YRLCdM58"
+            "image": "https://i.scdn.co/image/ab67616d0000b2738a73344b156222135eb04b2c",
+            "link": "https://open.spotify.com/track/4DBSQFtcGCJyo6Hs3ZoAp9"
         }
     ],
     "alltime": [
@@ -580,6 +580,14 @@
         },
         {
             "rank": "23",
+            "title": "Just Awake",
+            "artist": "Fear, and Loathing in Las Vegas",
+            "playcount": 30,
+            "image": "https://i.scdn.co/image/ab67616d0000b27320f0de8a767c627dc7639ba6",
+            "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
+        },
+        {
+            "rank": "24",
             "title": "ウィーアー!",
             "artist": "Hiroshi Kitadani",
             "playcount": 30,
@@ -587,7 +595,7 @@
             "link": "https://open.spotify.com/track/1PdWDLJNk040dkuXoLLE2F"
         },
         {
-            "rank": "24",
+            "rank": "25",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 30,
@@ -595,7 +603,7 @@
             "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
         },
         {
-            "rank": "25",
+            "rank": "26",
             "title": "Alien Boy",
             "artist": "Oliver Tree",
             "playcount": 30,
@@ -603,7 +611,7 @@
             "link": "https://open.spotify.com/track/3BIIJgBJJ7NhhCv4MI6n7w"
         },
         {
-            "rank": "26",
+            "rank": "27",
             "title": "Moonlight",
             "artist": "XXXTENTACION",
             "playcount": 30,
@@ -611,7 +619,7 @@
             "link": "https://open.spotify.com/track/0JP9xo3adEtGSdUEISiszL"
         },
         {
-            "rank": "27",
+            "rank": "28",
             "title": "GIMME A HUG",
             "artist": "Drake",
             "playcount": 29,
@@ -619,7 +627,7 @@
             "link": "https://open.spotify.com/track/6QOwbaFzauGLVdITOrDwfi"
         },
         {
-            "rank": "28",
+            "rank": "29",
             "title": "Jerk",
             "artist": "Oliver Tree",
             "playcount": 29,
@@ -627,20 +635,12 @@
             "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
         },
         {
-            "rank": "29",
+            "rank": "30",
             "title": "Qubylmaly",
             "artist": "Darkhan Juzz",
             "playcount": 28,
             "image": "https://i.scdn.co/image/ab67616d0000b2731cddc0eab6582e94d526832c",
             "link": "https://open.spotify.com/track/3004LRyOsDWOtaJpfsWRod"
-        },
-        {
-            "rank": "30",
-            "title": "Just Awake",
-            "artist": "Fear, and Loathing in Las Vegas",
-            "playcount": 28,
-            "image": "https://i.scdn.co/image/ab67616d0000b27320f0de8a767c627dc7639ba6",
-            "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
             "rank": "31",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
         }
     ],
-    "last_updated": 1791568352
+    "last_updated": 1791583728
 }
