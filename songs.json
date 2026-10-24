@@ -4,7 +4,7 @@
             "rank": "1",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
-            "playcount": 4,
+            "playcount": 3,
             "image": "https://i.scdn.co/image/ab67616d0000b27320f0de8a767c627dc7639ba6",
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
@@ -18,14 +18,6 @@
         },
         {
             "rank": "3",
-            "title": "Hyouriittai",
-            "artist": "Yuzu",
-            "playcount": 3,
-            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
-            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
-        },
-        {
-            "rank": "4",
             "title": "恋風",
             "artist": "Lilas",
             "playcount": 2,
@@ -33,7 +25,7 @@
             "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
         },
         {
-            "rank": "5",
+            "rank": "4",
             "title": "Animals",
             "artist": "Maroon 5",
             "playcount": 2,
@@ -41,7 +33,7 @@
             "link": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "おもかげ (produced by Vaundy)",
             "artist": "Milet",
             "playcount": 2,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "You See Big Girl / T:T",
             "artist": "Sawano Hiroyuki",
             "playcount": 2,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/4dHOnPucB5VBYq3gjRtYy9"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "Yuugure no Tori - TV Size",
             "artist": "Shinsei Kamattechan",
             "playcount": 2,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/0ALVjqa35c93VuOb5bOlAV"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "るるちゃんの自殺配信",
             "artist": "Shinsei Kamattechan",
             "playcount": 2,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "Jane!",
             "artist": "The Long Faces",
             "playcount": 2,
@@ -81,15 +73,7 @@
             "link": "https://open.spotify.com/track/1VXu0l60UkpybzcyX38pzc"
         },
         {
-            "rank": "11",
-            "title": "Roi",
-            "artist": "Videoclub",
-            "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b2731f74480c2297fe08d015a3a6",
-            "link": "https://open.spotify.com/track/7LPGJhkRDEW6KopWhD8DbX"
-        },
-        {
-            "rank": "12",
+            "rank": "10",
             "title": "Revenge",
             "artist": "XXXTENTACION",
             "playcount": 2,
@@ -97,15 +81,15 @@
             "link": "https://open.spotify.com/track/5TXDeTFVRVY7Cvt0Dw4vWW"
         },
         {
-            "rank": "13",
-            "title": "REASON",
+            "rank": "11",
+            "title": "Hyouriittai",
             "artist": "Yuzu",
             "playcount": 2,
-            "image": "https://i.scdn.co/image/ab67616d0000b273c7cd89a0e7b99abe8492754c",
-            "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
+            "image": "https://i.scdn.co/image/ab67616d0000b2733b4f1162fae6a102b31197b5",
+            "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
         },
         {
-            "rank": "14",
+            "rank": "12",
             "title": "Bye Bye Bye",
             "artist": "*NSYNC",
             "playcount": 1,
@@ -113,7 +97,7 @@
             "link": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
         },
         {
-            "rank": "15",
+            "rank": "13",
             "title": "did i tell u that i miss u",
             "artist": "Adore",
             "playcount": 1,
@@ -121,7 +105,7 @@
             "link": "https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt"
         },
         {
-            "rank": "16",
+            "rank": "14",
             "title": "ルミナス - Luminous",
             "artist": "Aina The End",
             "playcount": 1,
@@ -129,15 +113,7 @@
             "link": "https://open.spotify.com/track/0kwdxxcu6EigYuZ8GauCMa"
         },
         {
-            "rank": "17",
-            "title": "Lullaby of Resembool",
-            "artist": "Akira Senju",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2735783d64df087a8837e29f271",
-            "link": "https://open.spotify.com/track/3GVVHFeGI8VgbJ9y27KreF"
-        },
-        {
-            "rank": "18",
+            "rank": "15",
             "title": "DEEP IN YOUR SOUL",
             "artist": "Alan Vuong",
             "playcount": 1,
@@ -145,7 +121,7 @@
             "link": "https://open.spotify.com/track/0tbar3AoobXRjfhlh7b95g"
         },
         {
-            "rank": "19",
+            "rank": "16",
             "title": "Remember Summer Days",
             "artist": "Anri",
             "playcount": 1,
@@ -153,7 +129,7 @@
             "link": "https://open.spotify.com/track/1qUo7d5lAOclNVbTUY0A2R"
         },
         {
-            "rank": "20",
+            "rank": "17",
             "title": "ROXANNE",
             "artist": "Arizona Zervas",
             "playcount": 1,
@@ -161,7 +137,7 @@
             "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
         },
         {
-            "rank": "21",
+            "rank": "18",
             "title": "Mirage",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -169,7 +145,7 @@
             "link": "https://open.spotify.com/track/3GVNp2UgIp2TN3ra67cxdg"
         },
         {
-            "rank": "22",
+            "rank": "19",
             "title": "ばかまじめ",
             "artist": "Creepy Nuts",
             "playcount": 1,
@@ -177,7 +153,7 @@
             "link": "https://open.spotify.com/track/7FiTlLKW0Knj8rm7lMa9N7"
         },
         {
-            "rank": "23",
+            "rank": "20",
             "title": "şeksız",
             "artist": "dudeontheguitar",
             "playcount": 1,
@@ -185,7 +161,7 @@
             "link": "https://open.spotify.com/track/1JzUMP3OxN7jUDGZGDglLC"
         },
         {
-            "rank": "24",
+            "rank": "21",
             "title": "Pumped Up Kicks",
             "artist": "Foster the People",
             "playcount": 1,
@@ -193,7 +169,7 @@
             "link": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
         },
         {
-            "rank": "25",
+            "rank": "22",
             "title": "SAYONARA Baby",
             "artist": "Fujii Kaze",
             "playcount": 1,
@@ -201,15 +177,7 @@
             "link": "https://open.spotify.com/track/6BhO28xuLVeaWKVnd1lbCJ"
         },
         {
-            "rank": "26",
-            "title": "光るなら",
-            "artist": "Goose house",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2730735b9b1d06b65bbd8814825",
-            "link": "https://open.spotify.com/track/2BlDX1yfT0ea5wo0vjCKKa"
-        },
-        {
-            "rank": "27",
+            "rank": "23",
             "title": "On Melancholy Hill",
             "artist": "Gorillaz",
             "playcount": 1,
@@ -217,7 +185,7 @@
             "link": "https://open.spotify.com/track/0q6LuUqGLUiCPP1cbdwFs3"
         },
         {
-            "rank": "28",
+            "rank": "24",
             "title": "Big Dawgs (feat. Kalmi)",
             "artist": "HanuMankind",
             "playcount": 1,
@@ -225,7 +193,7 @@
             "link": "https://open.spotify.com/track/0OA00aPt3BV10qeMIs3meW"
         },
         {
-            "rank": "29",
+            "rank": "25",
             "title": "シルエット",
             "artist": "KANA-BOON",
             "playcount": 1,
@@ -233,7 +201,7 @@
             "link": "https://open.spotify.com/track/72dZah06Qp19i4mk6YnRkv"
         },
         {
-            "rank": "30",
+            "rank": "26",
             "title": "Bad Romance",
             "artist": "Lady Gaga",
             "playcount": 1,
@@ -241,7 +209,7 @@
             "link": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
         },
         {
-            "rank": "31",
+            "rank": "27",
             "title": "Judas",
             "artist": "Lady Gaga",
             "playcount": 1,
@@ -249,7 +217,7 @@
             "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
         },
         {
-            "rank": "32",
+            "rank": "28",
             "title": "Falling Down - Bonus Track",
             "artist": "Lil Peep",
             "playcount": 1,
@@ -257,7 +225,7 @@
             "link": "https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9"
         },
         {
-            "rank": "33",
+            "rank": "29",
             "title": "Actor",
             "artist": "Lilas",
             "playcount": 1,
@@ -265,7 +233,7 @@
             "link": "https://open.spotify.com/track/7u18NKxs2xpNAb0qIEBeuN"
         },
         {
-            "rank": "34",
+            "rank": "30",
             "title": "Answer",
             "artist": "Lilas",
             "playcount": 1,
@@ -273,7 +241,7 @@
             "link": "https://open.spotify.com/track/0avegfB0TQ8cGDk9nuxcOQ"
         },
         {
-            "rank": "35",
+            "rank": "31",
             "title": "Latata",
             "artist": "Lilas",
             "playcount": 1,
@@ -281,7 +249,7 @@
             "link": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
         },
         {
-            "rank": "36",
+            "rank": "32",
             "title": "Name of Life",
             "artist": "Lilas",
             "playcount": 1,
@@ -289,7 +257,7 @@
             "link": "https://open.spotify.com/track/3E7Tmjfqt4PpulTC9sjXSh"
         },
         {
-            "rank": "37",
+            "rank": "33",
             "title": "Voyage",
             "artist": "Lilas",
             "playcount": 1,
@@ -297,7 +265,7 @@
             "link": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
         },
         {
-            "rank": "38",
+            "rank": "34",
             "title": "スパークル",
             "artist": "Lilas",
             "playcount": 1,
@@ -305,7 +273,7 @@
             "link": "https://open.spotify.com/track/3MR8qQiK1Bydhw9WjAzwzU"
         },
         {
-            "rank": "39",
+            "rank": "35",
             "title": "パズル",
             "artist": "Lilas",
             "playcount": 1,
@@ -313,7 +281,7 @@
             "link": "https://open.spotify.com/track/2vdoeTuRLpYeyo3JZC9yzR"
         },
         {
-            "rank": "40",
+            "rank": "36",
             "title": "百花繚乱",
             "artist": "Lilas",
             "playcount": 1,
@@ -321,7 +289,7 @@
             "link": "https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O"
         },
         {
-            "rank": "41",
+            "rank": "37",
             "title": "Guren no Yumiya Tv Size Ver.",
             "artist": "Linked Horizon",
             "playcount": 1,
@@ -329,15 +297,7 @@
             "link": "https://open.spotify.com/track/6rsbsdiGDrYvhbb1K7ziTL"
         },
         {
-            "rank": "42",
-            "title": "Shinzo wo Sasageyo !",
-            "artist": "Linked Horizon",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27374164dc6fb6a320abf6a34fd",
-            "link": "https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq"
-        },
-        {
-            "rank": "43",
+            "rank": "38",
             "title": "Roommates",
             "artist": "Malcolm Todd",
             "playcount": 1,
@@ -345,7 +305,7 @@
             "link": "https://open.spotify.com/track/5vPUv0xziXbV4lnWeVNXNq"
         },
         {
-            "rank": "44",
+            "rank": "39",
             "title": "Sugar",
             "artist": "Maroon 5",
             "playcount": 1,
@@ -353,15 +313,7 @@
             "link": "https://open.spotify.com/track/78Yxsdi1JiwLDsU7TWHezw"
         },
         {
-            "rank": "45",
-            "title": "Gold and Oden \"One Piece\"",
-            "artist": "Marthes",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273f66283f80a1863bbf42b63a0",
-            "link": "https://open.spotify.com/track/6rXuNTEuhCRTRIQjkTyq8a"
-        },
-        {
-            "rank": "46",
+            "rank": "40",
             "title": "Departure!",
             "artist": "Masatoshi Ono",
             "playcount": 1,
@@ -369,7 +321,7 @@
             "link": "https://open.spotify.com/track/4cH6RfZ1qIuz6sumRoDEGK"
         },
         {
-            "rank": "47",
+            "rank": "41",
             "title": "Aoi, Koi, Daidaiiro no Hi",
             "artist": "MASS OF THE FERMENTING DREGS",
             "playcount": 1,
@@ -377,7 +329,7 @@
             "link": "https://open.spotify.com/track/5S8jc9sCle880PjbwnEzsY"
         },
         {
-            "rank": "48",
+            "rank": "42",
             "title": "What's Up, People?!",
             "artist": "Maximum the Hormone",
             "playcount": 1,
@@ -385,7 +337,7 @@
             "link": "https://open.spotify.com/track/0rcYrX6FBj42SFacfwSZF7"
         },
         {
-            "rank": "49",
+            "rank": "43",
             "title": "運命の君",
             "artist": "Mega Shinnosuke",
             "playcount": 1,
@@ -393,12 +345,60 @@
             "link": "https://open.spotify.com/track/7yXDBF1sD0ouJniM3gnEZS"
         },
         {
-            "rank": "50",
+            "rank": "44",
             "title": "インフェルノ",
             "artist": "Mrs. GREEN APPLE",
             "playcount": 1,
             "image": "https://i.scdn.co/image/ab67616d0000b2731a4e99f0c693fecc9038d3dd",
             "link": "https://open.spotify.com/track/64yajM6CxtLghmgB53VeXT"
+        },
+        {
+            "rank": "45",
+            "title": "ダブルシャッフル",
+            "artist": "Nana Mizuki",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273de3a5fbfdd2233e4bedca8ae",
+            "link": "https://open.spotify.com/track/2fP2NoqPvzIVyAgSa1gIqJ"
+        },
+        {
+            "rank": "46",
+            "title": "All In All",
+            "artist": "Oliver Tree",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273bf118f32a37c18511647b54a",
+            "link": "https://open.spotify.com/track/2fAfLaxE6fswBIFKdh8L89"
+        },
+        {
+            "rank": "47",
+            "title": "Jerk",
+            "artist": "Oliver Tree",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273c1bdf5564ed647ab6cb12f4b",
+            "link": "https://open.spotify.com/track/065bY5WrLvI3NN9VCK0QLe"
+        },
+        {
+            "rank": "48",
+            "title": "Counting Stars",
+            "artist": "OneRepublic",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273e80e7dbce3996a1ae5967751",
+            "link": "https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62"
+        },
+        {
+            "rank": "49",
+            "title": "Zenzenzense - movie ver.",
+            "artist": "RADWIMPS",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b2733d1869d8c477d291a205a2d6",
+            "link": "https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR"
+        },
+        {
+            "rank": "50",
+            "title": "Boku no Sensou",
+            "artist": "Shinsei Kamattechan",
+            "playcount": 1,
+            "image": "https://i.scdn.co/image/ab67616d0000b273953495ccff3d6488674ac770",
+            "link": "https://open.spotify.com/track/3KhwEuqLNjHfsKaBDo1yVh"
         }
     ],
     "alltime": [
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/7G1S5eGG0sw7pcquBBA3L6"
         }
     ],
-    "last_updated": 1792799070
+    "last_updated": 1792810476
 }
