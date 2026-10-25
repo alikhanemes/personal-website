@@ -306,14 +306,6 @@
         },
         {
             "rank": "39",
-            "title": "Jocelyn Flores",
-            "artist": "XXXTENTACION",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273203c89bd4391468eea4cc3f5",
-            "link": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
-        },
-        {
-            "rank": "40",
             "title": "Bécane - A COLORS SHOW",
             "artist": "Yamê",
             "playcount": 1,
@@ -321,7 +313,7 @@
             "link": "https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ"
         },
         {
-            "rank": "41",
+            "rank": "40",
             "title": "Ginpatsu no Shonen",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -329,7 +321,7 @@
             "link": "https://open.spotify.com/track/7GiLP1xaxWCQgsQCJs54Q7"
         },
         {
-            "rank": "42",
+            "rank": "41",
             "title": "Hiiro no Hitomi no Aika",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -337,7 +329,7 @@
             "link": "https://open.spotify.com/track/5rHaGWpXXfCZjkujj9fqnD"
         },
         {
-            "rank": "43",
+            "rank": "42",
             "title": "Hunter ☆ March",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -345,7 +337,7 @@
             "link": "https://open.spotify.com/track/5CaCIQbqKaorWcJaTrdrPP"
         },
         {
-            "rank": "44",
+            "rank": "43",
             "title": "Kokai",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -353,7 +345,7 @@
             "link": "https://open.spotify.com/track/1HECVaEBsWMyCFw8eKpshG"
         },
         {
-            "rank": "45",
+            "rank": "44",
             "title": "Shonen no Asa no Uta",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -361,7 +353,7 @@
             "link": "https://open.spotify.com/track/1qsISCtMsoMIGIWP3ybVCN"
         },
         {
-            "rank": "46",
+            "rank": "45",
             "title": "The World of Adventurers - Kanzenban",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -369,7 +361,7 @@
             "link": "https://open.spotify.com/track/0FrVhWFgNs3H0hNAAmAGbF"
         },
         {
-            "rank": "47",
+            "rank": "46",
             "title": "Tomodachi ni Naroyo :)",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -377,7 +369,7 @@
             "link": "https://open.spotify.com/track/2nNY57sAc02bZTFEtoLHgT"
         },
         {
-            "rank": "48",
+            "rank": "47",
             "title": "Hyouriittai",
             "artist": "Yuzu",
             "playcount": 1,
@@ -385,7 +377,7 @@
             "link": "https://open.spotify.com/track/0v1vufjir4OE4iRckLMoLd"
         },
         {
-            "rank": "49",
+            "rank": "48",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 1,
@@ -393,7 +385,7 @@
             "link": "https://open.spotify.com/track/4YgEwanzISFU4xa27saTux"
         },
         {
-            "rank": "50",
+            "rank": "49",
             "title": "DUET",
             "artist": "ZICO",
             "playcount": 1,
@@ -803,5 +795,5 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         }
     ],
-    "last_updated": 1792935102
+    "last_updated": 1792951374
 }
