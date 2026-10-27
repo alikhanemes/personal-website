@@ -2,14 +2,6 @@
     "recent": [
         {
             "rank": "1",
-            "title": "ROXANNE",
-            "artist": "Arizona Zervas",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
-            "link": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
-        },
-        {
-            "rank": "2",
             "title": "Lost!",
             "artist": "Coldplay",
             "playcount": 1,
@@ -17,7 +9,7 @@
             "link": "https://open.spotify.com/track/1STAWoWHYJh2UVUx41pYMD"
         },
         {
-            "rank": "3",
+            "rank": "2",
             "title": "Family Matters",
             "artist": "Drake",
             "playcount": 1,
@@ -25,7 +17,7 @@
             "link": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
         },
         {
-            "rank": "4",
+            "rank": "3",
             "title": "Janice STFU",
             "artist": "Drake",
             "playcount": 1,
@@ -33,7 +25,7 @@
             "link": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz"
         },
         {
-            "rank": "5",
+            "rank": "4",
             "title": "No Face",
             "artist": "Drake",
             "playcount": 1,
@@ -41,7 +33,7 @@
             "link": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
         },
         {
-            "rank": "6",
+            "rank": "5",
             "title": "What Did I Miss?",
             "artist": "Drake",
             "playcount": 1,
@@ -49,7 +41,7 @@
             "link": "https://open.spotify.com/track/7oDbkGSI3IRzKmhrTiQdID"
         },
         {
-            "rank": "7",
+            "rank": "6",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 1,
@@ -57,7 +49,7 @@
             "link": "https://open.spotify.com/track/3Rb8CWVBpLDOyxafN2Op1w"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "HUNTING FOR YOUR DREAM",
             "artist": "Galneryus",
             "playcount": 1,
@@ -65,7 +57,7 @@
             "link": "https://open.spotify.com/track/2wSBd0G5t1suEUn4xWM8Vh"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "As It Was",
             "artist": "Harry Styles",
             "playcount": 1,
@@ -73,7 +65,7 @@
             "link": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "If",
             "artist": "Janet Jackson",
             "playcount": 1,
@@ -81,55 +73,7 @@
             "link": "https://open.spotify.com/track/0t414ewhjcIiuPVF3QECz2"
         },
         {
-            "rank": "11",
-            "title": "Judas",
-            "artist": "Lady Gaga",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2734ba15b951a5cff36133ca5bd",
-            "link": "https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c"
-        },
-        {
-            "rank": "12",
-            "title": "Latata",
-            "artist": "Lilas",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/53x4Fe0j0X5Nxo1UKsJNTX"
-        },
-        {
-            "rank": "13",
-            "title": "Voyage",
-            "artist": "Lilas",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27373074bf15397f0fbeba2e9db",
-            "link": "https://open.spotify.com/track/0djEHfacrcMs3DKuBba00C"
-        },
-        {
-            "rank": "14",
-            "title": "恋風",
-            "artist": "Lilas",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2737ec22dead06c7dd4fc2f5b0a",
-            "link": "https://open.spotify.com/track/3gw8n3DG28VaYGuVc3lqxl"
-        },
-        {
-            "rank": "15",
-            "title": "Animals",
-            "artist": "Maroon 5",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273442b53773d50e1b5369bb16c",
-            "link": "https://open.spotify.com/track/2bL2gyO6kBdLkNSkxXNh6x"
-        },
-        {
-            "rank": "16",
-            "title": "Departure!",
-            "artist": "Masatoshi Ono",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b27382be8dd80550d136eb751e61",
-            "link": "https://open.spotify.com/track/4cH6RfZ1qIuz6sumRoDEGK"
-        },
-        {
-            "rank": "17",
+            "rank": "10",
             "title": "ICE",
             "artist": "Morgenshtern",
             "playcount": 1,
@@ -137,7 +81,7 @@
             "link": "https://open.spotify.com/track/6fGoRtDjJZvt5IvVXl0rZy"
         },
         {
-            "rank": "18",
+            "rank": "11",
             "title": "КРАСНЫЙ ФЛАГ",
             "artist": "Morgenshtern",
             "playcount": 1,
@@ -145,7 +89,7 @@
             "link": "https://open.spotify.com/track/7AuYlke4foydiCbZbqS5JP"
         },
         {
-            "rank": "19",
+            "rank": "12",
             "title": "Последняя Любовь",
             "artist": "Morgenshtern",
             "playcount": 1,
@@ -153,7 +97,7 @@
             "link": "https://open.spotify.com/track/527D034h8WFtVDOBO6GAN5"
         },
         {
-            "rank": "20",
+            "rank": "13",
             "title": "Контракт",
             "artist": "Poshlaya Molly",
             "playcount": 1,
@@ -161,7 +105,7 @@
             "link": "https://open.spotify.com/track/2bqS0QtnXGjOYs3z6VtSyW"
         },
         {
-            "rank": "21",
+            "rank": "14",
             "title": "Qolshatyr",
             "artist": "rusha",
             "playcount": 1,
@@ -169,23 +113,7 @@
             "link": "https://open.spotify.com/track/2uHjk6Eska0jA0dsMY7vBr"
         },
         {
-            "rank": "22",
-            "title": "You See Big Girl / T:T",
-            "artist": "Sawano Hiroyuki",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2739c44e39f1b6aafe87a6db356",
-            "link": "https://open.spotify.com/track/4dHOnPucB5VBYq3gjRtYy9"
-        },
-        {
-            "rank": "23",
-            "title": "るるちゃんの自殺配信",
-            "artist": "Shinsei Kamattechan",
-            "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b273d14938188f84670b61137dbd",
-            "link": "https://open.spotify.com/track/1ZBhrIxwuiDVB0NDkyekgN"
-        },
-        {
-            "rank": "24",
+            "rank": "15",
             "title": "Ma Meilleure Ennemie ft. Coldplay",
             "artist": "Stromae",
             "playcount": 1,
@@ -193,7 +121,7 @@
             "link": "https://open.spotify.com/track/1ZHvGQZNz6HLbxhAtu7pin"
         },
         {
-            "rank": "25",
+            "rank": "16",
             "title": "fuck love",
             "artist": "XXXTENTACION",
             "playcount": 1,
@@ -201,7 +129,7 @@
             "link": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
         },
         {
-            "rank": "26",
+            "rank": "17",
             "title": "Ginpatsu no Shonen",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -209,7 +137,7 @@
             "link": "https://open.spotify.com/track/7GiLP1xaxWCQgsQCJs54Q7"
         },
         {
-            "rank": "27",
+            "rank": "18",
             "title": "Hiiro no Hitomi no Aika",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -217,7 +145,7 @@
             "link": "https://open.spotify.com/track/5rHaGWpXXfCZjkujj9fqnD"
         },
         {
-            "rank": "28",
+            "rank": "19",
             "title": "Hunter ☆ March",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -225,7 +153,7 @@
             "link": "https://open.spotify.com/track/5CaCIQbqKaorWcJaTrdrPP"
         },
         {
-            "rank": "29",
+            "rank": "20",
             "title": "Kokai",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -233,7 +161,7 @@
             "link": "https://open.spotify.com/track/1HECVaEBsWMyCFw8eKpshG"
         },
         {
-            "rank": "30",
+            "rank": "21",
             "title": "Shonen no Asa no Uta",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -241,7 +169,7 @@
             "link": "https://open.spotify.com/track/1qsISCtMsoMIGIWP3ybVCN"
         },
         {
-            "rank": "31",
+            "rank": "22",
             "title": "The World of Adventurers - Kanzenban",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -249,7 +177,7 @@
             "link": "https://open.spotify.com/track/0FrVhWFgNs3H0hNAAmAGbF"
         },
         {
-            "rank": "32",
+            "rank": "23",
             "title": "Tomodachi ni Naroyo :)",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -659,5 +587,5 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         }
     ],
-    "last_updated": 1793071127
+    "last_updated": 1793100350
 }
