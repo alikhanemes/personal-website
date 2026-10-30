@@ -285,8 +285,8 @@
             "title": "Right Here",
             "artist": "Justin Bieber",
             "playcount": 1,
-            "image": "https://i.scdn.co/image/ab67616d0000b2736c20c4638a558132ba95bc39",
-            "link": "https://open.spotify.com/track/7vjtAU3Ns1AT4dRa0voHBJ"
+            "image": "https://i.scdn.co/image/ab67616d0000b273f1d02a6cec967f8b6b78f76e",
+            "link": "https://open.spotify.com/track/2Rmuzh89p29BeTIF63Opwo"
         },
         {
             "rank": "37",
@@ -803,5 +803,5 @@
             "link": "https://open.spotify.com/track/0Y27miOkWnVymvOIA19BgU"
         }
     ],
-    "last_updated": 1793304172
+    "last_updated": 1793320455
 }
