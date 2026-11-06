@@ -42,14 +42,6 @@
         },
         {
             "rank": "6",
-            "title": "Toosie Slide",
-            "artist": "Drake",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Drake/_/Toosie+Slide"
-        },
-        {
-            "rank": "7",
             "title": "Just Awake",
             "artist": "Fear, and Loathing in Las Vegas",
             "playcount": 1,
@@ -57,7 +49,7 @@
             "link": "https://www.last.fm/music/Fear,+and+Loathing+in+Las+Vegas/_/Just+Awake"
         },
         {
-            "rank": "8",
+            "rank": "7",
             "title": "光るなら",
             "artist": "Goose house",
             "playcount": 1,
@@ -65,7 +57,7 @@
             "link": "https://www.last.fm/music/Goose+house/_/%E5%85%89%E3%82%8B%E3%81%AA%E3%82%89"
         },
         {
-            "rank": "9",
+            "rank": "8",
             "title": "L no Theme",
             "artist": "Hideki Taniuchi",
             "playcount": 1,
@@ -73,7 +65,7 @@
             "link": "https://www.last.fm/music/+noredirect/Hideki+Taniuchi/_/L+no+Theme"
         },
         {
-            "rank": "10",
+            "rank": "9",
             "title": "Voyage",
             "artist": "Lilas",
             "playcount": 1,
@@ -81,15 +73,7 @@
             "link": "https://www.last.fm/music/Lilas/_/Voyage"
         },
         {
-            "rank": "11",
-            "title": "Can You Hear the Music",
-            "artist": "Ludwig Göransson",
-            "playcount": 1,
-            "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png",
-            "link": "https://www.last.fm/music/Ludwig+G%C3%B6ransson/_/Can+You+Hear+the+Music"
-        },
-        {
-            "rank": "12",
+            "rank": "10",
             "title": "departure! - TV Size",
             "artist": "Masatoshi Ono",
             "playcount": 1,
@@ -97,7 +81,7 @@
             "link": "https://www.last.fm/music/Masatoshi+Ono/_/departure!+-+TV+Size"
         },
         {
-            "rank": "13",
+            "rank": "11",
             "title": "“Tomodachi Game” Main Theme",
             "artist": "Michiru",
             "playcount": 1,
@@ -105,7 +89,7 @@
             "link": "https://www.last.fm/music/Michiru/_/%E2%80%9CTomodachi+Game%E2%80%9D+Main+Theme"
         },
         {
-            "rank": "14",
+            "rank": "12",
             "title": "ダブルシャッフル",
             "artist": "Nana Mizuki",
             "playcount": 1,
@@ -113,7 +97,7 @@
             "link": "https://www.last.fm/music/Nana+Mizuki/_/%E3%83%80%E3%83%96%E3%83%AB%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB"
         },
         {
-            "rank": "15",
+            "rank": "13",
             "title": "the WORLD",
             "artist": "Nightmare",
             "playcount": 1,
@@ -121,7 +105,7 @@
             "link": "https://www.last.fm/music/Nightmare/_/the+WORLD"
         },
         {
-            "rank": "16",
+            "rank": "14",
             "title": "The WORLD - TV Size",
             "artist": "Nightmare",
             "playcount": 1,
@@ -129,7 +113,7 @@
             "link": "https://www.last.fm/music/Nightmare/_/The+WORLD+-+TV+Size"
         },
         {
-            "rank": "17",
+            "rank": "15",
             "title": "Hyori Ittai",
             "artist": "Romix",
             "playcount": 1,
@@ -137,7 +121,7 @@
             "link": "https://www.last.fm/music/Romix/_/Hyori+Ittai"
         },
         {
-            "rank": "18",
+            "rank": "16",
             "title": "Aoi",
             "artist": "Sakanaction",
             "playcount": 1,
@@ -145,7 +129,7 @@
             "link": "https://www.last.fm/music/+noredirect/Sakanaction/_/Aoi"
         },
         {
-            "rank": "19",
+            "rank": "17",
             "title": "Attack on titan",
             "artist": "Sawano Hiroyuki",
             "playcount": 1,
@@ -153,7 +137,7 @@
             "link": "https://www.last.fm/music/+noredirect/Sawano+Hiroyuki/_/Attack+on+titan"
         },
         {
-            "rank": "20",
+            "rank": "18",
             "title": "青のすみか",
             "artist": "Tatsuya Kitani",
             "playcount": 1,
@@ -161,7 +145,7 @@
             "link": "https://www.last.fm/music/Tatsuya+Kitani/_/%E9%9D%92%E3%81%AE%E3%81%99%E3%81%BF%E3%81%8B"
         },
         {
-            "rank": "21",
+            "rank": "19",
             "title": "Unravel",
             "artist": "TK from Ling tosite sigure",
             "playcount": 1,
@@ -169,7 +153,7 @@
             "link": "https://www.last.fm/music/+noredirect/TK+from+Ling+tosite+sigure/_/Unravel"
         },
         {
-            "rank": "22",
+            "rank": "20",
             "title": "残酷な天使のテーゼ",
             "artist": "Yoko Takahashi",
             "playcount": 1,
@@ -177,7 +161,7 @@
             "link": "https://www.last.fm/music/Yoko+Takahashi/_/%E6%AE%8B%E9%85%B7%E3%81%AA%E5%A4%A9%E4%BD%BF%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC"
         },
         {
-            "rank": "23",
+            "rank": "21",
             "title": "Kingdom Of Predators",
             "artist": "Yoshihisa Hirano",
             "playcount": 1,
@@ -185,7 +169,7 @@
             "link": "https://www.last.fm/music/+noredirect/Yoshihisa+Hirano/_/Kingdom+Of+Predators"
         },
         {
-            "rank": "24",
+            "rank": "22",
             "title": "Hyouriittai",
             "artist": "Yuzu",
             "playcount": 1,
@@ -193,7 +177,7 @@
             "link": "https://www.last.fm/music/+noredirect/Yuzu/_/Hyouriittai"
         },
         {
-            "rank": "25",
+            "rank": "23",
             "title": "REASON",
             "artist": "Yuzu",
             "playcount": 1,
@@ -603,5 +587,5 @@
             "link": "https://www.last.fm/music/Coldplay/_/Glass+of+Water"
         }
     ],
-    "last_updated": 1793927984
+    "last_updated": 1793960136
 }
