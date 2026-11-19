@@ -3,13 +3,20 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#ffffff">
   <title>{% block title %}Alikhan Zarubay{% endblock %}</title>
-  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script src="{{ url_for('static', filename='theme.js') }}?v=1"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}?v=theme-1">
   {% block extra_head %}{% endblock %}
 </head>
 <body>
   <a class="skip-link" href="#content">Skip to content</a>
   <header class="site-header">
+    <button class="theme-toggle" data-theme-toggle type="button" aria-label="Dark theme" aria-pressed="false" title="Switch to dark theme" hidden>
+      <span class="theme-thumb" aria-hidden="true"></span>
+      <svg class="theme-sun" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="3.5"/><path d="M12 2v2m0 16v2M2 12h2m16 0h2M5 5l1.5 1.5m11 11L19 19M5 19l1.5-1.5m11-11L19 5"/></svg>
+      <svg class="theme-moon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false"><path d="M20.5 13.1A8.5 8.5 0 0 1 10.9 3.5a8.5 8.5 0 1 0 9.6 9.6Z"/></svg>
+    </button>
     <nav class="primary-nav" aria-label="Main navigation">
       <a href="{{ url_for('main') }}"{% if active == 'main' %} aria-current="page"{% endif %}>Main</a>
       <a href="{{ url_for('archive') }}"{% if active == 'posts' %} aria-current="page"{% endif %}>Posts</a>
