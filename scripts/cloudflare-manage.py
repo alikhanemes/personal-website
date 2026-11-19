@@ -169,7 +169,7 @@ def run(args):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command', choices=['set-admin', 'status', 'import', 'restore', 'review', 'backup'])
+    parser.add_argument('command', choices=['set-admin', 'status', 'import', 'restore', 'review', 'backup', 'process-email'])
     parser.add_argument('--url')
     parser.add_argument('--source')
     parser.add_argument('--output')

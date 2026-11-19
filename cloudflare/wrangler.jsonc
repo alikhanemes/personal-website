@@ -20,7 +20,7 @@
   "vars": {
     "BLOG_ENV": "production",
     "BLOG_PUBLIC_ENABLED": "true",
-    "BLOG_EMAIL_MODE": "disabled",
+    "BLOG_EMAIL_MODE": "test",
     "BLOG_PUBLIC_BASE_URL": "https://alikhan-zarubay.com"
   }
 }

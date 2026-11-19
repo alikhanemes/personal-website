@@ -4,7 +4,9 @@ Flask, Jinja, SQLite, plain CSS, and a bundled Tiptap editor. Python 3.11+ is
 required. Existing data, permalinks, CNAME, Git history, and the old-site backup
 are preserved. Cloudflare hosting keeps the same Flask app and SQLite format.
 See [Cloudflare setup, limits and recovery](docs/cloudflare.md) for the current
-free hosting configuration; real email delivery requires separate Resend setup.
+free hosting configuration. Resend is connected; hosted email is currently in
+test mode, restricted to the owner's approved test address while verification
+is completed.
 
 Live site: https://alikhan-zarubay.com · Private editor:
 https://alikhan-zarubay.com/shygarma. Use the hosted editor for live articles;
@@ -78,7 +80,9 @@ Setup email is restricted to the explicitly approved test address configured in
 the host's `BLOG_EMAIL_TEST_ADDRESS` setting. Confirmed subscribers are stored in SQLite; Resend
 delivers notices. The durable outbox retries with stable provider keys and stops
 ambiguous late retries for review. Provider failure never blocks publication.
-The wsgi entry point runs the in-process email/cleanup loop; manual processing:
+Cloudflare processes the queue every five minutes; its signed `process-email`
+command processes one job immediately (see the hosting guide). The local wsgi
+entry point runs the in-process email/cleanup loop; local manual processing:
 
 ```powershell
 & .\venv\Scripts\python.exe -m flask --app app process-email --limit 20

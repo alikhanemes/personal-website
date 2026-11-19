@@ -6,8 +6,9 @@ The active zero-cost hosting setup is documented in [Cloudflare](cloudflare.md).
 GitHub authentication was repaired and the blog was pushed to `main`. The Render
 instructions below are retained as an alternative requiring a paid persistent
 disk; do not use them for the current free deployment. No provider credentials
-belong in Git or chat. Real Resend delivery still needs external verification;
-the owner confirmed phone sign-in on the hosted Cloudflare preview.
+belong in Git or chat. Resend is connected in test mode; current delivery checks
+are recorded in [verification-phase3.md](verification-phase3.md). The owner
+confirmed phone sign-in on the hosted Cloudflare preview.
 
 The existing remote is `https://github.com/alikhanemes/personal-website.git`.
 Nothing here changes unrelated DNS/mail records or the existing `CNAME` file.

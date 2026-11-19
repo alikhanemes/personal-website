@@ -45,7 +45,8 @@ the locked dependencies. Keep `cloudflare/pylock.toml` tracked. Generated
 are ignored. The build uses an explicit source/template/code-asset allowlist;
 it never copies articles, SQLite files, backups, `.env` or admin credentials.
 
-The current configuration opens the verified imported site and disables email.
+The current configuration opens the verified imported site. Email is in setup
+test mode and accepts only the explicitly approved recipient.
 For a new site or migration, first set `BLOG_PUBLIC_ENABLED` to `"false"` and deploy.
 Once the import has been checked, approve its review hold, set it to `"true"`
 and deploy again. Subsequent deploys retain that explicit setting and the same
@@ -173,15 +174,49 @@ addresses need migration. Preserve the records nevertheless; any future domain
 mail requires a separately configured provider. The pre-cutover DNS snapshot is
 private at `.local-backups/dns-before-cloudflare-20261119.json`.
 
-Resend remains disabled until its API key and verified sending subdomain are
-configured. The owner explicitly chose to keep delivery disabled at this handover.
-Put `RESEND_API_KEY`, `BLOG_EMAIL_FROM` and `BLOG_EMAIL_TEST_ADDRESS`
-in the Worker's secret settings; set `BLOG_EMAIL_MODE` to `test` in the config
-and redeploy. The test address must be the one explicitly authorized by the owner.
-The approved setup recipient is `iamzarubay24@gmail.com`.
-Do not use `live` during setup. Confirm, broadcast once, retry without duplicates,
-and unsubscribe must be verified with that address before enabling real audiences.
-Edits/restores do not create broadcasts; importing published posts does not notify.
+The owner configured the root domain `alikhan-zarubay.com` in Resend and installed
+a sending-only API key in Cloudflare's `RESEND_API_KEY` secret. The sender is
+`Alikhan <newsletter@alikhan-zarubay.com>` (`BLOG_EMAIL_FROM`); the approved test
+recipient is `iamzarubay24@gmail.com` (`BLOG_EMAIL_TEST_ADDRESS`). These settings
+are host secrets, never committed credentials. No Gmail sending account or paid
+mailbox is required. This config authorizes sending; incoming replies need separate
+mail receiving/forwarding configuration.
+
+Resend's current DNS configuration uses its TXT record at `resend._domainkey`,
+plus DNS-only CNAMEs `rsend` → `rsend-apne1.forge.rmta.net` and `send` →
+`send.forge.rmta.net`. Copy the actual DKIM value from the owner's Resend account;
+do not reuse a key from a different domain/team. Preserve existing root MX/SPF
+records. DMARC is recommended; no root DMARC policy was visible during setup.
+
+For a new installation, leave `BLOG_EMAIL_MODE=disabled` until the key and sender
+are configured. Then set it to `test` and redeploy. Test mode rejects signup and
+delivery for every address except `BLOG_EMAIL_TEST_ADDRESS`. Verify confirmation,
+one first-publication notice, retry without duplicates and unsubscribe before
+setting it to `live` and redeploying. Public signup then requires double opt-in;
+publishing still requires an explicit Notify choice. Edits/restores do not create
+broadcasts, and importing published posts does not notify.
+
+The current `/emails` API integration counts each recipient against Resend's Free
+allowance: 100 emails/day and 3,000/month, including signup confirmations. More
+subscribers require a delivery/quota review, not an automatic paid upgrade.
+See [Resend's pricing](https://resend.com/pricing). The confirmed audience remains
+in SQLite; the app supplies visible and one-click unsubscribe links.
+
+The five-minute Cron processes queued messages. To process one immediately or
+inspect safe configuration metadata through the signed administration channel:
+
+```powershell
+$blogUrl = 'https://alikhan-blog.alikhan-blog-editor.workers.dev'
+& .\cloudflare\.venv-workers\Scripts\python.exe -X utf8 scripts/cloudflare-manage.py status --url $blogUrl
+& .\cloudflare\.venv-workers\Scripts\python.exe -X utf8 scripts/cloudflare-manage.py process-email --url $blogUrl
+```
+
+Rerunning processing does not resend completed jobs. Temporary failures retain
+their original provider key; ambiguous requests older than 23 hours are held for
+provider reconciliation. A restore/public review hold or disabled mode prevents
+delivery, including through this command. To stop sending, set
+`BLOG_EMAIL_MODE=disabled` in `cloudflare/wrangler.jsonc` and deploy; keep the outbox
+for review rather than rebuilding or clearing it.
 
 Code rollback preserves data: `wrangler.cmd rollback <version-id> --config
 cloudflare/wrangler.jsonc`. Retain the same Worker/Object identity and storage

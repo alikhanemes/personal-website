@@ -132,7 +132,19 @@ Cloudflare address with the real hostname and ordinary TLS validation succeeds.
 The complete production HTTP checks also passed against the custom domain:
 full imported article, original permalink/date, sample/missing 404s, private-route
 401s, editor password gate, secure cookie flags and no-store response headers.
-Real Resend delivery remains unverified; the owner chose to keep email disabled.
+The owner subsequently configured Resend and authorized test-only delivery to
+`iamzarubay24@gmail.com`. A real confirmation arrived in Gmail's Inbox from
+`Alikhan <newsletter@alikhan-zarubay.com>`; Gmail reported SPF and domain DKIM pass.
+The canonical confirmation link was present. GET did not confirm the address;
+CSRF-protected POST did. Repeat signup created no duplicate job, and processing
+the completed queue again sent zero messages. Signup for a different address
+was rejected without creating a subscription. Signed maintenance forgery/replay
+checks still pass. A pre-email snapshot is private at
+`.local-backups/before-newsletter-20261119.zip`.
+
+At this checkpoint, the live first-publication notice and unsubscribe check are
+pending an owner publish from the password-protected editor. Test mode remains
+active until that flow passes.
 No new browser visual check was performed for the
 Cloudflare adapter; it serves the same article CSS verified above. The new
 client-side large-image resizing path has not been exercised on a physical phone.

@@ -100,7 +100,7 @@ class Blog(DurableObject):
             'EMAIL_FROM': self._setting('BLOG_EMAIL_FROM'),
             'PUBLIC_BASE_URL': self._setting('BLOG_PUBLIC_BASE_URL'),
             'RESEND_API_KEY': self._setting('RESEND_API_KEY'),
-            'EMAIL_TRANSPORT': self._send_email,
+            'EMAIL_TRANSPORT': self._send_email if self._setting('RESEND_API_KEY') else None,
         }
         telegram = self._setting('BLOG_TELEGRAM_URL')
         if telegram:
@@ -215,10 +215,17 @@ class Blog(DurableObject):
                 return Response('Request already used', status=409)
             try:
                 if path == '/__cloudflare/status':
+                    import newsletter
                     summary = {'posts': posts.editor_list_posts(), 'held': (self.files.root / operations.MARKER).exists(),
                                'public_enabled': self.app.config['PUBLIC_ENABLED'],
-                               'admin_configured': bool(self.app.config['ADMIN_PASSWORD_HASH'])}
+                               'admin_configured': bool(self.app.config['ADMIN_PASSWORD_HASH']),
+                               'email': {'mode': self.app.config['EMAIL_MODE'],
+                                         'configured': newsletter.configured(),
+                                         'key_configured': bool(self.app.config['RESEND_API_KEY'])}}
                     return self._json(summary)
+                if path == '/__cloudflare/process-email':
+                    import newsletter
+                    return self._json(newsletter.process_outbox(limit=1))
                 if path in {'/__cloudflare/import', '/__cloudflare/restore'}:
                     # Initial transfer only. Restoring an existing site uses the
                     # held restore flow, and must merge its current tombstones.
