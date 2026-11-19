@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+{% block title %}Sign in · Alikhan Zarubay{% endblock %}
+{% block extra_head %}<meta name="csrf-token" content="{{ csrf }}">{% endblock %}
+{% block content %}
+<section class="signin-panel">
+  <h1>Writing room</h1>
+  <p class="signin-intro">Verify your password to unlock this tab.</p>
+  {% if not configured %}<p>First, run <code>python -m flask --app app set-admin</code> locally to configure your admin password.</p>{% endif %}
+  <form id="signin-form">
+    <label for="admin-password">Admin password</label>
+    <input id="admin-password" name="password" type="password" autocomplete="current-password" required maxlength="1024">
+    <button type="submit">Unlock this tab</button>
+  </form>
+  <p id="signin-status" role="status" aria-live="polite"></p>
+  <noscript>JavaScript is required for the private editor and tab verification.</noscript>
+</section>
+{% endblock %}
+{% block extra_scripts %}
+<script id="auth-config" type="application/json">{{ {'csrf':csrf,'gate':true}|tojson }}</script>
+<script src="{{ url_for('static', filename='tab-access.js') }}" defer></script>
+{% endblock %}

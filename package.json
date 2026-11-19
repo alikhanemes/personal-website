@@ -1,0 +1,15 @@
+{
+  "name": "alikhan-blog-editor",
+  "private": true,
+  "scripts": {
+    "build:editor": "node scripts/build-editor.mjs"
+  },
+  "dependencies": {
+    "@tiptap/core": "3.34.0",
+    "@tiptap/pm": "3.34.0",
+    "@tiptap/starter-kit": "3.34.0"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.2"
+  }
+}

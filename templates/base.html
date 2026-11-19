@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% block title %}Alikhan Zarubay{% endblock %}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  {% block extra_head %}{% endblock %}
+</head>
+<body>
+  <a class="skip-link" href="#content">Skip to content</a>
+  <header class="site-header">
+    <nav class="primary-nav" aria-label="Main navigation">
+      <a href="{{ url_for('main') }}"{% if active == 'main' %} aria-current="page"{% endif %}>Main</a>
+      <a href="{{ url_for('archive') }}"{% if active == 'posts' %} aria-current="page"{% endif %}>Posts</a>
+    </nav>
+    <div class="subscribe-controls" aria-label="Follow the blog">
+      <a class="email-control" href="{{ url_for('subscribe') }}">Subscribe by email</a>
+      {% if telegram_url %}
+      <a class="telegram-control" href="{{ telegram_url }}" aria-label="Telegram channel" title="Telegram channel">
+      {% else %}
+      <button class="telegram-control" type="button" disabled aria-label="Telegram channel unavailable" title="Telegram channel is not configured">
+      {% endif %}
+        <svg viewBox="0 0 24 24" width="21" height="21" aria-hidden="true" focusable="false"><path fill="currentColor" d="M20.7 3.5 2.9 10.4c-1.2.5-1.2 1.2-.2 1.5l4.6 1.4 1.8 5.6c.2.6.1.8.7.8.4 0 .6-.2.9-.5l2.2-2.1 4.7 3.5c.9.5 1.5.2 1.7-.8l3-14.2c.3-1.3-.5-1.9-1.6-1.5ZM8 13l10.5-6.6c.5-.3.9-.1.5.2l-8.7 7.9-.3 3.5L8 13Z"/></svg>
+      {% if telegram_url %}</a>{% else %}</button>{% endif %}
+    </div>
+  </header>
+  <main id="content" class="page-shell">{% block content %}{% endblock %}</main>
+  <script src="{{ url_for('static', filename='spoilers.js') }}" defer></script>
+  {% if auth_bridge %}
+  <script id="auth-config" type="application/json">{{ {'csrf':auth_csrf,'gate':false}|tojson }}</script>
+  <script src="{{ url_for('static', filename='tab-access.js') }}" defer></script>
+  {% endif %}
+  {% block extra_scripts %}{% endblock %}
+</body>
+</html>

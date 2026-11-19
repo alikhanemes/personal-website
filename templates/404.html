@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+{% block title %}Page not found · Alikhan Zarubay{% endblock %}
+{% block content %}
+<section class="empty-state">
+  <p class="error-code">404</p>
+  <h1>Page not found.</h1>
+  <p>There is no published article at this address.</p>
+  <p><a href="{{ url_for('main') }}">Return to Main</a></p>
+</section>
+{% endblock %}

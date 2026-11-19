@@ -1,5 +1,24 @@
+# Local environments, credentials and legacy token caches
 venv/
-__pycache__/
+.venv/
 .env
+.env.*
+!.env.example
+.cache
+.cache-*
+__pycache__/
+*.py[cod]
 .DS_Store
-app.py
+
+# Private backups and runtime data; Flask serves only static/
+.local-backups/
+data/
+instance/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+.qa/
+node_modules/
+admin.json

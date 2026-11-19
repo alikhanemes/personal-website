@@ -1,0 +1,79 @@
+{% extends "base.html" %}
+{% block title %}Write · Alikhan Zarubay{% endblock %}
+{% block extra_head %}<link rel="stylesheet" href="{{ url_for('editor_css', tab=editor_config.tabToken) }}">{% endblock %}
+{% block content %}
+<section class="writing-room" aria-label="Private article editor">
+  <div class="writing-topline">
+    <h1>Writing room</h1>
+    <form action="/shygarma/logout" method="post" id="logout-form">
+      <input type="hidden" name="csrf_token" value="{{ editor_config.csrf }}">
+      <input type="hidden" name="tab_token" value="{{ editor_config.tabToken }}">
+      <button type="submit" class="quiet-button">Sign out</button>
+    </form>
+  </div>
+  <div class="draft-picker">
+    <label for="post-picker">Your articles</label>
+    <select id="post-picker"><option value="">Choose an article</option></select>
+    <button id="new-post" type="button">New draft</button>
+  </div>
+  <div id="editor-message" class="editor-message" role="alert" hidden></div>
+  <div id="cleanup-panel" class="operation-panel" role="status" hidden><p id="cleanup-status"></p><button id="retry-cleanup" type="button" hidden>Retry file cleanup</button></div>
+  <div id="empty-editor" class="empty-editor"><p>Start a new draft, or reopen an article above. Drafts and unsent changes stay private.</p></div>
+  <div id="editing-panel" hidden>
+    <div class="editor-meta"><span id="post-kind">Draft</span><span id="post-url"></span></div>
+    <label class="sr-only" for="post-title">Article title</label>
+    <input id="post-title" class="post-title-input" placeholder="Article title" maxlength="300" autocomplete="off">
+    <div class="editor-toolbar" role="toolbar" aria-label="Article formatting">
+      <label class="sr-only" for="block-format">Paragraph style</label>
+      <select id="block-format" aria-label="Paragraph style"><option value="paragraph">Paragraph</option><option value="2">Heading 2</option><option value="3">Heading 3</option></select>
+      <button type="button" data-command="bold" aria-label="Bold" title="Bold (Ctrl+B)"><strong>B</strong></button>
+      <button type="button" data-command="italic" aria-label="Italic" title="Italic (Ctrl+I)"><em>I</em></button>
+      <button type="button" data-command="underline" aria-label="Underline" title="Underline (Ctrl+U)"><u>U</u></button>
+      <button type="button" data-command="strike" aria-label="Strikethrough" title="Strikethrough"><s>S</s></button>
+      <button type="button" data-command="link" aria-label="Insert or edit link" title="Insert or edit link">Link</button>
+      <button type="button" data-command="bulletList" aria-label="Bullet list" title="Bullet list">• List</button>
+      <button type="button" data-command="orderedList" aria-label="Numbered list" title="Numbered list">1. List</button>
+      <button type="button" data-command="blockquote" aria-label="Blockquote" title="Blockquote">Quote</button>
+      <button type="button" data-command="code" aria-label="Inline code" title="Inline code">&lt;/&gt;</button>
+      <button type="button" data-command="codeBlock" aria-label="Code block" title="Code block">Code block</button>
+      <button type="button" data-command="spoiler" aria-label="Spoiler" title="Tap-to-reveal spoiler">Spoiler</button>
+      <button type="button" id="insert-image" aria-label="Insert image" title="Insert an image at the cursor">Image</button>
+      <button type="button" data-command="undo" aria-label="Undo" title="Undo (Ctrl+Z)">↶</button>
+      <button type="button" data-command="redo" aria-label="Redo" title="Redo (Ctrl+Shift+Z)">↷</button>
+    </div>
+    <input id="image-picker" type="file" accept="image/jpeg,image/png,image/webp" hidden>
+    <div id="article-editor" class="article-body"></div>
+    <fieldset id="image-details" class="image-details" hidden>
+      <legend>Selected image</legend>
+      <label for="image-alt">Alt text <span>Describe the image for readers who cannot see it.</span></label>
+      <input id="image-alt" maxlength="1000" autocomplete="off">
+      <label for="image-caption">Caption</label>
+      <input id="image-caption" maxlength="2000" autocomplete="off">
+      <div class="image-actions"><button id="image-up" type="button">Move earlier</button><button id="image-down" type="button">Move later</button><button id="image-remove" type="button">Remove image</button></div>
+    </fieldset>
+    <div class="editor-actions">
+      <div id="save-status" role="status" aria-live="polite">Saved</div>
+      <button id="reload-post" type="button" hidden>Reload saved version</button>
+      <button id="retry-save" type="button" hidden>Retry save</button>
+      <button id="preview-post" type="button">Preview</button>
+      <button id="publish-post" type="button" class="primary-button">Publish</button>
+    </div>
+    <div id="notification-panel" class="operation-panel" aria-live="polite" hidden><p id="notification-status"></p><button id="retry-notification" type="button" hidden>Retry email notification</button></div>
+    <div class="post-management" aria-label="Article management">
+      <button id="archive-post" type="button" hidden>Archive</button>
+      <button id="restore-post" type="button" hidden>Restore to published</button>
+      <button id="delete-post" type="button" class="danger-button">Permanently delete</button>
+    </div>
+    <p class="editor-hint">Changes save automatically. Publish and Update are explicit. You can paste an image or use Image, then select it to edit its caption and alt text.</p>
+  </div>
+</section>
+<dialog id="link-dialog" class="editor-dialog"><form method="dialog"><h2>Edit link</h2><label for="link-url">Web address or site path</label><input id="link-url" type="text" placeholder="https://example.com" autocomplete="off"><p id="link-error" role="alert"></p><div class="dialog-actions"><button value="cancel">Cancel</button><button id="remove-link" type="button">Remove link</button><button id="apply-link" type="button" class="primary-button">Apply link</button></div></form></dialog>
+<dialog id="publish-dialog" class="editor-dialog"><h2 id="publish-confirm-title">Publish this article?</h2><p id="publish-confirm-copy">It will appear on Main and have a public permanent URL.</p><label id="notify-choice" class="checkbox-label"><input id="notify-subscribers" type="checkbox"> <span>Notify email subscribers</span></label><p id="notify-choice-hint" class="editor-hint">Send a short email with this article’s permanent link. You can choose this only on its first publication.</p><div class="dialog-actions"><button id="cancel-publish" type="button">Keep writing</button><button id="confirm-publish" type="button" class="primary-button">Publish</button></div></dialog>
+<dialog id="post-state-dialog" class="editor-dialog"><h2 id="state-confirm-title"></h2><p id="state-confirm-copy"></p><div class="dialog-actions"><button id="cancel-state" type="button">Cancel</button><button id="confirm-state" type="button" class="primary-button"></button></div></dialog>
+<dialog id="delete-dialog" class="editor-dialog"><form id="delete-form"><h2>Permanently delete this article?</h2><p id="delete-post-title" class="confirmation-title"></p><p>The article and its private working copies will be removed. Images used by other articles will stay. This cannot be undone here.</p><label for="delete-confirmation">Type DELETE to confirm</label><input id="delete-confirmation" autocomplete="off" autocapitalize="characters" spellcheck="false" required pattern="DELETE"><div class="dialog-actions"><button id="cancel-delete" type="button">Keep article</button><button id="confirm-delete" type="submit" class="danger-button" disabled>Permanently delete</button></div></form></dialog>
+<dialog id="preview-dialog" class="preview-dialog"><div class="preview-topline"><h2>Private preview</h2><button id="close-preview" type="button">Close preview</button></div><iframe id="preview-frame" title="Private article preview" sandbox="allow-scripts"></iframe></dialog>
+{% endblock %}
+{% block extra_scripts %}
+<script>window.EDITOR_CONFIG = {{ editor_config | tojson }};</script>
+<script src="{{ url_for('editor_js', tab=editor_config.tabToken) }}" defer></script>
+{% endblock %}

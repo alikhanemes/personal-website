@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block title %}{% if post %}{{ post.title }} · {% endif %}Alikhan Zarubay{% endblock %}
+{% block content %}
+{% if post %}
+<article class="article">
+  <header class="article-header">
+    <h1><a href="{{ url_for('article', slug=post.slug) }}">{{ post.title }}</a></h1>
+    {% if post.published_at %}<time class="publication-date" datetime="{{ post.published_at }}">{{ post.date_label }}</time>{% else %}<p class="publication-date">Unpublished draft · Private preview</p>{% endif %}
+  </header>
+  <div class="article-body">{{ body }}</div>
+</article>
+{% else %}
+<section class="empty-state">
+  <h1>Nothing published yet.</h1>
+  <p>The first article will appear here.</p>
+</section>
+{% endif %}
+{% endblock %}

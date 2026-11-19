@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block title %}Posts · Alikhan Zarubay{% endblock %}
+{% block content %}
+<section class="archive">
+  <h1>Posts</h1>
+  {% if posts %}
+  <p class="archive-intro">Earlier writing. Read the latest article on <a href="{{ url_for('main') }}">Main</a>.</p>
+  <ul class="post-list">
+    {% for post in posts %}
+    <li>
+      <a href="{{ url_for('article', slug=post.slug) }}">{{ post.title }}</a>
+      <time class="publication-date" datetime="{{ post.published_at }}">{{ post.date_label }}</time>
+    </li>
+    {% endfor %}
+  </ul>
+  {% else %}
+  <p class="archive-intro">No older articles yet. The latest published article will be on <a href="{{ url_for('main') }}">Main</a>.</p>
+  {% endif %}
+</section>
+{% endblock %}

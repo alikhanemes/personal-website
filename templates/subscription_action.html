@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} · Alikhan Zarubay{% endblock %}
+{% block content %}
+<section class="subscription-page">
+  <h1>{{ title }}</h1>
+  <p>{{ message }}</p>
+  {% if not done %}
+  <form method="post" data-subscription-form>
+    {% if csrf %}<input type="hidden" name="csrf" value="{{ csrf }}">{% endif %}
+    <button type="submit">{{ action }}</button>
+  </form>
+  {% endif %}
+  <p><a href="{{ url_for('main') }}">Back to Main</a></p>
+</section>
+{% endblock %}
+{% block extra_scripts %}<script src="{{ url_for('static', filename='subscriptions.js') }}" defer></script>{% endblock %}
