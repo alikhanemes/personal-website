@@ -124,6 +124,28 @@ class NewsletterTests(unittest.TestCase):
         posts.get_db().commit()
         self.assertFalse(newsletter.confirm(token))
 
+    def test_used_confirmation_page_reports_unsubscribe_without_reactivating(self):
+        confirmation = self.join()
+        client = self.app.test_client()
+        path = '/subscribe/confirm/' + confirmation
+        response = client.get(path)
+        self.assertIn(b'Subscription confirmed', response.data)
+        self.assertNotIn(b'<form', response.data)
+        self.publish()
+        newsletter.process_outbox()
+        unsubscribe = re.search(r'/unsubscribe/([A-Za-z0-9_-]+)', self.calls[-1][0]['text']).group(1)
+        self.assertTrue(newsletter.unsubscribe(unsubscribe))
+        response = client.get(path)
+        self.assertIn(b'You are unsubscribed', response.data)
+        self.assertIn(b'request a new confirmation link', response.data)
+        self.assertNotIn(b'<form', response.data)
+        signup = client.get('/subscribe')
+        csrf = re.search(rb'name="csrf" value="([^"]+)"', signup.data).group(1).decode()
+        response = client.post(path, data={'csrf': csrf})
+        self.assertIn(b'You are unsubscribed', response.data)
+        self.assertNotIn(b'Subscription confirmed', response.data)
+        self.assertIsNotNone(posts.get_db().execute('SELECT unsubscribed_at FROM subscriptions').fetchone()[0])
+
     def test_audience_contains_only_confirmed_addresses_and_notice_is_short(self):
         self.join()
         self.app.config['EMAIL_MODE'] = 'live'

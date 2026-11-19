@@ -1,6 +1,6 @@
 # Phase 3 verification — 19 November 2026
 
-The final Python suite passes **98 tests**, including the existing phase 1/2
+The final Python suite passes **99 tests**, including the existing phase 1/2
 coverage. Seven JavaScript tab-policy tests also pass. The bundled Tiptap editor
 was rebuilt and JavaScript syntax checks pass.
 
@@ -142,9 +142,30 @@ was rejected without creating a subscription. Signed maintenance forgery/replay
 checks still pass. A pre-email snapshot is private at
 `.local-backups/before-newsletter-20261119.zip`.
 
-At this checkpoint, the live first-publication notice and unsubscribe check are
-pending an owner publish from the password-protected editor. Test mode remains
-active until that flow passes.
+The owner published the disposable post **Newsletter check** with Notify checked.
+Exactly one new-post notice arrived in Gmail's Inbox, with the canonical public
+permalink, visible unsubscribe link and RFC 8058 one-click headers. SPF and domain
+DKIM passed; the DKIM signature also covered the unsubscribe headers. Its durable
+send record has one attempt and one provider ID. Running delivery again sent zero,
+and Gmail contained exactly one matching notice. Public one-click unsubscribe
+marked the test recipient unsubscribed. Only the approved test address received
+setup mail. The owner chose to leave the test post published and delete it later.
+After these checks, public signup was enabled in live mode; the test address
+remains unsubscribed until it explicitly signs up again.
+Used confirmation links now report the current state: a consumed link after
+unsubscribe shows an inactive subscription and asks for a new signup, instead of
+claiming confirmation succeeded. A focused HTTP test covers both GET and POST
+without reactivating the address.
+
+The owner's computer still obtained the previous GitHub Pages addresses from its
+router's DNS resolver, even after clearing Windows' cache. Both Google and
+Cloudflare public DNS already returned the correct Worker addresses. The owner
+approved changing only the active Wi-Fi adapter's DNS to 1.1.1.1/1.0.0.1. Original
+automatic settings were saved privately at
+`.local-backups/network-dns-before-change-20261119-230956.json`. After the change,
+Main, editor, signup and the exact original confirmation link all returned HTTP
+200 over valid TLS through normal system DNS. The original article and working
+copy still match the pre-import snapshot exactly.
 No new browser visual check was performed for the
 Cloudflare adapter; it serves the same article CSS verified above. The new
 client-side large-image resizing path has not been exercised on a physical phone.

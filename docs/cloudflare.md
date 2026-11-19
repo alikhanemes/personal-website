@@ -45,8 +45,9 @@ the locked dependencies. Keep `cloudflare/pylock.toml` tracked. Generated
 are ignored. The build uses an explicit source/template/code-asset allowlist;
 it never copies articles, SQLite files, backups, `.env` or admin credentials.
 
-The current configuration opens the verified imported site. Email is in setup
-test mode and accepts only the explicitly approved recipient.
+The current configuration opens the verified imported site and enables live
+email signup after successful delivery, double opt-in and unsubscribe checks.
+All setup messages went only to the explicitly approved test recipient.
 For a new site or migration, first set `BLOG_PUBLIC_ENABLED` to `"false"` and deploy.
 Once the import has been checked, approve its review hold, set it to `"true"`
 and deploy again. Subsequent deploys retain that explicit setting and the same
@@ -166,6 +167,15 @@ The current Wrangler routes attach both the root and `www` hostnames, and
 `BLOG_PUBLIC_BASE_URL` is `https://alikhan-zarubay.com`. For a new account/domain,
 omit those routes until its zone is active and its preview has been verified.
 Do not create a public cache rule for articles, drafts or media.
+
+After cutover, an old recursive DNS cache can still return the previous host even
+when authoritative DNS is correct. Compare `Resolve-DnsName alikhan-zarubay.com
+-Type A` with the same lookup using `-Server 1.1.1.1`. Clearing Windows' DNS cache
+does not clear the router/ISP cache. Wait for its TTL, use another network, or
+explicitly choose an alternate resolver for that device. This is a device/network
+setting, separate from the site's Cloudflare configuration. The owner's approved
+Wi-Fi change and exact rollback commands are private in
+`.local-backups/network-dns-recovery-20261119.txt`.
 
 The original Namecheap DNS used its free email-forwarding MX/SPF records. Keeping
 those records does not keep Namecheap forwarding active after moving to custom

@@ -4,9 +4,9 @@ Flask, Jinja, SQLite, plain CSS, and a bundled Tiptap editor. Python 3.11+ is
 required. Existing data, permalinks, CNAME, Git history, and the old-site backup
 are preserved. Cloudflare hosting keeps the same Flask app and SQLite format.
 See [Cloudflare setup, limits and recovery](docs/cloudflare.md) for the current
-free hosting configuration. Resend is connected; hosted email is currently in
-test mode, restricted to the owner's approved test address while verification
-is completed.
+free hosting configuration. Resend is connected and public email signup is
+enabled with double opt-in. New-post notices require the editor's explicit
+Notify email subscribers choice.
 
 Live site: https://alikhan-zarubay.com · Private editor:
 https://alikhan-zarubay.com/shygarma. Use the hosted editor for live articles;

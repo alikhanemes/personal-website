@@ -32,13 +32,23 @@ def register_subscriptions(app):
 
     @app.route('/subscribe/confirm/<token>', methods=['GET', 'POST'])
     def confirm_subscription(token):
-        if newsletter.token_info(token, 'confirm') is None:
+        info = newsletter.token_info(token, 'confirm')
+        if info is None:
             abort(404)
         form_csrf = csrf()
         if request.method == 'POST':
             auth.check_csrf()
-            if not newsletter.confirm(token):
-                abort(404)
+            if not info['used_at']:
+                if not newsletter.confirm(token):
+                    abort(404)
+                info = newsletter.token_info(token, 'confirm')
+                if info is None:
+                    abort(404)
+        if info['used_at']:
+            if info['unsubscribed_at']:
+                return render_template('subscription_action.html', active=None, done=True,
+                                       title='You are unsubscribed',
+                                       message='This confirmation link has already been used. To join again, use Subscribe by email to request a new confirmation link.')
             return render_template('subscription_action.html', active=None, done=True,
                                    title='Subscription confirmed', message='You will receive a short email when a new article is published.')
         return render_template('subscription_action.html', active=None, csrf=form_csrf,
