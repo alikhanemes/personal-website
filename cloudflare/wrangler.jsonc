@@ -15,7 +15,7 @@
     "bindings": [{"name": "BLOG", "class_name": "Blog"}]
   },
   "migrations": [{"tag": "v1", "new_sqlite_classes": ["Blog"]}],
-  "triggers": {"crons": ["*/5 * * * *"]},
+  "triggers": {"crons": ["* * * * *"]},
   "observability": {"enabled": false},
   "vars": {
     "BLOG_ENV": "production",

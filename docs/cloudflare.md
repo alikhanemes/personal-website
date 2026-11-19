@@ -119,7 +119,7 @@ every image. Local Flask keeps its original 24-megapixel limit.
 
 The Workers Free and SQLite Durable Object quotas stop operations at their limits.
 See [Cloudflare's pricing](https://developers.cloudflare.com/durable-objects/platform/pricing/).
-Email uses the existing outbox through a five-minute Cloudflare Cron trigger;
+Email uses the existing outbox through a one-minute Cloudflare Cron trigger;
 there are no background threads or paid background services.
 
 ## Back up and restore
@@ -212,7 +212,7 @@ subscribers require a delivery/quota review, not an automatic paid upgrade.
 See [Resend's pricing](https://resend.com/pricing). The confirmed audience remains
 in SQLite; the app supplies visible and one-click unsubscribe links.
 
-The five-minute Cron processes queued messages. To process one immediately or
+The one-minute Cron processes queued messages. To process one immediately or
 inspect safe configuration metadata through the signed administration channel:
 
 ```powershell

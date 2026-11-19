@@ -80,7 +80,7 @@ Setup email is restricted to the explicitly approved test address configured in
 the host's `BLOG_EMAIL_TEST_ADDRESS` setting. Confirmed subscribers are stored in SQLite; Resend
 delivers notices. The durable outbox retries with stable provider keys and stops
 ambiguous late retries for review. Provider failure never blocks publication.
-Cloudflare processes the queue every five minutes; its signed `process-email`
+Cloudflare processes the queue every minute; its signed `process-email`
 command processes one job immediately (see the hosting guide). The local wsgi
 entry point runs the in-process email/cleanup loop; local manual processing:
 
