@@ -1,16 +1,14 @@
-# Render and Resend setup
+# Alternative Render and Resend setup
 
 ## Current handover state
 
-The local implementation and deployment configuration are prepared. A hosted
-preview, DNS cutover, real Resend delivery, redeploy persistence, and physical
-phone sign-in have not been verified. The GitHub CLI token is invalid; Render
-account/billing access and a Resend API key are unavailable in this session.
-Namecheap DNS access is also required. No credentials belong in Git or chat.
+The active zero-cost hosting setup is documented in [Cloudflare](cloudflare.md).
+GitHub authentication was repaired and the blog was pushed to `main`. The Render
+instructions below are retained as an alternative requiring a paid persistent
+disk; do not use them for the current free deployment. No provider credentials
+belong in Git or chat. Real Resend delivery still needs external verification;
+the owner confirmed phone sign-in on the hosted Cloudflare preview.
 
-Required owner actions: sign in to GitHub again (`gh auth login`), connect the
-repository to Render with a paid service/disk, supply Resend credentials through
-Render’s Environment settings, and sign in to Namecheap for the final DNS changes.
 The existing remote is `https://github.com/alikhanemes/personal-website.git`.
 Nothing here changes unrelated DNS/mail records or the existing `CNAME` file.
 

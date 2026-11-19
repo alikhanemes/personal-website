@@ -53,7 +53,7 @@ def create_app(test_config=None):
         app.config.update(test_config)
     if app.config['PRODUCTION']:
         app.config['COOKIE_SECURE'] = True
-        # Render terminates HTTPS at its proxy. Run this service only behind it.
+        # The production host terminates HTTPS at its trusted proxy.
         app.wsgi_app = ProxyFix(app.wsgi_app, x_for=1, x_proto=1, x_host=0, x_port=0)
     data_dir = Path(app.config["DATA_DIR"]).expanduser()
     if not data_dir.is_absolute():
@@ -81,7 +81,7 @@ def create_app(test_config=None):
         if (data_dir / 'restore-review-required.json').exists():
             return render_template('unavailable.html', message='A restored backup is awaiting private review.'), 503
         # A new deployment stays closed until its private data has been checked.
-        # Admin setup and review are possible through the Render shell.
+        # Admin setup and review use the host's private management flow.
         if not app.config['PUBLIC_ENABLED']:
             return render_template('unavailable.html', message='The site is being prepared.'), 503
         if operations.production_samples_present():

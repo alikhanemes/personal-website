@@ -39,9 +39,13 @@ no automatic expiry and remain until you remove them from private storage. Keep
 backups encrypted, access restricted, and outside public directories/Git; choose
 a retention period and manually remove obsolete copies when no longer needed.
 Deleting an article does not rewrite existing backups or force-purge provider
-snapshots. Render currently documents daily disk snapshots retained for seven
-days; its [disk documentation](https://render.com/docs/disks) is the source for
-the current policy. Use the application’s SQLite-native backup for recovery.
+snapshots. The current Cloudflare SQLite storage has provider point-in-time
+recovery covering up to 30 days; see its [storage documentation](https://developers.cloudflare.com/durable-objects/api/sqlite-storage-api/).
+Use the application's verified backup/held restore for recovery. Close public
+access before any raw provider rollback and preserve the newest deletion ledger
+outside that rollback target. [Cloudflare recovery commands](cloudflare.md)
+describe the current procedure. The alternative Render host documents seven days
+of disk snapshots in its [disk documentation](https://render.com/docs/disks).
 
 ## Make a verified backup locally
 

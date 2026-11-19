@@ -351,6 +351,28 @@ async function newPost() {
   finally { busy = false; $('#new-post').disabled = false; if (current) updateMeta(); }
 }
 
+async function prepareImage(file) {
+  const limit = config.maxImagePixels;
+  if (!limit || !window.createImageBitmap) return file;
+  if (file.size > 32 * 1024 * 1024) throw new Error('Choose an image smaller than 32 MB.');
+  const bitmap = await createImageBitmap(file, { imageOrientation: 'from-image' });
+  try {
+    if (bitmap.width * bitmap.height <= limit) return file;
+    const scale = Math.sqrt(limit / (bitmap.width * bitmap.height));
+    const canvas = document.createElement('canvas');
+    canvas.width = Math.max(1, Math.floor(bitmap.width * scale));
+    canvas.height = Math.max(1, Math.floor(bitmap.height * scale));
+    const context = canvas.getContext('2d');
+    if (!context) throw new Error('This browser could not resize the image. Try a smaller copy.');
+    context.drawImage(bitmap, 0, 0, canvas.width, canvas.height);
+    const blob = await new Promise((resolve) => canvas.toBlob(resolve, file.type, 0.88));
+    if (!blob) throw new Error('This browser could not prepare the image. Try a smaller copy.');
+    return new File([blob], file.name || 'clipboard-image.png', { type: blob.type });
+  } finally {
+    bitmap.close();
+  }
+}
+
 async function uploadImages(files) {
   if (!current || busy) return;
   busy = true;
@@ -362,10 +384,11 @@ async function uploadImages(files) {
   try {
     for (const file of files) {
       if (!['image/png', 'image/jpeg', 'image/webp'].includes(file.type)) throw new Error('Choose a PNG, JPEG, or WebP image.');
-      if (file.size > (config.maxImageBytes || 10 * 1024 * 1024)) throw new Error('That image is too large. Choose an image smaller than 10 MB.');
+      const prepared = await prepareImage(file);
+      if (prepared.size > (config.maxImageBytes || 8 * 1024 * 1024)) throw new Error('That image is too large. Choose an image smaller than 8 MiB.');
       status('Uploading image…');
       const data = new FormData();
-      data.append('file', file, file.name || 'clipboard-image.png');
+      data.append('file', prepared, prepared.name || 'clipboard-image.png');
       const result = await json('/uploads', { method: 'POST', body: data });
       const id = result.id || result.uploadId || result.upload?.id;
       if (!id) throw new Error('The server did not return an image ID.');

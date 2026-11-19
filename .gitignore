@@ -22,3 +22,11 @@ instance/
 .qa/
 node_modules/
 admin.json
+
+# Cloudflare build outputs and local runtime/secret state
+.wrangler/
+.venv-workers/
+python_modules/
+cloudflare/src/
+cloudflare/.dev.vars*
+cloudflare/.env*

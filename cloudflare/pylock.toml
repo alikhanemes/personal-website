@@ -1,0 +1,56 @@
+lock-version = "1.0"
+created-by = "uv"
+requires-python = ">=3.14.2"
+
+[[packages]]
+name = "blinker"
+version = "1.9.0"
+wheels = [{ url = "https://files.pythonhosted.org/packages/10/cb/f2ad4230dc2eb1a74edf38f1a38b9b52277f75bef262d8908e60d957e13c/blinker-1.9.0-py3-none-any.whl", upload-time = 2024-11-08T17:25:46Z, size = 8458, hashes = { sha256 = "ba0efaa9080b619ff2f3459d1d500c57bddea4a6b424b60a91141db6fd2f08bc" } }]
+
+[[packages]]
+name = "click"
+version = "8.5.1"
+wheels = [{ url = "https://files.pythonhosted.org/packages/31/7d/164b7ffc8624fe9efb4221bf9af485d5c1e41b9ae118045d2b6dc5457d8b/click-8.5.1-py3-none-any.whl", upload-time = 2026-11-06T17:36:59Z, size = 126163, hashes = { sha256 = "8bb5376d2006950386f8c6427613334a2acadc5f559cb80e638d00b4df957e37" } }]
+
+[[packages]]
+name = "flask"
+version = "3.1.2"
+wheels = [{ url = "https://files.pythonhosted.org/packages/ec/f9/7f9263c5695f4bd0023734af91bedb2ff8209e8de6ead162f35d8dc762fd/flask-3.1.2-py3-none-any.whl", upload-time = 2025-08-19T21:03:19Z, size = 103308, hashes = { sha256 = "ca1d8112ec8a6158cc29ea4858963350011b5c846a414cdb7a954aa9e967d03c" } }]
+
+[[packages]]
+name = "itsdangerous"
+version = "2.2.0"
+wheels = [{ url = "https://files.pythonhosted.org/packages/04/96/92447566d16df59b2a776c0fb82dbc4d9e07cd95062562af01e408583fc4/itsdangerous-2.2.0-py3-none-any.whl", upload-time = 2024-04-16T21:28:14Z, size = 16234, hashes = { sha256 = "c6242fc49e35958c8b15141343aa660db5fc54d4f13a1db01a3f5891b98700ef" } }]
+
+[[packages]]
+name = "jinja2"
+version = "3.1.6"
+wheels = [
+    { url = "https://cdn.jsdelivr.net/pyodide/v314.0.7/full/jinja2-3.1.6-py3-none-any.whl", hashes = { sha256 = "9330ec9cf2241fb8fc352928ea5e72016bf82de1d3d3b71ffea52a093a3ebab8" } },
+    { url = "https://files.pythonhosted.org/packages/62/a1/3d680cbfd5f4b8f15abc1d571870c5fc3e594bb582bc3b64ea099db13e56/jinja2-3.1.6-py3-none-any.whl", hashes = { sha256 = "85ece4451f492d0c13c5dd7c13a64681a86afae63a5f347908daf103ce6d2f67" } },
+]
+
+[[packages]]
+name = "markupsafe"
+version = "3.0.3"
+wheels = [{ url = "https://cdn.jsdelivr.net/pyodide/v314.0.7/full/markupsafe-3.0.3-cp314-cp314-pyemscripten_2026_0_wasm32.whl", hashes = { sha256 = "b44c364dc0d19e4210ce68ab77833c2b5d608f78fe6966263add4fc1fa667d97" } }]
+
+[[packages]]
+name = "pillow"
+version = "12.2.0"
+wheels = [{ url = "https://cdn.jsdelivr.net/pyodide/v314.0.7/full/pillow-12.2.0-cp314-cp314-pyemscripten_2026_0_wasm32.whl", hashes = { sha256 = "e29838b7a756e4ee0f27a9cfa9a387ee0dfa2e9dd44be2dd595130b9f9d93ac3" } }]
+
+[[packages]]
+name = "pycryptodome"
+version = "3.23.0"
+wheels = [{ url = "https://cdn.jsdelivr.net/pyodide/v314.0.7/full/pycryptodome-3.23.0-cp37-abi3-pyemscripten_2026_0_wasm32.whl", hashes = { sha256 = "67b86abb0de02dceebf422d10fc6e0e3754aea08626d1957e6fe69b75cbf644d" } }]
+
+[[packages]]
+name = "werkzeug"
+version = "3.1.9"
+wheels = [{ url = "https://files.pythonhosted.org/packages/a1/38/df03f564f43cec2684823f3cccae1a652ee7face1cbaa76fb223096e64d7/werkzeug-3.1.9-py3-none-any.whl", upload-time = 2026-09-27T18:33:39Z, size = 228700, hashes = { sha256 = "6392e50c78460ba618e5b21f08a71f59c99ce99cdc6cf6e3dd7e6ccca8754fab" } }]
+
+[[packages]]
+name = "workers-runtime-sdk"
+version = "1.9.6"
+wheels = [{ url = "https://files.pythonhosted.org/packages/58/e4/fffa3f6b3eb91b34dcc06f0b9de016cb90c156ae2a2e944054b02618e981/workers_runtime_sdk-1.9.6-py3-none-any.whl", upload-time = 2026-11-04T07:04:34Z, size = 41483, hashes = { sha256 = "f343880a9c1380dd9b340808df93d584ff3c77428f932e14f4a23c36b7bd1bdc" } }]

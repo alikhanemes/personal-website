@@ -2,8 +2,13 @@
 
 Flask, Jinja, SQLite, plain CSS, and a bundled Tiptap editor. Python 3.11+ is
 required. Existing data, permalinks, CNAME, Git history, and the old-site backup
-are preserved. Deployment files are prepared; a hosted deployment and real email
-delivery must be verified before domain cutover.
+are preserved. Cloudflare hosting keeps the same Flask app and SQLite format.
+See [Cloudflare setup, limits and recovery](docs/cloudflare.md) for the current
+free hosting configuration; real email delivery requires separate Resend setup.
+
+Live site: https://alikhan-zarubay.com · Private editor:
+https://alikhan-zarubay.com/shygarma. Use the hosted editor for live articles;
+the local database is a separate copy and changes do not synchronize automatically.
 
 ## Run locally in Windows PowerShell
 
@@ -49,7 +54,9 @@ See [deletion and backup rules](docs/deletion-and-backups.md).
 The toolbar supports rich text, lists, quotes, code, spoilers, undo/redo, and
 images with captions/alt text. Paste an image or use Image, then select it to move
 or edit it. PNG/JPEG/WebP uploads are validated and re-encoded; maximum 8 MiB and
-24 megapixels. Draft/archived images stay private unless another public article
+24 megapixels locally. Hosted images are resized to at most 4 megapixels and the
+initial free adapter has a 16 MiB total image budget; see the hosting limits.
+Draft/archived images stay private unless another public article
 references them.
 
 Sessions expire after 12 hours, are revocable, and use HttpOnly cookies. Private
@@ -61,7 +68,8 @@ include browser recovery differences.
 
 ## Email, hosting, and recovery
 
-- [Render, Resend, private import, domain cutover, and rollback](docs/deployment.md)
+- [Cloudflare, private import, domain cutover, backups and rollback](docs/cloudflare.md)
+- [Alternative Render and Resend reference](docs/deployment.md)
 - [Backups, held restores, deletion retention, and search removal](docs/deletion-and-backups.md)
 - [Tiptap document format](docs/body-format.md)
 - [Phase 3 verification and remaining external checks](docs/verification-phase3.md)

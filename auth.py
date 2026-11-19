@@ -133,7 +133,8 @@ def login(password, binding):
         return response, 429
     db.execute("INSERT INTO login_attempts VALUES (?,?)", (address, now))
     db.commit()
-    if not isinstance(password, str) or len(password) > 1024 or not check_password_hash(password_hash, password):
+    checker = current_app.config.get('PASSWORD_CHECKER', check_password_hash)
+    if not isinstance(password, str) or len(password) > 1024 or not checker(password_hash, password):
         return jsonify(error="Password was not accepted."), 401
     if not g.admin_session["authenticated"]:
         previous = g.admin_session["token_hash"]

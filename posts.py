@@ -17,9 +17,11 @@ class EditConflict(Exception):
 
 def get_db():
     if "db" not in g:
-        g.db = sqlite3.connect(current_app.config["DATABASE"])
+        factory = current_app.config.get("DATABASE_FACTORY", sqlite3.connect)
+        g.db = factory(current_app.config["DATABASE"])
         g.db.row_factory = sqlite3.Row
         g.db.execute("PRAGMA foreign_keys = ON")
+        g.db.execute("PRAGMA secure_delete = ON")
     return g.db
 
 

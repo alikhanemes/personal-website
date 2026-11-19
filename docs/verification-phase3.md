@@ -1,6 +1,6 @@
 # Phase 3 verification — 19 November 2026
 
-The final Python suite passes **90 tests**, including the existing phase 1/2
+The final Python suite passes **98 tests**, including the existing phase 1/2
 coverage. Seven JavaScript tab-policy tests also pass. The bundled Tiptap editor
 was rebuilt and JavaScript syntax checks pass.
 
@@ -85,10 +85,56 @@ A new verified application-data backup is `.local-backups/phase3-ready-20261119/
 The normal local preview is `http://127.0.0.1:5000/`; the editor is `/shygarma`.
 Real email is disabled locally. Temporary QA service/tabs were closed afterward.
 
-Render and Resend dashboards require sign-in, no API credentials are configured,
-and GitHub CLI authentication is invalid. No deployment, billing purchase, DNS
-change, Git push, or real email was performed. Therefore hosted preview, Resend
-domain/delivery verification, Render Blueprint/platform validation, mounted-disk
-redeploy persistence, custom-domain TLS, and actual phone HTTPS sign-in remain
-unverified. Actual browser Duplicate Tab/recovery behavior retains the limits
-documented in `verification.md`. Follow `deployment.md` before domain cutover.
+## Cloudflare hosting verification
+
+GitHub authentication now works. The hosting target changed to Cloudflare Workers
+Free with a SQLite-backed Durable Object; Render is only an alternative reference.
+No paid upgrade, R2 subscription or billing purchase was made. Email remains
+disabled and no real email has been sent.
+
+A separate disposable hosted Worker exercised sign-in with the same one-million-
+iteration password verifier, CSRF, private draft reads, spoiler rendering and PNG
+upload. Two complete deployments retained an existing session/tab unlock, saved
+draft body and private image. HTTP workflow checks then published the post,
+verified Main/Posts/permalink behavior, rejected a stale autosave, explicitly
+updated a published post while preserving date/URL, and exercised two posts sharing
+one image. Archiving both made the image private; restoring reused its original
+publication date without notification. Deleting one reference retained the image;
+deleting the final reference removed it and returned ordinary uncached 404s.
+All disposable posts were deleted afterward.
+
+Eight storage tests cover recovery from a fresh Object, changed chunk writes,
+atomic database/image changes, failed durable saves, transaction rollback,
+review/deletion sidecars and application storage limits. Hosted maintenance tests
+accepted a valid signed request and rejected replays, stale signatures, modified
+bodies, browser Origins and GET requests.
+
+The real article and private working copy were imported privately, downloaded
+again, and compared exactly to the source snapshot, including slug and publication
+date. SQLite integrity and foreign keys passed. Samples were removed only from
+the production copy; the original local database and old-site backup remain.
+New private snapshots are under `.local-backups/before-cloudflare-20261119/` and
+`.local-backups/cloudflare-import-20261119/`.
+
+The opened production preview passed read-only checks: Main and the permanent
+article contain the complete imported body and original timestamp, Posts excludes
+Main, samples/missing articles return 404, and signed-out private routes return
+401. Public HTML contains no editor bundle or Write post link. The sign-in cookie
+is Secure, HttpOnly and SameSite=Strict; article/media errors are uncached.
+
+The owner confirmed successful phone sign-in over HTTPS on the hosted preview.
+Custom-domain sign-in has a separate cookie and needs a first sign-in there.
+The custom domain is attached to the Worker and its certificate validates.
+Public DNS points to Cloudflare; the existing five MX records and SPF TXT are
+unchanged. `www` returns a 308 redirect preserving the article path and query.
+An old local DNS cache initially returned GitHub Pages; checking the new public
+Cloudflare address with the real hostname and ordinary TLS validation succeeds.
+The complete production HTTP checks also passed against the custom domain:
+full imported article, original permalink/date, sample/missing 404s, private-route
+401s, editor password gate, secure cookie flags and no-store response headers.
+Real Resend delivery remains unverified; the owner chose to keep email disabled.
+No new browser visual check was performed for the
+Cloudflare adapter; it serves the same article CSS verified above. The new
+client-side large-image resizing path has not been exercised on a physical phone.
+Actual Duplicate Tab/recovery behavior retains the limits in `verification.md`.
+Follow `cloudflare.md` for current deployment and recovery commands.

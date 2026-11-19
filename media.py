@@ -62,8 +62,9 @@ def save_upload(file):
                 image_format = probe.format
                 if image_format not in _FORMATS:
                     raise ValueError("Use a PNG, JPEG, or WebP image. SVG and animated images are not supported.")
-                if probe.width * probe.height > MAX_IMAGE_PIXELS:
-                    raise ValueError("Images must contain at most 24 megapixels.")
+                pixel_limit = current_app.config.get("MAX_IMAGE_PIXELS", MAX_IMAGE_PIXELS)
+                if probe.width * probe.height > pixel_limit:
+                    raise ValueError(f"Images must contain at most {pixel_limit / 1_000_000:g} megapixels.")
                 if getattr(probe, "n_frames", 1) != 1:
                     raise ValueError("Animated images are not supported.")
                 probe.verify()
@@ -95,6 +96,9 @@ def save_upload(file):
         output.write(clean)
     db = get_db()
     try:
+        staged = current_app.config.get("UPLOAD_STAGE")
+        if staged:
+            staged(filename, clean)
         db.execute("INSERT INTO uploads (id, filename, mime_type, width, height, size) VALUES (?, ?, ?, ?, ?, ?)",
                    (upload_id, filename, mime_type, width, height, len(clean)))
         db.commit()
@@ -119,6 +123,9 @@ def get_upload(upload_id):
     if not re.fullmatch(rf"{upload_id}\.(?:png|jpg|webp)", upload["filename"]):
         return None
     path = _upload_dir() / upload["filename"]
+    hydrate = current_app.config.get("UPLOAD_HYDRATE")
+    if hydrate:
+        hydrate(upload["filename"], path)
     if not path.is_file():
         return None
     upload["path"] = str(path)
@@ -191,6 +198,9 @@ def cleanup_media():
             if not re.fullmatch(r"[0-9a-f]{32}", upload_id) or not re.fullmatch(rf"{upload_id}\.(?:png|jpg|webp)", job["filename"]):
                 raise ValueError("Invalid stored media filename; manual review is required.")
             (_upload_dir() / job["filename"]).unlink(missing_ok=True)
+            staged = current_app.config.get("UPLOAD_STAGE")
+            if staged:
+                staged(job["filename"], None)
             db.execute("DELETE FROM uploads WHERE id = ?", (upload_id,))
             db.commit()
             removed += 1

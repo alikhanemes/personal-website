@@ -1,0 +1,26 @@
+{
+  "$schema": "../node_modules/wrangler/config-schema.json",
+  "name": "alikhan-blog",
+  "account_id": "baee2a2360b4fb3172ef63a5fb0fa76e",
+  "main": "src/worker.py",
+  "compatibility_date": "2026-11-19",
+  "compatibility_flags": ["python_workers"],
+  "workers_dev": true,
+  "preview_urls": false,
+  "routes": [
+    {"pattern": "alikhan-zarubay.com", "custom_domain": true, "zone_id": "f3c6e8465a598e3586bbde09b1eac1f6"},
+    {"pattern": "www.alikhan-zarubay.com", "custom_domain": true, "zone_id": "f3c6e8465a598e3586bbde09b1eac1f6"}
+  ],
+  "durable_objects": {
+    "bindings": [{"name": "BLOG", "class_name": "Blog"}]
+  },
+  "migrations": [{"tag": "v1", "new_sqlite_classes": ["Blog"]}],
+  "triggers": {"crons": ["*/5 * * * *"]},
+  "observability": {"enabled": false},
+  "vars": {
+    "BLOG_ENV": "production",
+    "BLOG_PUBLIC_ENABLED": "true",
+    "BLOG_EMAIL_MODE": "disabled",
+    "BLOG_PUBLIC_BASE_URL": "https://alikhan-zarubay.com"
+  }
+}

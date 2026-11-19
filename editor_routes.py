@@ -82,7 +82,8 @@ def register_editor(app):
     @auth.private
     def editor_workspace():
         config = dict(csrf=g.admin_session['csrf'], tabToken=auth.tab_id(), apiBase='/shygarma/api',
-                      post=None, posts=posts.editor_list_posts())
+                      post=None, posts=posts.editor_list_posts(), maxImageBytes=media.MAX_UPLOAD_BYTES,
+                      maxImagePixels=app.config.get('MAX_IMAGE_PIXELS', media.MAX_IMAGE_PIXELS))
         return render_template('editor.html', editor_config=config, active=None, auth_bridge=True)
 
     @app.get('/shygarma/assets/editor.js')
