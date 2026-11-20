@@ -6,10 +6,8 @@
   window.__blogThemeEvents = events;
   const options = {signal: events.signal};
   const root = document.documentElement;
-  const system = window.matchMedia('(prefers-color-scheme: dark)');
   const valid = value => value === 'dark' || value === 'light';
   let preference;
-  let parentTheme = false;
   try { preference = localStorage.getItem('blog-theme'); } catch { /* Storage may be unavailable in a preview or private browser. */ }
 
   const preview = () => document.getElementById('preview-frame')?.contentWindow;
@@ -31,26 +29,22 @@
     apply(theme, true);
     if (window.parent !== window) window.parent.postMessage({type: 'blog-theme-change', theme}, '*');
   }
-  apply(valid(preference) ? preference : system.matches ? 'dark' : 'light');
+  apply(valid(preference) ? preference : 'light');
   document.addEventListener('DOMContentLoaded', () => apply(root.dataset.theme), options);
   document.addEventListener('click', event => {
     if (event.target instanceof Element && event.target.closest('[data-theme-toggle]')) {
       choose(root.dataset.theme === 'dark' ? 'light' : 'dark');
     }
   }, options);
-  system.addEventListener('change', () => {
-    if (!valid(preference) && !parentTheme) apply(system.matches ? 'dark' : 'light', true);
-  }, options);
   window.addEventListener('storage', event => {
     if (event.key !== 'blog-theme' && event.key !== null) return;
     preference = event.newValue;
-    apply(valid(preference) ? preference : system.matches ? 'dark' : 'light', true);
+    apply(valid(preference) ? preference : 'light', true);
   }, options);
   // A sandboxed private preview cannot read localStorage. Exchange only the
   // theme with that specific frame; no article or account data crosses here.
   window.addEventListener('message', event => {
     if (window.parent !== window && event.source === window.parent && event.data?.type === 'blog-theme-sync' && valid(event.data.theme)) {
-      parentTheme = true;
       apply(event.data.theme, root.dataset.theme !== event.data.theme);
     } else if (preview() && event.source === preview()) {
       if (event.data?.type === 'blog-theme-request') syncPreview();

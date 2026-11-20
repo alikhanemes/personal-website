@@ -12,8 +12,8 @@ Live site: https://alikhan-zarubay.com · Private editor:
 https://alikhan-zarubay.com/shygarma. Use the hosted editor for live articles;
 the local database is a separate copy and changes do not synchronize automatically.
 
-The upper-right sun/moon toggle switches between light and dark themes. It follows
-the device theme until a choice is saved in this browser, syncs across tabs, and
+The upper-right sun/moon toggle switches between light and dark themes. Light is
+the default until a choice is saved in this browser. The choice syncs across tabs and
 respects reduced motion. Private previews use the editor's selected theme.
 
 ## Run locally in Windows PowerShell
